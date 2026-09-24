@@ -1,0 +1,2617 @@
+[
+  {
+    "id": "trapezoidal_rule",
+    "name": "梯形法则",
+    "nameEn": "Trapezoidal rule",
+    "wikiEn": "Trapezoidal rule",
+    "aliases": [
+      "梯形公式",
+      "梯形积分法",
+      "Trapezoid rule",
+      "弦线求积"
+    ],
+    "year": -350,
+    "era": "antiquity",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "simpson_rule",
+      "newton_cotes_formulas"
+    ],
+    "desc": "以梯形面积之和近似定积分，公元前巴比伦天文学已用于计算木星位移。"
+  },
+  {
+    "id": "newton_divided_differences",
+    "name": "牛顿差商插值",
+    "nameEn": "Divided differences",
+    "wikiEn": "Divided differences",
+    "aliases": [
+      "差商",
+      "均差插值",
+      "牛顿插值多项式",
+      "Newton interpolation"
+    ],
+    "year": 1675,
+    "era": "renaissance",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "lagrange_interpolation",
+      "newton_cotes_formulas",
+      "hermite_interpolation"
+    ],
+    "desc": "牛顿以逐阶差商构造插值多项式，增减节点可递推更新，是差分表方法的基础。"
+  },
+  {
+    "id": "newton_cotes_formulas",
+    "name": "牛顿-科茨公式",
+    "nameEn": "Newton–Cotes formulas",
+    "wikiEn": "Newton–Cotes formulas",
+    "aliases": [
+      "牛顿科茨公式",
+      "科茨公式",
+      "等距节点求积",
+      "Newton-Cotes"
+    ],
+    "year": 1687,
+    "era": "renaissance",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "newton_divided_differences"
+    ],
+    "related": [
+      "trapezoidal_rule",
+      "simpson_rule",
+      "gaussian_quadrature"
+    ],
+    "desc": "等距节点上以插值多项式导出的求积公式族，梯形与辛普森法则皆为其低阶成员。"
+  },
+  {
+    "id": "simpson_rule",
+    "name": "辛普森法则",
+    "nameEn": "Simpson's rule",
+    "wikiEn": "Simpson's rule",
+    "aliases": [
+      "辛普森积分",
+      "辛普森公式",
+      "抛物线公式",
+      "Kepler formula"
+    ],
+    "year": 1743,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "newton_cotes_formulas"
+    ],
+    "related": [
+      "gaussian_quadrature",
+      "romberg_integration"
+    ],
+    "desc": "以二次抛物线逼近曲线的数值积分法，辛普森1743年发表，开普勒更早用于酒桶体积。"
+  },
+  {
+    "id": "spherical_harmonics",
+    "name": "球谐函数",
+    "nameEn": "Spherical harmonics",
+    "wikiEn": "Spherical harmonics",
+    "aliases": [
+      "球面调和函数",
+      "球函数",
+      "拉普拉斯球谐",
+      "spherical harmonics"
+    ],
+    "year": 1782,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "laplace_equation"
+    ],
+    "related": [
+      "legendre_polynomials",
+      "curvilinear_coordinates",
+      "fast_multipole_method"
+    ],
+    "desc": "球面上拉普拉斯方程的角向解族，拉普拉斯1782年引入，用于引力与量子力学。"
+  },
+  {
+    "id": "verlet_leapfrog",
+    "name": "Verlet积分与蛙跳法",
+    "nameEn": "Verlet integration",
+    "wikiEn": "Verlet integration",
+    "aliases": [
+      "韦尔莱积分",
+      "蛙跳法",
+      "跳点法",
+      "Størmer method"
+    ],
+    "year": 1791,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "euler_method"
+    ],
+    "related": [
+      "symplectic_integrator",
+      "runge_kutta_methods",
+      "newmark_beta_method"
+    ],
+    "desc": "时间可逆的二阶粒子轨道积分格式，1791年首用，现为分子动力学标准算法。"
+  },
+  {
+    "id": "lagrange_interpolation",
+    "name": "拉格朗日插值",
+    "nameEn": "Lagrange polynomial",
+    "wikiEn": "Lagrange polynomial",
+    "aliases": [
+      "拉格朗日多项式",
+      "Lagrange interpolation",
+      "华林插值",
+      "Waring interpolation"
+    ],
+    "year": 1795,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "newton_divided_differences"
+    ],
+    "related": [
+      "hermite_interpolation",
+      "runge_phenomenon",
+      "radial_basis_functions"
+    ],
+    "desc": "华林1779年发现、拉格朗日1795年发表的插值多项式，基函数组合过全部节点。"
+  },
+  {
+    "id": "gaussian_quadrature",
+    "name": "高斯求积",
+    "nameEn": "Gaussian quadrature",
+    "wikiEn": "Gaussian quadrature",
+    "aliases": [
+      "高斯积分公式",
+      "高斯-勒让德求积",
+      "Gauss-Legendre quadrature",
+      "最优节点求积"
+    ],
+    "year": 1814,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "lagrange_interpolation",
+      "legendre_polynomials"
+    ],
+    "related": [
+      "newton_cotes_formulas",
+      "clenshaw_curtis_quadrature"
+    ],
+    "desc": "高斯1814年提出的最优节点求积法，n点可精确积分至2n-1次多项式。"
+  },
+  {
+    "id": "linear_elasticity_math",
+    "name": "线弹性理论",
+    "nameEn": "Linear elasticity",
+    "wikiEn": "Linear elasticity",
+    "aliases": [
+      "弹性力学",
+      "柯西弹性理论",
+      "广义胡克定律",
+      "Cauchy elasticity"
+    ],
+    "year": 1822,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "youngs_modulus"
+    ],
+    "related": [
+      "plate_shell_theory",
+      "vector_calculus",
+      "finite_element_method"
+    ],
+    "desc": "柯西1822年以应力张量与应变张量建立的小变形弹性理论，是胡克定律的多维推广。"
+  },
+  {
+    "id": "dimensional_analysis",
+    "name": "量纲分析",
+    "nameEn": "Dimensional analysis",
+    "wikiEn": "Dimensional analysis",
+    "aliases": [
+      "因次分析",
+      "维度分析",
+      "dimensional homogeneity",
+      "傅里叶量纲原理"
+    ],
+    "year": 1822,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "buckingham_pi_theorem",
+      "reynolds_number"
+    ],
+    "desc": "傅里叶1822年提出的物理量齐次性分析方法，用量纲组合检验公式、指导实验。"
+  },
+  {
+    "id": "inverse_problem",
+    "name": "反问题",
+    "nameEn": "Inverse problem",
+    "wikiEn": "Inverse problem",
+    "aliases": [
+      "逆问题",
+      "数学物理反问题",
+      "阿贝尔反问题",
+      "inverse problems"
+    ],
+    "year": 1826,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "tikhonov_regularization",
+      "radon_transform",
+      "filtered_backprojection"
+    ],
+    "desc": "由观测结果反推模型参数的问题，始于1826年阿贝尔积分方程，普遍不适定需正则化。"
+  },
+  {
+    "id": "convolution_math",
+    "name": "卷积",
+    "nameEn": "Convolution",
+    "wikiEn": "Convolution",
+    "aliases": [
+      "褶积",
+      "卷积积分",
+      "杜哈梅积分",
+      "Duhamel integral"
+    ],
+    "year": 1834,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "fourier_analysis"
+    ],
+    "related": [
+      "laplace_transform",
+      "stft_gabor",
+      "z_transform",
+      "matched_filter"
+    ],
+    "desc": "两函数滑动加权叠加的积分运算，杜哈梅1830年代用于线性系统响应，是滤波的核心。"
+  },
+  {
+    "id": "jacobi_iteration",
+    "name": "雅可比迭代法",
+    "nameEn": "Jacobi method",
+    "wikiEn": "Jacobi method",
+    "aliases": [
+      "雅可比法",
+      "同步迭代法",
+      "Jacobi iterative method",
+      "对角型迭代"
+    ],
+    "year": 1845,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "gauss_seidel_method",
+      "sor_method"
+    ],
+    "desc": "雅可比1845年提出的线性方程组分量同步迭代法，格式简单，是迭代法的比较基准。"
+  },
+  {
+    "id": "jacobi_eigenvalue_algorithm",
+    "name": "雅可比特征值算法",
+    "nameEn": "Jacobi eigenvalue algorithm",
+    "wikiEn": "Jacobi eigenvalue algorithm",
+    "aliases": [
+      "雅可比旋转法",
+      "Jacobi rotation",
+      "对称矩阵对角化",
+      "平面旋转法"
+    ],
+    "year": 1846,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "qr_algorithm",
+      "power_iteration",
+      "inverse_iteration"
+    ],
+    "desc": "雅可比1846年提出反复平面旋转化对称矩阵为对角形求特征值，精度高且适合并行。"
+  },
+  {
+    "id": "plate_shell_theory",
+    "name": "板壳理论",
+    "nameEn": "Plate theory",
+    "wikiEn": "Plate theory",
+    "aliases": [
+      "薄板理论",
+      "基尔霍夫板",
+      "冯卡门板",
+      "Kirchhoff plate"
+    ],
+    "year": 1850,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "linear_elasticity_math"
+    ],
+    "related": [
+      "finite_element_method",
+      "newmark_beta_method"
+    ],
+    "desc": "基尔霍夫1850年建立薄板弯曲方程，冯卡门1910年补入大变形理论。"
+  },
+  {
+    "id": "chebyshev_polynomials",
+    "name": "切比雪夫多项式",
+    "nameEn": "Chebyshev polynomials",
+    "wikiEn": "Chebyshev polynomials",
+    "aliases": [
+      "契比雪夫多项式",
+      "T多项式",
+      "Chebyshev polynomials",
+      "等振多项式"
+    ],
+    "year": 1854,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "gaussian_quadrature",
+      "remez_algorithm",
+      "runge_phenomenon",
+      "spectral_methods"
+    ],
+    "desc": "切比雪夫1854年引入的正交多项式族，等振性使其成为最佳逼近与谱方法的核心工具。"
+  },
+  {
+    "id": "adams_multistep_method",
+    "name": "亚当斯多步法",
+    "nameEn": "Linear multistep method",
+    "wikiEn": "Linear multistep method",
+    "aliases": [
+      "亚当斯巴什福思法",
+      "亚当斯莫尔顿法",
+      "Adams-Bashforth",
+      "Adams-Moulton"
+    ],
+    "year": 1855,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "euler_method"
+    ],
+    "related": [
+      "runge_kutta_methods",
+      "bdf_methods",
+      "rkf45_fehlberg"
+    ],
+    "desc": "亚当斯1855年提出、利用前若干步值的ODE积分法，显式与隐式格式沿用至今。"
+  },
+  {
+    "id": "curvilinear_coordinates",
+    "name": "曲线坐标系",
+    "nameEn": "Curvilinear coordinates",
+    "wikiEn": "Curvilinear coordinates",
+    "aliases": [
+      "曲线坐标",
+      "拉梅坐标",
+      "Lamé coefficients",
+      "正交曲线坐标"
+    ],
+    "year": 1859,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "vector_calculus",
+      "spherical_harmonics"
+    ],
+    "desc": "拉梅1859年建立任意正交坐标系理论及拉梅系数，使偏微分方程可分离变量。"
+  },
+  {
+    "id": "schwarz_domain_decomposition",
+    "name": "施瓦茨交替法与区域分解",
+    "nameEn": "Domain decomposition methods",
+    "wikiEn": "Domain decomposition methods",
+    "aliases": [
+      "施瓦茨交替法",
+      "区域分解法",
+      "Schwarz alternating method",
+      "加性施瓦茨法"
+    ],
+    "year": 1869,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "laplace_equation"
+    ],
+    "related": [
+      "finite_difference_method",
+      "multigrid_method"
+    ],
+    "desc": "施瓦茨1869年提出以重叠子区域交替求解，1980年代发展为并行区域分解方法族。"
+  },
+  {
+    "id": "hermite_interpolation",
+    "name": "埃尔米特插值",
+    "nameEn": "Hermite interpolation",
+    "wikiEn": "Hermite interpolation",
+    "aliases": [
+      "切触插值",
+      "带导数插值",
+      "Hermite interpolation",
+      "密切插值"
+    ],
+    "year": 1873,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "lagrange_interpolation"
+    ],
+    "related": [
+      "newton_divided_differences",
+      "b_spline"
+    ],
+    "desc": "埃尔米特1873年给出同时匹配函数值与导数值的切触插值，是样条理论的基础。"
+  },
+  {
+    "id": "gauss_seidel_method",
+    "name": "高斯-赛德尔迭代",
+    "nameEn": "Gauss–Seidel method",
+    "wikiEn": "Gauss–Seidel method",
+    "aliases": [
+      "赛德尔法",
+      "逐次位移法",
+      "Liebmann method",
+      "Gauss-Seidel"
+    ],
+    "year": 1874,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "jacobi_iteration"
+    ],
+    "related": [
+      "sor_method",
+      "multigrid_method"
+    ],
+    "desc": "高斯1823年私信提出、赛德尔1874年发表的逐分量更新迭代，收敛快于雅可比法。"
+  },
+  {
+    "id": "vector_calculus",
+    "name": "矢量分析",
+    "nameEn": "Vector calculus",
+    "wikiEn": "Vector calculus",
+    "aliases": [
+      "向量分析",
+      "向量微积分",
+      "Gibbs向量分析",
+      "Gibbs-Heaviside"
+    ],
+    "year": 1881,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "curvilinear_coordinates",
+      "spherical_harmonics",
+      "divergence_theorem"
+    ],
+    "desc": "吉布斯与亥维赛1880年代建立的梯度散度旋度体系，将电磁理论浓缩为现代矢量形式。"
+  },
+  {
+    "id": "reynolds_number",
+    "name": "雷诺数",
+    "nameEn": "Reynolds number",
+    "wikiEn": "Reynolds number",
+    "aliases": [
+      "雷诺数",
+      "Re数",
+      "惯性黏性比",
+      "Reynolds similarity"
+    ],
+    "year": 1883,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "dimensional_analysis"
+    ],
+    "related": [
+      "boundary_layer_theory",
+      "buckingham_pi_theorem"
+    ],
+    "desc": "雷诺1883年提出的惯性力与黏性力之比，是判断层流湍流与组织相似实验的关键参数。"
+  },
+  {
+    "id": "pade_approximant",
+    "name": "Padé逼近",
+    "nameEn": "Padé approximant",
+    "wikiEn": "Padé approximant",
+    "aliases": [
+      "帕德逼近",
+      "帕德近似",
+      "有理函数逼近",
+      "Pade approximation"
+    ],
+    "year": 1892,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "taylor_series"
+    ],
+    "related": [
+      "runge_phenomenon",
+      "fractional_fourier_transform"
+    ],
+    "desc": "帕德1892年系统研究的有理函数逼近，局部常比同阶泰勒级数更准确。"
+  },
+  {
+    "id": "mellin_transform",
+    "name": "梅林变换",
+    "nameEn": "Mellin transform",
+    "wikiEn": "Mellin transform",
+    "aliases": [
+      "Mellin变换",
+      "梅林转换",
+      "Mellin transformation",
+      "乘法傅里叶变换"
+    ],
+    "year": 1897,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "fourier_analysis"
+    ],
+    "related": [
+      "laplace_transform"
+    ],
+    "desc": "梅林1897年严格化的乘性卷积变换，是数论渐近估计与摄动展开的基本工具。"
+  },
+  {
+    "id": "runge_phenomenon",
+    "name": "龙格现象",
+    "nameEn": "Runge's phenomenon",
+    "wikiEn": "Runge's phenomenon",
+    "aliases": [
+      "龙格振荡",
+      "高次插值振荡",
+      "端点振荡",
+      "Runge phenomenon"
+    ],
+    "year": 1901,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "lagrange_interpolation"
+    ],
+    "related": [
+      "chebyshev_polynomials",
+      "b_spline"
+    ],
+    "desc": "龙格1901年发现等距节点高次插值在区间端点剧烈振荡，催生样条与切比雪夫节点。"
+  },
+  {
+    "id": "runge_kutta_methods",
+    "name": "龙格-库塔方法",
+    "nameEn": "Runge–Kutta methods",
+    "wikiEn": "Runge–Kutta methods",
+    "aliases": [
+      "龙格库塔法",
+      "RK方法",
+      "四阶龙格库塔",
+      "Runge-Kutta"
+    ],
+    "year": 1901,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [
+      "euler_method",
+      "taylor_series"
+    ],
+    "related": [
+      "adams_multistep_method",
+      "rkf45_fehlberg",
+      "dormand_prince",
+      "bdf_methods"
+    ],
+    "desc": "龙格1895年、库塔1901年建立的多级单步ODE算法族，四阶格式至今最常用。"
+  },
+  {
+    "id": "boundary_layer_theory",
+    "name": "边界层理论",
+    "nameEn": "Boundary layer",
+    "wikiEn": "Boundary layer",
+    "aliases": [
+      "附面层",
+      "普朗特边界层",
+      "Prandtl boundary layer",
+      "边界层"
+    ],
+    "year": 1904,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "navier_stokes_equations",
+      "reynolds_number"
+    ],
+    "related": [
+      "singular_perturbation",
+      "upwind_scheme"
+    ],
+    "desc": "普朗特1904年提出黏性仅在物面薄层重要，化解达朗贝尔佯谬，开创近代流体力学。"
+  },
+  {
+    "id": "richardson_extrapolation",
+    "name": "理查德森外推",
+    "nameEn": "Richardson extrapolation",
+    "wikiEn": "Richardson extrapolation",
+    "aliases": [
+      "理查森外推法",
+      "李查逊外推",
+      "Richardson extrapolation",
+      "步长外推"
+    ],
+    "year": 1911,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "romberg_integration",
+      "finite_difference_method"
+    ],
+    "desc": "理查德森1911年提出以不同步长解的线性组合消去误差项，是高精度数值方法的支柱。"
+  },
+  {
+    "id": "buckingham_pi_theorem",
+    "name": "白金汉π定理",
+    "nameEn": "Buckingham π theorem",
+    "wikiEn": "Buckingham π theorem",
+    "aliases": [
+      "白金汉定理",
+      "π定理",
+      "Buckingham pi",
+      "量纲齐次定理"
+    ],
+    "year": 1914,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "dimensional_analysis"
+    ],
+    "related": [
+      "reynolds_number"
+    ],
+    "desc": "白金汉1914年证明物理关系必可化为无量纲π量群，系统指导模型实验与公式归并。"
+  },
+  {
+    "id": "radon_transform",
+    "name": "拉东变换",
+    "nameEn": "Radon transform",
+    "wikiEn": "Radon transform",
+    "aliases": [
+      "雷登变换",
+      "氡变换",
+      "Radon变换",
+      "直线积分变换"
+    ],
+    "year": 1917,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "fourier_analysis"
+    ],
+    "related": [
+      "filtered_backprojection",
+      "inverse_problem",
+      "tikhonov_regularization"
+    ],
+    "desc": "拉东1917年提出的沿直线积分变换及其逆变换，是CT等断层成像的数学基础。"
+  },
+  {
+    "id": "finite_difference_method",
+    "name": "有限差分法",
+    "nameEn": "Finite difference method",
+    "wikiEn": "Finite difference method",
+    "aliases": [
+      "差分法",
+      "有限差分",
+      "FDM",
+      "网格差分法"
+    ],
+    "year": 1922,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [
+      "taylor_series",
+      "heat_equation"
+    ],
+    "related": [
+      "cfl_condition",
+      "finite_volume_method",
+      "finite_element_method"
+    ],
+    "desc": "以差商代替导数在网格上离散偏微分方程，理查德森1922年首用于数值天气预报。"
+  },
+  {
+    "id": "cholesky_decomposition",
+    "name": "Cholesky分解",
+    "nameEn": "Cholesky decomposition",
+    "wikiEn": "Cholesky decomposition",
+    "aliases": [
+      "楚列斯基分解",
+      "平方根法",
+      "Cholesky factorization",
+      "Cholesky"
+    ],
+    "year": 1924,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "lu_decomposition",
+      "hestenes_stiefel_conjugate_gradient"
+    ],
+    "desc": "对称正定矩阵的平方根三角分解，楚列斯基1910年代用于大地测量。"
+  },
+  {
+    "id": "numerov_method",
+    "name": "努梅罗夫法",
+    "nameEn": "Numerov's method",
+    "wikiEn": "Numerov's method",
+    "aliases": [
+      "Numerov法",
+      "努梅罗夫方法",
+      "Numerov method",
+      "四阶线性多步"
+    ],
+    "year": 1924,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "runge_kutta_methods"
+    ],
+    "related": [
+      "verlet_leapfrog",
+      "symplectic_integrator"
+    ],
+    "desc": "努梅罗夫1924年提出的二阶ODE四阶格式，用于天体轨道与量子定态计算。"
+  },
+  {
+    "id": "aitken_delta_squared",
+    "name": "艾特肯Δ²加速",
+    "nameEn": "Aitken's delta-squared process",
+    "wikiEn": "Aitken's delta-squared process",
+    "aliases": [
+      "艾特肯加速",
+      "Δ平方法",
+      "Aitken acceleration",
+      "delta-squared"
+    ],
+    "year": 1926,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "newton_iterative_method"
+    ],
+    "related": [
+      "richardson_extrapolation"
+    ],
+    "desc": "艾特肯1926年提出的三个迭代值二次外推加速法，显著改善线性收敛序列速度。"
+  },
+  {
+    "id": "wkb_approximation",
+    "name": "WKB近似",
+    "nameEn": "WKB approximation",
+    "wikiEn": "WKB approximation",
+    "aliases": [
+      "WKB方法",
+      "半经典近似",
+      "温策尔克拉默斯布里渊近似",
+      "Wentzel-Kramers-Brillouin"
+    ],
+    "year": 1926,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "schrodinger_equation"
+    ],
+    "related": [
+      "singular_perturbation",
+      "boundary_layer_theory"
+    ],
+    "desc": "1926年温策尔等建立的量子力学缓变势高频近似，是经典的数学物理渐近方法。"
+  },
+  {
+    "id": "cfl_condition",
+    "name": "CFL条件",
+    "nameEn": "Courant–Friedrichs–Lewy condition",
+    "wikiEn": "Courant–Friedrichs–Lewy condition",
+    "aliases": [
+      "库朗条件",
+      "CFL数",
+      "Courant condition",
+      "依赖域条件"
+    ],
+    "year": 1928,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "finite_difference_method"
+    ],
+    "related": [
+      "von_neumann_stability",
+      "upwind_scheme",
+      "lax_wendroff_method"
+    ],
+    "desc": "库朗等1928年给出的显式时间步进稳定性必要条件：数值依赖域须包含物理依赖域。"
+  },
+  {
+    "id": "power_iteration",
+    "name": "幂迭代法",
+    "nameEn": "Power iteration",
+    "wikiEn": "Power iteration",
+    "aliases": [
+      "幂法",
+      "乘幂法",
+      "power method",
+      "冯米塞斯迭代"
+    ],
+    "year": 1929,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "inverse_iteration",
+      "qr_algorithm",
+      "jacobi_eigenvalue_algorithm"
+    ],
+    "desc": "反复乘矩阵取主特征向量的简单迭代，冯米塞斯1929年描述，是网页排序的计算内核。"
+  },
+  {
+    "id": "krylov_subspace",
+    "name": "克雷洛夫子空间",
+    "nameEn": "Krylov subspace",
+    "wikiEn": "Krylov subspace",
+    "aliases": [
+      "克里洛夫子空间",
+      "Krylov子空间",
+      "Krylov space",
+      "矩阵幂张成空间"
+    ],
+    "year": 1931,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "lanczos_algorithm",
+      "arnoldi_iteration",
+      "gmres"
+    ],
+    "desc": "克雷洛夫1931年提出的矩阵幂张成子空间，是大规模稀疏迭代算法的统一框架。"
+  },
+  {
+    "id": "remez_algorithm",
+    "name": "列梅兹算法",
+    "nameEn": "Remez algorithm",
+    "wikiEn": "Remez algorithm",
+    "aliases": [
+      "雷梅兹算法",
+      "等振交换算法",
+      "Remez exchange",
+      "极小极大逼近算法"
+    ],
+    "year": 1934,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "chebyshev_polynomials"
+    ],
+    "related": [
+      "pade_approximant"
+    ],
+    "desc": "列梅兹1934年提出的交换迭代算法，数值求切比雪夫意义下的最佳一致逼近多项式。"
+  },
+  {
+    "id": "lu_decomposition",
+    "name": "LU分解",
+    "nameEn": "LU decomposition",
+    "wikiEn": "LU decomposition",
+    "aliases": [
+      "三角分解",
+      "杜利特尔分解",
+      "Crout分解",
+      "Doolittle algorithm"
+    ],
+    "year": 1938,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "cholesky_decomposition",
+      "gauss_least_squares",
+      "sparse_matrix"
+    ],
+    "desc": "巴纳希维奇1938年给出、杜利特尔等发展的矩阵三角分解，一次分解多次回代。"
+  },
+  {
+    "id": "matched_filter",
+    "name": "匹配滤波器",
+    "nameEn": "Matched filter",
+    "wikiEn": "Matched filter",
+    "aliases": [
+      "匹配滤波",
+      "诺斯滤波器",
+      "North filter",
+      "最佳线性滤波器"
+    ],
+    "year": 1943,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "convolution_math"
+    ],
+    "related": [
+      "wiener_filter",
+      "information_theory"
+    ],
+    "desc": "诺斯1943年为雷达推导的最大化输出信噪比滤波器，与已知信号形状匹配。"
+  },
+  {
+    "id": "inverse_iteration",
+    "name": "反幂法",
+    "nameEn": "Inverse iteration",
+    "wikiEn": "Inverse iteration",
+    "aliases": [
+      "逆迭代",
+      "反迭代法",
+      "inverse power method",
+      "Wielandt迭代"
+    ],
+    "year": 1944,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "power_iteration"
+    ],
+    "related": [
+      "qr_algorithm",
+      "lu_decomposition"
+    ],
+    "desc": "对移位矩阵求逆迭代的特征向量算法，维兰特1944年给出，配合位移可求任意特征对。"
+  },
+  {
+    "id": "floating_point_arithmetic",
+    "name": "浮点运算与舍入",
+    "nameEn": "Floating-point arithmetic",
+    "wikiEn": "Floating-point arithmetic",
+    "aliases": [
+      "浮点数",
+      "浮点舍入",
+      "floating point",
+      "舍入误差"
+    ],
+    "year": 1945,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "condition_number",
+      "backward_error_analysis"
+    ],
+    "desc": "图灵1945年系统论述浮点舍入，使大动态范围科学计算可行，开启舍入误差分析。"
+  },
+  {
+    "id": "b_spline",
+    "name": "B样条",
+    "nameEn": "Spline (mathematics)",
+    "wikiEn": "Spline (mathematics)",
+    "aliases": [
+      "样条函数",
+      "三次样条",
+      "basis spline",
+      "B-spline"
+    ],
+    "year": 1946,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "hermite_interpolation",
+      "runge_phenomenon"
+    ],
+    "related": [
+      "isogeometric_analysis",
+      "finite_element_method",
+      "isoparametric_elements"
+    ],
+    "desc": "舍恩贝格1946年创立样条理论，局部支撑分段多项式光滑插值，后成CAD基础。"
+  },
+  {
+    "id": "singular_perturbation",
+    "name": "奇异摄动",
+    "nameEn": "Singular perturbation",
+    "wikiEn": "Singular perturbation",
+    "aliases": [
+      "奇异扰动",
+      "边界层方法",
+      "匹配渐近展开",
+      "singular perturbation theory"
+    ],
+    "year": 1946,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "boundary_layer_theory"
+    ],
+    "related": [
+      "wkb_approximation",
+      "asymptotic_expansions",
+      "homogenization_math"
+    ],
+    "desc": "小参数出现在最高阶导数、解含边界层的摄动问题，1946年前后确立系统方法。"
+  },
+  {
+    "id": "stft_gabor",
+    "name": "短时傅里叶变换",
+    "nameEn": "Short-time Fourier transform",
+    "wikiEn": "Short-time Fourier transform",
+    "aliases": [
+      "短时傅里叶",
+      "加窗傅里叶",
+      "Gabor变换",
+      "STFT"
+    ],
+    "year": 1946,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "fourier_analysis",
+      "convolution_math"
+    ],
+    "related": [
+      "wavelet_transform",
+      "multiresolution_analysis",
+      "blackman_tukey_spectral"
+    ],
+    "desc": "伽柏1946年提出加窗分段傅里叶分析，同时给出信号的时间与频率局部信息。"
+  },
+  {
+    "id": "crank_nicolson",
+    "name": "克兰克-尼科尔森法",
+    "nameEn": "Crank–Nicolson method",
+    "wikiEn": "Crank–Nicolson method",
+    "aliases": [
+      "CN格式",
+      "Crank-Nicolson",
+      "梯形时间格式",
+      "隐式差分格式"
+    ],
+    "year": 1947,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "finite_difference_method",
+      "heat_equation"
+    ],
+    "related": [
+      "von_neumann_stability",
+      "bdf_methods"
+    ],
+    "desc": "克兰克与尼科尔森1947年提出的时间梯形隐式格式，对热方程无条件稳定。"
+  },
+  {
+    "id": "gray_code",
+    "name": "格雷码",
+    "nameEn": "Gray code",
+    "wikiEn": "Gray code",
+    "aliases": [
+      "反射二进制码",
+      "葛雷码",
+      "reflected binary code",
+      "循环二进制码"
+    ],
+    "year": 1947,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "hamming_distance",
+      "reed_muller_code"
+    ],
+    "desc": "格雷1947年设计的相邻码字仅差一位的反射二进制码，用于编码器防错与模数转换。"
+  },
+  {
+    "id": "von_neumann_stability",
+    "name": "冯诺依曼稳定性分析",
+    "nameEn": "Von Neumann stability analysis",
+    "wikiEn": "Von Neumann stability analysis",
+    "aliases": [
+      "冯诺依曼分析",
+      "傅里叶稳定性分析",
+      "放大因子分析",
+      "von Neumann analysis"
+    ],
+    "year": 1947,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "finite_difference_method",
+      "fourier_analysis"
+    ],
+    "related": [
+      "cfl_condition",
+      "crank_nicolson",
+      "lax_equivalence_theorem"
+    ],
+    "desc": "冯诺依曼1947年提出的傅里叶模态放大因子分析法，是差分格式稳定性的标准工具。"
+  },
+  {
+    "id": "z_transform",
+    "name": "Z变换",
+    "nameEn": "Z-transform",
+    "wikiEn": "Z-transform",
+    "aliases": [
+      "Z变换法",
+      "z-transformation",
+      "离散拉普拉斯变换",
+      "采样系统变换"
+    ],
+    "year": 1947,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "laplace_transform"
+    ],
+    "related": [
+      "convolution_math",
+      "kalman_filter"
+    ],
+    "desc": "胡尔维奇1947年用于采样伺服、扎德1952年命名，将差分方程化为代数方程。"
+  },
+  {
+    "id": "condition_number",
+    "name": "条件数",
+    "nameEn": "Condition number",
+    "wikiEn": "Condition number",
+    "aliases": [
+      "矩阵条件数",
+      "病态条件",
+      "conditioning",
+      "图灵条件数"
+    ],
+    "year": 1948,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "floating_point_arithmetic",
+      "backward_error_analysis",
+      "lu_decomposition"
+    ],
+    "desc": "图灵1948年引入衡量输入扰动放大倍数的指标，条件数大则问题病态，决定精度上限。"
+  },
+  {
+    "id": "hamming_distance",
+    "name": "汉明距离",
+    "nameEn": "Hamming distance",
+    "wikiEn": "Hamming distance",
+    "aliases": [
+      "码距",
+      "汉明重量",
+      "Hamming weight",
+      "Hamming metric"
+    ],
+    "year": 1950,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "hamming_code"
+    ],
+    "related": [
+      "gray_code",
+      "singleton_bound",
+      "bch_code"
+    ],
+    "desc": "等长字符串对应位不同的个数，汉明1950年随纠错码提出，是编码理论基本度量。"
+  },
+  {
+    "id": "lanczos_algorithm",
+    "name": "兰开若斯算法",
+    "nameEn": "Lanczos algorithm",
+    "wikiEn": "Lanczos algorithm",
+    "aliases": [
+      "兰索斯算法",
+      "Lanczos法",
+      "Lanczos iteration",
+      "Krylov三对角化"
+    ],
+    "year": 1950,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "krylov_subspace"
+    ],
+    "related": [
+      "arnoldi_iteration",
+      "gmres",
+      "hestenes_stiefel_conjugate_gradient"
+    ],
+    "desc": "兰开若斯1950年提出的Krylov三对角化算法，仅用矩阵向量积即可求特征值。"
+  },
+  {
+    "id": "sor_method",
+    "name": "逐次超松弛法",
+    "nameEn": "Successive over-relaxation",
+    "wikiEn": "Successive over-relaxation",
+    "aliases": [
+      "超松弛法",
+      "SOR法",
+      "successive overrelaxation",
+      "Young-Frankel法"
+    ],
+    "year": 1950,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "gauss_seidel_method"
+    ],
+    "related": [
+      "jacobi_iteration",
+      "multigrid_method"
+    ],
+    "desc": "弗兰克尔1950年、杨同年提出的带松弛因子加速迭代法，显著加快椭圆问题收敛。"
+  },
+  {
+    "id": "arnoldi_iteration",
+    "name": "阿诺尔迪迭代",
+    "nameEn": "Arnoldi iteration",
+    "wikiEn": "Arnoldi iteration",
+    "aliases": [
+      "阿诺迪法",
+      "Arnoldi算法",
+      "Arnoldi process",
+      "非对称Lanczos"
+    ],
+    "year": 1951,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "krylov_subspace"
+    ],
+    "related": [
+      "lanczos_algorithm",
+      "gmres"
+    ],
+    "desc": "阿诺尔迪1951年提出非对称矩阵的Krylov正交化算法，投影为上海森伯格形。"
+  },
+  {
+    "id": "bdf_methods",
+    "name": "后向差分公式",
+    "nameEn": "Backward differentiation formula",
+    "wikiEn": "Backward differentiation formula",
+    "aliases": [
+      "BDF法",
+      "后向微分公式",
+      "Gear法",
+      "backward differentiation"
+    ],
+    "year": 1952,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "adams_multistep_method"
+    ],
+    "related": [
+      "stiff_equations",
+      "crank_nicolson",
+      "matrix_exponential"
+    ],
+    "desc": "柯蒂斯等1952年提出、Gear推广的隐式多步法，是刚性ODE求解的工业标准。"
+  },
+  {
+    "id": "upwind_scheme",
+    "name": "迎风格式",
+    "nameEn": "Upwind scheme",
+    "wikiEn": "Upwind scheme",
+    "aliases": [
+      "上风法",
+      "迎风差分",
+      "upwind differencing",
+      "CIR格式"
+    ],
+    "year": 1952,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "cfl_condition"
+    ],
+    "related": [
+      "godunov_scheme",
+      "finite_volume_method",
+      "lax_wendroff_method"
+    ],
+    "desc": "库朗等1952年按波传播方向取差分的格式，以数值耗散换取对流问题稳定。"
+  },
+  {
+    "id": "metropolis_hastings",
+    "name": "Metropolis-Hastings算法",
+    "nameEn": "Metropolis–Hastings algorithm",
+    "wikiEn": "Metropolis–Hastings algorithm",
+    "aliases": [
+      "梅特罗波利斯算法",
+      "MH算法",
+      "MCMC采样",
+      "Metropolis algorithm"
+    ],
+    "year": 1953,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "monte_carlo_method",
+      "markov_chains"
+    ],
+    "related": [
+      "em_algorithm",
+      "simulated_annealing",
+      "quasi_monte_carlo"
+    ],
+    "desc": "梅特罗波利斯1953年提出、黑斯廷斯1970年推广的马尔可夫链蒙特卡洛采样算法。"
+  },
+  {
+    "id": "reed_muller_code",
+    "name": "里德-马勒码",
+    "nameEn": "Reed–Muller code",
+    "wikiEn": "Reed–Muller code",
+    "aliases": [
+      "RM码",
+      "里德马勒码",
+      "Reed-Muller code",
+      "布尔多项式码"
+    ],
+    "year": 1954,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "hamming_code"
+    ],
+    "related": [
+      "bch_code",
+      "convolutional_code"
+    ],
+    "desc": "里德与马勒1954年独立提出的线性码族，译码简单，用于深空通信与5G控制信道。"
+  },
+  {
+    "id": "romberg_integration",
+    "name": "龙贝格积分",
+    "nameEn": "Romberg's method",
+    "wikiEn": "Romberg's method",
+    "aliases": [
+      "Romberg法",
+      "龙贝格求积",
+      "Richardson-Romberg",
+      "逐次半分外推"
+    ],
+    "year": 1955,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "trapezoidal_rule",
+      "richardson_extrapolation"
+    ],
+    "related": [
+      "simpson_rule",
+      "clenshaw_curtis_quadrature"
+    ],
+    "desc": "龙贝格1955年将理查德森外推系统用于逐层加密的梯形法则，得到高精度求积序列。"
+  },
+  {
+    "id": "pic_method",
+    "name": "质点网格法",
+    "nameEn": "Particle-in-cell",
+    "wikiEn": "Particle-in-cell",
+    "aliases": [
+      "PIC法",
+      "粒子网格法",
+      "Harlow PIC",
+      "Particle-in-cell"
+    ],
+    "year": 1955,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "finite_difference_method"
+    ],
+    "related": [
+      "mac_grid",
+      "sph_method"
+    ],
+    "desc": "哈洛1955年创立的粒子与电磁场网格耦合模拟法，是等离子体模拟的标准框架。"
+  },
+  {
+    "id": "convolutional_code",
+    "name": "卷积码",
+    "nameEn": "Convolutional code",
+    "wikiEn": "Convolutional code",
+    "aliases": [
+      "卷积编码",
+      "Elias code",
+      "滑动窗码",
+      "树码"
+    ],
+    "year": 1955,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "hamming_code"
+    ],
+    "related": [
+      "viterbi_algorithm",
+      "turbo_code",
+      "reed_muller_code"
+    ],
+    "desc": "伊莱亚斯1955年提出利用移位寄存器对连续比特流编码，配合维特比译码。"
+  },
+  {
+    "id": "lax_equivalence_theorem",
+    "name": "Lax等价定理",
+    "nameEn": "Lax equivalence theorem",
+    "wikiEn": "Lax equivalence theorem",
+    "aliases": [
+      "拉克斯等价定理",
+      "Lax-Richtmyer定理",
+      "相容性收敛定理",
+      "Lax等价"
+    ],
+    "year": 1956,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "finite_difference_method"
+    ],
+    "related": [
+      "von_neumann_stability",
+      "cfl_condition"
+    ],
+    "desc": "拉克斯与里希特迈尔1956年证明：适定问题的相容格式，稳定性等价于收敛性。"
+  },
+  {
+    "id": "qr_decomposition",
+    "name": "QR分解",
+    "nameEn": "QR decomposition",
+    "wikiEn": "QR decomposition",
+    "aliases": [
+      "QR因子分解",
+      "正交三角分解",
+      "Householder QR",
+      "QR factorization"
+    ],
+    "year": 1958,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "lu_decomposition"
+    ],
+    "related": [
+      "qr_algorithm",
+      "cholesky_decomposition",
+      "gauss_least_squares"
+    ],
+    "desc": "豪斯霍尔德1958年反射法促成的正交三角分解，是最小二乘与特征值算法基本模块。"
+  },
+  {
+    "id": "bch_code",
+    "name": "BCH码",
+    "nameEn": "BCH code",
+    "wikiEn": "BCH code",
+    "aliases": [
+      "BCH编码",
+      "Bose-Chaudhuri-Hocquenghem",
+      "博斯乔杜里码",
+      "可设计循环码"
+    ],
+    "year": 1959,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "hamming_code"
+    ],
+    "related": [
+      "reed_solomon_code",
+      "reed_muller_code",
+      "singleton_bound"
+    ],
+    "desc": "霍克翰姆1959年、博斯等1960年提出的可设计纠错能力的循环码。"
+  },
+  {
+    "id": "godunov_scheme",
+    "name": "戈杜诺夫格式",
+    "nameEn": "Godunov's scheme",
+    "wikiEn": "Godunov's scheme",
+    "aliases": [
+      "Godunov法",
+      "Godunov scheme",
+      "黎曼解法器格式",
+      "精确黎曼求解格式"
+    ],
+    "year": 1959,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "upwind_scheme"
+    ],
+    "related": [
+      "finite_volume_method",
+      "lax_wendroff_method"
+    ],
+    "desc": "戈杜诺夫1959年用分段常数与精确黎曼解构造的守恒律格式，是现代激波捕捉法源头。"
+  },
+  {
+    "id": "newmark_beta_method",
+    "name": "Newmark-β法",
+    "nameEn": "Newmark-beta method",
+    "wikiEn": "Newmark-beta method",
+    "aliases": [
+      "纽马克法",
+      "Newmark法",
+      "Newmark beta",
+      "结构动力积分法"
+    ],
+    "year": 1959,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "verlet_leapfrog"
+    ],
+    "related": [
+      "finite_element_method",
+      "symplectic_integrator"
+    ],
+    "desc": "纽马克1959年提出的结构动力学时间积分参数族，含无条件稳定格式，为抗震标准。"
+  },
+  {
+    "id": "backward_error_analysis",
+    "name": "向后误差分析",
+    "nameEn": "Backward error analysis",
+    "wikiEn": "Error analysis (mathematics)",
+    "aliases": [
+      "后向误差分析",
+      "反向误差分析",
+      "Wilkinson分析",
+      "backward error"
+    ],
+    "year": 1960,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "floating_point_arithmetic",
+      "condition_number"
+    ],
+    "related": [
+      "qr_algorithm"
+    ],
+    "desc": "威尔金森1960年前后建立：把舍入结果解释为微扰后精确问题的解。"
+  },
+  {
+    "id": "clenshaw_curtis_quadrature",
+    "name": "Clenshaw-Curtis求积",
+    "nameEn": "Clenshaw–Curtis quadrature",
+    "wikiEn": "Clenshaw–Curtis quadrature",
+    "aliases": [
+      "CC求积",
+      "Clenshaw-Curtis法",
+      "切比雪夫积分",
+      "克伦肖柯蒂斯求积"
+    ],
+    "year": 1960,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "chebyshev_polynomials"
+    ],
+    "related": [
+      "gaussian_quadrature",
+      "adaptive_quadrature"
+    ],
+    "desc": "克伦肖与柯蒂斯1960年以切比雪夫系数积分，节点嵌套，实际收敛媲美高斯求积。"
+  },
+  {
+    "id": "lax_wendroff_method",
+    "name": "Lax-Wendroff法",
+    "nameEn": "Lax–Wendroff method",
+    "wikiEn": "Lax–Wendroff method",
+    "aliases": [
+      "拉克斯温德罗夫格式",
+      "LW格式",
+      "Lax-Wendroff scheme",
+      "二阶显式双曲格式"
+    ],
+    "year": 1960,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "upwind_scheme"
+    ],
+    "related": [
+      "godunov_scheme",
+      "finite_volume_method",
+      "cfl_condition"
+    ],
+    "desc": "拉克斯与温德罗夫1960年提出的二阶精度显式双曲格式，是高阶激波捕捉格式的起点。"
+  },
+  {
+    "id": "reed_solomon_code",
+    "name": "里德-所罗门码",
+    "nameEn": "Reed–Solomon error correction",
+    "wikiEn": "Reed–Solomon error correction",
+    "aliases": [
+      "RS码",
+      "里德所罗门派",
+      "Reed-Solomon code",
+      "非二元BCH码"
+    ],
+    "year": 1960,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "bch_code"
+    ],
+    "related": [
+      "convolutional_code",
+      "ldpc_code",
+      "singleton_bound"
+    ],
+    "desc": "里德与所罗门1960年提出的非二元码，擅纠突发错误，用于CD、二维码与深空通信。"
+  },
+  {
+    "id": "multigrid_method",
+    "name": "多重网格法",
+    "nameEn": "Multigrid method",
+    "wikiEn": "Multigrid method",
+    "aliases": [
+      "多网格法",
+      "Multigrid",
+      "MG方法",
+      "布兰特多重网格"
+    ],
+    "year": 1961,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "gauss_seidel_method"
+    ],
+    "related": [
+      "schwarz_domain_decomposition",
+      "gmres",
+      "finite_difference_method"
+    ],
+    "desc": "费多连科1961年提出、布兰特1977年发展成熟，粗细网格互补，计算量近线性。"
+  },
+  {
+    "id": "qr_algorithm",
+    "name": "QR算法",
+    "nameEn": "QR algorithm",
+    "wikiEn": "QR algorithm",
+    "aliases": [
+      "QR特征值算法",
+      "Francis QR",
+      "隐式移位QR",
+      "QR iteration"
+    ],
+    "year": 1961,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [
+      "qr_decomposition"
+    ],
+    "related": [
+      "jacobi_eigenvalue_algorithm",
+      "power_iteration",
+      "svd_algorithm"
+    ],
+    "desc": "弗朗西斯1961年提出的迭代QR特征值算法，稳定高效，二十世纪十大算法之一。"
+  },
+  {
+    "id": "adaptive_quadrature",
+    "name": "自适应求积",
+    "nameEn": "Adaptive quadrature",
+    "wikiEn": "Adaptive quadrature",
+    "aliases": [
+      "自适应积分",
+      "adaptive integration",
+      "自适应辛普森",
+      "区间细分求积"
+    ],
+    "year": 1962,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "simpson_rule"
+    ],
+    "related": [
+      "romberg_integration",
+      "clenshaw_curtis_quadrature"
+    ],
+    "desc": "1960年代出现的按局部误差估计自动细分区间的求积策略，把计算量集中于陡变区域。"
+  },
+  {
+    "id": "ldpc_code",
+    "name": "LDPC码",
+    "nameEn": "Low-density parity-check code",
+    "wikiEn": "Low-density parity-check code",
+    "aliases": [
+      "低密度奇偶校验码",
+      "Gallager码",
+      "加拉格尔码",
+      "LDPC"
+    ],
+    "year": 1962,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "hamming_code"
+    ],
+    "related": [
+      "turbo_code",
+      "bch_code",
+      "information_theory"
+    ],
+    "desc": "加拉格尔1962年提出的稀疏校验矩阵码，逼近香农极限，沉寂后重发现用于5G。"
+  },
+  {
+    "id": "stiff_equations",
+    "name": "刚性方程",
+    "nameEn": "Stiff equation",
+    "wikiEn": "Stiff equation",
+    "aliases": [
+      "刚性问题",
+      "stiff ODE",
+      "A稳定性",
+      "Dahlquist stability"
+    ],
+    "year": 1963,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "bdf_methods"
+    ],
+    "related": [
+      "runge_kutta_methods",
+      "crank_nicolson"
+    ],
+    "desc": "含快慢悬殊尺度的ODE，显式步长受限；达尔奎斯特1963年提出A稳定性理论。"
+  },
+  {
+    "id": "tikhonov_regularization",
+    "name": "吉洪诺夫正则化",
+    "nameEn": "Tikhonov regularization",
+    "wikiEn": "Tikhonov regularization",
+    "aliases": [
+      "蒂霍诺夫正则化",
+      "吉洪诺夫规整化",
+      "L2正则化",
+      "Tikhonov-Phillips"
+    ],
+    "year": 1963,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "inverse_problem"
+    ],
+    "related": [
+      "radon_transform",
+      "hoerl_kennard_ridge_regression"
+    ],
+    "desc": "吉洪诺夫1963年以解的范数惩罚项稳定求解不适定问题，是反演理论的标准工具。"
+  },
+  {
+    "id": "singleton_bound",
+    "name": "Singleton界",
+    "nameEn": "Singleton bound",
+    "wikiEn": "Singleton bound",
+    "aliases": [
+      "辛格尔顿界",
+      "Singleton界",
+      "码距上界",
+      "MDS界"
+    ],
+    "year": 1964,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "hamming_distance"
+    ],
+    "related": [
+      "reed_solomon_code",
+      "bch_code"
+    ],
+    "desc": "辛格尔顿1964年给出的分组码码长、维数与最小距离上界，RS码是达到该界的码。"
+  },
+  {
+    "id": "mac_grid",
+    "name": "MAC交错网格",
+    "nameEn": "Marker-and-cell method",
+    "wikiEn": "Marker-and-cell method",
+    "aliases": [
+      "MAC法",
+      "标记网格法",
+      "交错网格",
+      "staggered grid"
+    ],
+    "year": 1965,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "finite_difference_method",
+      "navier_stokes_equations"
+    ],
+    "related": [
+      "projection_method_chorin",
+      "pic_method",
+      "fdtd_yee"
+    ],
+    "desc": "哈洛与韦尔奇1965年提出速度压力错位网格，避免棋盘压力振荡，是CFD经典布局。"
+  },
+  {
+    "id": "sparse_matrix",
+    "name": "稀疏矩阵",
+    "nameEn": "Sparse matrix",
+    "wikiEn": "Sparse matrix",
+    "aliases": [
+      "稀疏阵",
+      "稀疏存储",
+      "sparse matrices",
+      "带状矩阵"
+    ],
+    "year": 1965,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "lu_decomposition"
+    ],
+    "related": [
+      "krylov_subspace",
+      "finite_element_method",
+      "multigrid_method"
+    ],
+    "desc": "1960年代随有限元兴起的零元占多数矩阵的存储与消元技术，使百万阶系统可解。"
+  },
+  {
+    "id": "svd_algorithm",
+    "name": "SVD算法",
+    "nameEn": "Singular value decomposition",
+    "wikiEn": "Singular value decomposition",
+    "aliases": [
+      "奇异值分解",
+      "SVD",
+      "Golub-Kahan双对角化",
+      "奇异值分解算法"
+    ],
+    "year": 1965,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "qr_algorithm"
+    ],
+    "related": [
+      "principal_component_analysis",
+      "matrix_exponential"
+    ],
+    "desc": "戈卢布与卡汉1965年给出稳定双对角化算法，使SVD成为降维与最小二乘主力工具。"
+  },
+  {
+    "id": "fdtd_yee",
+    "name": "时域有限差分法",
+    "nameEn": "Finite-difference time-domain method",
+    "wikiEn": "Finite-difference time-domain method",
+    "aliases": [
+      "FDTD",
+      "Yee网格",
+      "Yee algorithm",
+      "时域差分法"
+    ],
+    "year": 1966,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "finite_difference_method",
+      "cfl_condition"
+    ],
+    "related": [
+      "mac_grid"
+    ],
+    "desc": "叶1966年提出交错网格上电场磁场蛙跳步进解麦克斯韦方程，是电磁仿真主流方法。"
+  },
+  {
+    "id": "isoparametric_elements",
+    "name": "等参元",
+    "nameEn": "Bruce Irons (engineer)",
+    "wikiEn": "Bruce Irons (engineer)",
+    "aliases": [
+      "等参数单元",
+      "等参数有限元",
+      "isoparametric element",
+      "Irons等参元"
+    ],
+    "year": 1966,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "finite_element_method"
+    ],
+    "related": [
+      "isogeometric_analysis",
+      "b_spline"
+    ],
+    "desc": "以同一形函数同时描述几何与位移，泰格1961年首倡，艾恩斯1966年完善。"
+  },
+  {
+    "id": "boundary_element_method",
+    "name": "边界元法",
+    "nameEn": "Boundary element method",
+    "wikiEn": "Boundary element method",
+    "aliases": [
+      "边界积分方程法",
+      "BEM",
+      "边界元素法",
+      "里佐边界元"
+    ],
+    "year": 1967,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "greens_function"
+    ],
+    "related": [
+      "finite_element_method",
+      "fast_multipole_method"
+    ],
+    "desc": "里佐1967年用边界积分方程离散求解弹性问题，仅划分边界即可降维求解。"
+  },
+  {
+    "id": "projection_method_chorin",
+    "name": "投影法",
+    "nameEn": "Projection method (fluid dynamics)",
+    "wikiEn": "Projection method (fluid dynamics)",
+    "aliases": [
+      "Chorin投影法",
+      "分数步法",
+      "压力修正法",
+      "projection method"
+    ],
+    "year": 1967,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "mac_grid",
+      "navier_stokes_equations"
+    ],
+    "related": [
+      "finite_volume_method"
+    ],
+    "desc": "乔林1967年提出先预估动量再以压力泊松方程投影消压，是CFD主流时间推进框架。"
+  },
+  {
+    "id": "viterbi_algorithm",
+    "name": "维特比算法",
+    "nameEn": "Viterbi algorithm",
+    "wikiEn": "Viterbi algorithm",
+    "aliases": [
+      "维特比译码",
+      "Viterbi译码",
+      "最大似然序列估计",
+      "Viterbi decoder"
+    ],
+    "year": 1967,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "convolutional_code",
+      "markov_chains"
+    ],
+    "related": [
+      "kalman_filter",
+      "turbo_code"
+    ],
+    "desc": "维特比1967年提出的隐状态网格动态规划最大似然译码，用于编码与语音识别。"
+  },
+  {
+    "id": "rkf45_fehlberg",
+    "name": "RKF45变步长龙格-库塔",
+    "nameEn": "Runge–Kutta–Fehlberg method",
+    "wikiEn": "Runge–Kutta–Fehlberg method",
+    "aliases": [
+      "费尔贝格法",
+      "RKF45",
+      "Fehlberg method",
+      "嵌入龙格库塔"
+    ],
+    "year": 1969,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "runge_kutta_methods"
+    ],
+    "related": [
+      "dormand_prince",
+      "adams_multistep_method"
+    ],
+    "desc": "费尔贝格1969年以两个嵌入格式估计误差、自控步长，开启自适应ODE积分。"
+  },
+  {
+    "id": "filtered_backprojection",
+    "name": "滤波反投影",
+    "nameEn": "Tomographic reconstruction",
+    "wikiEn": "Tomographic reconstruction",
+    "aliases": [
+      "FBP",
+      "filtered backprojection",
+      "卷积反投影",
+      "CT解析重建"
+    ],
+    "year": 1971,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "radon_transform",
+      "fourier_analysis"
+    ],
+    "related": [
+      "compressed_sensing",
+      "tikhonov_regularization"
+    ],
+    "desc": "1971年提出斜坡滤波后反投影的CT重建算法，解析重建速度快，长期作为临床标准。"
+  },
+  {
+    "id": "finite_volume_method",
+    "name": "有限体积法",
+    "nameEn": "Finite volume method",
+    "wikiEn": "Finite volume method",
+    "aliases": [
+      "有限体积",
+      "FVM",
+      "控制体积法",
+      "有限体积离散"
+    ],
+    "year": 1971,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "godunov_scheme",
+      "finite_difference_method"
+    ],
+    "related": [
+      "upwind_scheme",
+      "mac_grid"
+    ],
+    "desc": "控制体通量平衡离散，严格守恒、适配非结构网格，1971年成为CFD主导方法。"
+  },
+  {
+    "id": "radial_basis_functions",
+    "name": "径向基函数",
+    "nameEn": "Radial basis function",
+    "wikiEn": "Radial basis function",
+    "aliases": [
+      "径向基",
+      "RBF",
+      "径向基插值",
+      "Hardy多二次曲面"
+    ],
+    "year": 1971,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "lagrange_interpolation"
+    ],
+    "related": [
+      "sph_method",
+      "krige_gaussian_process"
+    ],
+    "desc": "哈迪1971年用多二次曲面插值散乱地形数据，仅依赖距离的基函数后推广到神经网络。"
+  },
+  {
+    "id": "spectral_methods",
+    "name": "谱方法",
+    "nameEn": "Spectral method",
+    "wikiEn": "Spectral method",
+    "aliases": [
+      "谱离散",
+      "Galerkin谱方法",
+      "切比雪夫谱方法",
+      "拟谱法"
+    ],
+    "year": 1971,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "fourier_analysis",
+      "chebyshev_polynomials"
+    ],
+    "related": [
+      "finite_element_method",
+      "clenshaw_curtis_quadrature"
+    ],
+    "desc": "戈特利布等1970年代发展，以全局光滑基函数展开PDE解，光滑问题具指数级精度。"
+  },
+  {
+    "id": "homogenization_math",
+    "name": "均匀化理论",
+    "nameEn": "Asymptotic homogenization",
+    "wikiEn": "Asymptotic homogenization",
+    "aliases": [
+      "均质化",
+      "渐近均匀化",
+      "homogenization",
+      "双尺度均匀化"
+    ],
+    "year": 1977,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "singular_perturbation"
+    ],
+    "related": [
+      "finite_element_method",
+      "wkb_approximation"
+    ],
+    "desc": "1970年代以双尺度渐近展开推导周期复合材料等效方程，连接微观结构与宏观性质。"
+  },
+  {
+    "id": "sph_method",
+    "name": "光滑粒子流体动力学",
+    "nameEn": "Smoothed-particle hydrodynamics",
+    "wikiEn": "Smoothed-particle hydrodynamics",
+    "aliases": [
+      "SPH",
+      "光滑粒子法",
+      "平滑粒子流体",
+      "Gingold-Monaghan"
+    ],
+    "year": 1977,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "pic_method"
+    ],
+    "related": [
+      "radial_basis_functions"
+    ],
+    "desc": "金戈尔德与莫纳亨等1977年为天体物理创立的无网格粒子法，后用于自由液面模拟。"
+  },
+  {
+    "id": "matrix_exponential",
+    "name": "矩阵指数计算",
+    "nameEn": "Matrix exponential",
+    "wikiEn": "Matrix exponential",
+    "aliases": [
+      "矩阵指数",
+      "缩放平方法",
+      "scaling and squaring",
+      "Moler-Van Loan"
+    ],
+    "year": 1978,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "taylor_series"
+    ],
+    "related": [
+      "svd_algorithm",
+      "bdf_methods"
+    ],
+    "desc": "莫勒与范洛恩1978年综述十九种计算法，确立缩放平方法，为线性ODE主力。"
+  },
+  {
+    "id": "dormand_prince",
+    "name": "Dormand-Prince法",
+    "nameEn": "Dormand–Prince method",
+    "wikiEn": "Dormand–Prince method",
+    "aliases": [
+      "多曼德普林斯法",
+      "DOPRI5(4)",
+      "Dormand Prince",
+      "RK45"
+    ],
+    "year": 1980,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "rkf45_fehlberg"
+    ],
+    "related": [
+      "runge_kutta_methods"
+    ],
+    "desc": "多曼德与普林斯1980年的嵌入4(5)阶对，末值可复用，成为默认ODE求解器。"
+  },
+  {
+    "id": "fractional_fourier_transform",
+    "name": "分数阶傅里叶变换",
+    "nameEn": "Fractional Fourier transform",
+    "wikiEn": "Fractional Fourier transform",
+    "aliases": [
+      "分数傅里叶变换",
+      "FRFT",
+      "角傅里叶变换",
+      "fractional FT"
+    ],
+    "year": 1980,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "fourier_analysis"
+    ],
+    "related": [
+      "wavelet_transform",
+      "stft_gabor",
+      "pade_approximant"
+    ],
+    "desc": "纳米亚斯1980年以分数阶算子重新定义，可在时频平面内任意旋转分析信号。"
+  },
+  {
+    "id": "symplectic_integrator",
+    "name": "辛积分器",
+    "nameEn": "Symplectic integrator",
+    "wikiEn": "Symplectic integrator",
+    "aliases": [
+      "辛算法",
+      "辛几何积分",
+      "symplectic method",
+      "Ruth算法"
+    ],
+    "year": 1983,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "verlet_leapfrog",
+      "numerov_method"
+    ],
+    "related": [
+      "newmark_beta_method"
+    ],
+    "desc": "露丝1983年、冯康1984年独立提出保持哈密顿系统辛结构的积分法，长期不漂移。"
+  },
+  {
+    "id": "amr_method",
+    "name": "自适应网格加密",
+    "nameEn": "Adaptive mesh refinement",
+    "wikiEn": "Adaptive mesh refinement",
+    "aliases": [
+      "AMR",
+      "自适应网格细化",
+      "Berger-Oliger",
+      "嵌套加密网格"
+    ],
+    "year": 1984,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "finite_difference_method"
+    ],
+    "related": [
+      "finite_volume_method",
+      "adaptive_quadrature"
+    ],
+    "desc": "伯杰与奥利格1984年提出动态嵌套多层网格，按陡变局部加密，兼顾分辨率与计算量。"
+  },
+  {
+    "id": "wavelet_transform",
+    "name": "小波变换",
+    "nameEn": "Wavelet",
+    "wikiEn": "Wavelet",
+    "aliases": [
+      "小波",
+      "小波分析",
+      "Morlet小波",
+      "wavelet transform"
+    ],
+    "year": 1984,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "stft_gabor",
+      "fourier_analysis"
+    ],
+    "related": [
+      "multiresolution_analysis",
+      "fractional_fourier_transform",
+      "hilbert_huang_transform"
+    ],
+    "desc": "莫莱1984年提出、道贝奇1988年构造紧支撑正交基，缩放平移兼顾时频与压缩。"
+  },
+  {
+    "id": "gmres",
+    "name": "GMRES",
+    "nameEn": "Generalized minimal residual method",
+    "wikiEn": "Generalized minimal residual method",
+    "aliases": [
+      "广义最小残差法",
+      "GMRES算法",
+      "Saad-Schultz",
+      "Krylov残差最小化"
+    ],
+    "year": 1986,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "arnoldi_iteration",
+      "krylov_subspace"
+    ],
+    "related": [
+      "lanczos_algorithm",
+      "multigrid_method"
+    ],
+    "desc": "萨阿德与舒尔茨1986年的Krylov残差最小化法，解非对称方程组，重启稳健。"
+  },
+  {
+    "id": "fast_multipole_method",
+    "name": "快速多极子法",
+    "nameEn": "Fast multipole method",
+    "wikiEn": "Fast multipole method",
+    "aliases": [
+      "快速多极算法",
+      "FMM",
+      "Greengard-Rokhlin",
+      "多极展开加速"
+    ],
+    "year": 1987,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [
+      "spherical_harmonics"
+    ],
+    "related": [
+      "boundary_element_method",
+      "sparse_matrix"
+    ],
+    "desc": "格林加德与罗赫林1987年以多极展开聚合远场作用，将N体计算降至线性复杂度。"
+  },
+  {
+    "id": "multiresolution_analysis",
+    "name": "多分辨分析",
+    "nameEn": "Multiresolution analysis",
+    "wikiEn": "Multiresolution analysis",
+    "aliases": [
+      "多分辨率分析",
+      "MRA",
+      "Mallat算法",
+      "Mallat-Meyer理论"
+    ],
+    "year": 1989,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "wavelet_transform"
+    ],
+    "related": [
+      "stft_gabor",
+      "fourier_analysis"
+    ],
+    "desc": "马拉与梅耶1989年建立尺度空间嵌套理论与快速小波分解重构滤波器组。"
+  },
+  {
+    "id": "quasi_monte_carlo",
+    "name": "拟蒙特卡洛方法",
+    "nameEn": "Quasi-Monte Carlo method",
+    "wikiEn": "Quasi-Monte Carlo method",
+    "aliases": [
+      "拟蒙特卡洛",
+      "QMC",
+      "低差异序列",
+      "low-discrepancy sequence"
+    ],
+    "year": 1992,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "monte_carlo_method"
+    ],
+    "related": [
+      "gaussian_quadrature"
+    ],
+    "desc": "尼德赖特1992年系统总结以低差异确定性序列代替随机采样，高维积分误差阶更优。"
+  },
+  {
+    "id": "turbo_code",
+    "name": "Turbo码",
+    "nameEn": "Turbo code",
+    "wikiEn": "Turbo code",
+    "aliases": [
+      "涡轮码",
+      "Turbo编码",
+      "并行级联码",
+      "Berrou码"
+    ],
+    "year": 1993,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "convolutional_code"
+    ],
+    "related": [
+      "ldpc_code",
+      "viterbi_algorithm",
+      "information_theory"
+    ],
+    "desc": "贝鲁等1993年发表的交织并行级联码加迭代译码，逼近香农极限，改变信道编码范式。"
+  },
+  {
+    "id": "hilbert_huang_transform",
+    "name": "希尔伯特-黄变换",
+    "nameEn": "Hilbert–Huang transform",
+    "wikiEn": "Hilbert–Huang transform",
+    "aliases": [
+      "HHT",
+      "黄锷变换",
+      "经验模态分解",
+      "EMD"
+    ],
+    "year": 1998,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "fourier_analysis"
+    ],
+    "related": [
+      "wavelet_transform",
+      "stft_gabor"
+    ],
+    "desc": "黄锷1998年提出经验模态分解加希尔伯特谱，自适应处理非线性非平稳信号。"
+  },
+  {
+    "id": "isogeometric_analysis",
+    "name": "等几何分析",
+    "nameEn": "Isogeometric analysis",
+    "wikiEn": "Isogeometric analysis",
+    "aliases": [
+      "等几何法",
+      "IGA",
+      "NURBS有限元",
+      "Hughes等几何"
+    ],
+    "year": 2005,
+    "era": "intelligent",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "b_spline",
+      "finite_element_method"
+    ],
+    "related": [
+      "isoparametric_elements"
+    ],
+    "desc": "休斯等2005年以CAD的NURBS基函数直接仿真，免去设计与分析间网格转换。"
+  },
+  {
+    "id": "compressed_sensing",
+    "name": "压缩感知",
+    "nameEn": "Compressed sensing",
+    "wikiEn": "Compressed sensing",
+    "aliases": [
+      "压缩传感",
+      "压缩采样",
+      "compressive sensing",
+      "稀疏恢复"
+    ],
+    "year": 2006,
+    "era": "intelligent",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "information_theory",
+      "fourier_analysis"
+    ],
+    "related": [
+      "radon_transform",
+      "filtered_backprojection",
+      "lp_spaces"
+    ],
+    "desc": "坎代斯、陶哲轩与多诺霍2006年证明稀疏信号可由少量测量恢复，催生稀疏MRI。"
+  }
+]

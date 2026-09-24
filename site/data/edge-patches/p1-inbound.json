@@ -1,0 +1,22 @@
+[
+  {"id": "roman_concrete", "add_prereqs": ["lime_mortar"], "reason": "罗马混凝土以石灰为胶凝材料，是石灰砂浆的骨料升级版"},
+  {"id": "portland_cement", "add_prereqs": ["lime_mortar"], "reason": "波特兰水泥仍是石灰石黏土烧成的水硬性胶凝体，承石灰胶结一脉"},
+  {"id": "fired_brick", "add_related": ["lime_mortar"], "reason": "砖与胶结料配套使用，砌体才成整体"},
+  {"id": "reinforced_concrete", "add_prereqs": ["euler_bernoulli_beam_theory"], "reason": "钢筋混凝土梁的承载计算以梁弯曲理论为前提"},
+  {"id": "prestressed_concrete", "add_prereqs": ["euler_bernoulli_beam_theory"], "reason": "预应力按弯矩与挠度反算配筋与索力，直接取用梁理论"},
+  {"id": "limit_state_design", "add_prereqs": ["euler_bernoulli_beam_theory", "soil_mechanics"], "reason": "极限状态校核的抗力项来自梁与地基的力学计算"},
+  {"id": "self_consolidating_concrete", "add_related": ["limit_state_design"], "reason": "自密实混凝土的采用以按极限状态校核的规范体系为前提"},
+  {"id": "zoning_regulation", "add_prereqs": ["building_code"], "reason": "分区制与建筑法规同为城市形态管控的近代工具，前者的许可逻辑来自后者"},
+  {"id": "fire_sprinkler", "add_related": ["building_code"], "reason": "喷淋装置因建筑法规的防火强制条款而普及"},
+  {"id": "scientific_journal", "add_related": ["peer_review"], "reason": "期刊制度提供了同行评议得以运作的载体"},
+  {"id": "randomized_controlled_trial", "add_related": ["peer_review"], "reason": "临床证据的分级与发表把关依赖评议制度"},
+  {"id": "pearl_bayesian_networks", "add_prereqs": ["metropolis_hastings"], "reason": "贝叶斯网络的后验推断以 MCMC 抽样为计算手段"},
+  {"id": "jeffreys_savage_bayes_revival", "add_related": ["metropolis_hastings"], "reason": "主观贝叶斯复兴提供了 MH 算法要服务的后验计算需求"},
+  {"id": "kuznets_national_income", "add_related": ["public_debt_system"], "reason": "国民收入核算把公共债务纳入政府部门的资金流量表"},
+  {"id": "dwarf_wheat", "add_prereqs": ["wheat"], "reason": "矮秆育种的对象就是小麦本身"},
+  {"id": "green_revolution", "add_prereqs": ["wheat"], "reason": "绿色革命以小麦与水稻高产品种的推广为核心"},
+  {"id": "green_revolution", "add_related": ["hybrid_rice"], "reason": "杂交稻是绿色革命在亚洲的另一支柱，与矮秆小麦并列"},
+  {"id": "breakfast_cereal", "add_prereqs": ["columbian_exchange"], "reason": "早餐谷物工业的原料（玉米等美洲作物）经哥伦布大交换进入旧大陆市场"},
+  {"id": "oled", "add_related": ["ingan_quantum_well_led"], "reason": "同为电致发光器件谱系，InGaN 量子阱确立了宽禁带发光的有源区设计"},
+  {"id": "concrete_pump", "add_related": ["lime_mortar"], "reason": "泵送混凝土与胶凝砂浆同属现代胶结材料施工链"}
+]

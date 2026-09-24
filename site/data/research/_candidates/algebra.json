@@ -1,0 +1,5630 @@
+[
+  {
+    "nameEn": "3D projection",
+    "wikiEn": "3D projection",
+    "name": "三维投影",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Abel polynomials",
+    "wikiEn": "Abel polynomials",
+    "name": "阿貝爾多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Abel's binomial theorem",
+    "wikiEn": "Abel's binomial theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Abel's identity",
+    "wikiEn": "Abel's identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Abel's irreducibility theorem",
+    "wikiEn": "Abel's irreducibility theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Abramov's algorithm",
+    "wikiEn": "Abramov's algorithm",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Absolute value (algebra)",
+    "wikiEn": "Absolute value (algebra)",
+    "name": "绝对赋值",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Absolutely convex set",
+    "wikiEn": "Absolutely convex set",
+    "name": "绝对凸集",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Absorption law",
+    "wikiEn": "Absorption law",
+    "name": "吸收律",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Abstract algebra",
+    "wikiEn": "Abstract algebra",
+    "name": "抽象代数",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Actuarial polynomials",
+    "wikiEn": "Actuarial polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Adams operation",
+    "wikiEn": "Adams operation",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Addition theorem",
+    "wikiEn": "Addition theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Additive identity",
+    "wikiEn": "Additive identity",
+    "name": "加法單位元",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Additive inverse",
+    "wikiEn": "Additive inverse",
+    "name": "加法逆元",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Additive polynomial",
+    "wikiEn": "Additive polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Adequate subcategory",
+    "wikiEn": "Adequate subcategory",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Adjacency algebra",
+    "wikiEn": "Adjacency algebra",
+    "name": "邻接代数",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Adjacency matrix",
+    "wikiEn": "Adjacency matrix",
+    "name": "邻接矩阵",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Adjugate matrix",
+    "wikiEn": "Adjugate matrix",
+    "name": "伴随矩阵",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Affine space",
+    "wikiEn": "Affine space",
+    "name": "仿射空间",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Aitken interpolation",
+    "wikiEn": "Aitken interpolation",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Albertson index",
+    "wikiEn": "Albertson index",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Alexander polynomial",
+    "wikiEn": "Alexander polynomial",
+    "name": "亞歷山大多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Algebra",
+    "wikiEn": "Algebra",
+    "name": "代数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Algebra (book)",
+    "wikiEn": "Algebra (book)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Algebra: Chapter 0",
+    "wikiEn": "Algebra: Chapter 0",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Algebraic connectivity",
+    "wikiEn": "Algebraic connectivity",
+    "name": "代数连通度",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Algebraic equation",
+    "wikiEn": "Algebraic equation",
+    "name": "代数方程",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Algebraic expression",
+    "wikiEn": "Algebraic expression",
+    "name": "代數式",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Algebraic fraction",
+    "wikiEn": "Algebraic fraction",
+    "name": "代數分式",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Algebraic function",
+    "wikiEn": "Algebraic function",
+    "name": "代數函數",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Algebraic graph theory",
+    "wikiEn": "Algebraic graph theory",
+    "name": "代数图论",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Algebraic operation",
+    "wikiEn": "Algebraic operation",
+    "name": "",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Algebraic set",
+    "wikiEn": "Algebraic set",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Algebraic signal processing",
+    "wikiEn": "Algebraic signal processing",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Algebraic structure",
+    "wikiEn": "Algebraic structure",
+    "name": "代数结构",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "All one polynomial",
+    "wikiEn": "All one polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Alon–Boppana bound",
+    "wikiEn": "Alon–Boppana bound",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Alpha centrality",
+    "wikiEn": "Alpha centrality",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Alternating polynomial",
+    "wikiEn": "Alternating polynomial",
+    "name": "交错多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Amitsur–Levitzki theorem",
+    "wikiEn": "Amitsur–Levitzki theorem",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Angelescu polynomials",
+    "wikiEn": "Angelescu polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Angles between flats",
+    "wikiEn": "Angles between flats",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Annihilating polynomial",
+    "wikiEn": "Annihilating polynomial",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Antilinear map",
+    "wikiEn": "Antilinear map",
+    "name": "反线性映射",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Antiunitary operator",
+    "wikiEn": "Antiunitary operator",
+    "name": "反幺正算符",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Appell sequence",
+    "wikiEn": "Appell sequence",
+    "name": "阿佩爾序列",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Arity",
+    "wikiEn": "Arity",
+    "name": "元数",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Associative property",
+    "wikiEn": "Associative property",
+    "name": "结合律",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Asymmetric norm",
+    "wikiEn": "Asymmetric norm",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Automatic differentiation",
+    "wikiEn": "Automatic differentiation",
+    "name": "自動微分",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Automorphism",
+    "wikiEn": "Automorphism",
+    "name": "自同构",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Ax–Grothendieck theorem",
+    "wikiEn": "Ax–Grothendieck theorem",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "A∞-operad",
+    "wikiEn": "A∞-operad",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Babai's problem",
+    "wikiEn": "Babai's problem",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Backus–Gilbert method",
+    "wikiEn": "Backus–Gilbert method",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Balanced set",
+    "wikiEn": "Balanced set",
+    "name": "平衡集",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Bareiss algorithm",
+    "wikiEn": "Bareiss algorithm",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Barycentric coordinate system",
+    "wikiEn": "Barycentric coordinate system",
+    "name": "重心坐标",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Basis (linear algebra)",
+    "wikiEn": "Basis (linear algebra)",
+    "name": "基 (線性代數)",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Basis function",
+    "wikiEn": "Basis function",
+    "name": "基函數",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Bell polynomials",
+    "wikiEn": "Bell polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bender–Knuth involution",
+    "wikiEn": "Bender–Knuth involution",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Bendixson's inequality",
+    "wikiEn": "Bendixson's inequality",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Berlekamp's algorithm",
+    "wikiEn": "Berlekamp's algorithm",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Berlekamp–Rabin algorithm",
+    "wikiEn": "Berlekamp–Rabin algorithm",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Berlekamp–Zassenhaus algorithm",
+    "wikiEn": "Berlekamp–Zassenhaus algorithm",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Bernoulli polynomials",
+    "wikiEn": "Bernoulli polynomials",
+    "name": "伯努利多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bernoulli polynomials of the second kind",
+    "wikiEn": "Bernoulli polynomials of the second kind",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bernstein polynomial",
+    "wikiEn": "Bernstein polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bernstein–Kushnirenko theorem",
+    "wikiEn": "Bernstein–Kushnirenko theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Bernstein–Sato polynomial",
+    "wikiEn": "Bernstein–Sato polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bidiagonal matrix",
+    "wikiEn": "Bidiagonal matrix",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Bifundamental representation",
+    "wikiEn": "Bifundamental representation",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Big M method",
+    "wikiEn": "Big M method",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Bilinear form",
+    "wikiEn": "Bilinear form",
+    "name": "雙線性形式",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Binary expression tree",
+    "wikiEn": "Binary expression tree",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Binomial (polynomial)",
+    "wikiEn": "Binomial (polynomial)",
+    "name": "二项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Binomial type",
+    "wikiEn": "Binomial type",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Block LU decomposition",
+    "wikiEn": "Block LU decomposition",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Board puzzles with algebra of binary variables",
+    "wikiEn": "Board puzzles with algebra of binary variables",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Boas–Buck polynomials",
+    "wikiEn": "Boas–Buck polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bochner identity",
+    "wikiEn": "Bochner identity",
+    "name": "博赫纳恒等式",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Bochner–Kodaira–Nakano identity",
+    "wikiEn": "Bochner–Kodaira–Nakano identity",
+    "name": "博赫纳–小平–中野恒等式",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Bollobás–Riordan polynomial",
+    "wikiEn": "Bollobás–Riordan polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bombieri norm",
+    "wikiEn": "Bombieri norm",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Boole polynomials",
+    "wikiEn": "Boole polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bose–Mesner algebra",
+    "wikiEn": "Bose–Mesner algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Bracket polynomial",
+    "wikiEn": "Bracket polynomial",
+    "name": "括號多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Brahmagupta polynomials",
+    "wikiEn": "Brahmagupta polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bra–ket notation",
+    "wikiEn": "Bra–ket notation",
+    "name": "狄拉克符号",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Bring radical",
+    "wikiEn": "Bring radical",
+    "name": "布靈根式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Brouwer's conjecture",
+    "wikiEn": "Brouwer's conjecture",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Buchberger's algorithm",
+    "wikiEn": "Buchberger's algorithm",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Bunch–Nielsen–Sorensen formula",
+    "wikiEn": "Bunch–Nielsen–Sorensen formula",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Bézout matrix",
+    "wikiEn": "Bézout matrix",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "CSS code",
+    "wikiEn": "CSS code",
+    "name": "CSS纠错码",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Caloric polynomial",
+    "wikiEn": "Caloric polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Cancelling out",
+    "wikiEn": "Cancelling out",
+    "name": "",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Canonical basis",
+    "wikiEn": "Canonical basis",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Canonical form",
+    "wikiEn": "Canonical form",
+    "name": "规范形",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cantor–Zassenhaus algorithm",
+    "wikiEn": "Cantor–Zassenhaus algorithm",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Capelli's identity",
+    "wikiEn": "Capelli's identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Carlitz–Wan conjecture",
+    "wikiEn": "Carlitz–Wan conjecture",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Carlyle circle",
+    "wikiEn": "Carlyle circle",
+    "name": "",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Cartan formula",
+    "wikiEn": "Cartan formula",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Cartesian tensor",
+    "wikiEn": "Cartesian tensor",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Cas (mathematics)",
+    "wikiEn": "Cas (mathematics)",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Cassini and Catalan identities",
+    "wikiEn": "Cassini and Catalan identities",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Casus irreducibilis",
+    "wikiEn": "Casus irreducibilis",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Category of matrices",
+    "wikiEn": "Category of matrices",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Category of modules",
+    "wikiEn": "Category of modules",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Cauchy sequence",
+    "wikiEn": "Cauchy sequence",
+    "name": "柯西序列",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Cauchy–Schwarz inequality",
+    "wikiEn": "Cauchy–Schwarz inequality",
+    "name": "柯西-施瓦茨不等式",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Cavalieri's quadrature formula",
+    "wikiEn": "Cavalieri's quadrature formula",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Center (algebra)",
+    "wikiEn": "Center (algebra)",
+    "name": "中心 (代数)",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Centrality",
+    "wikiEn": "Centrality",
+    "name": "中",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Centralizer and normalizer",
+    "wikiEn": "Centralizer and normalizer",
+    "name": "中心化子和正规化子",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Centrosymmetric matrix",
+    "wikiEn": "Centrosymmetric matrix",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Chain rule (probability)",
+    "wikiEn": "Chain rule (probability)",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Change of basis",
+    "wikiEn": "Change of basis",
+    "name": "基变更",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Change of variables",
+    "wikiEn": "Change of variables",
+    "name": "变量变换",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Characteristic polynomial",
+    "wikiEn": "Characteristic polynomial",
+    "name": "特徵多項式",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Chebyshev polynomials",
+    "wikiEn": "Chebyshev polynomials",
+    "name": "切比雪夫多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Chevalley–Warning theorem",
+    "wikiEn": "Chevalley–Warning theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Choi's theorem on completely positive maps",
+    "wikiEn": "Choi's theorem on completely positive maps",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Cis (mathematics)",
+    "wikiEn": "Cis (mathematics)",
+    "name": "Cis函數",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Cish (mathematics)",
+    "wikiEn": "Cish (mathematics)",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Classification of finite simple groups",
+    "wikiEn": "Classification of finite simple groups",
+    "name": "有限單群分類",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Clearing denominators",
+    "wikiEn": "Clearing denominators",
+    "name": "",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Closed-form expression",
+    "wikiEn": "Closed-form expression",
+    "name": "封閉形式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Closure (mathematics)",
+    "wikiEn": "Closure (mathematics)",
+    "name": "闭包 (数学)",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Closure with a twist",
+    "wikiEn": "Closure with a twist",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Clustering coefficient",
+    "wikiEn": "Clustering coefficient",
+    "name": "集聚系数",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Coates graph",
+    "wikiEn": "Coates graph",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Codimension",
+    "wikiEn": "Codimension",
+    "name": "餘維數",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Coefficient",
+    "wikiEn": "Coefficient",
+    "name": "系数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Coefficient diagram method",
+    "wikiEn": "Coefficient diagram method",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Coefficient matrix",
+    "wikiEn": "Coefficient matrix",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Cohn's irreducibility criterion",
+    "wikiEn": "Cohn's irreducibility criterion",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Coimage",
+    "wikiEn": "Coimage",
+    "name": "余象",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Cokernel",
+    "wikiEn": "Cokernel",
+    "name": "余核",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Combinatorial matrix theory",
+    "wikiEn": "Combinatorial matrix theory",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Commutation matrix",
+    "wikiEn": "Commutation matrix",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Commutative property",
+    "wikiEn": "Commutative property",
+    "name": "交換律",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Commutator",
+    "wikiEn": "Commutator",
+    "name": "交換子",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Complete homogeneous symmetric polynomial",
+    "wikiEn": "Complete homogeneous symmetric polynomial",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Completing the square",
+    "wikiEn": "Completing the square",
+    "name": "配方法",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Complex conjugate of a vector space",
+    "wikiEn": "Complex conjugate of a vector space",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Complex network zeta function",
+    "wikiEn": "Complex network zeta function",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Complex number",
+    "wikiEn": "Complex number",
+    "name": "复数 (数学)",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Complex quadratic polynomial",
+    "wikiEn": "Complex quadratic polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Compressed sensing",
+    "wikiEn": "Compressed sensing",
+    "name": "壓縮感知",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Computer algebra",
+    "wikiEn": "Computer algebra",
+    "name": "計算機代數",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Computing the permanent",
+    "wikiEn": "Computing the permanent",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Conditional event algebra",
+    "wikiEn": "Conditional event algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Conditional trigonometric identity",
+    "wikiEn": "Conditional trigonometric identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Conductance (graph theory)",
+    "wikiEn": "Conductance (graph theory)",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Conference graph",
+    "wikiEn": "Conference graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Conference matrix",
+    "wikiEn": "Conference matrix",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Conformable matrix",
+    "wikiEn": "Conformable matrix",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Conformal linear transformation",
+    "wikiEn": "Conformal linear transformation",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Congruence relation",
+    "wikiEn": "Congruence relation",
+    "name": "同餘關係",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Conjugate (square roots)",
+    "wikiEn": "Conjugate (square roots)",
+    "name": "",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Conjugate transpose",
+    "wikiEn": "Conjugate transpose",
+    "name": "共轭转置",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Conservation form",
+    "wikiEn": "Conservation form",
+    "name": "守恆形式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Consistent and inconsistent equations",
+    "wikiEn": "Consistent and inconsistent equations",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Constant (mathematics)",
+    "wikiEn": "Constant (mathematics)",
+    "name": "常数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Constant term",
+    "wikiEn": "Constant term",
+    "name": "",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Constant-recursive sequence",
+    "wikiEn": "Constant-recursive sequence",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Continuant (mathematics)",
+    "wikiEn": "Continuant (mathematics)",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Continuous-time quantum walk",
+    "wikiEn": "Continuous-time quantum walk",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Control variable",
+    "wikiEn": "Control variable",
+    "name": "控制變數",
+    "subcat": "Variables (mathematics)"
+  },
+  {
+    "nameEn": "Controlled invariant subspace",
+    "wikiEn": "Controlled invariant subspace",
+    "name": "受控不變子空間",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Convex cone",
+    "wikiEn": "Convex cone",
+    "name": "凸锥",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Conway polynomial (finite fields)",
+    "wikiEn": "Conway polynomial (finite fields)",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Coordinate vector",
+    "wikiEn": "Coordinate vector",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Corank",
+    "wikiEn": "Corank",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Cover (algebra)",
+    "wikiEn": "Cover (algebra)",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Crystallographic restriction theorem",
+    "wikiEn": "Crystallographic restriction theorem",
+    "name": "晶体学限制定理",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Cube root",
+    "wikiEn": "Cube root",
+    "name": "立方根",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Cubic equation",
+    "wikiEn": "Cubic equation",
+    "name": "三次方程",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Cycle basis",
+    "wikiEn": "Cycle basis",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Cycle graph (algebra)",
+    "wikiEn": "Cycle graph (algebra)",
+    "name": "環圖",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Cycle space",
+    "wikiEn": "Cycle space",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Cyclic redundancy check",
+    "wikiEn": "Cyclic redundancy check",
+    "name": "循環冗餘校驗",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Cyclic subspace",
+    "wikiEn": "Cyclic subspace",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Cyclic vector",
+    "wikiEn": "Cyclic vector",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Cyclical monotonicity",
+    "wikiEn": "Cyclical monotonicity",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Cyclotomic identity",
+    "wikiEn": "Cyclotomic identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Cyclotomic polynomial",
+    "wikiEn": "Cyclotomic polynomial",
+    "name": "分圆多项式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cylinder (algebra)",
+    "wikiEn": "Cylinder (algebra)",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Cylindrical algebraic decomposition",
+    "wikiEn": "Cylindrical algebraic decomposition",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Defective matrix",
+    "wikiEn": "Defective matrix",
+    "name": "缺失矩阵",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Definite quadratic form",
+    "wikiEn": "Definite quadratic form",
+    "name": "确定双线性形式",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Degree matrix",
+    "wikiEn": "Degree matrix",
+    "name": "度数矩阵",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Degree of a polynomial",
+    "wikiEn": "Degree of a polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Delta operator",
+    "wikiEn": "Delta operator",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Denisyuk polynomials",
+    "wikiEn": "Denisyuk polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Dependence relation",
+    "wikiEn": "Dependence relation",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Derivation of the Routh array",
+    "wikiEn": "Derivation of the Routh array",
+    "name": "勞斯陣列的推導",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Determinant",
+    "wikiEn": "Determinant",
+    "name": "行列式",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Dickson polynomial",
+    "wikiEn": "Dickson polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Dieudonné determinant",
+    "wikiEn": "Dieudonné determinant",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Difference polynomials",
+    "wikiEn": "Difference polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Differential graded module",
+    "wikiEn": "Differential graded module",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Differentiation of trigonometric functions",
+    "wikiEn": "Differentiation of trigonometric functions",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Differentiation rules",
+    "wikiEn": "Differentiation rules",
+    "name": "导数列表",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Digital root",
+    "wikiEn": "Digital root",
+    "name": "數根",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Digroup",
+    "wikiEn": "Digroup",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Dimension",
+    "wikiEn": "Dimension",
+    "name": "維度",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Dimension (vector space)",
+    "wikiEn": "Dimension (vector space)",
+    "name": "向量空间的维数",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Dimension of an algebraic variety",
+    "wikiEn": "Dimension of an algebraic variety",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Direct limit",
+    "wikiEn": "Direct limit",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Direct product",
+    "wikiEn": "Direct product",
+    "name": "直积",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Direct sum",
+    "wikiEn": "Direct sum",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Direct sum of matrices",
+    "wikiEn": "Direct sum of matrices",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Direct sum of modules",
+    "wikiEn": "Direct sum of modules",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Dirichlet series",
+    "wikiEn": "Dirichlet series",
+    "name": "狄利克雷级数",
+    "subcat": "Series expansions"
+  },
+  {
+    "nameEn": "Discriminant",
+    "wikiEn": "Discriminant",
+    "name": "判别式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Distance-regular graph",
+    "wikiEn": "Distance-regular graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Distance-transitive graph",
+    "wikiEn": "Distance-transitive graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Distribution (number theory)",
+    "wikiEn": "Distribution (number theory)",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Distribution algebra",
+    "wikiEn": "Distribution algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Distributive homomorphism",
+    "wikiEn": "Distributive homomorphism",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Distributive property",
+    "wikiEn": "Distributive property",
+    "name": "分配律",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Divided power structure",
+    "wikiEn": "Divided power structure",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Division polynomials",
+    "wikiEn": "Division polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Dixmier conjecture",
+    "wikiEn": "Dixmier conjecture",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Dixon's identity",
+    "wikiEn": "Dixon's identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Dual basis",
+    "wikiEn": "Dual basis",
+    "name": "对偶基",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Dual basis in a field extension",
+    "wikiEn": "Dual basis in a field extension",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Dual graph",
+    "wikiEn": "Dual graph",
+    "name": "对偶图",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Dual norm",
+    "wikiEn": "Dual norm",
+    "name": "对偶范数",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Dual number",
+    "wikiEn": "Dual number",
+    "name": "二元数",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Dual space",
+    "wikiEn": "Dual space",
+    "name": "对偶空间",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Dyson conjecture",
+    "wikiEn": "Dyson conjecture",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Edge and vertex spaces",
+    "wikiEn": "Edge and vertex spaces",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Edge-transitive graph",
+    "wikiEn": "Edge-transitive graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Edmonds matrix",
+    "wikiEn": "Edmonds matrix",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Ehrhart polynomial",
+    "wikiEn": "Ehrhart polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Eigengap",
+    "wikiEn": "Eigengap",
+    "name": "特征裂隙",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Eigenoperator",
+    "wikiEn": "Eigenoperator",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Eigenplane",
+    "wikiEn": "Eigenplane",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Eigenvalue perturbation",
+    "wikiEn": "Eigenvalue perturbation",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Eigenvalues and eigenvectors",
+    "wikiEn": "Eigenvalues and eigenvectors",
+    "name": "特征值和特征向量",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Eilenberg–Watts theorem",
+    "wikiEn": "Eilenberg–Watts theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Eisenstein's criterion",
+    "wikiEn": "Eisenstein's criterion",
+    "name": "艾森斯坦判別法",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Electronic Journal of Linear Algebra",
+    "wikiEn": "Electronic Journal of Linear Algebra",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Elementary Number Theory, Group Theory and Ramanujan Graphs",
+    "wikiEn": "Elementary Number Theory, Group Theory and Ramanujan Graphs",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Elementary algebra",
+    "wikiEn": "Elementary algebra",
+    "name": "初等代數",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Elementary function",
+    "wikiEn": "Elementary function",
+    "name": "初等函数",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Elementary matrix",
+    "wikiEn": "Elementary matrix",
+    "name": "初等矩阵",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Elementary symmetric polynomial",
+    "wikiEn": "Elementary symmetric polynomial",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Elimination theory",
+    "wikiEn": "Elimination theory",
+    "name": "消去法",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Embedding",
+    "wikiEn": "Embedding",
+    "name": "嵌入 (数学)",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Emmy Noether bibliography",
+    "wikiEn": "Emmy Noether bibliography",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Entanglement-assisted stabilizer formalism",
+    "wikiEn": "Entanglement-assisted stabilizer formalism",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Enumerator polynomial",
+    "wikiEn": "Enumerator polynomial",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Equally spaced polynomial",
+    "wikiEn": "Equally spaced polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Equating coefficients",
+    "wikiEn": "Equating coefficients",
+    "name": "",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Equation",
+    "wikiEn": "Equation",
+    "name": "方程",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Equitable partition",
+    "wikiEn": "Equitable partition",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Equivalence class",
+    "wikiEn": "Equivalence class",
+    "name": "等价类",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Euclidean space",
+    "wikiEn": "Euclidean space",
+    "name": "欧几里得空间",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Euclidean vector",
+    "wikiEn": "Euclidean vector",
+    "name": "向量",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Euler's identity",
+    "wikiEn": "Euler's identity",
+    "name": "歐拉恆等式",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Euler's totient function",
+    "wikiEn": "Euler's totient function",
+    "name": "欧拉函数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Eventually stable polynomial",
+    "wikiEn": "Eventually stable polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Expander mixing lemma",
+    "wikiEn": "Expander mixing lemma",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Exponential polynomial",
+    "wikiEn": "Exponential polynomial",
+    "name": "指數多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Expression (mathematics)",
+    "wikiEn": "Expression (mathematics)",
+    "name": "表達式",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Exterior calculus identities",
+    "wikiEn": "Exterior calculus identities",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "External ray",
+    "wikiEn": "External ray",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Extraneous and missing solutions",
+    "wikiEn": "Extraneous and missing solutions",
+    "name": "增失根",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "E∞-operad",
+    "wikiEn": "E∞-operad",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "FGLM algorithm",
+    "wikiEn": "FGLM algorithm",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "FOIL method",
+    "wikiEn": "FOIL method",
+    "name": "乘法分配律",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Faber polynomials",
+    "wikiEn": "Faber polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Factorization",
+    "wikiEn": "Factorization",
+    "name": "因式分解",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Factorization algebra",
+    "wikiEn": "Factorization algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Factorization of polynomials",
+    "wikiEn": "Factorization of polynomials",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Factorization of polynomials over finite fields",
+    "wikiEn": "Factorization of polynomials over finite fields",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Faddeev–LeVerrier algorithm",
+    "wikiEn": "Faddeev–LeVerrier algorithm",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Faltings' annihilator theorem",
+    "wikiEn": "Faltings' annihilator theorem",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Fangcheng (mathematics)",
+    "wikiEn": "Fangcheng (mathematics)",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Faugère's F4 and F5 algorithms",
+    "wikiEn": "Faugère's F4 and F5 algorithms",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Fay's trisecant identity",
+    "wikiEn": "Fay's trisecant identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Fekete polynomial",
+    "wikiEn": "Fekete polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Fibonacci polynomials",
+    "wikiEn": "Fibonacci polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Fibrations of graphs",
+    "wikiEn": "Fibrations of graphs",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Field (mathematics)",
+    "wikiEn": "Field (mathematics)",
+    "name": "域 (数学)",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Fierz identity",
+    "wikiEn": "Fierz identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Filtration (mathematics)",
+    "wikiEn": "Filtration (mathematics)",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Finite von Neumann algebra",
+    "wikiEn": "Finite von Neumann algebra",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "First and second fundamental theorems of invariant theory",
+    "wikiEn": "First and second fundamental theorems of invariant theory",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Flag (linear algebra)",
+    "wikiEn": "Flag (linear algebra)",
+    "name": "標記 (線性代數)",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Flat (geometry)",
+    "wikiEn": "Flat (geometry)",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Formal derivative",
+    "wikiEn": "Formal derivative",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Formal power series",
+    "wikiEn": "Formal power series",
+    "name": "形式幂级数",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Formula",
+    "wikiEn": "Formula",
+    "name": "数学公式",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Forster–Swan theorem",
+    "wikiEn": "Forster–Swan theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Fox–Wright function",
+    "wikiEn": "Fox–Wright function",
+    "name": "",
+    "subcat": "Series expansions"
+  },
+  {
+    "nameEn": "Frame (linear algebra)",
+    "wikiEn": "Frame (linear algebra)",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Fredholm alternative",
+    "wikiEn": "Fredholm alternative",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Fredholm's theorem",
+    "wikiEn": "Fredholm's theorem",
+    "name": "弗雷德霍姆定理",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Free object",
+    "wikiEn": "Free object",
+    "name": "自由對象",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Free presentation",
+    "wikiEn": "Free presentation",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Free product of associative algebras",
+    "wikiEn": "Free product of associative algebras",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Fresh variable",
+    "wikiEn": "Fresh variable",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Frobenius determinant theorem",
+    "wikiEn": "Frobenius determinant theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Frobenius normal form",
+    "wikiEn": "Frobenius normal form",
+    "name": "弗罗贝尼乌斯标准形",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Frobenius reciprocity theorem",
+    "wikiEn": "Frobenius reciprocity theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Frucht's theorem",
+    "wikiEn": "Frucht's theorem",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Function space",
+    "wikiEn": "Function space",
+    "name": "函数空间",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Fundamental theorem of finitely generated abelian groups",
+    "wikiEn": "Fundamental theorem of finitely generated abelian groups",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Fusion frame",
+    "wikiEn": "Fusion frame",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Gap metric",
+    "wikiEn": "Gap metric",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Garside element",
+    "wikiEn": "Garside element",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Gelfand–Kirillov dimension",
+    "wikiEn": "Gelfand–Kirillov dimension",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "General Leibniz rule",
+    "wikiEn": "General Leibniz rule",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "General linear group",
+    "wikiEn": "General linear group",
+    "name": "一般线性群",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Generalizations of Pauli matrices",
+    "wikiEn": "Generalizations of Pauli matrices",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Generalized Appell polynomials",
+    "wikiEn": "Generalized Appell polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Generalized Poisson distribution on a locally compact Abelian group",
+    "wikiEn": "Generalized Poisson distribution on a locally compact Abelian group",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Generalized arithmetic progression",
+    "wikiEn": "Generalized arithmetic progression",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Generalized eigenvector",
+    "wikiEn": "Generalized eigenvector",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Generalized singular value decomposition",
+    "wikiEn": "Generalized singular value decomposition",
+    "name": "广义奇异值分解",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Generating set of a module",
+    "wikiEn": "Generating set of a module",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Generator (mathematics)",
+    "wikiEn": "Generator (mathematics)",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Geometrical properties of polynomial roots",
+    "wikiEn": "Geometrical properties of polynomial roots",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Gershgorin circle theorem",
+    "wikiEn": "Gershgorin circle theorem",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Giambelli's formula",
+    "wikiEn": "Giambelli's formula",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Golden–Thompson inequality",
+    "wikiEn": "Golden–Thompson inequality",
+    "name": "高登-湯普森不等式",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Gosper's algorithm",
+    "wikiEn": "Gosper's algorithm",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Gould polynomials",
+    "wikiEn": "Gould polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Graded structure",
+    "wikiEn": "Graded structure",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Graded-commutative ring",
+    "wikiEn": "Graded-commutative ring",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Graham–Pollak theorem",
+    "wikiEn": "Graham–Pollak theorem",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Gram–Schmidt process",
+    "wikiEn": "Gram–Schmidt process",
+    "name": "格拉姆-施密特正交化",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Graph algebra (social sciences)",
+    "wikiEn": "Graph algebra (social sciences)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Graph automorphism",
+    "wikiEn": "Graph automorphism",
+    "name": "图自同构",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Graph energy",
+    "wikiEn": "Graph energy",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Graph polynomial",
+    "wikiEn": "Graph polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Green's identities",
+    "wikiEn": "Green's identities",
+    "name": "格林恆等式",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Group centrality",
+    "wikiEn": "Group centrality",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Groupoid algebra",
+    "wikiEn": "Groupoid algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Gröbner basis",
+    "wikiEn": "Gröbner basis",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Gröbner fan",
+    "wikiEn": "Gröbner fan",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "HOMFLY polynomial",
+    "wikiEn": "HOMFLY polynomial",
+    "name": "HOMFLY多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hafnian",
+    "wikiEn": "Hafnian",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Hahn–Banach theorem",
+    "wikiEn": "Hahn–Banach theorem",
+    "name": "哈恩-巴拿赫定理",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Half-transitive graph",
+    "wikiEn": "Half-transitive graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Hall algebra",
+    "wikiEn": "Hall algebra",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Hall–Littlewood polynomials",
+    "wikiEn": "Hall–Littlewood polynomials",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Hamming space",
+    "wikiEn": "Hamming space",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Haran's diamond theorem",
+    "wikiEn": "Haran's diamond theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Harish-Chandra isomorphism",
+    "wikiEn": "Harish-Chandra isomorphism",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Harmonic polynomial",
+    "wikiEn": "Harmonic polynomial",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Hartley kernel",
+    "wikiEn": "Hartley kernel",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Hasse–Schmidt derivation",
+    "wikiEn": "Hasse–Schmidt derivation",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Haynsworth inertia additivity formula",
+    "wikiEn": "Haynsworth inertia additivity formula",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Hecke algebra",
+    "wikiEn": "Hecke algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Height function",
+    "wikiEn": "Height function",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Heine's identity",
+    "wikiEn": "Heine's identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Heine–Stieltjes polynomials",
+    "wikiEn": "Heine–Stieltjes polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hermite normal form",
+    "wikiEn": "Hermite normal form",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Hermite polynomials",
+    "wikiEn": "Hermite polynomials",
+    "name": "埃尔米特多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hermite's identity",
+    "wikiEn": "Hermite's identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Hidden algebra",
+    "wikiEn": "Hidden algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Hierarchical closeness",
+    "wikiEn": "Hierarchical closeness",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Hilbert space",
+    "wikiEn": "Hilbert space",
+    "name": "希尔伯特空间",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Hilbert's Nullstellensatz",
+    "wikiEn": "Hilbert's Nullstellensatz",
+    "name": "希尔伯特零点定理",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hilbert's thirteenth problem",
+    "wikiEn": "Hilbert's thirteenth problem",
+    "name": "希爾伯特第十三問題",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hilbert–Burch theorem",
+    "wikiEn": "Hilbert–Burch theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Hilbert–Poincaré series",
+    "wikiEn": "Hilbert–Poincaré series",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Hiptmair–Xu preconditioner",
+    "wikiEn": "Hiptmair–Xu preconditioner",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "History of algebra",
+    "wikiEn": "History of algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Hochster–Roberts theorem",
+    "wikiEn": "Hochster–Roberts theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Homogeneous coordinates",
+    "wikiEn": "Homogeneous coordinates",
+    "name": "齐次坐标",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Homogeneous function",
+    "wikiEn": "Homogeneous function",
+    "name": "齐次函数",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Homogeneous linear equation",
+    "wikiEn": "Homogeneous linear equation",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Homomorphic secret sharing",
+    "wikiEn": "Homomorphic secret sharing",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Horner's method",
+    "wikiEn": "Horner's method",
+    "name": "秦九韶算法",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Hua's identity",
+    "wikiEn": "Hua's identity",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Hudde's rules",
+    "wikiEn": "Hudde's rules",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Humbert polynomials",
+    "wikiEn": "Humbert polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hundred Fowls Problem",
+    "wikiEn": "Hundred Fowls Problem",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Hurwitz determinant",
+    "wikiEn": "Hurwitz determinant",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Hurwitz polynomial",
+    "wikiEn": "Hurwitz polynomial",
+    "name": "赫爾維茨多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hypergeometric identity",
+    "wikiEn": "Hypergeometric identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Hyperplane",
+    "wikiEn": "Hyperplane",
+    "name": "超平面",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Hyperstructure",
+    "wikiEn": "Hyperstructure",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Ian G. Macdonald",
+    "wikiEn": "Ian G. Macdonald",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Icosian calculus",
+    "wikiEn": "Icosian calculus",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Idealizer",
+    "wikiEn": "Idealizer",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Idempotent matrix",
+    "wikiEn": "Idempotent matrix",
+    "name": "幂等矩阵",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Identity (mathematics)",
+    "wikiEn": "Identity (mathematics)",
+    "name": "恒等式",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Igon value",
+    "wikiEn": "Igon value",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Ihara zeta function",
+    "wikiEn": "Ihara zeta function",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Immanant",
+    "wikiEn": "Immanant",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Implicit function theorem",
+    "wikiEn": "Implicit function theorem",
+    "name": "隐函数定理",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Incidence matrix",
+    "wikiEn": "Incidence matrix",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Independent equation",
+    "wikiEn": "Independent equation",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Inequality (mathematics)",
+    "wikiEn": "Inequality (mathematics)",
+    "name": "不等",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Inequation",
+    "wikiEn": "Inequation",
+    "name": "不等式",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Infinite expression",
+    "wikiEn": "Infinite expression",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Information algebra",
+    "wikiEn": "Information algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Infrastructure (number theory)",
+    "wikiEn": "Infrastructure (number theory)",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Integer points in convex polyhedra",
+    "wikiEn": "Integer points in convex polyhedra",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Integer-valued polynomial",
+    "wikiEn": "Integer-valued polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Integrable module",
+    "wikiEn": "Integrable module",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Integral graph",
+    "wikiEn": "Integral graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Integration by parts",
+    "wikiEn": "Integration by parts",
+    "name": "分部積分法",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "International Linear Algebra Society",
+    "wikiEn": "International Linear Algebra Society",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "International Symposium on Symbolic and Algebraic Computation",
+    "wikiEn": "International Symposium on Symbolic and Algebraic Computation",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Invariant polynomial",
+    "wikiEn": "Invariant polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Invariant subspace",
+    "wikiEn": "Invariant subspace",
+    "name": "不变子空间",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Invariants of tensors",
+    "wikiEn": "Invariants of tensors",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Inverse element",
+    "wikiEn": "Inverse element",
+    "name": "逆元素",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Inverse limit",
+    "wikiEn": "Inverse limit",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Invertible matrix",
+    "wikiEn": "Invertible matrix",
+    "name": "非奇异方阵",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Irreducible polynomial",
+    "wikiEn": "Irreducible polynomial",
+    "name": "不可约多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Isomorphism class",
+    "wikiEn": "Isomorphism class",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Jack function",
+    "wikiEn": "Jack function",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Jacobi identity",
+    "wikiEn": "Jacobi identity",
+    "name": "雅可比恒等式",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Jacobi triple product",
+    "wikiEn": "Jacobi triple product",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Jacobian conjecture",
+    "wikiEn": "Jacobian conjecture",
+    "name": "雅可比猜想",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Jacobi–Anger expansion",
+    "wikiEn": "Jacobi–Anger expansion",
+    "name": "雅可比-安格展开式",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Jacobson–Bourbaki theorem",
+    "wikiEn": "Jacobson–Bourbaki theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Jacobson–Morozov theorem",
+    "wikiEn": "Jacobson–Morozov theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Janet basis",
+    "wikiEn": "Janet basis",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Joint spectral radius",
+    "wikiEn": "Joint spectral radius",
+    "name": "聯合譜半徑",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Jones polynomial",
+    "wikiEn": "Jones polynomial",
+    "name": "琼斯多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Jordan normal form",
+    "wikiEn": "Jordan normal form",
+    "name": "若尔当标准型",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Jordan–Chevalley decomposition",
+    "wikiEn": "Jordan–Chevalley decomposition",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Jordan–Pólya number",
+    "wikiEn": "Jordan–Pólya number",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Journal of Symbolic Computation",
+    "wikiEn": "Journal of Symbolic Computation",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Jucys–Murphy element",
+    "wikiEn": "Jucys–Murphy element",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "K-SVD",
+    "wikiEn": "K-SVD",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "K-frame",
+    "wikiEn": "K-frame",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Kapteyn series",
+    "wikiEn": "Kapteyn series",
+    "name": "",
+    "subcat": "Series expansions"
+  },
+  {
+    "nameEn": "Katz centrality",
+    "wikiEn": "Katz centrality",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Kauffman polynomial",
+    "wikiEn": "Kauffman polynomial",
+    "name": "考夫曼多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Kazhdan–Lusztig polynomial",
+    "wikiEn": "Kazhdan–Lusztig polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Kernel (algebra)",
+    "wikiEn": "Kernel (algebra)",
+    "name": "核 (代数)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Kernel (linear algebra)",
+    "wikiEn": "Kernel (linear algebra)",
+    "name": "核 (线性算子)",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Kernel (set theory)",
+    "wikiEn": "Kernel (set theory)",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Kharitonov region",
+    "wikiEn": "Kharitonov region",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Kirchhoff's theorem",
+    "wikiEn": "Kirchhoff's theorem",
+    "name": "矩阵树定理",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Knot polynomial",
+    "wikiEn": "Knot polynomial",
+    "name": "紐結多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Knuth–Eve algorithm",
+    "wikiEn": "Knuth–Eve algorithm",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Koecher–Vinberg theorem",
+    "wikiEn": "Koecher–Vinberg theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Kostka number",
+    "wikiEn": "Kostka number",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Kostka polynomial",
+    "wikiEn": "Kostka polynomial",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Kronecker coefficient",
+    "wikiEn": "Kronecker coefficient",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Kronecker substitution",
+    "wikiEn": "Kronecker substitution",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Krull's theorem",
+    "wikiEn": "Krull's theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Krull–Akizuki theorem",
+    "wikiEn": "Krull–Akizuki theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Källén function",
+    "wikiEn": "Källén function",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "LLT polynomial",
+    "wikiEn": "LLT polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Lagrange polynomial",
+    "wikiEn": "Lagrange polynomial",
+    "name": "拉格朗日插值法",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Lagrange's identity (boundary value problem)",
+    "wikiEn": "Lagrange's identity (boundary value problem)",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Laguerre polynomials",
+    "wikiEn": "Laguerre polynomials",
+    "name": "拉盖尔多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Landau's algorithm",
+    "wikiEn": "Landau's algorithm",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Laplacian matrix",
+    "wikiEn": "Laplacian matrix",
+    "name": "调和矩阵",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Lapped transform",
+    "wikiEn": "Lapped transform",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Lattice reduction",
+    "wikiEn": "Lattice reduction",
+    "name": "格规约",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Laurent polynomial",
+    "wikiEn": "Laurent polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Laurent series",
+    "wikiEn": "Laurent series",
+    "name": "洛朗级数",
+    "subcat": "Series expansions"
+  },
+  {
+    "nameEn": "Laws of Form",
+    "wikiEn": "Laws of Form",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Least-squares spectral analysis",
+    "wikiEn": "Least-squares spectral analysis",
+    "name": "最小平方頻譜分析法",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Lebesgue constant",
+    "wikiEn": "Lebesgue constant",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Left and right (algebra)",
+    "wikiEn": "Left and right (algebra)",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Legendre moment",
+    "wikiEn": "Legendre moment",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Legendre polynomials",
+    "wikiEn": "Legendre polynomials",
+    "name": "勒让德多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Lehmer's conjecture",
+    "wikiEn": "Lehmer's conjecture",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Leibniz formula for determinants",
+    "wikiEn": "Leibniz formula for determinants",
+    "name": "行列式的莱布尼茨公式",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Lerche–Newberger sum rule",
+    "wikiEn": "Lerche–Newberger sum rule",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Levi-Civita symbol",
+    "wikiEn": "Levi-Civita symbol",
+    "name": "列維-奇維塔符號",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Lie operad",
+    "wikiEn": "Lie operad",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Light's associativity test",
+    "wikiEn": "Light's associativity test",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Like terms",
+    "wikiEn": "Like terms",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Lill's method",
+    "wikiEn": "Lill's method",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Limit group",
+    "wikiEn": "Limit group",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Lindsey–Fox algorithm",
+    "wikiEn": "Lindsey–Fox algorithm",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Line segment",
+    "wikiEn": "Line segment",
+    "name": "线段",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Linear Algebra (book)",
+    "wikiEn": "Linear Algebra (book)",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Linear algebra",
+    "wikiEn": "Linear algebra",
+    "name": "线性代数",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Linear combination",
+    "wikiEn": "Linear combination",
+    "name": "线性组合",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Linear complementarity problem",
+    "wikiEn": "Linear complementarity problem",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Linear disjointness",
+    "wikiEn": "Linear disjointness",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear equation",
+    "wikiEn": "Linear equation",
+    "name": "一次方程",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Linear equation over a ring",
+    "wikiEn": "Linear equation over a ring",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Linear form",
+    "wikiEn": "Linear form",
+    "name": "線性泛函",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Linear independence",
+    "wikiEn": "Linear independence",
+    "name": "線性無關",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Linear inequality",
+    "wikiEn": "Linear inequality",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Linear map",
+    "wikiEn": "Linear map",
+    "name": "线性映射",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Linear recurrence with constant coefficients",
+    "wikiEn": "Linear recurrence with constant coefficients",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Linear relation",
+    "wikiEn": "Linear relation",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Linear span",
+    "wikiEn": "Linear span",
+    "name": "线性生成空间",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Linear subspace",
+    "wikiEn": "Linear subspace",
+    "name": "线性子空间",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Linearised polynomial",
+    "wikiEn": "Linearised polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Line–line intersection",
+    "wikiEn": "Line–line intersection",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Liouville space",
+    "wikiEn": "Liouville space",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Liouville's formula",
+    "wikiEn": "Liouville's formula",
+    "name": "劉維爾公式 (微分方程)",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Liouville's theorem (differential algebra)",
+    "wikiEn": "Liouville's theorem (differential algebra)",
+    "name": "刘维尔定理 (微分代数)",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Liouvillian function",
+    "wikiEn": "Liouvillian function",
+    "name": "劉維爾函數 (微積分)",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Littlewood polynomial",
+    "wikiEn": "Littlewood polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Littlewood–Richardson rule",
+    "wikiEn": "Littlewood–Richardson rule",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "LoRA (machine learning)",
+    "wikiEn": "LoRA (machine learning)",
+    "name": "LoRA",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Locally finite operator",
+    "wikiEn": "Locally finite operator",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Loewner order",
+    "wikiEn": "Loewner order",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Lommel polynomial",
+    "wikiEn": "Lommel polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Lovász conjecture",
+    "wikiEn": "Lovász conjecture",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Lulu smoothing",
+    "wikiEn": "Lulu smoothing",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "MATLAB",
+    "wikiEn": "MATLAB",
+    "name": "MATLAB",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Mac Lane's planarity criterion",
+    "wikiEn": "Mac Lane's planarity criterion",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Macdonald identities",
+    "wikiEn": "Macdonald identities",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Maclaurin polynomial",
+    "wikiEn": "Maclaurin polynomial",
+    "name": "",
+    "subcat": "Series expansions"
+  },
+  {
+    "nameEn": "Maclaurin's inequality",
+    "wikiEn": "Maclaurin's inequality",
+    "name": "麦克劳林不等式",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Madhava series",
+    "wikiEn": "Madhava series",
+    "name": "",
+    "subcat": "Series expansions"
+  },
+  {
+    "nameEn": "Mahler measure",
+    "wikiEn": "Mahler measure",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Mahler polynomial",
+    "wikiEn": "Mahler polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Majorization",
+    "wikiEn": "Majorization",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Map algebra",
+    "wikiEn": "Map algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Maple (software)",
+    "wikiEn": "Maple (software)",
+    "name": "Maple",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Matching polynomial",
+    "wikiEn": "Matching polynomial",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Mathcad",
+    "wikiEn": "Mathcad",
+    "name": "MathCad",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Matlis duality",
+    "wikiEn": "Matlis duality",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Matrix Chernoff bound",
+    "wikiEn": "Matrix Chernoff bound",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Matrix addition",
+    "wikiEn": "Matrix addition",
+    "name": "矩陣加法",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Matrix analysis",
+    "wikiEn": "Matrix analysis",
+    "name": "矩阵分析",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Matrix calculus",
+    "wikiEn": "Matrix calculus",
+    "name": "矩阵微积分",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Matrix congruence",
+    "wikiEn": "Matrix congruence",
+    "name": "合同矩阵",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Matrix difference equation",
+    "wikiEn": "Matrix difference equation",
+    "name": "矩阵差分方程",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Matrix factorization of a polynomial",
+    "wikiEn": "Matrix factorization of a polynomial",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Matrix norm",
+    "wikiEn": "Matrix norm",
+    "name": "矩陣範數",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Matrix pencil",
+    "wikiEn": "Matrix pencil",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Matrix polynomial",
+    "wikiEn": "Matrix polynomial",
+    "name": "矩阵多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Matrix sign function",
+    "wikiEn": "Matrix sign function",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Maximal common divisor",
+    "wikiEn": "Maximal common divisor",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Maximum-length sequence",
+    "wikiEn": "Maximum-length sequence",
+    "name": "M-sequence",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Maximum-minimums identity",
+    "wikiEn": "Maximum-minimums identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Metavariable",
+    "wikiEn": "Metavariable",
+    "name": "",
+    "subcat": "Variables (mathematics)"
+  },
+  {
+    "nameEn": "Methods of matrix inversion",
+    "wikiEn": "Methods of matrix inversion",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Mingarelli identity",
+    "wikiEn": "Mingarelli identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Minimal algebra",
+    "wikiEn": "Minimal algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Minimal ideal",
+    "wikiEn": "Minimal ideal",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Minimal polynomial (field theory)",
+    "wikiEn": "Minimal polynomial (field theory)",
+    "name": "極小多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Minimal polynomial (linear algebra)",
+    "wikiEn": "Minimal polynomial (linear algebra)",
+    "name": "極小多項式 (線性代數)",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Minimal polynomial of 2cos(2pi/n)",
+    "wikiEn": "Minimal polynomial of 2cos(2pi/n)",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Minimum rank of a graph",
+    "wikiEn": "Minimum rank of a graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Mitchell's embedding theorem",
+    "wikiEn": "Mitchell's embedding theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Mittag-Leffler polynomials",
+    "wikiEn": "Mittag-Leffler polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Mixed linear complementarity problem",
+    "wikiEn": "Mixed linear complementarity problem",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Moderne Algebra",
+    "wikiEn": "Moderne Algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Modeshape",
+    "wikiEn": "Modeshape",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Modularity (networks)",
+    "wikiEn": "Modularity (networks)",
+    "name": "模块度",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Module homomorphism",
+    "wikiEn": "Module homomorphism",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Monic polynomial",
+    "wikiEn": "Monic polynomial",
+    "name": "首一多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Monk's formula",
+    "wikiEn": "Monk's formula",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Monomial",
+    "wikiEn": "Monomial",
+    "name": "單項式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Monomial basis",
+    "wikiEn": "Monomial basis",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Monomial ideal",
+    "wikiEn": "Monomial ideal",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Monomial order",
+    "wikiEn": "Monomial order",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Morley–Wang–Xu element",
+    "wikiEn": "Morley–Wang–Xu element",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Morrie's law",
+    "wikiEn": "Morrie's law",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Mott polynomials",
+    "wikiEn": "Mott polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Motzkin–Taussky theorem",
+    "wikiEn": "Motzkin–Taussky theorem",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Multilinear form",
+    "wikiEn": "Multilinear form",
+    "name": "多重线性形式",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Multilinear polynomial",
+    "wikiEn": "Multilinear polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Multiplicative digital root",
+    "wikiEn": "Multiplicative digital root",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Multiplicative inverse",
+    "wikiEn": "Multiplicative inverse",
+    "name": "倒数",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Multiplicative sequence",
+    "wikiEn": "Multiplicative sequence",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Nagata's conjecture",
+    "wikiEn": "Nagata's conjecture",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Narayana polynomials",
+    "wikiEn": "Narayana polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Narumi polynomials",
+    "wikiEn": "Narumi polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Near sets",
+    "wikiEn": "Near sets",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Negative controls",
+    "wikiEn": "Negative controls",
+    "name": "",
+    "subcat": "Variables (mathematics)"
+  },
+  {
+    "nameEn": "Nested radical",
+    "wikiEn": "Nested radical",
+    "name": "双重根号",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Neumann polynomial",
+    "wikiEn": "Neumann polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Neutral density",
+    "wikiEn": "Neutral density",
+    "name": "",
+    "subcat": "Variables (mathematics)"
+  },
+  {
+    "nameEn": "Neville's algorithm",
+    "wikiEn": "Neville's algorithm",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Newton polygon",
+    "wikiEn": "Newton polygon",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Newton polynomial",
+    "wikiEn": "Newton polynomial",
+    "name": "牛顿多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Newton's identities",
+    "wikiEn": "Newton's identities",
+    "name": "牛頓恆等式",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Newton's inequalities",
+    "wikiEn": "Newton's inequalities",
+    "name": "牛頓不等式",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Nielsen–Schreier theorem",
+    "wikiEn": "Nielsen–Schreier theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Niven's theorem",
+    "wikiEn": "Niven's theorem",
+    "name": "尼文定理",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Noether identities",
+    "wikiEn": "Noether identities",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Non-negative matrix factorization",
+    "wikiEn": "Non-negative matrix factorization",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Nonlinear eigenproblem",
+    "wikiEn": "Nonlinear eigenproblem",
+    "name": "非线性特征值问题",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Nonnegative rank (linear algebra)",
+    "wikiEn": "Nonnegative rank (linear algebra)",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Norm (mathematics)",
+    "wikiEn": "Norm (mathematics)",
+    "name": "范数",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Norm residue isomorphism theorem",
+    "wikiEn": "Norm residue isomorphism theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Normal basis",
+    "wikiEn": "Normal basis",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Normal element",
+    "wikiEn": "Normal element",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Nth root",
+    "wikiEn": "Nth root",
+    "name": "方根",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Null vector",
+    "wikiEn": "Null vector",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Nullspace property",
+    "wikiEn": "Nullspace property",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Numerical range",
+    "wikiEn": "Numerical range",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Operad",
+    "wikiEn": "Operad",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Operad algebra",
+    "wikiEn": "Operad algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Operand",
+    "wikiEn": "Operand",
+    "name": "運算數",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Operator (mathematics)",
+    "wikiEn": "Operator (mathematics)",
+    "name": "算子",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Order of operations",
+    "wikiEn": "Order of operations",
+    "name": "運算次序",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Order polynomial",
+    "wikiEn": "Order polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Ordered exponential",
+    "wikiEn": "Ordered exponential",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Ore algebra",
+    "wikiEn": "Ore algebra",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Orientation (vector space)",
+    "wikiEn": "Orientation (vector space)",
+    "name": "定向 (向量空間)",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Orientation of a vector bundle",
+    "wikiEn": "Orientation of a vector bundle",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Orthant",
+    "wikiEn": "Orthant",
+    "name": "卦限",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Orthogonal Procrustes problem",
+    "wikiEn": "Orthogonal Procrustes problem",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Orthogonal basis",
+    "wikiEn": "Orthogonal basis",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Orthogonal complement",
+    "wikiEn": "Orthogonal complement",
+    "name": "正交补",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Orthogonal diagonalization",
+    "wikiEn": "Orthogonal diagonalization",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Orthogonal transformation",
+    "wikiEn": "Orthogonal transformation",
+    "name": "正交变换",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Orthogonality (mathematics)",
+    "wikiEn": "Orthogonality (mathematics)",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Orthogonalization",
+    "wikiEn": "Orthogonalization",
+    "name": "正交化",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Orthonormal basis",
+    "wikiEn": "Orthonormal basis",
+    "name": "标准正交基",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Orthonormal function system",
+    "wikiEn": "Orthonormal function system",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Orthonormality",
+    "wikiEn": "Orthonormality",
+    "name": "正交规范性",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Overcompleteness",
+    "wikiEn": "Overcompleteness",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Overdetermined system",
+    "wikiEn": "Overdetermined system",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "P-recursive equation",
+    "wikiEn": "P-recursive equation",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Padovan polynomials",
+    "wikiEn": "Padovan polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Pairing",
+    "wikiEn": "Pairing",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Parallel (operator)",
+    "wikiEn": "Parallel (operator)",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Parent function",
+    "wikiEn": "Parent function",
+    "name": "",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Parry–Sullivan invariant",
+    "wikiEn": "Parry–Sullivan invariant",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Partial fraction decomposition",
+    "wikiEn": "Partial fraction decomposition",
+    "name": "部分分式分解",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Partial trace",
+    "wikiEn": "Partial trace",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Pasting theorem",
+    "wikiEn": "Pasting theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Peetre's inequality",
+    "wikiEn": "Peetre's inequality",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Perfect complex",
+    "wikiEn": "Perfect complex",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Permanent (mathematics)",
+    "wikiEn": "Permanent (mathematics)",
+    "name": "积和式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Permutation polynomial",
+    "wikiEn": "Permutation polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Perron's irreducibility criterion",
+    "wikiEn": "Perron's irreducibility criterion",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Peters polynomials",
+    "wikiEn": "Peters polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Picone identity",
+    "wikiEn": "Picone identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Pidduck polynomials",
+    "wikiEn": "Pidduck polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Pieri's formula",
+    "wikiEn": "Pieri's formula",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Pincherle polynomials",
+    "wikiEn": "Pincherle polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Plethysm",
+    "wikiEn": "Plethysm",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Plethystic exponential",
+    "wikiEn": "Plethystic exponential",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Plethystic substitution",
+    "wikiEn": "Plethystic substitution",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Poincaré space",
+    "wikiEn": "Poincaré space",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Pokhozhaev's identity",
+    "wikiEn": "Pokhozhaev's identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Polarization identity",
+    "wikiEn": "Polarization identity",
+    "name": "极化恒等式",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Polarization of an algebraic form",
+    "wikiEn": "Polarization of an algebraic form",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Pollard's kangaroo algorithm",
+    "wikiEn": "Pollard's kangaroo algorithm",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Polykay",
+    "wikiEn": "Polykay",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Polylogarithmic function",
+    "wikiEn": "Polylogarithmic function",
+    "name": "多對數函數",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial",
+    "wikiEn": "Polynomial",
+    "name": "多項式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Polynomial Diophantine equation",
+    "wikiEn": "Polynomial Diophantine equation",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial Wigner–Ville distribution",
+    "wikiEn": "Polynomial Wigner–Ville distribution",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial chaos",
+    "wikiEn": "Polynomial chaos",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial decomposition",
+    "wikiEn": "Polynomial decomposition",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Polynomial evaluation",
+    "wikiEn": "Polynomial evaluation",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial expansion",
+    "wikiEn": "Polynomial expansion",
+    "name": "多項式展開",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial greatest common divisor",
+    "wikiEn": "Polynomial greatest common divisor",
+    "name": "最大公因式",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Polynomial identity testing",
+    "wikiEn": "Polynomial identity testing",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Polynomial interpolation",
+    "wikiEn": "Polynomial interpolation",
+    "name": "多项式插值",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial long division",
+    "wikiEn": "Polynomial long division",
+    "name": "多项式除法",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Polynomial mapping",
+    "wikiEn": "Polynomial mapping",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Polynomial matrix",
+    "wikiEn": "Polynomial matrix",
+    "name": "多项式矩阵",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial matrix spectral factorization",
+    "wikiEn": "Polynomial matrix spectral factorization",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial ring",
+    "wikiEn": "Polynomial ring",
+    "name": "多项式环",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial root-finding",
+    "wikiEn": "Polynomial root-finding",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial sequence",
+    "wikiEn": "Polynomial sequence",
+    "name": "多項式序列",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial solutions of P-recursive equations",
+    "wikiEn": "Polynomial solutions of P-recursive equations",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial transformation",
+    "wikiEn": "Polynomial transformation",
+    "name": "多项式变换",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Positive element",
+    "wikiEn": "Positive element",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Power rule",
+    "wikiEn": "Power rule",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Power sum symmetric polynomial",
+    "wikiEn": "Power sum symmetric polynomial",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Predual",
+    "wikiEn": "Predual",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Prime avoidance lemma",
+    "wikiEn": "Prime avoidance lemma",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Primitive part and content",
+    "wikiEn": "Primitive part and content",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Primitive polynomial (field theory)",
+    "wikiEn": "Primitive polynomial (field theory)",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Principal root of unity",
+    "wikiEn": "Principal root of unity",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Principle of distributivity",
+    "wikiEn": "Principle of distributivity",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Productive matrix",
+    "wikiEn": "Productive matrix",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Projection (linear algebra)",
+    "wikiEn": "Projection (linear algebra)",
+    "name": "投影 (线性代数)",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Projection-valued measure",
+    "wikiEn": "Projection-valued measure",
+    "name": "投影值测度",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Projectivization",
+    "wikiEn": "Projectivization",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Proofs involving the addition of natural numbers",
+    "wikiEn": "Proofs involving the addition of natural numbers",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Pseudoalgebra",
+    "wikiEn": "Pseudoalgebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Pseudoscalar",
+    "wikiEn": "Pseudoscalar",
+    "name": "贗純量",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Pseudovector",
+    "wikiEn": "Pseudovector",
+    "name": "赝矢量",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Pythagorean trigonometric identity",
+    "wikiEn": "Pythagorean trigonometric identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Q-Vandermonde identity",
+    "wikiEn": "Q-Vandermonde identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Q-difference polynomial",
+    "wikiEn": "Q-difference polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Quadratic eigenvalue problem",
+    "wikiEn": "Quadratic eigenvalue problem",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Quadratic equation",
+    "wikiEn": "Quadratic equation",
+    "name": "一元二次方程",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Quadratic form",
+    "wikiEn": "Quadratic form",
+    "name": "二次型",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Quadratic formula",
+    "wikiEn": "Quadratic formula",
+    "name": "二次方程",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Quartic equation",
+    "wikiEn": "Quartic equation",
+    "name": "四次方程",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Quartic function",
+    "wikiEn": "Quartic function",
+    "name": "四次函數",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Quasi-free algebra",
+    "wikiEn": "Quasi-free algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Quasi-polynomial",
+    "wikiEn": "Quasi-polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Quasinorm",
+    "wikiEn": "Quasinorm",
+    "name": "拟赋范空间",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Quasisymmetric function",
+    "wikiEn": "Quasisymmetric function",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Quaternionic eigenvalue problem",
+    "wikiEn": "Quaternionic eigenvalue problem",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Quaternionic matrix",
+    "wikiEn": "Quaternionic matrix",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Quaternionic vector space",
+    "wikiEn": "Quaternionic vector space",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Quintuple product identity",
+    "wikiEn": "Quintuple product identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Quotient space (linear algebra)",
+    "wikiEn": "Quotient space (linear algebra)",
+    "name": "商空间 (线性代数)",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Radial set",
+    "wikiEn": "Radial set",
+    "name": "径向集",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Radical polynomial",
+    "wikiEn": "Radical polynomial",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Rainville polynomials",
+    "wikiEn": "Rainville polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Ramanujan graph",
+    "wikiEn": "Ramanujan graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Rank (graph theory)",
+    "wikiEn": "Rank (graph theory)",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Rank (linear algebra)",
+    "wikiEn": "Rank (linear algebra)",
+    "name": "秩 (线性代数)",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Rank factorization",
+    "wikiEn": "Rank factorization",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Rank-width",
+    "wikiEn": "Rank-width",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Ratio",
+    "wikiEn": "Ratio",
+    "name": "比",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rational difference equation",
+    "wikiEn": "Rational difference equation",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rational series",
+    "wikiEn": "Rational series",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Rationalisation (mathematics)",
+    "wikiEn": "Rationalisation (mathematics)",
+    "name": "分母有理化",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Rayleigh quotient",
+    "wikiEn": "Rayleigh quotient",
+    "name": "瑞利商",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Rayleigh theorem for eigenvalues",
+    "wikiEn": "Rayleigh theorem for eigenvalues",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Rayleigh's quotient in vibrations analysis",
+    "wikiEn": "Rayleigh's quotient in vibrations analysis",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Real-root isolation",
+    "wikiEn": "Real-root isolation",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Reality structure",
+    "wikiEn": "Reality structure",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Reciprocal polynomial",
+    "wikiEn": "Reciprocal polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Recurrence relation",
+    "wikiEn": "Recurrence relation",
+    "name": "遞迴關係式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Reducing subspace",
+    "wikiEn": "Reducing subspace",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Reduction (mathematics)",
+    "wikiEn": "Reduction (mathematics)",
+    "name": "精簡",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Regular chain",
+    "wikiEn": "Regular chain",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Regular semi-algebraic system",
+    "wikiEn": "Regular semi-algebraic system",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Regularized least squares",
+    "wikiEn": "Regularized least squares",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Relative dimension",
+    "wikiEn": "Relative dimension",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Remez algorithm",
+    "wikiEn": "Remez algorithm",
+    "name": "雷米茲演算法",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Resolvent cubic",
+    "wikiEn": "Resolvent cubic",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Resolvent set",
+    "wikiEn": "Resolvent set",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Restricted isometry property",
+    "wikiEn": "Restricted isometry property",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Resultant",
+    "wikiEn": "Resultant",
+    "name": "結式",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Ridge regression",
+    "wikiEn": "Ridge regression",
+    "name": "岭回归",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Ring of symmetric functions",
+    "wikiEn": "Ring of symmetric functions",
+    "name": "对称函数环",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Ringel–Hall algebra",
+    "wikiEn": "Ringel–Hall algebra",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Risch algorithm",
+    "wikiEn": "Risch algorithm",
+    "name": "里施算法",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Robinson–Schensted–Knuth correspondence",
+    "wikiEn": "Robinson–Schensted–Knuth correspondence",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Rogers–Ramanujan continued fraction",
+    "wikiEn": "Rogers–Ramanujan continued fraction",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Rogers–Ramanujan identities",
+    "wikiEn": "Rogers–Ramanujan identities",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Romanovski polynomials",
+    "wikiEn": "Romanovski polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Rook polynomial",
+    "wikiEn": "Rook polynomial",
+    "name": "棋盘多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Root of unity",
+    "wikiEn": "Root of unity",
+    "name": "单位根",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Rosenbrock function",
+    "wikiEn": "Rosenbrock function",
+    "name": "羅森布羅克函數",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Rota's basis conjecture",
+    "wikiEn": "Rota's basis conjecture",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Rotation of axes in two dimensions",
+    "wikiEn": "Rotation of axes in two dimensions",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Routh–Hurwitz stability criterion",
+    "wikiEn": "Routh–Hurwitz stability criterion",
+    "name": "劳斯–赫尔维茨稳定性判据",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Row and column spaces",
+    "wikiEn": "Row and column spaces",
+    "name": "行空间与列空间",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Row and column vectors",
+    "wikiEn": "Row and column vectors",
+    "name": "行向量與列向量",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Row equivalence",
+    "wikiEn": "Row equivalence",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Ruffini's rule",
+    "wikiEn": "Ruffini's rule",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Rule of Sarrus",
+    "wikiEn": "Rule of Sarrus",
+    "name": "萨吕法则",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "S-procedure",
+    "wikiEn": "S-procedure",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Samuelson–Berkowitz algorithm",
+    "wikiEn": "Samuelson–Berkowitz algorithm",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Scalar (mathematics)",
+    "wikiEn": "Scalar (mathematics)",
+    "name": "标量 (数学)",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Scaling and shifting",
+    "wikiEn": "Scaling and shifting",
+    "name": "",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Schlömilch's series",
+    "wikiEn": "Schlömilch's series",
+    "name": "",
+    "subcat": "Series expansions"
+  },
+  {
+    "nameEn": "Schmidt decomposition",
+    "wikiEn": "Schmidt decomposition",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Schubert polynomial",
+    "wikiEn": "Schubert polynomial",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Schur algebra",
+    "wikiEn": "Schur algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Schur complement",
+    "wikiEn": "Schur complement",
+    "name": "舒尔补",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Schur polynomial",
+    "wikiEn": "Schur polynomial",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Schwartz–Zippel lemma",
+    "wikiEn": "Schwartz–Zippel lemma",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Secondary polynomials",
+    "wikiEn": "Secondary polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Segre classification",
+    "wikiEn": "Segre classification",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Seidel adjacency matrix",
+    "wikiEn": "Seidel adjacency matrix",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Selberg's identity",
+    "wikiEn": "Selberg's identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Self-adjoint element",
+    "wikiEn": "Self-adjoint element",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Semi-simplicity",
+    "wikiEn": "Semi-simplicity",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Semi-symmetric graph",
+    "wikiEn": "Semi-symmetric graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Semilinear map",
+    "wikiEn": "Semilinear map",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Seminorm",
+    "wikiEn": "Seminorm",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Semisimple operator",
+    "wikiEn": "Semisimple operator",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Separable polynomial",
+    "wikiEn": "Separable polynomial",
+    "name": "可分多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Septic equation",
+    "wikiEn": "Septic equation",
+    "name": "七次方程",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Sequential dynamical system",
+    "wikiEn": "Sequential dynamical system",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Series expansion",
+    "wikiEn": "Series expansion",
+    "name": "级数展开",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Series multisection",
+    "wikiEn": "Series multisection",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Sesquilinear form",
+    "wikiEn": "Sesquilinear form",
+    "name": "半双线性形式",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Setoid",
+    "wikiEn": "Setoid",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Sextic equation",
+    "wikiEn": "Sextic equation",
+    "name": "六次方程",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Shapiro polynomials",
+    "wikiEn": "Shapiro polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Shear mapping",
+    "wikiEn": "Shear mapping",
+    "name": "错切",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Shear matrix",
+    "wikiEn": "Shear matrix",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Sheffer sequence",
+    "wikiEn": "Sheffer sequence",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Sherman–Morrison formula",
+    "wikiEn": "Sherman–Morrison formula",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Sich (mathematics)",
+    "wikiEn": "Sich (mathematics)",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Signal-flow graph",
+    "wikiEn": "Signal-flow graph",
+    "name": "信号流图",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Simple (abstract algebra)",
+    "wikiEn": "Simple (abstract algebra)",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Sims conjecture",
+    "wikiEn": "Sims conjecture",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Singular matrix",
+    "wikiEn": "Singular matrix",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Singular value decomposition",
+    "wikiEn": "Singular value decomposition",
+    "name": "奇异值分解",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Sister Beiter conjecture",
+    "wikiEn": "Sister Beiter conjecture",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Sister Celine's polynomials",
+    "wikiEn": "Sister Celine's polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Skew-Hamiltonian matrix",
+    "wikiEn": "Skew-Hamiltonian matrix",
+    "name": "斜漢彌爾頓矩陣",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Skew-Hermitian matrix",
+    "wikiEn": "Skew-Hermitian matrix",
+    "name": "斜埃尔米特矩阵",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Sklyanin algebra",
+    "wikiEn": "Sklyanin algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Solution in radicals",
+    "wikiEn": "Solution in radicals",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Solving quadratic equations with continued fractions",
+    "wikiEn": "Solving quadratic equations with continued fractions",
+    "name": "",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Sommerfeld identity",
+    "wikiEn": "Sommerfeld identity",
+    "name": "索末菲恒等式",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Sparse polynomial",
+    "wikiEn": "Sparse polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Special linear group",
+    "wikiEn": "Special linear group",
+    "name": "特殊线性群",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Special trinomial",
+    "wikiEn": "Special trinomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Spectral clustering",
+    "wikiEn": "Spectral clustering",
+    "name": "谱聚类",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Spectral graph theory",
+    "wikiEn": "Spectral graph theory",
+    "name": "譜圖論",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Spectral theorem",
+    "wikiEn": "Spectral theorem",
+    "name": "谱定理",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Spectral theory",
+    "wikiEn": "Spectral theory",
+    "name": "谱理论",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Spherical basis",
+    "wikiEn": "Spherical basis",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Spherically complete field",
+    "wikiEn": "Spherically complete field",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Spinors in three dimensions",
+    "wikiEn": "Spinors in three dimensions",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Split exact sequence",
+    "wikiEn": "Split exact sequence",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Split-complex number",
+    "wikiEn": "Split-complex number",
+    "name": "雙曲複數",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Spread of a matrix",
+    "wikiEn": "Spread of a matrix",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Square (algebra)",
+    "wikiEn": "Square (algebra)",
+    "name": "平方",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Square-free polynomial",
+    "wikiEn": "Square-free polynomial",
+    "name": "無平方多項式",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Squeeze mapping",
+    "wikiEn": "Squeeze mapping",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Stability radius",
+    "wikiEn": "Stability radius",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Stabilizer code",
+    "wikiEn": "Stabilizer code",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Stable polynomial",
+    "wikiEn": "Stable polynomial",
+    "name": "穩定多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Standard basis",
+    "wikiEn": "Standard basis",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Standard flag",
+    "wikiEn": "Standard flag",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Stanley symmetric function",
+    "wikiEn": "Stanley symmetric function",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Star domain",
+    "wikiEn": "Star domain",
+    "name": "星形域",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Stepwise irregular graph",
+    "wikiEn": "Stepwise irregular graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Stirling polynomials",
+    "wikiEn": "Stirling polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Stokes operator",
+    "wikiEn": "Stokes operator",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Strongly regular graph",
+    "wikiEn": "Strongly regular graph",
+    "name": "強正則圖",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Sturm's theorem",
+    "wikiEn": "Sturm's theorem",
+    "name": "施图姆定理",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Subfield of an algebra",
+    "wikiEn": "Subfield of an algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Sublinear function",
+    "wikiEn": "Sublinear function",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Subquotient",
+    "wikiEn": "Subquotient",
+    "name": "子商",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Sum of radicals",
+    "wikiEn": "Sum of radicals",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Sum of two cubes",
+    "wikiEn": "Sum of two cubes",
+    "name": "立方和",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Suspension of a ring",
+    "wikiEn": "Suspension of a ring",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Swinnerton-Dyer polynomial",
+    "wikiEn": "Swinnerton-Dyer polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Sylvester matrix",
+    "wikiEn": "Sylvester matrix",
+    "name": "西尔维斯特矩阵",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Symbolic integration",
+    "wikiEn": "Symbolic integration",
+    "name": "符号积分",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Symbolic method",
+    "wikiEn": "Symbolic method",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Symbolic power of an ideal",
+    "wikiEn": "Symbolic power of an ideal",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Symbolic regression",
+    "wikiEn": "Symbolic regression",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Symbolic-numeric computation",
+    "wikiEn": "Symbolic-numeric computation",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Symmetric algebra",
+    "wikiEn": "Symmetric algebra",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Symmetric function",
+    "wikiEn": "Symmetric function",
+    "name": "对称函数",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Symmetric graph",
+    "wikiEn": "Symmetric graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Symmetric polynomial",
+    "wikiEn": "Symmetric polynomial",
+    "name": "對稱多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Symmetric product of an algebraic curve",
+    "wikiEn": "Symmetric product of an algebraic curve",
+    "name": "",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Symmetric set",
+    "wikiEn": "Symmetric set",
+    "name": "对称集",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Symmetrization",
+    "wikiEn": "Symmetrization",
+    "name": "对称化",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Symplectic vector space",
+    "wikiEn": "Symplectic vector space",
+    "name": "辛向量空间",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Synthetic division",
+    "wikiEn": "Synthetic division",
+    "name": "綜合除法",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "System of linear equations",
+    "wikiEn": "System of linear equations",
+    "name": "线性方程组",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "System of polynomial equations",
+    "wikiEn": "System of polynomial equations",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Szegő limit theorems",
+    "wikiEn": "Szegő limit theorems",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Tangent half-angle formula",
+    "wikiEn": "Tangent half-angle formula",
+    "name": "正切半角公式",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Tapering (mathematics)",
+    "wikiEn": "Tapering (mathematics)",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Taylor series",
+    "wikiEn": "Taylor series",
+    "name": "泰勒级数",
+    "subcat": "Series expansions"
+  },
+  {
+    "nameEn": "Tensor operator",
+    "wikiEn": "Tensor operator",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Tensor product of Hilbert spaces",
+    "wikiEn": "Tensor product of Hilbert spaces",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Teo Mora",
+    "wikiEn": "Teo Mora",
+    "name": "",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Tertiary ideal",
+    "wikiEn": "Tertiary ideal",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Theory of equations",
+    "wikiEn": "Theory of equations",
+    "name": "方程理论",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Thomae's formula",
+    "wikiEn": "Thomae's formula",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Tian yuan shu",
+    "wikiEn": "Tian yuan shu",
+    "name": "天元术",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Tikhonov regularization",
+    "wikiEn": "Tikhonov regularization",
+    "name": "吉洪诺夫正则化",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Titu's lemma",
+    "wikiEn": "Titu's lemma",
+    "name": "权方和不等式",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Topological module",
+    "wikiEn": "Topological module",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Toric ideal",
+    "wikiEn": "Toric ideal",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Total algebra",
+    "wikiEn": "Total algebra",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Total set",
+    "wikiEn": "Total set",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Touchard polynomials",
+    "wikiEn": "Touchard polynomials",
+    "name": "图沙德多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Trace (linear algebra)",
+    "wikiEn": "Trace (linear algebra)",
+    "name": "跡",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Trace diagram",
+    "wikiEn": "Trace diagram",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Trace identity",
+    "wikiEn": "Trace identity",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Trairāśika",
+    "wikiEn": "Trairāśika",
+    "name": "",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Transitive relation",
+    "wikiEn": "Transitive relation",
+    "name": "传递关系",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Translation of axes",
+    "wikiEn": "Translation of axes",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Transpose",
+    "wikiEn": "Transpose",
+    "name": "转置矩阵",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Transpose of a linear map",
+    "wikiEn": "Transpose of a linear map",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Triangle inequality",
+    "wikiEn": "Triangle inequality",
+    "name": "三角不等式",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Triangular decomposition",
+    "wikiEn": "Triangular decomposition",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Trigonometric polynomial",
+    "wikiEn": "Trigonometric polynomial",
+    "name": "三角多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Trilinear coordinates",
+    "wikiEn": "Trilinear coordinates",
+    "name": "三线坐标",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Trinomial",
+    "wikiEn": "Trinomial",
+    "name": "三項式",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Triple product",
+    "wikiEn": "Triple product",
+    "name": "三重积",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Tschirnhaus transformation",
+    "wikiEn": "Tschirnhaus transformation",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Tutte matrix",
+    "wikiEn": "Tutte matrix",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Tutte polynomial",
+    "wikiEn": "Tutte polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Two-element Boolean algebra",
+    "wikiEn": "Two-element Boolean algebra",
+    "name": "二元素布尔代数",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Two-graph",
+    "wikiEn": "Two-graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Umbral calculus",
+    "wikiEn": "Umbral calculus",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Unary operation",
+    "wikiEn": "Unary operation",
+    "name": "一元運算",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Underdetermined system",
+    "wikiEn": "Underdetermined system",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Unimodular polynomial matrix",
+    "wikiEn": "Unimodular polynomial matrix",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Unit vector",
+    "wikiEn": "Unit vector",
+    "name": "单位向量",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Unitary element",
+    "wikiEn": "Unitary element",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Unitary method",
+    "wikiEn": "Unitary method",
+    "name": "",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Unitary transformation",
+    "wikiEn": "Unitary transformation",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Vandermonde polynomial",
+    "wikiEn": "Vandermonde polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Variable (mathematics)",
+    "wikiEn": "Variable (mathematics)",
+    "name": "變數",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Variable and attribute (research)",
+    "wikiEn": "Variable and attribute (research)",
+    "name": "变量与属性 (数据处理)",
+    "subcat": "Variables (mathematics)"
+  },
+  {
+    "nameEn": "Vaughan's identity",
+    "wikiEn": "Vaughan's identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Vector algebra relations",
+    "wikiEn": "Vector algebra relations",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Vector calculus identities",
+    "wikiEn": "Vector calculus identities",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Vector-valued function",
+    "wikiEn": "Vector-valued function",
+    "name": "向量值函数",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Vectorization (mathematics)",
+    "wikiEn": "Vectorization (mathematics)",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Vertex-transitive graph",
+    "wikiEn": "Vertex-transitive graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Vieta's formulas",
+    "wikiEn": "Vieta's formulas",
+    "name": "韦达定理",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Walk-regular graph",
+    "wikiEn": "Walk-regular graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Wall polynomial",
+    "wikiEn": "Wall polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Weitzenböck identity",
+    "wikiEn": "Weitzenböck identity",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Weyl expansion",
+    "wikiEn": "Weyl expansion",
+    "name": "",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Weyl's inequality",
+    "wikiEn": "Weyl's inequality",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Weyr canonical form",
+    "wikiEn": "Weyr canonical form",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Wild problem",
+    "wikiEn": "Wild problem",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Wilkinson's polynomial",
+    "wikiEn": "Wilkinson's polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Word problem (mathematics)",
+    "wikiEn": "Word problem (mathematics)",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Wu's method of characteristic set",
+    "wikiEn": "Wu's method of characteristic set",
+    "name": "吴消元法",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Yoneda product",
+    "wikiEn": "Yoneda product",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Young symmetrizer",
+    "wikiEn": "Young symmetrizer",
+    "name": "楊對稱化子",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Young tableau",
+    "wikiEn": "Young tableau",
+    "name": "杨表",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Young's lattice",
+    "wikiEn": "Young's lattice",
+    "name": "杨氏格",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Z-order curve",
+    "wikiEn": "Z-order curve",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Zariski's finiteness theorem",
+    "wikiEn": "Zariski's finiteness theorem",
+    "name": "",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Zassenhaus algorithm",
+    "wikiEn": "Zassenhaus algorithm",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Zech's logarithm",
+    "wikiEn": "Zech's logarithm",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Zero divisor",
+    "wikiEn": "Zero divisor",
+    "name": "零因子",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Zero mode",
+    "wikiEn": "Zero mode",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Zero object (algebra)",
+    "wikiEn": "Zero object (algebra)",
+    "name": "",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "Zero-product property",
+    "wikiEn": "Zero-product property",
+    "name": "",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Zero-symmetric graph",
+    "wikiEn": "Zero-symmetric graph",
+    "name": "",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Zolotarev polynomials",
+    "wikiEn": "Zolotarev polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Zonal polynomial",
+    "wikiEn": "Zonal polynomial",
+    "name": "",
+    "subcat": "Symmetric functions"
+  }
+]

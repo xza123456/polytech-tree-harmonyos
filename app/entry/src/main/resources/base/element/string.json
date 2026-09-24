@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "人类科技树的本地三维可视化页面"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "人类科技树"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "人类科技树"
+    }
+  ]
+}

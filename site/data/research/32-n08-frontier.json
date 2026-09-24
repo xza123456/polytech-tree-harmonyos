@@ -1,0 +1,1151 @@
+[
+  {
+    "id": "external_memory_algorithm",
+    "name": "外部存储算法",
+    "nameEn": "External Memory Algorithm",
+    "wikiEn": "External memory algorithm",
+    "aliases": [
+      "I/O复杂算法",
+      "Vitter模型"
+    ],
+    "year": 1993,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "algorithms_cs",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "b_tree"
+    ],
+    "related": [
+      "human_genome_project"
+    ],
+    "desc": "以磁盘I/O轮次而非计算步数衡量算法代价，TB级基因组拼接按此模型优化外存访问"
+  },
+  {
+    "id": "byzantine_fault_tolerance",
+    "name": "拜占庭容错",
+    "nameEn": "Byzantine Fault Tolerance",
+    "wikiEn": "Byzantine fault tolerance",
+    "aliases": [
+      "BFT",
+      "拜占庭将军问题"
+    ],
+    "year": 1982,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "algorithms_cs",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "cryptographic_hash_function"
+    ],
+    "related": [
+      "nuclear_submarine"
+    ],
+    "desc": "存在恶意节点时仍能达成一致的协议，核动力潜艇与反应堆安全控制须满足此容错条件"
+  },
+  {
+    "id": "flp_theorem",
+    "name": "FLP不可能性定理",
+    "nameEn": "FLP Impossibility Theorem",
+    "wikiEn": "FLP result",
+    "aliases": [
+      "Fischer-Lynch-Paterson"
+    ],
+    "year": 1985,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "algorithms_cs",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "computational_complexity_theory"
+    ],
+    "related": [
+      "gps"
+    ],
+    "desc": "异步系统中即使单点故障也无法确定性达成一致，GPS卫星分布式钟同步须绕此不可能性"
+  },
+  {
+    "id": "vc_dimension",
+    "name": "VC维理论",
+    "nameEn": "Vapnik-Chervonenkis Dimension",
+    "wikiEn": "VC dimension",
+    "aliases": [
+      "Vapnik-Chervonenkis维"
+    ],
+    "year": 1971,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "algorithms_cs",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "information_theory"
+    ],
+    "related": [
+      "radar"
+    ],
+    "desc": "刻画学习模型泛化能力的组合几何上限，界定雷达杂波分类器所需最小训练样本量"
+  },
+  {
+    "id": "karger_algorithm",
+    "name": "Karger随机收缩最小割算法",
+    "nameEn": "Karger Algorithm",
+    "wikiEn": "Karger's algorithm",
+    "aliases": [
+      "随机收缩算法"
+    ],
+    "year": 1993,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "algorithms_cs",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "ford_fulkerson_max_flow"
+    ],
+    "related": [
+      "railway_signalling"
+    ],
+    "desc": "随机边收缩求图最小割，铁路联锁网络可靠度与关键通道分析直接依赖此算法"
+  },
+  {
+    "id": "pcp_theorem",
+    "name": "概率可检验证明定理",
+    "nameEn": "Probabilistically Checkable Proof Theorem",
+    "wikiEn": "Probabilistically checkable proof",
+    "aliases": [
+      "PCP定理"
+    ],
+    "year": 1992,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "algorithms_cs",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "cook_levin_np_completeness",
+      "computational_complexity_theory"
+    ],
+    "related": [
+      "semiconductor_device_fabrication"
+    ],
+    "desc": "NP问题的解可用常数次随机查询验证，由此推出芯片光刻布局优化存在不可逾越近似下界"
+  },
+  {
+    "id": "secure_multiparty_computation",
+    "name": "安全多方计算",
+    "nameEn": "Secure Multi-Party Computation",
+    "wikiEn": "Secure multi-party computation",
+    "aliases": [
+      "MPC",
+      "Yao millionaire问题"
+    ],
+    "year": 1982,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "algorithms_cs",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "diffie_hellman",
+      "public_key_cryptography"
+    ],
+    "related": [
+      "human_genome_project"
+    ],
+    "desc": "各方不泄露私有输入即可完成联合计算，基因组多中心隐私保护运算的核心协议"
+  },
+  {
+    "id": "communication_complexity",
+    "name": "通信复杂度理论",
+    "nameEn": "Communication Complexity",
+    "wikiEn": "Communication complexity",
+    "aliases": [
+      "Yao通信模型"
+    ],
+    "year": 1979,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "algorithms_cs",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "information_theory"
+    ],
+    "related": [
+      "numerical_weather_prediction"
+    ],
+    "desc": "两方联合计算函数所需交换的最小比特数下界，指导天气模型的区域分解设计"
+  },
+  {
+    "id": "pac_learning",
+    "name": "概率近似正确学习理论",
+    "nameEn": "PAC Learning",
+    "wikiEn": "Probably approximately correct learning",
+    "aliases": [
+      "Valiant PAC模型"
+    ],
+    "year": 1984,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "algorithms_cs",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "information_theory",
+      "computational_complexity_theory"
+    ],
+    "related": [
+      "automated_dna_sequencer"
+    ],
+    "desc": "给出可学习性所需样本量的可计算上界，为测序大数据关联挖掘提供统计可证明保证"
+  },
+  {
+    "id": "dpll_algorithm",
+    "name": "DPLL可满足性判定算法",
+    "nameEn": "DPLL Algorithm",
+    "wikiEn": "DPLL algorithm",
+    "aliases": [
+      "Davis-Putnam-Logemann-Loveland"
+    ],
+    "year": 1962,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "atomic_electronic",
+    "category": "algorithms_cs",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "semiconductor_device_fabrication"
+    ],
+    "desc": "布尔可满足性分支剪枝搜索框架，VLSI设计与芯片形式验证的算法基础"
+  },
+  {
+    "id": "josephson_effect",
+    "name": "约瑟夫森效应",
+    "nameEn": "Josephson Effect",
+    "wikiEn": "Josephson effect",
+    "aliases": [
+      "超导隧道效应"
+    ],
+    "year": 1962,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "atomic_electronic",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "superconductivity_discovery"
+    ],
+    "related": [
+      "quantum_computer"
+    ],
+    "desc": "超导库珀对经薄绝缘势垒相位相干隧穿，构成超导量子比特与SQUID磁强计的核心元件"
+  },
+  {
+    "id": "giant_magnetoresistance",
+    "name": "巨磁阻效应",
+    "nameEn": "Giant Magnetoresistance",
+    "wikiEn": "Giant magnetoresistance",
+    "aliases": [
+      "GMR"
+    ],
+    "year": 1988,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 1,
+    "prereqs": [
+      "quantum_tunneling"
+    ],
+    "related": [
+      "airborne_radar"
+    ],
+    "desc": "铁磁多层膜电阻随外加磁场剧烈变化，现代硬盘读头与机载雷达磁导航传感器的工作前提"
+  },
+  {
+    "id": "integer_quantum_hall_effect",
+    "name": "整数量子霍尔效应",
+    "nameEn": "Integer Quantum Hall Effect",
+    "wikiEn": "Quantum Hall effect",
+    "aliases": [
+      "IQHE",
+      "冯克利青效应"
+    ],
+    "year": 1980,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "hall_effect",
+      "band_theory"
+    ],
+    "related": [
+      "semiconductor_device_fabrication"
+    ],
+    "desc": "二维电子气霍尔电导以拓扑量子化台阶出现，为国际电阻基准标准提供半导体精密校准依据"
+  },
+  {
+    "id": "fractional_quantum_hall_effect",
+    "name": "分数量子霍尔效应",
+    "nameEn": "Fractional Quantum Hall Effect",
+    "wikiEn": "Fractional quantum Hall effect",
+    "aliases": [
+      "FQHE"
+    ],
+    "year": 1982,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "hall_effect",
+      "band_theory"
+    ],
+    "related": [
+      "quantum_computer"
+    ],
+    "desc": "强关联电子产生分数电荷任意子，其编织拓扑性质是拓扑量子比特主流方案"
+  },
+  {
+    "id": "mossbauer_effect",
+    "name": "穆斯堡尔效应",
+    "nameEn": "Mössbauer Effect",
+    "wikiEn": "Mössbauer effect",
+    "aliases": [
+      "无反冲核共振"
+    ],
+    "year": 1958,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "atomic_electronic",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "rutherford_nuclear_model"
+    ],
+    "related": [
+      "nuclear_reactor"
+    ],
+    "desc": "晶格束缚核素无反冲发射吸收伽马射线，据此精确分析反应堆材料辐照损伤"
+  },
+  {
+    "id": "laser_cooling",
+    "name": "激光冷却",
+    "nameEn": "Laser Cooling",
+    "wikiEn": "Laser cooling",
+    "aliases": [
+      "多普勒冷却"
+    ],
+    "year": 1975,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "einstein_photoelectric"
+    ],
+    "related": [
+      "gps"
+    ],
+    "desc": "利用光子动量选择性散射将原子减速至微开量级，GPS卫星铯原子钟的精度由此实现"
+  },
+  {
+    "id": "optical_tweezers",
+    "name": "光镊",
+    "nameEn": "Optical Tweezers",
+    "wikiEn": "Optical tweezers",
+    "aliases": [
+      "单光束梯度力势阱"
+    ],
+    "year": 1986,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "physics",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "laser"
+    ],
+    "related": [
+      "carbon_nanotube"
+    ],
+    "desc": "高数值孔径激光焦点梯度力捕获微纳粒子，用于单根碳纳米管力学性质的非接触测量"
+  },
+  {
+    "id": "cavity_qed",
+    "name": "腔量子电动力学",
+    "nameEn": "Cavity Quantum Electrodynamics",
+    "wikiEn": "Cavity quantum electrodynamics",
+    "aliases": [
+      "腔QED"
+    ],
+    "year": 1985,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "quantum_electrodynamics"
+    ],
+    "related": [
+      "quantum_computer"
+    ],
+    "desc": "原子与高品质腔模强耦合实现单光子操控，超导微波腔是量子门操作核心路径"
+  },
+  {
+    "id": "second_harmonic_generation",
+    "name": "二次谐波产生",
+    "nameEn": "Second-Harmonic Generation",
+    "wikiEn": "Second-harmonic generation",
+    "aliases": [
+      "SHG",
+      "倍频"
+    ],
+    "year": 1961,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "atomic_electronic",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "laser"
+    ],
+    "related": [
+      "fiber_optics_comm"
+    ],
+    "desc": "强光电场在非线性晶体中诱导极化产生倍频光，实现固体绿光激光与光纤通信波长转换"
+  },
+  {
+    "id": "casimir_effect",
+    "name": "卡西米尔效应",
+    "nameEn": "Casimir Effect",
+    "wikiEn": "Casimir effect",
+    "aliases": [
+      "真空涨落力"
+    ],
+    "year": 1948,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "atomic_electronic",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "heisenberg_uncertainty_principle"
+    ],
+    "related": [
+      "semiconductor_device_fabrication"
+    ],
+    "desc": "量子零点涨行使相邻导体板产生纳牛级吸引，MEMS 与亚微米制程须克服黏附"
+  },
+  {
+    "id": "click_chemistry",
+    "name": "点击化学",
+    "nameEn": "Click Chemistry",
+    "wikiEn": "Click chemistry",
+    "aliases": [
+      "铜催叠氮炔环加成",
+      "CuAAC"
+    ],
+    "year": 2001,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "intelligent",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 1,
+    "prereqs": [
+      "diels_alder_reaction"
+    ],
+    "related": [
+      "metal_organic_framework"
+    ],
+    "desc": "以高产率高选择性的模块化反应拼接分子片段，是 MOF 后修饰的核心手段"
+  },
+  {
+    "id": "photoredox_catalysis",
+    "name": "光氧化还原催化",
+    "nameEn": "Photoredox Catalysis",
+    "wikiEn": "Photoredox catalysis",
+    "aliases": [
+      "可见光光氧化还原"
+    ],
+    "year": 2008,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "intelligent",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "transition_state_theory"
+    ],
+    "related": [
+      "perovskite_solar_cell"
+    ],
+    "desc": "可见光激发催化剂完成单电子转移循环，与钙钛矿光伏共享光生载流子电荷转移原理"
+  },
+  {
+    "id": "asymmetric_hydrogenation",
+    "name": "不对称氢化反应",
+    "nameEn": "Asymmetric Hydrogenation",
+    "wikiEn": "Asymmetric hydrogenation",
+    "aliases": [
+      "手性催化加氢"
+    ],
+    "year": 1980,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "catalysis_concept",
+      "pauling_valence_bond"
+    ],
+    "related": [
+      "conductive_polymer"
+    ],
+    "desc": "手性过渡金属催化选择性加氢产生单一对映体，用于手性共轭聚合物与药物光学纯合成"
+  },
+  {
+    "id": "electrochemical_co2_reduction",
+    "name": "电化学二氧化碳还原",
+    "nameEn": "Electrochemical CO2 Reduction",
+    "wikiEn": "Electrochemical reduction of carbon dioxide",
+    "aliases": [
+      "CO2电还原",
+      "eCO2RR"
+    ],
+    "year": 2004,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "现代气相扩散电极催化剂设计始于2000年代初",
+    "era": "intelligent",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "faradays_electrolysis_laws"
+    ],
+    "related": [
+      "carbon_capture_and_storage"
+    ],
+    "desc": "电催化把捕集的 CO2 还原为甲酸与乙烯，与碳捕集闭环构成人工碳经济路线"
+  },
+  {
+    "id": "flow_chemistry",
+    "name": "连续流动化学",
+    "nameEn": "Continuous Flow Chemistry",
+    "wikiEn": "Flow chemistry",
+    "aliases": [
+      "微流控合成",
+      "连续流"
+    ],
+    "year": 2006,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "制药工业连续流规模化应用约2000年代中期",
+    "era": "intelligent",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "catalysis_concept"
+    ],
+    "related": [
+      "conductive_polymer"
+    ],
+    "desc": "反应液连续通过微通道完成传热传质，共轭聚合物可在此模式下直接放大"
+  },
+  {
+    "id": "dna_encoded_library",
+    "name": "DNA编码化合物库",
+    "nameEn": "DNA-Encoded Chemical Library",
+    "wikiEn": "DNA-encoded chemical library",
+    "aliases": [
+      "DEL"
+    ],
+    "year": 1992,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "chromatography"
+    ],
+    "related": [
+      "deep_learning"
+    ],
+    "desc": "化合物与唯一 DNA 条形码偶联构建十亿级库，配合机器学习解析筛选数据"
+  },
+  {
+    "id": "ch_activation",
+    "name": "碳氢键活化",
+    "nameEn": "C-H Activation",
+    "wikiEn": "C-H activation",
+    "aliases": [
+      "C-H键官能化",
+      "C-H functionalization"
+    ],
+    "year": 2005,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "intelligent",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "pauling_valence_bond"
+    ],
+    "related": [
+      "graphene"
+    ],
+    "desc": "过渡金属直接官能化惰性 C-H 键，免除预功能化，用于药物后期修饰"
+  },
+  {
+    "id": "artificial_photosynthesis",
+    "name": "人工光合作用",
+    "nameEn": "Artificial Photosynthesis",
+    "wikiEn": "Artificial photosynthesis",
+    "aliases": [
+      "人工光合制氢"
+    ],
+    "year": 2011,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "JCAP人工叶片概念验证发表于此期间",
+    "era": "intelligent",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "photosynthesis_discovery"
+    ],
+    "related": [
+      "solar_cell"
+    ],
+    "desc": "模拟天然光合以太阳能直接分解水制氢，与光伏共享光激发载流子驱动化学反应的核心机制"
+  },
+  {
+    "id": "atom_economy",
+    "name": "原子经济性原则",
+    "nameEn": "Atom Economy",
+    "wikiEn": "Atom economy",
+    "aliases": [
+      "原子利用率"
+    ],
+    "year": 1991,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "chemistry",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "catalysis_concept"
+    ],
+    "related": [
+      "semiconductor_device_fabrication"
+    ],
+    "desc": "以产物所获反应物原子比例衡量合成效率，半导体工艺化学品选择的首要绿色化学准则"
+  },
+  {
+    "id": "suzuki_reaction",
+    "name": "铃木交叉偶联反应",
+    "nameEn": "Suzuki Coupling",
+    "wikiEn": "Suzuki reaction",
+    "aliases": [
+      "Suzuki-Miyaura反应"
+    ],
+    "year": 1979,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "grignard_reagent"
+    ],
+    "related": [
+      "conductive_polymer"
+    ],
+    "desc": "钯催化有机硼酸与卤代芳烃高效偶联，共轭导电高分子与OLED发光材料合成的标准方法"
+  },
+  {
+    "id": "olefin_metathesis",
+    "name": "烯烃复分解反应",
+    "nameEn": "Olefin Metathesis",
+    "wikiEn": "Olefin metathesis",
+    "aliases": [
+      "键迁移",
+      "Grubbs催化剂"
+    ],
+    "year": 1992,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "catalysis_concept"
+    ],
+    "related": [
+      "polyester_fiber"
+    ],
+    "desc": "金属卡宾催化碳碳双键断裂重组，开环易位聚合制备可降解聚酯纤维与功能材料"
+  },
+  {
+    "id": "supramolecular_chemistry",
+    "name": "超分子化学",
+    "nameEn": "Supramolecular Chemistry",
+    "wikiEn": "Supramolecular chemistry",
+    "aliases": [
+      "主客体化学",
+      "非共价组装"
+    ],
+    "year": 1987,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "chemistry",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "hydrogen_bond",
+      "lewis_acid_base_theory"
+    ],
+    "related": [
+      "metal_organic_framework"
+    ],
+    "desc": "分子间非共价键自组织构筑有序超分子结构，是MOF与主客体分子识别的理论框架"
+  },
+  {
+    "id": "combinatorial_chemistry",
+    "name": "组合化学",
+    "nameEn": "Combinatorial Chemistry",
+    "wikiEn": "Combinatorial chemistry",
+    "aliases": [
+      "并行合成"
+    ],
+    "year": 1990,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "Geysen针式阵列与光刻合成均在1980末至1990初实现",
+    "era": "information",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "grignard_reagent"
+    ],
+    "related": [
+      "semiconductor_device_fabrication"
+    ],
+    "desc": "光刻并行合成肽微阵列直接借用芯片光刻工艺，一次筛选数十亿候选分子组合"
+  },
+  {
+    "id": "green_chemistry",
+    "name": "绿色化学",
+    "nameEn": "Green Chemistry",
+    "wikiEn": "Green chemistry",
+    "aliases": [
+      "可持续化学",
+      "十二原则"
+    ],
+    "year": 1998,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "chemistry",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "catalysis_concept"
+    ],
+    "related": [
+      "carbon_capture_and_storage"
+    ],
+    "desc": "从分子设计源头消除有害物，绿色溶剂与催化策略与碳捕集工业共同推动可持续化学品制造"
+  },
+  {
+    "id": "organocatalysis",
+    "name": "有机催化",
+    "nameEn": "Organocatalysis",
+    "wikiEn": "Organocatalysis",
+    "aliases": [
+      "不对称有机催化"
+    ],
+    "year": 2000,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "intelligent",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "diels_alder_reaction"
+    ],
+    "related": [
+      "microcapsule_self_healing_polymer"
+    ],
+    "desc": "纯有机小分子催化不对称转化避免金属残留，用于可降解聚酯与自修复微胶囊的绿色合成"
+  },
+  {
+    "id": "bioorthogonal_chemistry",
+    "name": "生物正交化学",
+    "nameEn": "Bioorthogonal Chemistry",
+    "wikiEn": "Bioorthogonal chemistry",
+    "aliases": [
+      "无铜点击化学"
+    ],
+    "year": 2003,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "intelligent",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "diels_alder_reaction"
+    ],
+    "related": [
+      "microcapsule_self_healing_polymer"
+    ],
+    "desc": "活体环境下与天然分子互不干扰的点击反应，实现体内药物偶联与自修复材料原位交联"
+  },
+  {
+    "id": "uranium_lead_dating",
+    "name": "铀铅测年法",
+    "nameEn": "Uranium-Lead Dating",
+    "wikiEn": "Uranium-lead dating",
+    "aliases": [
+      "U-Pb定年"
+    ],
+    "year": 1956,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "radiometric_dating"
+    ],
+    "related": [
+      "nuclear_reactor"
+    ],
+    "desc": "以铀238→铅206与铀235→铅207两套时钟定地球最老岩石年龄"
+  },
+  {
+    "id": "potassium_argon_dating",
+    "name": "钾氩测年法",
+    "nameEn": "Potassium-Argon Dating",
+    "wikiEn": "Potassium-argon dating",
+    "aliases": [
+      "K-Ar定年"
+    ],
+    "year": 1950,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "方法原理于1940年代末确立",
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "radiometric_dating"
+    ],
+    "related": [
+      "geothermal_power"
+    ],
+    "desc": "钾40电子俘获衰变为氩40封闭于矿物晶格，火山岩定年直接依赖此法"
+  },
+  {
+    "id": "dendrochronology",
+    "name": "树木年代学",
+    "nameEn": "Dendrochronology",
+    "wikiEn": "Dendrochronology",
+    "aliases": [
+      "树木年轮定年"
+    ],
+    "year": 1929,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "second_industrial",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "radiometric_dating"
+    ],
+    "related": [
+      "woodblock_printing"
+    ],
+    "desc": "树木年轮交叉定年建立逐年气候序列，用于校准放射性碳并精确断代古代木器与雕版印刷品"
+  },
+  {
+    "id": "osl_dating",
+    "name": "光释光测年",
+    "nameEn": "Optically Stimulated Luminescence Dating",
+    "wikiEn": "Optically stimulated luminescence",
+    "aliases": [
+      "OSL定年"
+    ],
+    "year": 1985,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "Singhvi等1984-1985年提出OSL单独测年方案",
+    "era": "information",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "einstein_photoelectric"
+    ],
+    "related": [
+      "tunnel_boring_machine"
+    ],
+    "desc": "以光激励释放石英陷阱电子并测发光量推算沉积年代，隧道掘进前地层年龄评估的核心工具"
+  },
+  {
+    "id": "argon_argon_dating",
+    "name": "氩氩测年法",
+    "nameEn": "Argon-Argon Dating",
+    "wikiEn": "Argon-argon dating",
+    "aliases": [
+      "40Ar/39Ar定年"
+    ],
+    "year": 1966,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "radiometric_dating",
+      "nuclear_reactor"
+    ],
+    "related": [
+      "geothermal_power"
+    ],
+    "desc": "反应堆中子辐照把钾39转为氩39，用氩40/氩39比值消除钾含量误差"
+  },
+  {
+    "id": "insar",
+    "name": "合成孔径雷达干涉测量",
+    "nameEn": "InSAR",
+    "wikiEn": "Interferometric synthetic aperture radar",
+    "aliases": [
+      "InSAR",
+      "干涉SAR"
+    ],
+    "year": 1989,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "radar"
+    ],
+    "related": [
+      "tunnel_boring_machine"
+    ],
+    "desc": "以两幅卫星 SAR 图像相位差反演毫米级地表形变，用于沿线沉降监测"
+  },
+  {
+    "id": "fission_track_dating",
+    "name": "裂变径迹测年",
+    "nameEn": "Fission Track Dating",
+    "wikiEn": "Fission track dating",
+    "aliases": [
+      "裂变径迹定年"
+    ],
+    "year": 1963,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "Fleischer等1963年系统建立该方法",
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "nuclear_fission_mechanism"
+    ],
+    "related": [
+      "nuclear_reactor"
+    ],
+    "desc": "统计矿物中铀238自发裂变径迹密度推算冷却年龄，用于核材料热历史分析"
+  },
+  {
+    "id": "ice_core_analysis",
+    "name": "冰芯记录分析",
+    "nameEn": "Ice Core Analysis",
+    "wikiEn": "Ice core",
+    "aliases": [
+      "极地冰芯"
+    ],
+    "year": 1966,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "radiocarbon_dating"
+    ],
+    "related": [
+      "rotary_drilling"
+    ],
+    "desc": "冰芯封存百万年大气气泡重建历史温室气体与温度旋回，钻取技术源自旋转钻井工程"
+  },
+  {
+    "id": "uranium_thorium_dating",
+    "name": "铀钍测年法",
+    "nameEn": "Uranium-Thorium Dating",
+    "wikiEn": "Uranium-thorium dating",
+    "aliases": [
+      "U-Th定年",
+      "钍230定年"
+    ],
+    "year": 1963,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "radiometric_dating"
+    ],
+    "related": [
+      "nuclear_reactor"
+    ],
+    "desc": "以铀234与钍230不平衡定珊瑚方解石年龄，核燃料处理亦依赖同一衰变链同位素数据"
+  },
+  {
+    "id": "magnetostratigraphy",
+    "name": "磁性地层学",
+    "nameEn": "Magnetostratigraphy",
+    "wikiEn": "Magnetostratigraphy",
+    "aliases": [
+      "地磁极性层序"
+    ],
+    "year": 1963,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1960年代初随古地磁反转年表确立",
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "paleomagnetism"
+    ],
+    "related": [
+      "geothermal_power"
+    ],
+    "desc": "利用地磁极性倒转序列对沉积与火成岩层定年，地热储层与油气井地层对比的关键工具"
+  },
+  {
+    "id": "cosmic_ray_muon_imaging",
+    "name": "宇宙射线μ子成像",
+    "nameEn": "Muon Radiography",
+    "wikiEn": "Muon radiography",
+    "aliases": [
+      "μ子射线照相",
+      "Muography"
+    ],
+    "year": 1970,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "information",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "cosmic_rays"
+    ],
+    "related": [
+      "tunnel_boring_machine"
+    ],
+    "desc": "宇宙射线μ子穿透岩层经径迹探测器重建密度分布，隧道与火山内部空洞超前地质预报"
+  }
+]

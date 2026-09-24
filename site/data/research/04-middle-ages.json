@@ -1,0 +1,2753 @@
+[
+  {
+    "id": "anno_domini",
+    "name": "公元纪年",
+    "nameEn": "Anno Domini",
+    "wikiEn": "Anno Domini",
+    "aliases": [
+      "基督纪年",
+      "AD纪年",
+      "Common Era"
+    ],
+    "year": 525,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "medieval_university"
+    ],
+    "desc": "修士狄奥尼修斯制定以耶稣降生为起点的公元纪年体系。"
+  },
+  {
+    "id": "impetus_theory",
+    "name": "冲力说",
+    "nameEn": "Theory of impetus",
+    "wikiEn": "",
+    "aliases": [
+      "Impetus theory",
+      "菲洛波努斯冲力说",
+      "布里丹冲力说"
+    ],
+    "year": 530,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "菲洛波努斯提出抛体获得冲力，后世布里丹发展，近接惯性概念。"
+  },
+  {
+    "id": "ship_mill",
+    "name": "船磨",
+    "nameEn": "Ship mill",
+    "wikiEn": "Ship mill",
+    "aliases": [
+      "浮磨坊",
+      "船上磨坊",
+      "Ship mill"
+    ],
+    "year": 540,
+    "era": "middle_ages",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [
+      "water_wheel"
+    ],
+    "related": [
+      "tide_mill"
+    ],
+    "desc": "磨坊建于船上借水流驱动，6世纪罗马围城时已使用。"
+  },
+  {
+    "id": "cofusion_steel",
+    "name": "灌钢",
+    "nameEn": "Co-fusion steel",
+    "wikiEn": "",
+    "aliases": [
+      "灌钢法",
+      "宿铁",
+      "Co-fusion steelmaking"
+    ],
+    "year": 550,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "iron_smelting"
+    ],
+    "related": [
+      "damascus_steel"
+    ],
+    "desc": "南北朝綦毋怀文以生铁熟铁合炼成钢，即灌钢法。"
+  },
+  {
+    "id": "byzantine_silk",
+    "name": "拜占庭丝织",
+    "nameEn": "Byzantine silk",
+    "wikiEn": "Byzantine silk",
+    "aliases": [
+      "拜占庭丝绸",
+      "Roman silk"
+    ],
+    "year": 552,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "porcelain"
+    ],
+    "desc": "查士丁尼时期引入蚕种，拜占庭建立官营丝织业。"
+  },
+  {
+    "id": "porcelain",
+    "name": "瓷器",
+    "nameEn": "Porcelain",
+    "wikiEn": "Porcelain",
+    "aliases": [
+      "成熟瓷",
+      "白瓷",
+      "China ware"
+    ],
+    "year": 618,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "pottery"
+    ],
+    "related": [
+      "celadon"
+    ],
+    "desc": "唐代烧成胎质致密的成熟瓷器，宋元技艺登峰并远销海外。"
+  },
+  {
+    "id": "stirrup",
+    "name": "马镫",
+    "nameEn": "Stirrup",
+    "wikiEn": "Stirrup",
+    "aliases": [
+      "脚踏马镫"
+    ],
+    "year": 560,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "horse_domestication"
+    ],
+    "related": [
+      "horse_collar",
+      "horseshoe"
+    ],
+    "desc": "马镫经欧亚草原传入拜占庭与欧洲，改变骑兵作战方式。"
+  },
+  {
+    "id": "match",
+    "name": "火柴",
+    "nameEn": "Match",
+    "wikiEn": "Match",
+    "aliases": [
+      "发烛",
+      "火寸",
+      "引火火柴",
+      "Sulfur match"
+    ],
+    "year": 577,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "fireworks"
+    ],
+    "desc": "北齐宫女用硫磺制发烛引火，是火柴的雏形。"
+  },
+  {
+    "id": "toilet_paper",
+    "name": "卫生纸",
+    "nameEn": "Toilet paper",
+    "wikiEn": "Toilet paper",
+    "aliases": [
+      "厕纸",
+      "草纸"
+    ],
+    "year": 589,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "papermaking"
+    ],
+    "related": [
+      "paper_money"
+    ],
+    "desc": "隋代已有用纸拭秽的记载，后在宋元广泛使用。"
+  },
+  {
+    "id": "tide_mill",
+    "name": "潮汐磨坊",
+    "nameEn": "Tide mill",
+    "wikiEn": "Tide mill",
+    "aliases": [
+      "潮磨",
+      "潮汐水车"
+    ],
+    "year": 600,
+    "era": "middle_ages",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "water_wheel"
+    ],
+    "related": [
+      "ship_mill"
+    ],
+    "desc": "利用潮差蓄水推动水轮，6世纪爱尔兰沿岸已出现。"
+  },
+  {
+    "id": "anji_bridge",
+    "name": "赵州桥",
+    "nameEn": "Anji Bridge",
+    "wikiEn": "Anji Bridge",
+    "aliases": [
+      "安济桥",
+      "赵州大石桥"
+    ],
+    "year": 605,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "grand_canal"
+    ],
+    "desc": "李春设计的敞肩石拱桥，世界现存最古老的敞肩石拱桥。"
+  },
+  {
+    "id": "grand_canal",
+    "name": "大运河",
+    "nameEn": "Grand Canal (China)",
+    "wikiEn": "Grand Canal (China)",
+    "aliases": [
+      "京杭大运河",
+      "隋大运河"
+    ],
+    "year": 609,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "pound_lock"
+    ],
+    "desc": "隋代贯通南北水系的大运河，后世持续扩建，交通命脉。"
+  },
+  {
+    "id": "toothbrush",
+    "name": "牙刷",
+    "nameEn": "Toothbrush",
+    "wikiEn": "Toothbrush",
+    "aliases": [
+      "鬃毛刷",
+      "杨柳枝"
+    ],
+    "year": 619,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [],
+    "desc": "唐代出现植毛牙刷，以鬃毛穿骨柄制成。"
+  },
+  {
+    "id": "zero",
+    "name": "零",
+    "nameEn": "Zero",
+    "wikiEn": "0",
+    "aliases": [
+      "数字零",
+      "〇",
+      "Indian zero"
+    ],
+    "year": 628,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "mathematics_early"
+    ],
+    "related": [
+      "hindu_arabic_numerals"
+    ],
+    "desc": "婆罗摩笈多把零作为数参与运算，奠定零的算术规则。"
+  },
+  {
+    "id": "greek_fire",
+    "name": "希腊火",
+    "nameEn": "Greek fire",
+    "wikiEn": "Greek fire",
+    "aliases": [
+      "海洋之火",
+      "海火"
+    ],
+    "year": 672,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "gunpowder"
+    ],
+    "desc": "拜占庭的军用燃烧剂，可在水面燃烧，凭虹吸管喷射御敌。"
+  },
+  {
+    "id": "incense_clock",
+    "name": "香钟",
+    "nameEn": "Incense clock",
+    "wikiEn": "Incense clock",
+    "aliases": [
+      "香篆钟",
+      "印香钟"
+    ],
+    "year": 680,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "mechanical_clock"
+    ],
+    "desc": "以燃香长度或香灰轨迹计时，东亚与伊斯兰世界长期使用。"
+  },
+  {
+    "id": "gunpowder",
+    "name": "火药",
+    "nameEn": "Gunpowder",
+    "wikiEn": "Gunpowder",
+    "aliases": [
+      "黑火药",
+      "硝磺药"
+    ],
+    "year": 808,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "fire_arrow",
+      "cannon",
+      "fireworks"
+    ],
+    "desc": "唐代炼丹家以硝硫炭配成黑火药，炼丹典籍载有明确配方。"
+  },
+  {
+    "id": "heavy_plow",
+    "name": "重犁",
+    "nameEn": "Carruca",
+    "wikiEn": "Carruca",
+    "aliases": [
+      "Moldboard plow",
+      "带壁重犁"
+    ],
+    "year": 750,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "plow"
+    ],
+    "related": [
+      "three_field_system",
+      "horse_collar"
+    ],
+    "desc": "莱茵地区普及的带壁重犁，可翻垦北欧黏重沃土。"
+  },
+  {
+    "id": "tin_glazed_pottery",
+    "name": "锡釉陶",
+    "nameEn": "Tin-glazed pottery",
+    "wikiEn": "Tin-glazed pottery",
+    "aliases": [
+      "锡白釉陶",
+      "马约利卡陶",
+      "Maiolica"
+    ],
+    "year": 780,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "pottery"
+    ],
+    "related": [
+      "lustreware"
+    ],
+    "desc": "伊斯兰陶工以氧化锡制不透明白釉，后传欧洲成马约利卡陶。"
+  },
+  {
+    "id": "tea",
+    "name": "茶",
+    "nameEn": "Tea",
+    "wikiEn": "Tea",
+    "aliases": [
+      "茶饮",
+      "茗饮"
+    ],
+    "year": 780,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "teapot"
+    ],
+    "desc": "唐代饮茶成风，陆羽《茶经》系统总结茶的种植与饮用。"
+  },
+  {
+    "id": "longship",
+    "name": "维京长船",
+    "nameEn": "Longship",
+    "wikiEn": "Longship",
+    "aliases": [
+      "维京船",
+      "Viking longship"
+    ],
+    "year": 785,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "sail"
+    ],
+    "related": [
+      "cog_ship",
+      "lateen_sail"
+    ],
+    "desc": "维京人吃水浅、首尾对称的长船，用于远洋劫掠与殖民。"
+  },
+  {
+    "id": "three_field_system",
+    "name": "三圃制",
+    "nameEn": "Three-field system",
+    "wikiEn": "Three-field system",
+    "aliases": [
+      "三区轮作",
+      "三田制"
+    ],
+    "year": 790,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "agriculture",
+      "plow"
+    ],
+    "related": [
+      "heavy_plow"
+    ],
+    "desc": "耕地分三区年轮作，提升中世纪农业产出与地力。"
+  },
+  {
+    "id": "horseshoe",
+    "name": "马蹄铁",
+    "nameEn": "Horseshoe",
+    "wikiEn": "Horseshoe",
+    "aliases": [
+      "蹄铁",
+      "马掌"
+    ],
+    "year": 790,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "horse_domestication"
+    ],
+    "related": [
+      "horse_collar",
+      "stirrup",
+      "spur"
+    ],
+    "desc": "钉掌蹄铁保护马蹄，使马在硬质道路长途负重行进。"
+  },
+  {
+    "id": "pharmacy",
+    "name": "药房",
+    "nameEn": "Pharmacy",
+    "wikiEn": "Pharmacy",
+    "aliases": [
+      "药店",
+      "Saydalani"
+    ],
+    "year": 795,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "bimaristan"
+    ],
+    "desc": "巴格达出现专门药铺与药剂师，药材配制与药学开始独立。"
+  },
+  {
+    "id": "horse_collar",
+    "name": "马肩轭",
+    "nameEn": "Horse collar",
+    "wikiEn": "Horse collar",
+    "aliases": [
+      "软肩套",
+      "垫肩马轭"
+    ],
+    "year": 800,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "horse_domestication"
+    ],
+    "related": [
+      "heavy_plow",
+      "horseshoe",
+      "stirrup"
+    ],
+    "desc": "软垫肩轭让马全力拉犁挽车，农用马力大增。"
+  },
+  {
+    "id": "panemone_windmill",
+    "name": "波斯立轴风车",
+    "nameEn": "Panemone windmill",
+    "wikiEn": "Panemone windmill",
+    "aliases": [
+      "立轴风车",
+      "波斯风车"
+    ],
+    "year": 800,
+    "era": "middle_ages",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "windmill",
+      "windpump"
+    ],
+    "desc": "波斯地区垂直轴、翼板转筒的风车，用于磨谷与提水。"
+  },
+  {
+    "id": "astrolabe",
+    "name": "星盘",
+    "nameEn": "Astrolabe",
+    "wikiEn": "Astrolabe",
+    "aliases": [
+      "平面天球仪"
+    ],
+    "year": 800,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "quadrant",
+      "compass_navigation"
+    ],
+    "desc": "伊斯兰学者给星盘加角度刻度，用于测时、占星与导航。"
+  },
+  {
+    "id": "alembic",
+    "name": "蒸馏器",
+    "nameEn": "Alembic",
+    "wikiEn": "Alembic",
+    "aliases": [
+      "蒸馏头",
+      "安瓿蒸馏器"
+    ],
+    "year": 800,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "distilled_liquor",
+      "kerosene"
+    ],
+    "desc": "伊斯兰炼金家完善的蒸馏装置，可冷凝收集挥发液体。"
+  },
+  {
+    "id": "lateen_sail",
+    "name": "三角帆",
+    "nameEn": "Lateen",
+    "wikiEn": "Lateen",
+    "aliases": [
+      "拉丁帆",
+      "斜桁三角帆"
+    ],
+    "year": 800,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "sail"
+    ],
+    "related": [
+      "longship"
+    ],
+    "desc": "地中海普及的三角纵帆，可逆风换戗，提升帆船机动性。"
+  },
+  {
+    "id": "house_of_wisdom",
+    "name": "智慧宫",
+    "nameEn": "House of Wisdom",
+    "wikiEn": "House of Wisdom",
+    "aliases": [
+      "Bayt al-Hikma",
+      "智慧之宫"
+    ],
+    "year": 800,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "medieval_university",
+      "algebra"
+    ],
+    "desc": "阿拔斯王朝的学术机构，翻译希腊波斯典籍并推动原创科学。"
+  },
+  {
+    "id": "bimaristan",
+    "name": "医院",
+    "nameEn": "Bimaristan",
+    "wikiEn": "Bimaristan",
+    "aliases": [
+      "比马里斯坦",
+      "伊斯兰医院",
+      "Dar al-Shifa"
+    ],
+    "year": 805,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "pharmacy",
+      "canon_of_medicine"
+    ],
+    "desc": "伊斯兰综合医院，分科施诊并含精神护理，对平民开放。"
+  },
+  {
+    "id": "algebra",
+    "name": "代数学",
+    "nameEn": "Algebra",
+    "wikiEn": "Algebra",
+    "aliases": [
+      "al-jabr",
+      "方程学"
+    ],
+    "year": 820,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "mathematics_early"
+    ],
+    "related": [
+      "algorithm",
+      "hindu_arabic_numerals"
+    ],
+    "desc": "花剌子米创立移项合并的方程解法，代数成为独立学科。"
+  },
+  {
+    "id": "hindu_arabic_numerals",
+    "name": "阿拉伯数字",
+    "nameEn": "Hindu–Arabic numeral system",
+    "wikiEn": "Hindu–Arabic numeral system",
+    "aliases": [
+      "印度-阿拉伯数字",
+      "十进位值制数字"
+    ],
+    "year": 825,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "zero"
+    ],
+    "related": [
+      "algorithm",
+      "double_entry_bookkeeping"
+    ],
+    "desc": "印度数字经花剌子米传入伊斯兰世界，后传欧洲。"
+  },
+  {
+    "id": "algorithm",
+    "name": "算法",
+    "nameEn": "Algorithm",
+    "wikiEn": "Algorithm",
+    "aliases": [
+      "演算法",
+      "algoritmi"
+    ],
+    "year": 850,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "hindu_arabic_numerals"
+    ],
+    "related": [
+      "algebra"
+    ],
+    "desc": "花剌子米名字拉丁化为algoritmi，算法概念由此得名。"
+  },
+  {
+    "id": "music_sequencer",
+    "name": "自动长笛机",
+    "nameEn": "Music sequencer",
+    "wikiEn": "Music sequencer",
+    "aliases": [
+      "可编程自动笛",
+      "Banu Musa flute"
+    ],
+    "year": 850,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [],
+    "related": [
+      "camshaft"
+    ],
+    "desc": "巴努·穆萨的自动长笛以旋转圆柱换音，被视为最早的可编程装置之一。"
+  },
+  {
+    "id": "frequency_analysis",
+    "name": "频率分析",
+    "nameEn": "Frequency analysis",
+    "wikiEn": "Frequency analysis",
+    "aliases": [
+      "密码分析",
+      "字母频率破译"
+    ],
+    "year": 850,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "肯迪以字母频率规律破解替换密码，奠定密码分析基础。"
+  },
+  {
+    "id": "lustreware",
+    "name": "光泽釉陶",
+    "nameEn": "Lustreware",
+    "wikiEn": "Lustreware",
+    "aliases": [
+      "虹彩陶",
+      "金属光泽釉"
+    ],
+    "year": 850,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "tin_glazed_pottery"
+    ],
+    "related": [
+      "porcelain"
+    ],
+    "desc": "伊斯兰陶工在釉上烧出金属虹彩光泽，畅销地中海。"
+  },
+  {
+    "id": "woodblock_printing",
+    "name": "雕版印刷",
+    "nameEn": "Woodblock printing",
+    "wikiEn": "Woodblock printing",
+    "aliases": [
+      "整版印刷",
+      "木刻版印"
+    ],
+    "year": 868,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [
+      "papermaking"
+    ],
+    "related": [
+      "clay_movable_type",
+      "paper_money"
+    ],
+    "desc": "唐代雕版印《金刚经》，是现存最早有纪年的印刷品。"
+  },
+  {
+    "id": "sugar",
+    "name": "蔗糖",
+    "nameEn": "Sugar",
+    "wikiEn": "Sugar",
+    "aliases": [
+      "制糖",
+      "沙糖"
+    ],
+    "year": 870,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "sugarcane_mill",
+      "arab_agricultural_revolution"
+    ],
+    "desc": "伊斯兰世界推广甘蔗种植与炼糖，蔗糖传入地中海。"
+  },
+  {
+    "id": "windpump",
+    "name": "风力提水机",
+    "nameEn": "Windpump",
+    "wikiEn": "Windpump",
+    "aliases": [
+      "风泵",
+      "风力抽水机"
+    ],
+    "year": 875,
+    "era": "middle_ages",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "panemone_windmill"
+    ],
+    "related": [
+      "piston_pump"
+    ],
+    "desc": "以风车驱动提水，9世纪伊斯兰地区用于灌溉排水。"
+  },
+  {
+    "id": "damascus_steel",
+    "name": "大马士革钢",
+    "nameEn": "Damascus steel",
+    "wikiEn": "Damascus steel",
+    "aliases": [
+      "花纹钢",
+      "乌兹钢刀"
+    ],
+    "year": 900,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "iron_smelting"
+    ],
+    "related": [
+      "cofusion_steel"
+    ],
+    "desc": "中东以坩埚钢锻出带花纹的坚利刀剑，中世纪名噪一时。"
+  },
+  {
+    "id": "crank",
+    "name": "曲柄",
+    "nameEn": "Crank (mechanism)",
+    "wikiEn": "Crank (mechanism)",
+    "aliases": [
+      "手摇曲柄",
+      "摇把"
+    ],
+    "year": 900,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "crankshaft",
+      "camshaft"
+    ],
+    "desc": "曲柄把往复与旋转运动互转，9世纪起在欧亚广泛使用。"
+  },
+  {
+    "id": "quadrant",
+    "name": "象限仪",
+    "nameEn": "Quadrant (instrument)",
+    "wikiEn": "Quadrant (instrument)",
+    "aliases": [
+      "测天象限仪"
+    ],
+    "year": 900,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "astrolabe"
+    ],
+    "related": [
+      "sine_quadrant",
+      "sextant_astronomical"
+    ],
+    "desc": "伊斯兰学者改进的四分圆弧测角仪器，用于天文与计时。"
+  },
+  {
+    "id": "sine_quadrant",
+    "name": "正弦象限仪",
+    "nameEn": "Sine quadrant",
+    "wikiEn": "Sine quadrant",
+    "aliases": [
+      "星盘象限仪",
+      "三角象限仪"
+    ],
+    "year": 950,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "quadrant"
+    ],
+    "related": [
+      "astrolabe"
+    ],
+    "desc": "以正弦线刻度直接读三角函数的象限仪，便携宜天文计算。"
+  },
+  {
+    "id": "kamal",
+    "name": "卡马尔导航板",
+    "nameEn": "Kamal (navigation)",
+    "wikiEn": "Kamal (navigation)",
+    "aliases": [
+      "导航板",
+      "测星板"
+    ],
+    "year": 900,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "astrolabe",
+      "compass_navigation"
+    ],
+    "desc": "阿拉伯水手以绳穿木板测北极星高度，确定纬度。"
+  },
+  {
+    "id": "arab_agricultural_revolution",
+    "name": "阿拉伯农业革命",
+    "nameEn": "Arab Agricultural Revolution",
+    "wikiEn": "Arab Agricultural Revolution",
+    "aliases": [
+      "伊斯兰农业革命"
+    ],
+    "year": 900,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "irrigation"
+    ],
+    "related": [
+      "sugar",
+      "sugarcane_mill"
+    ],
+    "desc": "伊斯兰世界传播新作物与灌溉技术，改变地中海农业。"
+  },
+  {
+    "id": "kerosene",
+    "name": "煤油",
+    "nameEn": "Kerosene",
+    "wikiEn": "Kerosene",
+    "aliases": [
+      "火油",
+      "石脑油"
+    ],
+    "year": 900,
+    "era": "middle_ages",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "alembic"
+    ],
+    "related": [],
+    "desc": "拉齐记载从石油中蒸馏出煤油，用于照明与取暖。"
+  },
+  {
+    "id": "candle_clock",
+    "name": "烛钟",
+    "nameEn": "Candle clock",
+    "wikiEn": "Candle clock",
+    "aliases": [
+      "蜡烛钟"
+    ],
+    "year": 900,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [],
+    "related": [
+      "incense_clock",
+      "hourglass"
+    ],
+    "desc": "以蜡烛燃烧刻度计时，中世纪欧亚多地使用。"
+  },
+  {
+    "id": "fire_arrow",
+    "name": "火药箭",
+    "nameEn": "Fire arrow",
+    "wikiEn": "Fire arrow",
+    "aliases": [
+      "火箭箭",
+      "弓射火药箭"
+    ],
+    "year": 969,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "gunpowder"
+    ],
+    "related": [
+      "rocket",
+      "rocket_launcher"
+    ],
+    "desc": "宋代以弓发射带火药包的箭，是火箭武器的先声。"
+  },
+  {
+    "id": "celadon",
+    "name": "青瓷",
+    "nameEn": "Celadon",
+    "wikiEn": "Celadon",
+    "aliases": [
+      "龙泉青瓷",
+      "秘色瓷"
+    ],
+    "year": 960,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "pottery"
+    ],
+    "related": [
+      "porcelain"
+    ],
+    "desc": "宋代龙泉等窑烧出如玉的青釉瓷，大量外销。"
+  },
+  {
+    "id": "fountain_pen",
+    "name": "贮水笔",
+    "nameEn": "Fountain pen",
+    "wikiEn": "Fountain pen",
+    "aliases": [
+      "蓄水笔",
+      "自来水笔雏形"
+    ],
+    "year": 974,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [],
+    "desc": "法蒂玛埃及记载带贮墨腔的笔，可自行供墨书写。"
+  },
+  {
+    "id": "spherical_trigonometry",
+    "name": "球面三角学",
+    "nameEn": "Spherical trigonometry",
+    "wikiEn": "Spherical trigonometry",
+    "aliases": [
+      "球面三角"
+    ],
+    "year": 980,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "algebra"
+    ],
+    "related": [
+      "quadrant"
+    ],
+    "desc": "伊斯兰数学家建立球面三角定理，服务天文与礼拜朝向计算。"
+  },
+  {
+    "id": "pound_lock",
+    "name": "复闸",
+    "nameEn": "Pound lock",
+    "wikiEn": "Lock (water navigation)",
+    "aliases": [
+      "船闸",
+      "闸槽",
+      "厢闸"
+    ],
+    "year": 984,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "grand_canal"
+    ],
+    "desc": "乔维岳在运河建双闸门复闸，分级调水通航。"
+  },
+  {
+    "id": "sextant_astronomical",
+    "name": "天文六分仪",
+    "nameEn": "Sextant (astronomy)",
+    "wikiEn": "Sextant (astronomy)",
+    "aliases": [
+      "大型墙象限六分仪",
+      "Fakhri sextant"
+    ],
+    "year": 994,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "quadrant"
+    ],
+    "related": [
+      "maragheh_observatory"
+    ],
+    "desc": "胡坚迪造大型六分弧仪精测黄赤交角，为天文六分仪。"
+  },
+  {
+    "id": "sugarcane_mill",
+    "name": "制糖磨坊",
+    "nameEn": "Sugarcane mill",
+    "wikiEn": "Sugarcane mill",
+    "aliases": [
+      "榨蔗磨坊",
+      "糖车"
+    ],
+    "year": 995,
+    "era": "middle_ages",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "sugar"
+    ],
+    "desc": "以畜力或水力压榨甘蔗取汁，9世纪后在伊斯兰地区普及。"
+  },
+  {
+    "id": "al_tasrif",
+    "name": "医学宝鉴",
+    "nameEn": "Al-Tasrif",
+    "wikiEn": "Al-Tasrif",
+    "aliases": [
+      "泰斯里夫",
+      "宰赫拉威外科集"
+    ],
+    "year": 1000,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "canon_of_medicine"
+    ],
+    "desc": "宰赫拉威的外科与医学百科，详述手术器械与疗法。"
+  },
+  {
+    "id": "spinning_wheel",
+    "name": "纺车",
+    "nameEn": "Spinning wheel",
+    "wikiEn": "Spinning wheel",
+    "aliases": [
+      "手纺车",
+      "大纺车"
+    ],
+    "year": 1000,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "horizontal_treadle_loom",
+      "fulling_mill"
+    ],
+    "desc": "以轮传动的纺纱机械大幅提高纺纱效率，后传欧洲。"
+  },
+  {
+    "id": "forest_glass",
+    "name": "森林玻璃",
+    "nameEn": "Forest glass",
+    "wikiEn": "Forest glass",
+    "aliases": [
+      "草木灰玻璃",
+      "Waldglas"
+    ],
+    "year": 1000,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "glassmaking"
+    ],
+    "related": [
+      "stained_glass"
+    ],
+    "desc": "中欧以木灰纯碱在林区烧制的绿色玻璃，推动窗玻璃普及。"
+  },
+  {
+    "id": "equatorium",
+    "name": "等距仪",
+    "nameEn": "Equatorium",
+    "wikiEn": "Equatorium",
+    "aliases": [
+      "行星定位仪"
+    ],
+    "year": 1015,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "astrolabe"
+    ],
+    "related": [],
+    "desc": "伊斯兰与欧洲用以机械图解推算行星位置的仪器。"
+  },
+  {
+    "id": "book_of_optics",
+    "name": "光学之书",
+    "nameEn": "Book of Optics",
+    "wikiEn": "Book of Optics",
+    "aliases": [
+      "Kitab al-Manazir",
+      "论光学"
+    ],
+    "year": 1021,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "magnifying_glass",
+      "glasses"
+    ],
+    "desc": "伊本·海赛姆以实验阐明视觉与光的反射折射，开创现代光学。"
+  },
+  {
+    "id": "paper_money",
+    "name": "纸币",
+    "nameEn": "Banknote",
+    "wikiEn": "Banknote",
+    "aliases": [
+      "交子",
+      "会子",
+      "钞"
+    ],
+    "year": 1023,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [
+      "papermaking",
+      "woodblock_printing"
+    ],
+    "related": [
+      "toilet_paper"
+    ],
+    "desc": "北宋四川官交子发行，世界最早的官方纸币。"
+  },
+  {
+    "id": "canon_of_medicine",
+    "name": "医典",
+    "nameEn": "The Canon of Medicine",
+    "wikiEn": "The Canon of Medicine",
+    "aliases": [
+      "阿维森纳医典",
+      "Qanun"
+    ],
+    "year": 1025,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "bimaristan",
+      "drug_testing"
+    ],
+    "desc": "阿维森纳集希腊伊斯兰医学大成的医典，欧亚沿用数百年。"
+  },
+  {
+    "id": "musical_notation",
+    "name": "五线谱记谱",
+    "nameEn": "Musical notation",
+    "wikiEn": "Musical notation",
+    "aliases": [
+      "圭多记谱法",
+      "四线谱"
+    ],
+    "year": 1025,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [],
+    "desc": "圭多·达雷佐确立线谱记谱，使音乐可精确记录传播。"
+  },
+  {
+    "id": "drug_testing",
+    "name": "药物试验",
+    "nameEn": "Drug testing in The Canon of Medicine",
+    "wikiEn": "",
+    "aliases": [
+      "阿维森纳药物试验",
+      "本草效验规则"
+    ],
+    "year": 1030,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "canon_of_medicine"
+    ],
+    "related": [],
+    "desc": "《医典》提出检验药效的对照规则，是临床药物试验的先声。"
+  },
+  {
+    "id": "clay_movable_type",
+    "name": "泥活字",
+    "nameEn": "Movable type",
+    "wikiEn": "Movable type",
+    "aliases": [
+      "毕昇活字",
+      "陶活字",
+      "Bi Sheng clay type"
+    ],
+    "year": 1041,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "woodblock_printing"
+    ],
+    "related": [
+      "jikji"
+    ],
+    "desc": "毕昇发明泥活字排版印刷，开活字印刷之先。"
+  },
+  {
+    "id": "magnifying_glass",
+    "name": "放大镜",
+    "nameEn": "Magnifying glass",
+    "wikiEn": "Magnifying glass",
+    "aliases": [
+      "凸透镜",
+      "阅读石"
+    ],
+    "year": 1050,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "book_of_optics"
+    ],
+    "related": [
+      "glasses"
+    ],
+    "desc": "凸透镜用于放大阅读，11世纪后在伊斯兰与欧洲流行。"
+  },
+  {
+    "id": "coke_fuel",
+    "name": "焦炭",
+    "nameEn": "Coke (fuel)",
+    "wikiEn": "Coke (fuel)",
+    "aliases": [
+      "礁炭",
+      "焦煤"
+    ],
+    "year": 1050,
+    "era": "middle_ages",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "blast_furnace"
+    ],
+    "desc": "宋代以煤干馏成焦炭，用于炊爨与冶铁。"
+  },
+  {
+    "id": "horizontal_treadle_loom",
+    "name": "脚踏卧式织机",
+    "nameEn": "Horizontal treadle loom",
+    "wikiEn": "",
+    "aliases": [
+      "脚踏织机",
+      "卧机",
+      "Treadle loom"
+    ],
+    "year": 1050,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "weaving_loom"
+    ],
+    "related": [
+      "spinning_wheel"
+    ],
+    "desc": "脚踏提综的卧式织机解放双手，提高织布速度。"
+  },
+  {
+    "id": "flywheel",
+    "name": "飞轮",
+    "nameEn": "Flywheel",
+    "wikiEn": "Flywheel",
+    "aliases": [
+      "惯性轮"
+    ],
+    "year": 1050,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "crankshaft"
+    ],
+    "desc": "伊本·巴萨勒描述的飞轮用以均衡转速，后广泛用于机械。"
+  },
+  {
+    "id": "fulling_mill",
+    "name": "水力漂布坊",
+    "nameEn": "Fulling mill",
+    "wikiEn": "Fulling",
+    "aliases": [
+      "缩绒坊",
+      "漂布磨坊"
+    ],
+    "year": 1055,
+    "era": "middle_ages",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [
+      "water_wheel"
+    ],
+    "related": [
+      "spinning_wheel"
+    ],
+    "desc": "以水车木槌捶打毛毡缩绒，替代手工漂布。"
+  },
+  {
+    "id": "pascal_triangle",
+    "name": "贾宪三角",
+    "nameEn": "Pascal's triangle",
+    "wikiEn": "Pascal's triangle",
+    "aliases": [
+      "杨辉三角",
+      "开方作法本源图"
+    ],
+    "year": 1070,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "algebra"
+    ],
+    "related": [],
+    "desc": "北宋贾宪给出二项式系数三角，早于帕斯卡数百年。"
+  },
+  {
+    "id": "spur",
+    "name": "马刺",
+    "nameEn": "Spur",
+    "wikiEn": "Spur",
+    "aliases": [
+      "轮形马刺",
+      "靴马刺"
+    ],
+    "year": 1060,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "horse_domestication"
+    ],
+    "related": [
+      "stirrup",
+      "horseshoe"
+    ],
+    "desc": "骑士靴跟装马刺控马，11世纪后轮形马刺流行。"
+  },
+  {
+    "id": "dry_dock",
+    "name": "干船坞",
+    "nameEn": "Dry dock",
+    "wikiEn": "Dry dock",
+    "aliases": [
+      "船坞",
+      "浮坞"
+    ],
+    "year": 1068,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "paddle_wheel_ship"
+    ],
+    "desc": "北宋黄怀信修滑船大坞，引水入出以便修船。"
+  },
+  {
+    "id": "stained_glass",
+    "name": "花窗玻璃",
+    "nameEn": "Stained glass",
+    "wikiEn": "Stained glass",
+    "aliases": [
+      "彩绘玻璃",
+      "彩色玻璃窗"
+    ],
+    "year": 1080,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "forest_glass"
+    ],
+    "related": [
+      "gothic_architecture"
+    ],
+    "desc": "教堂以彩色玻璃拼绘圣经图像，中世纪玻璃工艺高峰。"
+  },
+  {
+    "id": "compass_navigation",
+    "name": "指南针",
+    "nameEn": "Compass",
+    "wikiEn": "Compass",
+    "aliases": [
+      "罗盘",
+      "磁针指南",
+      "Mariner's compass"
+    ],
+    "year": 1088,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "sternpost_rudder",
+      "portolan_chart"
+    ],
+    "desc": "沈括记磁针与磁偏角，宋代用于航海，后传阿拉伯与欧洲。"
+  },
+  {
+    "id": "medieval_university",
+    "name": "大学",
+    "nameEn": "Medieval university",
+    "wikiEn": "Medieval university",
+    "aliases": [
+      "博洛尼亚大学",
+      "行会大学"
+    ],
+    "year": 1088,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "anno_domini",
+      "house_of_wisdom"
+    ],
+    "desc": "博洛尼亚等师生行会兴起，发展为学位制中世纪大学。"
+  },
+  {
+    "id": "chain_drive",
+    "name": "链传动",
+    "nameEn": "Chain drive",
+    "wikiEn": "Chain drive",
+    "aliases": [
+      "天梯",
+      " endless chain"
+    ],
+    "year": 1092,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "astronomical_clock"
+    ],
+    "desc": "苏颂水运仪象台以闭合铁链传动，是最早的动力链传动。"
+  },
+  {
+    "id": "astronomical_clock",
+    "name": "水运仪象台",
+    "nameEn": "Astronomical clock",
+    "wikiEn": "Astronomical clock",
+    "aliases": [
+      "苏颂钟台",
+      "天文钟"
+    ],
+    "year": 1092,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "mechanical_clock",
+      "chain_drive"
+    ],
+    "desc": "苏颂造水运仪象台，集报时、演示、观测于一体，含擒纵机构。"
+  },
+  {
+    "id": "fireworks",
+    "name": "烟花",
+    "nameEn": "Fireworks",
+    "wikiEn": "Fireworks",
+    "aliases": [
+      "焰火",
+      "爆仗"
+    ],
+    "year": 1100,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "gunpowder"
+    ],
+    "related": [],
+    "desc": "宋代以火药制爆仗与烟花，用于节庆。"
+  },
+  {
+    "id": "rocket_launcher",
+    "name": "火箭架",
+    "nameEn": "Rocket launcher",
+    "wikiEn": "Rocket launcher",
+    "aliases": [
+      "一窝蜂",
+      "火箭匣"
+    ],
+    "year": 1100,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "fire_arrow"
+    ],
+    "related": [
+      "rocket"
+    ],
+    "desc": "中国出现一次齐射多支火药箭的架匣装置。"
+  },
+  {
+    "id": "knitting",
+    "name": "针织",
+    "nameEn": "Knitting",
+    "wikiEn": "Knitting",
+    "aliases": [
+      "毛线编织",
+      "针织袜"
+    ],
+    "year": 1100,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "button"
+    ],
+    "desc": "伊斯兰地区出现棒针针织，针织袜传入欧洲。"
+  },
+  {
+    "id": "button",
+    "name": "纽扣",
+    "nameEn": "Button",
+    "wikiEn": "Button",
+    "aliases": [
+      "扣子",
+      "钮扣"
+    ],
+    "year": 1250,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "knitting"
+    ],
+    "desc": "13世纪欧洲出现配扣眼的纽扣，推动合身裁剪服装兴起。"
+  },
+  {
+    "id": "watertight_bulkhead",
+    "name": "水密隔舱",
+    "nameEn": "Bulkhead (partition)",
+    "wikiEn": "Bulkhead (partition)",
+    "aliases": [
+      "隔舱",
+      "舱壁"
+    ],
+    "year": 1119,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "junk_ship"
+    ],
+    "desc": "宋船以隔舱板分舱，一舱破漏不沉，朱彧有明确记载。"
+  },
+  {
+    "id": "junk_ship",
+    "name": "中式帆船",
+    "nameEn": "Junk (ship)",
+    "wikiEn": "Junk (ship)",
+    "aliases": [
+      "中国帆船",
+      "福船"
+    ],
+    "year": 1120,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "watertight_bulkhead",
+      "sternpost_rudder"
+    ],
+    "desc": "宋代成熟的中式硬帆船，隔舱与尾舵齐备，宜远洋。"
+  },
+  {
+    "id": "oil_paint",
+    "name": "油画颜料",
+    "nameEn": "Oil paint",
+    "wikiEn": "Oil paint",
+    "aliases": [
+      "油彩",
+      "干性油颜料"
+    ],
+    "year": 1125,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "西奥菲勒斯记载以亚麻仁油调颜料，为油画先声。"
+  },
+  {
+    "id": "artesian_well",
+    "name": "自流井",
+    "nameEn": "Artesian well",
+    "wikiEn": "Artesian well",
+    "aliases": [
+      "阿图瓦井",
+      "承压井"
+    ],
+    "year": 1126,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "irrigation"
+    ],
+    "desc": "法国阿图瓦修士钻成承压自流井，井水自行涌出。"
+  },
+  {
+    "id": "cannon",
+    "name": "火炮",
+    "nameEn": "Cannon",
+    "wikiEn": "Cannon",
+    "aliases": [
+      "火砲",
+      "铜火铳",
+      "Bombard"
+    ],
+    "year": 1128,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "gunpowder"
+    ],
+    "related": [
+      "hand_cannon",
+      "corned_gunpowder"
+    ],
+    "desc": "大足石刻已有瓶状火炮图像，13世纪金属管炮流行。"
+  },
+  {
+    "id": "water_powered_bellows",
+    "name": "水力鼓风",
+    "nameEn": "Water-powered bellows",
+    "wikiEn": "",
+    "aliases": [
+      "水力鼓风机",
+      "Hydraulic bellows"
+    ],
+    "year": 1130,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "water_wheel"
+    ],
+    "related": [
+      "blast_furnace",
+      "trip_hammer"
+    ],
+    "desc": "以水轮驱动风箱持续鼓风，使炉温与产量大增。"
+  },
+  {
+    "id": "fire_lance",
+    "name": "突火枪",
+    "nameEn": "Fire lance",
+    "wikiEn": "Fire lance",
+    "aliases": [
+      "火枪",
+      "飞火枪"
+    ],
+    "year": 1132,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "gunpowder"
+    ],
+    "related": [
+      "hand_cannon"
+    ],
+    "desc": "陈规创制竹管火枪喷火，南宋又有发射子窠的突火枪。"
+  },
+  {
+    "id": "paddle_wheel_ship",
+    "name": "车船",
+    "nameEn": "Paddle wheel",
+    "wikiEn": "Paddle wheel",
+    "aliases": [
+      "桨轮船",
+      "轮舟",
+      "明轮船"
+    ],
+    "year": 1134,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "dry_dock"
+    ],
+    "desc": "南宋水军以人力踏动叶轮推进车船，用于江湖水战。"
+  },
+  {
+    "id": "gothic_architecture",
+    "name": "哥特式建筑",
+    "nameEn": "Gothic architecture",
+    "wikiEn": "Gothic architecture",
+    "aliases": [
+      "哥特建筑",
+      "尖拱建筑"
+    ],
+    "year": 1140,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "stained_glass"
+    ],
+    "desc": "圣但尼教堂首创尖肋拱与飞扶壁体系，哥特教堂风靡欧洲。"
+  },
+  {
+    "id": "counterweight_trebuchet",
+    "name": "配重投石机",
+    "nameEn": "Trebuchet",
+    "wikiEn": "Trebuchet",
+    "aliases": [
+      "回回砲",
+      "重力抛石机"
+    ],
+    "year": 1150,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "cannon"
+    ],
+    "desc": "以重砣配重发射巨石的攻城砲，12世纪盛行于欧亚。"
+  },
+  {
+    "id": "chimney",
+    "name": "烟囱",
+    "nameEn": "Chimney",
+    "wikiEn": "Chimney",
+    "aliases": [
+      "烟道"
+    ],
+    "year": 1150,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [],
+    "desc": "欧洲住宅砌筑烟道烟囱排烟，改善取暖与居住。"
+  },
+  {
+    "id": "hard_soap",
+    "name": "硬皂",
+    "nameEn": "Castile soap",
+    "wikiEn": "Castile soap",
+    "aliases": [
+      "卡斯蒂利亚皂",
+      "纳布卢斯皂",
+      "条形硬皂"
+    ],
+    "year": 1180,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "伊斯兰与南欧以橄榄油碱煮成型硬皂，城市开始量产条皂。"
+  },
+  {
+    "id": "distilled_liquor",
+    "name": "蒸馏酒",
+    "nameEn": "Liquor",
+    "wikiEn": "Liquor",
+    "aliases": [
+      "烧酒",
+      "白兰地",
+      "Aqua vitae"
+    ],
+    "year": 1150,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "alembic"
+    ],
+    "related": [],
+    "desc": "萨勒诺等地以蒸馏器制取烈性酒，12世纪后传遍欧亚。"
+  },
+  {
+    "id": "anesthetic_sponge",
+    "name": "催眠海绵",
+    "nameEn": "Sleeping sponge",
+    "wikiEn": "",
+    "aliases": [
+      "麻醉海绵",
+      "Spongia somnifera",
+      "Soporific sponge"
+    ],
+    "year": 1150,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "al_tasrif"
+    ],
+    "desc": "将鸦片曼陀罗等浸于海绵供术前嗅闻，中世纪用作麻醉。"
+  },
+  {
+    "id": "tabula_rogeriana",
+    "name": "罗杰之书",
+    "nameEn": "Tabula Rogeriana",
+    "wikiEn": "Tabula Rogeriana",
+    "aliases": [
+      "伊德里西地图",
+      "罗杰地图"
+    ],
+    "year": 1154,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "portolan_chart",
+      "astrolabe"
+    ],
+    "desc": "伊德里西为西西里王绘制的世界地图与地志，中世纪最精确。"
+  },
+  {
+    "id": "blast_furnace",
+    "name": "高炉",
+    "nameEn": "Blast furnace",
+    "wikiEn": "Blast furnace",
+    "aliases": [
+      "炼铁高炉",
+      "竖炉"
+    ],
+    "year": 1150,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "iron_smelting",
+      "water_powered_bellows"
+    ],
+    "related": [
+      "coke_fuel",
+      "plate_armour"
+    ],
+    "desc": "水力鼓风竖炉连续产出生铁，欧洲中世纪铁业大进。"
+  },
+  {
+    "id": "windmill",
+    "name": "风车",
+    "nameEn": "Windmill",
+    "wikiEn": "Windmill",
+    "aliases": [
+      "欧洲风车",
+      "塔式风车"
+    ],
+    "year": 1180,
+    "era": "middle_ages",
+    "category": "energy_power",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "panemone_windmill",
+      "post_windmill"
+    ],
+    "desc": "欧洲水平轴风车出现，用于磨谷、排水与锯木。"
+  },
+  {
+    "id": "sternpost_rudder",
+    "name": "船尾舵",
+    "nameEn": "Rudder",
+    "wikiEn": "Rudder",
+    "aliases": [
+      "尾舵",
+      "栓铰舵",
+      "Pintle-and-gudgeon rudder"
+    ],
+    "year": 1180,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "junk_ship",
+      "cog_ship",
+      "compass_navigation"
+    ],
+    "desc": "欧洲船尾装栓铰舵，操舵灵便，宜大船远航。"
+  },
+  {
+    "id": "post_windmill",
+    "name": "柱式风车",
+    "nameEn": "Post mill",
+    "wikiEn": "Post mill",
+    "aliases": [
+      "立柱风车",
+      "欧洲柱磨"
+    ],
+    "year": 1190,
+    "era": "middle_ages",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "windmill"
+    ],
+    "related": [],
+    "desc": "整架磨坊架于立柱可转动迎风，是欧洲最早的成熟风车型。"
+  },
+  {
+    "id": "trip_hammer",
+    "name": "水力锻锤",
+    "nameEn": "Trip hammer",
+    "wikiEn": "Trip hammer",
+    "aliases": [
+      "杵锤",
+      "水碓锻锤"
+    ],
+    "year": 1190,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "water_wheel"
+    ],
+    "related": [
+      "water_powered_bellows"
+    ],
+    "desc": "水轮带起一排重锤落下，用于锻铁、舂捣与制革。"
+  },
+  {
+    "id": "camshaft",
+    "name": "凸轮轴",
+    "nameEn": "Camshaft",
+    "wikiEn": "Camshaft",
+    "aliases": [
+      "偏心轮轴",
+      "凸轮机构"
+    ],
+    "year": 1206,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "crank",
+      "sawmill"
+    ],
+    "desc": "加扎利以凸轮轴编排自动机构动作，凸轮成为机械控制要素。"
+  },
+  {
+    "id": "crankshaft",
+    "name": "曲轴",
+    "nameEn": "Crankshaft",
+    "wikiEn": "Crankshaft",
+    "aliases": [
+      "曲拐轴"
+    ],
+    "year": 1206,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "crank"
+    ],
+    "related": [
+      "piston_pump",
+      "flywheel"
+    ],
+    "desc": "加扎利双缸泵用曲轴连杆把旋转转为连续往复。"
+  },
+  {
+    "id": "piston_pump",
+    "name": "活塞泵",
+    "nameEn": "Piston pump",
+    "wikiEn": "Piston pump",
+    "aliases": [
+      "吸水泵",
+      "双缸活塞泵"
+    ],
+    "year": 1210,
+    "era": "middle_ages",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "crankshaft"
+    ],
+    "related": [
+      "windpump"
+    ],
+    "desc": "加扎利创制带单向阀的双缸活塞吸水泵，提水效率大增。"
+  },
+  {
+    "id": "treadwheel_crane",
+    "name": "踏轮起重机",
+    "nameEn": "Treadwheel crane",
+    "wikiEn": "Treadwheel crane",
+    "aliases": [
+      "人踏起重机",
+      "踏车吊机"
+    ],
+    "year": 1220,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "dry_dock"
+    ],
+    "desc": "哥特工地以人踏巨轮带动绞车起吊建材，码头广泛使用。"
+  },
+  {
+    "id": "bomb",
+    "name": "震天雷",
+    "nameEn": "Bomb",
+    "wikiEn": "Bomb",
+    "aliases": [
+      "铁火炮",
+      "霹雳砲"
+    ],
+    "year": 1231,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "gunpowder"
+    ],
+    "related": [
+      "land_mine",
+      "naval_mine"
+    ],
+    "desc": "金军以铁壳震天雷抗蒙，爆炸火器用于野战守城。"
+  },
+  {
+    "id": "rocket",
+    "name": "火箭",
+    "nameEn": "Rocket",
+    "wikiEn": "Rocket",
+    "aliases": [
+      "喷气火箭",
+      "推进火箭"
+    ],
+    "year": 1232,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "fire_arrow"
+    ],
+    "related": [
+      "multistage_rocket",
+      "rocket_launcher"
+    ],
+    "desc": "13世纪出现自带喷气推进的火箭，用于宋元战争。"
+  },
+  {
+    "id": "cog_ship",
+    "name": "柯克船",
+    "nameEn": "Cog (ship)",
+    "wikiEn": "Cog (ship)",
+    "aliases": [
+      "汉萨商船",
+      "科格船"
+    ],
+    "year": 1235,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "sternpost_rudder"
+    ],
+    "related": [
+      "longship"
+    ],
+    "desc": "汉萨同盟的高舷单尾舵货船，主导北欧贸易航运。"
+  },
+  {
+    "id": "tusi_couple",
+    "name": "图西双圆",
+    "nameEn": "Tusi couple",
+    "wikiEn": "Tusi couple",
+    "aliases": [
+      "图斯双圆机构"
+    ],
+    "year": 1247,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "maragheh_observatory"
+    ],
+    "desc": "图西以两圆内切滚动产生直线往复运动，用于行星模型。"
+  },
+  {
+    "id": "sawmill",
+    "name": "水力锯木厂",
+    "nameEn": "Sawmill",
+    "wikiEn": "Sawmill",
+    "aliases": [
+      "水力锯",
+      "水锯坊"
+    ],
+    "year": 1250,
+    "era": "middle_ages",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [
+      "water_wheel",
+      "camshaft"
+    ],
+    "related": [
+      "trip_hammer"
+    ],
+    "desc": "水轮带动锯条往复锯木，降低木材加工成本。"
+  },
+  {
+    "id": "english_longbow",
+    "name": "英格兰长弓",
+    "nameEn": "English longbow",
+    "wikiEn": "English longbow",
+    "aliases": [
+      "威尔士长弓",
+      "长弓"
+    ],
+    "year": 1250,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "bow_and_arrow"
+    ],
+    "related": [
+      "plate_armour"
+    ],
+    "desc": "紫杉长弓射速快射程远，百年战争中称雄战场。"
+  },
+  {
+    "id": "maragheh_observatory",
+    "name": "马拉盖天文台",
+    "nameEn": "Maragheh observatory",
+    "wikiEn": "Maragheh observatory",
+    "aliases": [
+      "旭烈兀天文台"
+    ],
+    "year": 1259,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "astrolabe",
+      "sextant_astronomical"
+    ],
+    "related": [
+      "tusi_couple"
+    ],
+    "desc": "伊尔汗国建大型天文台，编制《伊尔汗历表》并改良仪器。"
+  },
+  {
+    "id": "epistola_de_magnete",
+    "name": "磁学书信",
+    "nameEn": "Epistola de magnete",
+    "wikiEn": "Petrus Peregrinus de Maricourt",
+    "aliases": [
+      "论磁石",
+      "佩雷格利努斯磁学"
+    ],
+    "year": 1269,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "compass_navigation"
+    ],
+    "related": [],
+    "desc": "佩雷格利努斯系统实验磁石极性，是中世纪磁学代表作。"
+  },
+  {
+    "id": "verge_escapement",
+    "name": "机轴擒纵机构",
+    "nameEn": "Verge escapement",
+    "wikiEn": "Verge escapement",
+    "aliases": [
+      "冕状轮擒纵",
+      "轴叶擒纵"
+    ],
+    "year": 1270,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "mechanical_clock"
+    ],
+    "desc": "最早的机械钟调速机构，使重力钟等时运转。"
+  },
+  {
+    "id": "land_mine",
+    "name": "地雷",
+    "nameEn": "Land mine",
+    "wikiEn": "Land mine",
+    "aliases": [
+      "地火雷",
+      "伏地冲天雷"
+    ],
+    "year": 1277,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "bomb"
+    ],
+    "related": [
+      "naval_mine"
+    ],
+    "desc": "宋元出现埋于地下以火具触发的爆炸雷。"
+  },
+  {
+    "id": "mechanical_clock",
+    "name": "机械钟",
+    "nameEn": "Mechanical clock",
+    "wikiEn": "Mechanical clock",
+    "aliases": [
+      "重力机械钟",
+      "公共钟"
+    ],
+    "year": 1283,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [
+      "verge_escapement"
+    ],
+    "related": [
+      "turret_clock",
+      "astronomical_clock"
+    ],
+    "desc": "欧洲以擒纵机构调速的重力机械钟出现，钟楼报时普及。"
+  },
+  {
+    "id": "paper_mill",
+    "name": "水力造纸坊",
+    "nameEn": "Paper mill",
+    "wikiEn": "Paper mill",
+    "aliases": [
+      "造纸厂",
+      "水磨造纸坊"
+    ],
+    "year": 1282,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "papermaking",
+      "water_wheel"
+    ],
+    "related": [
+      "watermark"
+    ],
+    "desc": "欧洲以水力碎麻造纸的作坊兴起，造纸业迅速扩散。"
+  },
+  {
+    "id": "glasses",
+    "name": "眼镜",
+    "nameEn": "Glasses",
+    "wikiEn": "Glasses",
+    "aliases": [
+      "矫正眼镜",
+      "阅读镜",
+      "Corrective lens"
+    ],
+    "year": 1286,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "magnifying_glass"
+    ],
+    "related": [
+      "book_of_optics"
+    ],
+    "desc": "意大利北部磨制凸透镜配框制成阅读眼镜，矫正老花。"
+  },
+  {
+    "id": "hand_cannon",
+    "name": "火铳",
+    "nameEn": "Hand cannon",
+    "wikiEn": "Hand cannon",
+    "aliases": [
+      "手铳",
+      "手持火筒"
+    ],
+    "year": 1288,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "fire_lance"
+    ],
+    "related": [
+      "cannon"
+    ],
+    "desc": "黑龙江出土的青铜手铳是现存最早的金属管手持火器。"
+  },
+  {
+    "id": "portolan_chart",
+    "name": "波特兰海图",
+    "nameEn": "Portolan chart",
+    "wikiEn": "Portolan chart",
+    "aliases": [
+      "航海指南图",
+      "罗盘海图"
+    ],
+    "year": 1290,
+    "era": "middle_ages",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "compass_navigation"
+    ],
+    "related": [
+      "tabula_rogeriana"
+    ],
+    "desc": "地中海水手绘出带恒向线网的实用航海图。"
+  },
+  {
+    "id": "clock_tower",
+    "name": "钟楼",
+    "nameEn": "Clock tower",
+    "wikiEn": "Clock tower",
+    "aliases": [
+      "钟塔",
+      "报时钟楼"
+    ],
+    "year": 1292,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "mechanical_clock"
+    ],
+    "related": [
+      "turret_clock"
+    ],
+    "desc": "欧洲城市公共钟楼林立，统一市民作息。"
+  },
+  {
+    "id": "watermark",
+    "name": "水印",
+    "nameEn": "Watermark",
+    "wikiEn": "Watermark",
+    "aliases": [
+      "纸纹",
+      "帘纹水印"
+    ],
+    "year": 1295,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "paper_mill"
+    ],
+    "related": [],
+    "desc": "法布里亚诺造纸以铜模在纸面压出暗纹，用作坊号防伪。"
+  },
+  {
+    "id": "double_entry_bookkeeping",
+    "name": "复式记账法",
+    "nameEn": "Double-entry bookkeeping",
+    "wikiEn": "Double-entry bookkeeping",
+    "aliases": [
+      "威尼斯记账法",
+      "借贷记账"
+    ],
+    "year": 1300,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "hindu_arabic_numerals"
+    ],
+    "related": [],
+    "desc": "意大利商人确立借贷双向记账，是近代会计基础。"
+  },
+  {
+    "id": "turret_clock",
+    "name": "塔楼钟",
+    "nameEn": "Turret clock",
+    "wikiEn": "Turret clock",
+    "aliases": [
+      "塔钟",
+      "公共大钟"
+    ],
+    "year": 1300,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "mechanical_clock"
+    ],
+    "related": [
+      "clock_tower"
+    ],
+    "desc": "装于塔楼的大型公共机械钟，带打点报时。"
+  },
+  {
+    "id": "roller_cotton_gin",
+    "name": "蜗杆轧花机",
+    "nameEn": "Worm-gear roller cotton gin",
+    "wikiEn": "Cotton gin",
+    "aliases": [
+      "辊轴轧花机",
+      "木棉搅车"
+    ],
+    "year": 1300,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "spinning_wheel"
+    ],
+    "desc": "德里苏丹地区以蜗杆辊轴轧去棉籽，效率倍增。"
+  },
+  {
+    "id": "teapot",
+    "name": "茶壶",
+    "nameEn": "Teapot",
+    "wikiEn": "Teapot",
+    "aliases": [
+      "紫砂壶"
+    ],
+    "year": 1300,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "tea",
+      "porcelain"
+    ],
+    "related": [],
+    "desc": "元代出现专泡茶的小壶，宜兴紫砂壶随后兴起。"
+  },
+  {
+    "id": "jacobs_staff",
+    "name": "十字杖",
+    "nameEn": "Jacob's staff",
+    "wikiEn": "Jacob's staff",
+    "aliases": [
+      "直角照准仪",
+      "测角杖"
+    ],
+    "year": 1330,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "quadrant"
+    ],
+    "related": [],
+    "desc": "以横臂滑尺测天体高度，是航海与测地常用的简仪。"
+  },
+  {
+    "id": "plate_armour",
+    "name": "板甲",
+    "nameEn": "Plate armour",
+    "wikiEn": "Plate armour",
+    "aliases": [
+      "全身板甲",
+      "哥特甲"
+    ],
+    "year": 1335,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "blast_furnace"
+    ],
+    "related": [
+      "english_longbow"
+    ],
+    "desc": "欧洲锻出整体钢制全身板甲，防护达冷兵器顶峰。"
+  },
+  {
+    "id": "hourglass",
+    "name": "沙漏",
+    "nameEn": "Hourglass",
+    "wikiEn": "Hourglass",
+    "aliases": [
+      "沙时计"
+    ],
+    "year": 1338,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "mechanical_clock"
+    ],
+    "desc": "以沙漏计时，船上与厨房广泛使用，14世纪绘画中常见。"
+  },
+  {
+    "id": "color_printing",
+    "name": "彩色套印",
+    "nameEn": "Color printing",
+    "wikiEn": "Color printing",
+    "aliases": [
+      "套色版印",
+      "朱墨套印"
+    ],
+    "year": 1346,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "woodblock_printing"
+    ],
+    "related": [],
+    "desc": "金元时期出现多版分色套印书籍与纸币。"
+  },
+  {
+    "id": "naval_mine",
+    "name": "水雷",
+    "nameEn": "Naval mine",
+    "wikiEn": "Naval mine",
+    "aliases": [
+      "海底雷",
+      "水底龙王砲"
+    ],
+    "year": 1350,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "bomb"
+    ],
+    "related": [
+      "land_mine"
+    ],
+    "desc": "《火龙经》载以防水机构触发的水中爆炸雷。"
+  },
+  {
+    "id": "multistage_rocket",
+    "name": "火龙出水",
+    "nameEn": "Multistage rocket",
+    "wikiEn": "Multistage rocket",
+    "aliases": [
+      "二级火箭",
+      "火龙出水火箭"
+    ],
+    "year": 1370,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "rocket"
+    ],
+    "related": [],
+    "desc": "《火龙经》载先喷气助推再射出火箭的二级火器。"
+  },
+  {
+    "id": "jikji",
+    "name": "直指心体要节",
+    "nameEn": "Jikji",
+    "wikiEn": "Jikji",
+    "aliases": [
+      "白云和尚直指",
+      "Jikji Simche Yojeol"
+    ],
+    "year": 1377,
+    "era": "middle_ages",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "clay_movable_type"
+    ],
+    "related": [
+      "movable_type_printing"
+    ],
+    "desc": "高丽清州以金属活字印成《直指》，为现存最早金属活字本。"
+  },
+  {
+    "id": "quarantine",
+    "name": "检疫隔离",
+    "nameEn": "Quarantine",
+    "wikiEn": "Quarantine",
+    "aliases": [
+      "海港隔离",
+      "四十天隔离"
+    ],
+    "year": 1377,
+    "era": "middle_ages",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "bimaristan"
+    ],
+    "related": [],
+    "desc": "拉古萨立法对来船隔离四十天以防鼠疫，开检疫制度。"
+  },
+  {
+    "id": "corned_gunpowder",
+    "name": "颗粒火药",
+    "nameEn": "Corned gunpowder",
+    "wikiEn": "",
+    "aliases": [
+      "粒状火药",
+      "颗粒化火药"
+    ],
+    "year": 1380,
+    "era": "middle_ages",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "gunpowder"
+    ],
+    "related": [
+      "cannon"
+    ],
+    "desc": "欧洲将药粉湿制成粒，燃速稳定、威力与安全性提高。"
+  }
+]

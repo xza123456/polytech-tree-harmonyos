@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="data:," />
+  <title>人类科技树 · 3D 世界</title>
+</head>
+<body>
+  <div id="app"></div>
+
+  <div id="title" class="panel">
+    <h1>人类科技树</h1>
+    <small id="statLine"></small>
+  </div>
+
+  <div id="legend" class="panel"></div>
+
+  <div id="toolbar" class="panel">
+    <button id="btnTour">▶ 漫游动画</button>
+    <button id="btnReset">⟲ 重置视角</button>
+  </div>
+
+  <div id="hint">拖拽旋转 · 滚轮缩放 · 右键平移 · 悬停节点查看信息 · 漫游中按 Esc 退出</div>
+
+  <div id="eraCaption"></div>
+  <div id="tooltip"></div>
+
+  <div id="credit">
+    来源：<a href="https://github.com/secwind7/polytech-tree" target="_blank" rel="noopener">Polytech Tree</a>
+    · 数据 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>
+    · 代码 <a href="https://github.com/secwind7/polytech-tree/blob/main/LICENSE" target="_blank" rel="noopener">MIT</a>
+    · 部分中文摘要参考英文维基百科对应条目（见节点悬停卡），按
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a> 提供
+  </div>
+
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

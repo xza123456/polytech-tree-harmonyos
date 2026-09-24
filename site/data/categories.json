@@ -1,0 +1,306 @@
+[
+  {
+    "id": "math_pure",
+    "name": "数学",
+    "nameEn": "Mathematics",
+    "group": "A",
+    "color": "#39cbd0",
+    "subcategories": [
+      "数论与代数",
+      "几何与拓扑",
+      "分析学",
+      "概率统计",
+      "离散与组合"
+    ]
+  },
+  {
+    "id": "logic_foundations",
+    "name": "逻辑与基础",
+    "nameEn": "Logic and Foundations",
+    "group": "A",
+    "color": "#62c9da",
+    "subcategories": [
+      "数理逻辑",
+      "集合论",
+      "证明论与公理化",
+      "类型论与可计算性"
+    ]
+  },
+  {
+    "id": "algorithms_cs",
+    "name": "算法与计算理论",
+    "nameEn": "Algorithms and Computation Theory",
+    "group": "A",
+    "color": "#39abd0",
+    "subcategories": [
+      "算法与数据结构",
+      "计算复杂性",
+      "信息论与编码",
+      "密码学理论"
+    ]
+  },
+  {
+    "id": "computing_systems",
+    "name": "计算系统",
+    "nameEn": "Computing Systems",
+    "group": "A",
+    "color": "#62afda",
+    "subcategories": [
+      "计算机硬件",
+      "操作系统与软件",
+      "人工智能",
+      "机器学习"
+    ]
+  },
+  {
+    "id": "info_media",
+    "name": "信息记录与传播",
+    "nameEn": "Information Recording and Communication",
+    "group": "A",
+    "color": "#398ad0",
+    "subcategories": [
+      "文字与书写",
+      "印刷与出版",
+      "电信",
+      "计算机网络",
+      "科学仪器"
+    ]
+  },
+  {
+    "id": "physics",
+    "name": "物理学",
+    "nameEn": "Physics",
+    "group": "B",
+    "color": "#d03945",
+    "subcategories": [
+      "力学",
+      "电磁与光学",
+      "热学与统计",
+      "近代物理",
+      "声学"
+    ]
+  },
+  {
+    "id": "chemistry",
+    "name": "化学",
+    "nameEn": "Chemistry",
+    "group": "B",
+    "color": "#da6962",
+    "subcategories": [
+      "化学理论",
+      "无机化学",
+      "有机与高分子",
+      "电化学与催化"
+    ]
+  },
+  {
+    "id": "life_medicine",
+    "name": "生命科学与医学",
+    "nameEn": "Life Science and Medicine",
+    "group": "B",
+    "color": "#d05839",
+    "subcategories": [
+      "生物学",
+      "医药",
+      "疫苗与免疫",
+      "基因与细胞",
+      "医学影像",
+      "公共卫生"
+    ]
+  },
+  {
+    "id": "earth_space",
+    "name": "地球与天文",
+    "nameEn": "Earth and Space Science",
+    "group": "B",
+    "color": "#da8c62",
+    "subcategories": [
+      "天文学",
+      "观测天文仪器",
+      "地质与板块",
+      "气象与气候",
+      "地球物理"
+    ]
+  },
+  {
+    "id": "materials",
+    "name": "材料",
+    "nameEn": "Materials",
+    "group": "C",
+    "color": "#a8cc3e",
+    "subcategories": [
+      "金属材料",
+      "无机非金属",
+      "有机与高分子材料",
+      "半导体材料",
+      "复合材料"
+    ]
+  },
+  {
+    "id": "manufacturing",
+    "name": "制造与工艺",
+    "nameEn": "Manufacturing and Processes",
+    "group": "C",
+    "color": "#b3d666",
+    "subcategories": [
+      "冶金工艺",
+      "机械加工",
+      "纺织与染色",
+      "铸造与锻造",
+      "光刻与封装",
+      "增材制造"
+    ]
+  },
+  {
+    "id": "energy_power",
+    "name": "能源与动力",
+    "nameEn": "Energy and Power",
+    "group": "C",
+    "color": "#97cc3e",
+    "subcategories": [
+      "火与燃料",
+      "蒸汽与内燃",
+      "电力与电网",
+      "核能",
+      "新能源与储能"
+    ]
+  },
+  {
+    "id": "construction",
+    "name": "建筑与基础设施",
+    "nameEn": "Construction and Infrastructure",
+    "group": "C",
+    "color": "#a5d666",
+    "subcategories": [
+      "建筑结构",
+      "材料与施工",
+      "市政管网",
+      "交通土建",
+      "水利工程的非通航部分"
+    ]
+  },
+  {
+    "id": "transport",
+    "name": "交通与运载",
+    "nameEn": "Transport",
+    "group": "C",
+    "color": "#85cc3e",
+    "subcategories": [
+      "轮与陆路车辆",
+      "船舶",
+      "航空器",
+      "管道与物流",
+      "导航定位"
+    ]
+  },
+  {
+    "id": "agriculture_food",
+    "name": "农业与食品",
+    "nameEn": "Agriculture and Food",
+    "group": "C",
+    "color": "#97d666",
+    "subcategories": [
+      "农具与耕作",
+      "作物与育种",
+      "畜牧",
+      "食品加工与保藏",
+      "肥料与土壤"
+    ]
+  },
+  {
+    "id": "military",
+    "name": "军事与安全",
+    "nameEn": "Military and Security",
+    "group": "C",
+    "color": "#73cc3e",
+    "subcategories": [
+      "冷兵器与防护",
+      "火器与弹药",
+      "要塞与城防",
+      "军用载具",
+      "情报与通信安全"
+    ]
+  },
+  {
+    "id": "space_exploration",
+    "name": "航天与深海极地探索",
+    "nameEn": "Space and Deep-sea Exploration",
+    "group": "C",
+    "color": "#89d666",
+    "subcategories": [
+      "火箭与发射",
+      "航天器与卫星",
+      "载人航天",
+      "深海与极地载具"
+    ]
+  },
+  {
+    "id": "governance",
+    "name": "社会组织与治理",
+    "nameEn": "Governance and Institutions",
+    "group": "D",
+    "color": "#c93ecc",
+    "subcategories": [
+      "法律与司法",
+      "行政与官僚制",
+      "公共政策",
+      "军事与政治制度",
+      "权利与身份制度"
+    ]
+  },
+  {
+    "id": "economy",
+    "name": "经济与金融",
+    "nameEn": "Economy and Finance",
+    "group": "D",
+    "color": "#d666cc",
+    "subcategories": [
+      "货币与信用",
+      "贸易与市场制度",
+      "财税",
+      "银行与保险",
+      "经济思想"
+    ]
+  },
+  {
+    "id": "education_knowledge",
+    "name": "教育与知识制度",
+    "nameEn": "Education and Knowledge Systems",
+    "group": "D",
+    "color": "#cc3eaf",
+    "subcategories": [
+      "学校与教学",
+      "考试与选才",
+      "学术组织",
+      "知识整理与标准"
+    ]
+  },
+  {
+    "id": "culture_media",
+    "name": "文化与艺术媒介",
+    "nameEn": "Culture and Artistic Media",
+    "group": "D",
+    "color": "#d666b4",
+    "subcategories": [
+      "视觉艺术",
+      "音乐与乐器",
+      "文学与戏剧",
+      "体育与游戏",
+      "影像与广播内容"
+    ]
+  },
+  {
+    "id": "daily_life",
+    "name": "日常生活器物",
+    "nameEn": "Daily Life Objects",
+    "group": "D",
+    "color": "#cc3e90",
+    "subcategories": [
+      "家居与日用",
+      "服饰与穿戴",
+      "饮食器具",
+      "清洁与卫生用品",
+      "文具与办公"
+    ]
+  }
+]

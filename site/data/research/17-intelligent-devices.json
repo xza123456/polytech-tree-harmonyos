@@ -1,0 +1,2274 @@
+[
+  {
+    "id": "smartphone",
+    "name": "智能手机",
+    "nameEn": "Smartphone",
+    "wikiEn": "Smartphone",
+    "aliases": [
+      "iPhone",
+      "智慧型手机",
+      "触屏手机"
+    ],
+    "year": 2007,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [
+      "mobile_phone",
+      "personal_computer",
+      "internet"
+    ],
+    "related": [
+      "ios",
+      "android",
+      "app_store"
+    ],
+    "desc": "2007年iPhone开创的触屏应用生态移动终端，融合电话与电脑。"
+  },
+  {
+    "id": "tablet_computer",
+    "name": "平板电脑",
+    "nameEn": "Tablet computer",
+    "wikiEn": "Tablet computer",
+    "aliases": [
+      "iPad",
+      "平板",
+      "平板电脑iPad"
+    ],
+    "year": 2010,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "smartphone",
+      "lcd_display"
+    ],
+    "related": [
+      "ipod",
+      "e_reader"
+    ],
+    "desc": "2010年iPad定义的大尺寸触屏电脑，开创并主导平板品类。"
+  },
+  {
+    "id": "ipod",
+    "name": "iPod",
+    "nameEn": "iPod",
+    "wikiEn": "IPod",
+    "aliases": [
+      "苹果iPod",
+      "iTunes",
+      "MP3播放器"
+    ],
+    "year": 2001,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "personal_computer"
+    ],
+    "related": [
+      "smartphone",
+      "e_reader"
+    ],
+    "desc": "2001年苹果硬盘式音乐播放器，重塑数字音乐购买与收听。"
+  },
+  {
+    "id": "e_reader",
+    "name": "电子阅读器",
+    "nameEn": "E-reader",
+    "wikiEn": "E-reader",
+    "aliases": [
+      "Kindle",
+      "亚马逊Kindle",
+      "电纸书",
+      "电子墨水屏阅读器"
+    ],
+    "year": 2007,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "tablet_computer",
+      "ipod"
+    ],
+    "desc": "2007年Kindle以电子墨水屏提供类纸阅读与联网购书。"
+  },
+  {
+    "id": "smartwatch",
+    "name": "智能手表",
+    "nameEn": "Smartwatch",
+    "wikiEn": "Smartwatch",
+    "aliases": [
+      "Apple Watch",
+      "苹果手表",
+      "Pebble"
+    ],
+    "year": 2015,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "fitness_tracker",
+      "wireless_earbuds",
+      "voice_assistant"
+    ],
+    "desc": "2015年Apple Watch带动的腕上智能终端，集通知与健康监测。"
+  },
+  {
+    "id": "fitness_tracker",
+    "name": "智能手环",
+    "nameEn": "Fitness tracker",
+    "wikiEn": "Fitness tracker",
+    "aliases": [
+      "Fitbit",
+      "运动手环",
+      "健身追踪器",
+      "小米手环"
+    ],
+    "year": 2009,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "smartwatch"
+    ],
+    "desc": "2009年Fitbit开创的可穿戴计步、睡眠与运动监测设备。"
+  },
+  {
+    "id": "wireless_earbuds",
+    "name": "真无线耳机",
+    "nameEn": "AirPods",
+    "wikiEn": "AirPods",
+    "aliases": [
+      "无线耳机",
+      "TWS耳机",
+      "AirPods蓝牙耳机"
+    ],
+    "year": 2016,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "smartwatch",
+      "voice_assistant"
+    ],
+    "desc": "2016年AirPods引爆真无线立体声耳机与随身语音入口。"
+  },
+  {
+    "id": "smart_speaker",
+    "name": "智能音箱",
+    "nameEn": "Smart speaker",
+    "wikiEn": "Smart speaker",
+    "aliases": [
+      "Amazon Echo",
+      "亚马逊Echo",
+      "小爱音箱",
+      "小度",
+      "Google Home"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "voice_assistant",
+      "internet"
+    ],
+    "related": [
+      "home_automation",
+      "internet_of_things"
+    ],
+    "desc": "2014年亚马逊Echo开创，以语音助手控制内容与家居。"
+  },
+  {
+    "id": "action_camera",
+    "name": "运动相机",
+    "nameEn": "GoPro",
+    "wikiEn": "GoPro",
+    "aliases": [
+      "GoPro相机",
+      "极限运动相机",
+      "第一视角相机"
+    ],
+    "year": 2004,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "consumer_drone"
+    ],
+    "desc": "2004年起GoPro推出的小型坚固广角相机，催生第一视角视频。"
+  },
+  {
+    "id": "netbook",
+    "name": "上网本",
+    "nameEn": "Netbook",
+    "wikiEn": "Netbook",
+    "aliases": [
+      "华硕Eee PC",
+      "Asus Eee PC",
+      "迷你笔记本"
+    ],
+    "year": 2007,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "personal_computer",
+      "internet"
+    ],
+    "related": [
+      "chromebook",
+      "tablet_computer"
+    ],
+    "desc": "2007年Eee PC引领的廉价小尺寸上网笔记本，后被平板取代。"
+  },
+  {
+    "id": "chromebook",
+    "name": "Chromebook",
+    "nameEn": "Chromebook",
+    "wikiEn": "Chromebook",
+    "aliases": [
+      "谷歌笔记本",
+      "Chrome OS笔记本"
+    ],
+    "year": 2011,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "cloud_computing",
+      "internet"
+    ],
+    "related": [
+      "netbook"
+    ],
+    "desc": "2011年起以Chrome OS为核心、云端优先的廉价笔记本。"
+  },
+  {
+    "id": "nintendo_switch",
+    "name": "任天堂Switch",
+    "nameEn": "Nintendo Switch",
+    "wikiEn": "Nintendo Switch",
+    "aliases": [
+      "Switch游戏机",
+      "掌机主机二合一",
+      "NS"
+    ],
+    "year": 2017,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "video_game_console"
+    ],
+    "related": [
+      "cloud_gaming",
+      "roblox"
+    ],
+    "desc": "2017年掌机与主机二合一的游戏机，推动主机社交化。"
+  },
+  {
+    "id": "foldable_smartphone",
+    "name": "折叠屏手机",
+    "nameEn": "Foldable phone",
+    "wikiEn": "Foldable smartphone",
+    "aliases": [
+      "Foldable phone",
+      "Samsung Galaxy Fold",
+      "华为Mate X",
+      "可折叠手机"
+    ],
+    "year": 2019,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone",
+      "amoled_smartphone"
+    ],
+    "related": [
+      "smartphone"
+    ],
+    "desc": "2019年Galaxy Fold等开启的柔性OLED可折叠手机品类。"
+  },
+  {
+    "id": "amoled_smartphone",
+    "name": "AMOLED屏幕",
+    "nameEn": "AMOLED",
+    "wikiEn": "AMOLED",
+    "aliases": [
+      "OLED屏",
+      "Super AMOLED",
+      "有机发光二极管屏",
+      "曲面屏"
+    ],
+    "year": 2010,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone",
+      "lcd_display"
+    ],
+    "related": [
+      "foldable_smartphone"
+    ],
+    "desc": "2010年Galaxy系列采用Super AMOLED，推动手机屏轻薄高对比。"
+  },
+  {
+    "id": "smartphone_biometrics",
+    "name": "手机指纹与面容识别",
+    "nameEn": "Touch ID",
+    "wikiEn": "Touch ID",
+    "aliases": [
+      "Face ID",
+      "指纹解锁",
+      "面容识别",
+      "3D结构光解锁"
+    ],
+    "year": 2013,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "apple_pay",
+      "digital_identity"
+    ],
+    "desc": "2013年iPhone 5s指纹解锁，后发展为3D面容解锁与支付验证。"
+  },
+  {
+    "id": "fast_charging",
+    "name": "快充",
+    "nameEn": "Quick Charge",
+    "wikiEn": "Quick Charge",
+    "aliases": [
+      "VOOC闪充",
+      "USB PD快充",
+      "快速充电"
+    ],
+    "year": 2013,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "wireless_charging"
+    ],
+    "desc": "2013年起Quick Charge等标准大幅缩短手机充电时间。"
+  },
+  {
+    "id": "wireless_charging",
+    "name": "无线充电",
+    "nameEn": "Inductive charging",
+    "wikiEn": "Inductive charging",
+    "aliases": [
+      "Qi充电",
+      "感应充电",
+      "电磁感应充电"
+    ],
+    "year": 2012,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "fast_charging"
+    ],
+    "desc": "Qi标准2012年起进入诺基亚等手机，实现电磁感应充电。"
+  },
+  {
+    "id": "smart_tv",
+    "name": "智能电视",
+    "nameEn": "Smart TV",
+    "wikiEn": "Smart TV",
+    "aliases": [
+      "互联网电视",
+      "联网电视",
+      "Android TV"
+    ],
+    "year": 2008,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "digital_media_player",
+      "chromecast",
+      "netflix"
+    ],
+    "desc": "2008年前后出现的内置联网系统、可安装应用的电视机。"
+  },
+  {
+    "id": "digital_media_player",
+    "name": "网络电视机顶盒",
+    "nameEn": "Digital media player",
+    "wikiEn": "Digital media player",
+    "aliases": [
+      "Apple TV",
+      "Roku",
+      "电视盒子",
+      "流媒体盒子"
+    ],
+    "year": 2007,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "smart_tv",
+      "chromecast",
+      "netflix"
+    ],
+    "desc": "2007年Apple TV等把网络流媒体输出到电视的机顶盒。"
+  },
+  {
+    "id": "chromecast",
+    "name": "Chromecast",
+    "nameEn": "Chromecast",
+    "wikiEn": "Chromecast",
+    "aliases": [
+      "谷歌电视棒",
+      "投屏棒",
+      "Google Cast"
+    ],
+    "year": 2013,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "internet",
+      "smartphone"
+    ],
+    "related": [
+      "smart_tv",
+      "digital_media_player"
+    ],
+    "desc": "2013年谷歌推出的廉价投屏电视棒，手机即可推送流媒体。"
+  },
+  {
+    "id": "android",
+    "name": "安卓",
+    "nameEn": "Android (operating system)",
+    "wikiEn": "Android (operating system)",
+    "aliases": [
+      "Android",
+      "安卓系统",
+      "安卓操作系统"
+    ],
+    "year": 2008,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "personal_computer",
+      "internet"
+    ],
+    "related": [
+      "ios",
+      "smartphone",
+      "app_store"
+    ],
+    "desc": "谷歌2008年推出的开源移动操作系统，占据全球多数手机。"
+  },
+  {
+    "id": "ios",
+    "name": "iOS",
+    "nameEn": "iOS",
+    "wikiEn": "IOS",
+    "aliases": [
+      "iPhone OS",
+      "苹果移动系统",
+      "iPhone操作系统"
+    ],
+    "year": 2007,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "personal_computer"
+    ],
+    "related": [
+      "android",
+      "smartphone",
+      "app_store"
+    ],
+    "desc": "苹果2007年随iPhone发布的移动操作系统，主导封闭生态。"
+  },
+  {
+    "id": "app_store",
+    "name": "应用商店",
+    "nameEn": "App Store (Apple)",
+    "wikiEn": "App Store (Apple)",
+    "aliases": [
+      "App Store",
+      "苹果应用商店",
+      "应用市场",
+      "Google Play"
+    ],
+    "year": 2008,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "smartphone",
+      "ios"
+    ],
+    "related": [
+      "android",
+      "smartphone"
+    ],
+    "desc": "2008年App Store确立移动应用分发与分成模式，催生App经济。"
+  },
+  {
+    "id": "third_generation_mobile",
+    "name": "3G",
+    "nameEn": "3G",
+    "wikiEn": "3G",
+    "aliases": [
+      "第三代移动通信",
+      "WCDMA",
+      "CDMA2000",
+      "FOMA",
+      "移动互联网"
+    ],
+    "year": 2001,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "mobile_phone",
+      "internet"
+    ],
+    "related": [
+      "lte",
+      "mobile_broadband_modem",
+      "smartphone"
+    ],
+    "desc": "2001年日本FOMA首商用的第三代移动网，让手机快速上网。"
+  },
+  {
+    "id": "lte",
+    "name": "4G LTE",
+    "nameEn": "LTE (telecommunication)",
+    "wikiEn": "LTE (telecommunication)",
+    "aliases": [
+      "LTE",
+      "长期演进技术",
+      "4G",
+      "WiMAX",
+      "第四代移动通信"
+    ],
+    "year": 2009,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "third_generation_mobile"
+    ],
+    "related": [
+      "fifth_generation_mobile",
+      "smartphone"
+    ],
+    "desc": "2009年北欧首商的4G标准，带宽足以支撑视频与应用生态。"
+  },
+  {
+    "id": "fifth_generation_mobile",
+    "name": "5G",
+    "nameEn": "5G",
+    "wikiEn": "5G",
+    "aliases": [
+      "第五代移动通信",
+      "5G NR",
+      "新空口"
+    ],
+    "year": 2019,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "lte"
+    ],
+    "related": [
+      "internet_of_things",
+      "lpwan"
+    ],
+    "desc": "2019年韩美率先商用的第五代移动网，高速低时延连海量设备。"
+  },
+  {
+    "id": "mobile_broadband_modem",
+    "name": "MiFi随身热点",
+    "nameEn": "Mobile broadband modem",
+    "wikiEn": "Mobile broadband modem",
+    "aliases": [
+      "MiFi",
+      "3G上网卡",
+      "无线上网卡",
+      "随身WiFi",
+      "USB调制解调器"
+    ],
+    "year": 2009,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "third_generation_mobile"
+    ],
+    "related": [
+      "lte",
+      "smartphone"
+    ],
+    "desc": "2009年MiFi等让多设备随时共享3G/4G移动网络。"
+  },
+  {
+    "id": "nfc",
+    "name": "近场通信",
+    "nameEn": "Near-field communication",
+    "wikiEn": "Near-field communication",
+    "aliases": [
+      "NFC",
+      "近距离无线通信",
+      "一碰传",
+      "NFC支付"
+    ],
+    "year": 2004,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "mobile_phone"
+    ],
+    "related": [
+      "apple_pay",
+      "qr_code_payment",
+      "smartphone"
+    ],
+    "desc": "2004年规格化的短距无线标准，支撑刷手机支付与设备配对。"
+  },
+  {
+    "id": "lpwan",
+    "name": "低功耗广域网",
+    "nameEn": "Low-power wide-area network",
+    "wikiEn": "Low-power wide-area network",
+    "aliases": [
+      "LPWAN",
+      "LoRa",
+      "NB-IoT",
+      "LoRaWAN",
+      "Sigfox"
+    ],
+    "year": 2015,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "internet_of_things"
+    ],
+    "related": [
+      "fifth_generation_mobile",
+      "zigbee"
+    ],
+    "desc": "2015年前后兴起的LoRa、NB-IoT等低功耗广域物联组网技术。"
+  },
+  {
+    "id": "esim",
+    "name": "eSIM",
+    "nameEn": "eSIM",
+    "wikiEn": "ESIM",
+    "aliases": [
+      "虚拟SIM卡",
+      "嵌入式SIM",
+      "eUICC"
+    ],
+    "year": 2016,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "internet_of_things",
+      "lpwan"
+    ],
+    "desc": "2016年起商用的嵌入式可编程SIM卡，便利可穿戴与物联网。"
+  },
+  {
+    "id": "internet_of_things",
+    "name": "物联网",
+    "nameEn": "Internet of things",
+    "wikiEn": "Internet of things",
+    "aliases": [
+      "IoT",
+      "万物互联",
+      "传感网"
+    ],
+    "year": 2008,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "internet",
+      "cloud_computing"
+    ],
+    "related": [
+      "home_automation",
+      "lpwan",
+      "digital_twin"
+    ],
+    "desc": "1999年提出概念，2008年后传感器设备规模化联网落地。"
+  },
+  {
+    "id": "home_automation",
+    "name": "智能家居",
+    "nameEn": "Home automation",
+    "wikiEn": "Home automation",
+    "aliases": [
+      "Smart home",
+      "智慧家居",
+      "家庭自动化",
+      "Nest恒温器",
+      "Philips Hue"
+    ],
+    "year": 2011,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "internet_of_things"
+    ],
+    "related": [
+      "smart_speaker",
+      "matter_standard",
+      "zigbee"
+    ],
+    "desc": "2011年Nest恒温器等推动家居设备联网与自动化控制。"
+  },
+  {
+    "id": "zigbee",
+    "name": "Zigbee",
+    "nameEn": "Zigbee",
+    "wikiEn": "Zigbee",
+    "aliases": [
+      "紫蜂",
+      "Zigbee 3.0",
+      "zigbee自组网"
+    ],
+    "year": 2004,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "home_automation",
+      "matter_standard"
+    ],
+    "desc": "2004年发布的低功耗自组网无线标准，长期用于家居传感设备。"
+  },
+  {
+    "id": "matter_standard",
+    "name": "Matter协议",
+    "nameEn": "Matter (standard)",
+    "wikiEn": "Matter (standard)",
+    "aliases": [
+      "Matter",
+      "智能家居互联标准",
+      "Project CHIP"
+    ],
+    "year": 2022,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "internet_of_things",
+      "home_automation"
+    ],
+    "related": [
+      "zigbee",
+      "smart_speaker"
+    ],
+    "desc": "2022年发布的跨品牌智能家居统一互联标准，打破生态壁垒。"
+  },
+  {
+    "id": "robotic_vacuum_cleaner",
+    "name": "扫地机器人",
+    "nameEn": "Robotic vacuum cleaner",
+    "wikiEn": "Robotic vacuum cleaner",
+    "aliases": [
+      "Roomba",
+      "机器人吸尘器",
+      "扫拖机器人",
+      "科沃斯"
+    ],
+    "year": 2002,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "home_automation"
+    ],
+    "desc": "2002年iRobot Roomba开创的自主导航吸尘机器人。"
+  },
+  {
+    "id": "smart_lock",
+    "name": "智能门锁",
+    "nameEn": "Smart lock",
+    "wikiEn": "Smart lock",
+    "aliases": [
+      "August Smart Lock",
+      "指纹锁",
+      "电子门锁",
+      "密码门锁"
+    ],
+    "year": 2013,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone",
+      "internet_of_things"
+    ],
+    "related": [
+      "smart_doorbell",
+      "home_automation"
+    ],
+    "desc": "2013年前后普及的指纹、密码与手机远程开锁门锁。"
+  },
+  {
+    "id": "smart_doorbell",
+    "name": "智能可视门铃",
+    "nameEn": "Smart doorbell",
+    "wikiEn": "Smart doorbell",
+    "aliases": [
+      "Ring",
+      "可视门铃",
+      "门铃摄像头"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone",
+      "internet_of_things"
+    ],
+    "related": [
+      "smart_lock",
+      "wireless_security_camera"
+    ],
+    "desc": "2014年Ring带火的联网可视门铃，可远程查看并双向通话。"
+  },
+  {
+    "id": "wireless_security_camera",
+    "name": "家用智能摄像头",
+    "nameEn": "Wireless security camera",
+    "wikiEn": "Wireless security camera",
+    "aliases": [
+      "智能摄像头",
+      "Nest Cam",
+      "Dropcam",
+      "家用监控摄像头"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone",
+      "internet_of_things"
+    ],
+    "related": [
+      "smart_doorbell",
+      "home_automation"
+    ],
+    "desc": "2014年Nest收购Dropcam后兴起的云端家用无线监控摄像头。"
+  },
+  {
+    "id": "arduino",
+    "name": "Arduino",
+    "nameEn": "Arduino",
+    "wikiEn": "Arduino",
+    "aliases": [
+      "开源硬件平台",
+      "单片机开发板",
+      "阿都伊诺"
+    ],
+    "year": 2005,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "personal_computer"
+    ],
+    "related": [
+      "raspberry_pi",
+      "internet_of_things"
+    ],
+    "desc": "2005年诞生的开源微控制器平台，降低硬件与物联网开发门槛。"
+  },
+  {
+    "id": "raspberry_pi",
+    "name": "树莓派",
+    "nameEn": "Raspberry Pi",
+    "wikiEn": "Raspberry Pi",
+    "aliases": [
+      "卡片电脑",
+      "单板计算机",
+      "RPi"
+    ],
+    "year": 2012,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "personal_computer",
+      "internet"
+    ],
+    "related": [
+      "arduino",
+      "internet_of_things"
+    ],
+    "desc": "2012年推出的信用卡大小廉价单板计算机，推动创客运动。"
+  },
+  {
+    "id": "voice_assistant",
+    "name": "语音助手",
+    "nameEn": "Virtual assistant",
+    "wikiEn": "Virtual assistant",
+    "aliases": [
+      "Siri",
+      "Alexa",
+      "小爱同学",
+      "Google Assistant",
+      "语音助理",
+      "小度"
+    ],
+    "year": 2011,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "smartphone",
+      "internet"
+    ],
+    "related": [
+      "smart_speaker",
+      "large_language_model"
+    ],
+    "desc": "2011年Siri开创的自然语言对话助理，后端依托云端AI。"
+  },
+  {
+    "id": "digital_twin",
+    "name": "数字孪生",
+    "nameEn": "Digital twin",
+    "wikiEn": "Digital twin",
+    "aliases": [
+      "数字镜像",
+      "数字映射",
+      "虚拟孪生"
+    ],
+    "year": 2002,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "internet_of_things",
+      "cloud_computing"
+    ],
+    "desc": "2002年提出的实体虚拟镜像概念，随IoT在消费侧落地。"
+  },
+  {
+    "id": "consumer_drone",
+    "name": "消费级无人机",
+    "nameEn": "DJI Phantom",
+    "wikiEn": "DJI Phantom",
+    "aliases": [
+      "大疆精灵",
+      "航拍无人机",
+      "四旋翼无人机",
+      "DJI大疆"
+    ],
+    "year": 2013,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "gps"
+    ],
+    "related": [
+      "action_camera",
+      "delivery_drone"
+    ],
+    "desc": "2013年大疆Phantom让四旋翼航拍无人机进入大众消费市场。"
+  },
+  {
+    "id": "delivery_drone",
+    "name": "无人机配送",
+    "nameEn": "Delivery drone",
+    "wikiEn": "Delivery drone",
+    "aliases": [
+      "Amazon Prime Air",
+      "送货无人机",
+      "Zipline",
+      "物流无人机"
+    ],
+    "year": 2016,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "consumer_drone",
+      "gps"
+    ],
+    "related": [],
+    "desc": "2016年亚马逊、Zipline等开启小件与医疗物资无人机投送。"
+  },
+  {
+    "id": "oculus_rift",
+    "name": "VR头显",
+    "nameEn": "Oculus Rift",
+    "wikiEn": "Oculus Rift",
+    "aliases": [
+      "虚拟现实头显",
+      "虚拟现实头盔",
+      "Meta Quest",
+      "Oculus"
+    ],
+    "year": 2012,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "microsoft_hololens",
+      "apple_vision_pro",
+      "nintendo_switch"
+    ],
+    "desc": "2012年众筹成功的Oculus Rift开启消费级虚拟现实浪潮。"
+  },
+  {
+    "id": "google_glass",
+    "name": "Google Glass智能眼镜",
+    "nameEn": "Google Glass",
+    "wikiEn": "Google Glass",
+    "aliases": [
+      "谷歌眼镜",
+      "智能眼镜",
+      "Smartglasses"
+    ],
+    "year": 2013,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "microsoft_hololens",
+      "oculus_rift"
+    ],
+    "desc": "2013年推出的拍照显示一体智能眼镜，AR消费化先驱。"
+  },
+  {
+    "id": "microsoft_hololens",
+    "name": "HoloLens混合现实头显",
+    "nameEn": "Microsoft HoloLens",
+    "wikiEn": "Microsoft HoloLens",
+    "aliases": [
+      "HoloLens",
+      "增强现实头显",
+      "AR头显",
+      "MR头显"
+    ],
+    "year": 2015,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "google_glass",
+      "apple_vision_pro",
+      "oculus_rift"
+    ],
+    "desc": "2015年发布的独立全息增强现实头显，主打空间计算。"
+  },
+  {
+    "id": "apple_vision_pro",
+    "name": "Apple Vision Pro",
+    "nameEn": "Apple Vision Pro",
+    "wikiEn": "Apple Vision Pro",
+    "aliases": [
+      "空间计算头显",
+      "Vision Pro",
+      "苹果头显"
+    ],
+    "year": 2024,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "microsoft_hololens",
+      "oculus_rift"
+    ],
+    "related": [
+      "google_glass",
+      "metaverse"
+    ],
+    "desc": "2024年苹果上市的空间计算头显，融合AR/VR与眼手交互。"
+  },
+  {
+    "id": "pokemon_go",
+    "name": "宝可梦GO",
+    "nameEn": "Pokémon Go",
+    "wikiEn": "Pokémon Go",
+    "aliases": [
+      "Pokemon GO",
+      "精灵宝可梦Go",
+      "AR手游"
+    ],
+    "year": 2016,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "smartphone",
+      "gps"
+    ],
+    "related": [
+      "google_glass",
+      "oculus_rift"
+    ],
+    "desc": "2016年现象级AR手游，让增强现实与LBS首次大众化。"
+  },
+  {
+    "id": "social_networking_service",
+    "name": "社交网络服务",
+    "nameEn": "Social networking service",
+    "wikiEn": "Social networking service",
+    "aliases": [
+      "社交媒体",
+      "SNS",
+      "社交网站",
+      "MySpace",
+      "Friendster"
+    ],
+    "year": 2002,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "world_wide_web",
+      "internet"
+    ],
+    "related": [
+      "facebook",
+      "twitter",
+      "smartphone"
+    ],
+    "desc": "2002年Friendster等开启的基于关系链的网络社交服务。"
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "nameEn": "Facebook",
+    "wikiEn": "Facebook",
+    "aliases": [
+      "脸书",
+      "脸谱网",
+      "FB"
+    ],
+    "year": 2004,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "social_networking_service"
+    ],
+    "related": [
+      "instagram",
+      "whatsapp",
+      "tiktok"
+    ],
+    "desc": "2004年创立的全球最大社交平台，月活一度近30亿。"
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "nameEn": "YouTube",
+    "wikiEn": "YouTube",
+    "aliases": [
+      "油管",
+      "优兔",
+      "视频分享网站"
+    ],
+    "year": 2005,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "world_wide_web"
+    ],
+    "related": [
+      "netflix",
+      "live_streaming",
+      "tiktok"
+    ],
+    "desc": "2005年创立的用户视频分享平台，重塑视频内容生产传播。"
+  },
+  {
+    "id": "twitter",
+    "name": "Twitter",
+    "nameEn": "Twitter (X)",
+    "wikiEn": "X (social network)",
+    "aliases": [
+      "X",
+      "推特",
+      "微博客"
+    ],
+    "year": 2006,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "social_networking_service"
+    ],
+    "related": [
+      "facebook",
+      "weibo"
+    ],
+    "desc": "2006年创立的微博客平台，以短消息与实时信息传播著称。"
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "nameEn": "Instagram",
+    "wikiEn": "Instagram",
+    "aliases": [
+      "Ins",
+      "照片墙",
+      "IG"
+    ],
+    "year": 2010,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone",
+      "facebook"
+    ],
+    "related": [
+      "snapchat",
+      "tiktok"
+    ],
+    "desc": "2010年上线的手机照片短视频社区，后被Facebook收购。"
+  },
+  {
+    "id": "snapchat",
+    "name": "Snapchat",
+    "nameEn": "Snapchat",
+    "wikiEn": "Snapchat",
+    "aliases": [
+      "色拉布",
+      "阅后即焚",
+      "Snap"
+    ],
+    "year": 2011,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "instagram",
+      "tiktok"
+    ],
+    "desc": "2011年以阅后即焚和短视频故事走红的年轻人社交应用。"
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "nameEn": "Reddit",
+    "wikiEn": "Reddit",
+    "aliases": [
+      "红迪网",
+      "美国贴吧"
+    ],
+    "year": 2005,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "social_networking_service"
+    ],
+    "related": [
+      "facebook",
+      "quora"
+    ],
+    "desc": "2005年创立的分版块投票讨论社区，新闻聚合重镇。"
+  },
+  {
+    "id": "weibo",
+    "name": "微博",
+    "nameEn": "Weibo",
+    "wikiEn": "Weibo",
+    "aliases": [
+      "新浪微博",
+      "Sina Weibo",
+      "微博客"
+    ],
+    "year": 2009,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "social_networking_service"
+    ],
+    "related": [
+      "twitter",
+      "wechat",
+      "zhihu"
+    ],
+    "desc": "2009年新浪推出的中国主流微博客平台与公共舆论场。"
+  },
+  {
+    "id": "wechat",
+    "name": "微信",
+    "nameEn": "WeChat",
+    "wikiEn": "WeChat",
+    "aliases": [
+      "Weixin",
+      "微信App",
+      "腾讯微信"
+    ],
+    "year": 2011,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "whatsapp",
+      "wechat_pay",
+      "line_messenger"
+    ],
+    "desc": "2011年腾讯推出的超级应用，集通信、社交、支付与服务。"
+  },
+  {
+    "id": "whatsapp",
+    "name": "WhatsApp",
+    "nameEn": "WhatsApp",
+    "wikiEn": "WhatsApp",
+    "aliases": [
+      "WhatsApp Messenger",
+      "瓦次艾普"
+    ],
+    "year": 2009,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone",
+      "internet"
+    ],
+    "related": [
+      "wechat",
+      "line_messenger",
+      "telegram"
+    ],
+    "desc": "2009年推出的跨平台移动聊天应用，全球用户超20亿。"
+  },
+  {
+    "id": "line_messenger",
+    "name": "LINE",
+    "nameEn": "Line (software)",
+    "wikiEn": "Line (software)",
+    "aliases": [
+      "连我",
+      "LINE Messenger"
+    ],
+    "year": 2011,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "whatsapp",
+      "wechat",
+      "telegram"
+    ],
+    "desc": "2011年日本推出的移动聊天应用，凭贴图风靡东亚东南亚。"
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram",
+    "nameEn": "Telegram (software)",
+    "wikiEn": "Telegram (software)",
+    "aliases": [
+      "电报",
+      "Telegram Messenger"
+    ],
+    "year": 2013,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "whatsapp",
+      "line_messenger"
+    ],
+    "desc": "2013年推出的加密即时通信应用，以频道与机器人生态见长。"
+  },
+  {
+    "id": "tiktok",
+    "name": "抖音（TikTok）",
+    "nameEn": "TikTok",
+    "wikiEn": "TikTok",
+    "aliases": [
+      "抖音",
+      "Douyin",
+      "Musical.ly",
+      "短视频应用"
+    ],
+    "year": 2016,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "instagram",
+      "youtube",
+      "live_streaming"
+    ],
+    "desc": "字节2016年推出的全屏短视频应用，算法推荐风靡全球。"
+  },
+  {
+    "id": "live_streaming",
+    "name": "网络直播",
+    "nameEn": "Live streaming",
+    "wikiEn": "Live streaming",
+    "aliases": [
+      "Twitch",
+      "直播带货",
+      "斗鱼",
+      "Periscope",
+      "淘宝直播"
+    ],
+    "year": 2011,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "internet",
+      "smartphone"
+    ],
+    "related": [
+      "youtube",
+      "tiktok",
+      "danmaku"
+    ],
+    "desc": "2011年Twitch等兴起，游戏直播与直播电商成为新媒介。"
+  },
+  {
+    "id": "danmaku",
+    "name": "弹幕",
+    "nameEn": "Niconico",
+    "wikiEn": "Niconico",
+    "aliases": [
+      "Niconico动画",
+      "ニコニコ動画",
+      "Bilibili",
+      "B站",
+      "弹幕评论"
+    ],
+    "year": 2006,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "live_streaming",
+      "youtube"
+    ],
+    "desc": "2006年Niconico首创视频叠加滚动评论，中国弹幕站跟进。"
+  },
+  {
+    "id": "quora",
+    "name": "Quora",
+    "nameEn": "Quora",
+    "wikiEn": "Quora",
+    "aliases": [
+      "美国知乎",
+      "问答社区"
+    ],
+    "year": 2010,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "social_networking_service"
+    ],
+    "related": [
+      "zhihu",
+      "reddit"
+    ],
+    "desc": "2010年开放的英文社交问答网站，邀请制起步。"
+  },
+  {
+    "id": "zhihu",
+    "name": "知乎",
+    "nameEn": "Zhihu",
+    "wikiEn": "Zhihu",
+    "aliases": [
+      "知乎问答",
+      "知乎社区"
+    ],
+    "year": 2011,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "social_networking_service"
+    ],
+    "related": [
+      "quora",
+      "weibo"
+    ],
+    "desc": "2011年上线的中文知识问答社区，后扩展为内容平台。"
+  },
+  {
+    "id": "yelp",
+    "name": "Yelp",
+    "nameEn": "Yelp",
+    "wikiEn": "Yelp",
+    "aliases": [
+      "商户点评",
+      "点评网站",
+      "美国大众点评"
+    ],
+    "year": 2004,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "world_wide_web"
+    ],
+    "related": [
+      "meituan",
+      "o2o"
+    ],
+    "desc": "2004年创立的本地商户点评平台，影响线下消费决策。"
+  },
+  {
+    "id": "meituan",
+    "name": "美团（大众点评）",
+    "nameEn": "Meituan",
+    "wikiEn": "Meituan",
+    "aliases": [
+      "美团",
+      "美团网",
+      "大众点评",
+      "Meituan-Dianping"
+    ],
+    "year": 2010,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "yelp",
+      "o2o",
+      "online_food_ordering"
+    ],
+    "desc": "2010年团购起家、合并大众点评的本地生活服务平台。"
+  },
+  {
+    "id": "uber",
+    "name": "Uber",
+    "nameEn": "Uber",
+    "wikiEn": "Uber",
+    "aliases": [
+      "优步",
+      "网约车",
+      "UberCab"
+    ],
+    "year": 2009,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone",
+      "gps"
+    ],
+    "related": [
+      "didi",
+      "airbnb",
+      "o2o"
+    ],
+    "desc": "2009年创立的手机叫车平台，开创共享出行与零工经济。"
+  },
+  {
+    "id": "didi",
+    "name": "滴滴出行",
+    "nameEn": "DiDi",
+    "wikiEn": "DiDi",
+    "aliases": [
+      "滴滴",
+      "滴滴打车",
+      "小桔科技"
+    ],
+    "year": 2012,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone",
+      "gps"
+    ],
+    "related": [
+      "uber",
+      "online_food_ordering"
+    ],
+    "desc": "2012年成立的中国移动出行平台，合并快的后主导网约车。"
+  },
+  {
+    "id": "online_food_ordering",
+    "name": "外卖平台",
+    "nameEn": "Online food ordering",
+    "wikiEn": "Online food ordering",
+    "aliases": [
+      "饿了么",
+      "美团外卖",
+      "DoorDash",
+      "Grubhub",
+      "Ele.me"
+    ],
+    "year": 2009,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "meituan",
+      "didi",
+      "o2o"
+    ],
+    "desc": "2009年饿了么等兴起的线上下单、即时配送餐饮平台。"
+  },
+  {
+    "id": "google_maps",
+    "name": "Google地图",
+    "nameEn": "Google Maps",
+    "wikiEn": "Google Maps",
+    "aliases": [
+      "谷歌地图",
+      "手机导航",
+      "谷歌语音导航"
+    ],
+    "year": 2005,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "gps",
+      "world_wide_web"
+    ],
+    "related": [
+      "uber",
+      "openstreetmap"
+    ],
+    "desc": "2005年推出、2009年起手机免费语音导航，颠覆车载GPS。"
+  },
+  {
+    "id": "openstreetmap",
+    "name": "开放街图",
+    "nameEn": "OpenStreetMap",
+    "wikiEn": "OpenStreetMap",
+    "aliases": [
+      "OSM",
+      "开源地图",
+      "开放街道地图"
+    ],
+    "year": 2004,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "gps"
+    ],
+    "related": [
+      "google_maps"
+    ],
+    "desc": "2004年发起的众包开源世界地图，数据自由可编辑。"
+  },
+  {
+    "id": "podcast",
+    "name": "播客",
+    "nameEn": "Podcast",
+    "wikiEn": "Podcast",
+    "aliases": [
+      "苹果播客",
+      "RSS音频",
+      "网络广播"
+    ],
+    "year": 2004,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "spotify",
+      "ipod"
+    ],
+    "desc": "2004年得名的订阅式网络音频节目，随智能手机复兴。"
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "nameEn": "Roblox",
+    "wikiEn": "Roblox",
+    "aliases": [
+      "机器砖块",
+      "罗布乐思"
+    ],
+    "year": 2006,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "metaverse",
+      "nintendo_switch",
+      "youtube"
+    ],
+    "desc": "2006年上线的用户创作游戏社交平台，元宇宙先行样本。"
+  },
+  {
+    "id": "skype",
+    "name": "Skype",
+    "nameEn": "Skype",
+    "wikiEn": "Skype",
+    "aliases": [
+      "Skype网络电话",
+      "视频通话软件"
+    ],
+    "year": 2003,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "zoom",
+      "whatsapp"
+    ],
+    "desc": "2003年推出的网络语音与视频通话软件，变革长途通信。"
+  },
+  {
+    "id": "zoom",
+    "name": "Zoom",
+    "nameEn": "Zoom (software)",
+    "wikiEn": "Zoom (software)",
+    "aliases": [
+      "Zoom会议",
+      "云视频会议",
+      "Zoom Cloud Meetings"
+    ],
+    "year": 2013,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone",
+      "internet"
+    ],
+    "related": [
+      "skype",
+      "webrtc"
+    ],
+    "desc": "2013年推出、疫情期间普及的云视频会议平台。"
+  },
+  {
+    "id": "webrtc",
+    "name": "WebRTC",
+    "nameEn": "WebRTC",
+    "wikiEn": "WebRTC",
+    "aliases": [
+      "网页实时通信",
+      "浏览器音视频通话"
+    ],
+    "year": 2011,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "world_wide_web"
+    ],
+    "related": [
+      "zoom",
+      "live_streaming"
+    ],
+    "desc": "2011年谷歌开源的浏览器实时音视频标准，支撑网页通话。"
+  },
+  {
+    "id": "alipay",
+    "name": "支付宝",
+    "nameEn": "Alipay",
+    "wikiEn": "Alipay",
+    "aliases": [
+      "蚂蚁金服",
+      "淘宝担保交易",
+      "Alipay支付宝"
+    ],
+    "year": 2004,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "wechat_pay",
+      "qr_code_payment",
+      "digital_wallet"
+    ],
+    "desc": "2004年以担保交易起家，后成中国最大第三方移动支付平台。"
+  },
+  {
+    "id": "wechat_pay",
+    "name": "微信支付",
+    "nameEn": "WeChat Pay",
+    "wikiEn": "WeChat Pay",
+    "aliases": [
+      "微信转账",
+      "微信红包",
+      "WeChat Pay HK"
+    ],
+    "year": 2013,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "wechat",
+      "smartphone"
+    ],
+    "related": [
+      "alipay",
+      "apple_pay",
+      "qr_code_payment"
+    ],
+    "desc": "2013年上线，凭2014年红包大战普及的移动支付服务。"
+  },
+  {
+    "id": "apple_pay",
+    "name": "Apple Pay",
+    "nameEn": "Apple Pay",
+    "wikiEn": "Apple Pay",
+    "aliases": [
+      "苹果支付",
+      "NFC支付",
+      "刷手机支付"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone",
+      "nfc"
+    ],
+    "related": [
+      "alipay",
+      "smartphone_biometrics",
+      "digital_wallet"
+    ],
+    "desc": "2014年苹果推出的NFC近场支付，绑定指纹与信用卡。"
+  },
+  {
+    "id": "qr_code_payment",
+    "name": "二维码支付",
+    "nameEn": "QR code payment",
+    "wikiEn": "QR code payment",
+    "aliases": [
+      "扫码支付",
+      "QR支付",
+      "收款码",
+      "扫码付款"
+    ],
+    "year": 2011,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "alipay",
+      "nfc",
+      "health_qr_code"
+    ],
+    "desc": "2011年起在中国普及的扫码付款，小摊小店也能无现金收款。"
+  },
+  {
+    "id": "digital_wallet",
+    "name": "电子钱包",
+    "nameEn": "Digital wallet",
+    "wikiEn": "Digital wallet",
+    "aliases": [
+      "数字钱包",
+      "e-wallet",
+      "Google Wallet",
+      "电子现金"
+    ],
+    "year": 2011,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "apple_pay",
+      "m_pesa"
+    ],
+    "desc": "2011年Google Wallet等把票券、卡片与支付集成到手机。"
+  },
+  {
+    "id": "m_pesa",
+    "name": "M-Pesa",
+    "nameEn": "M-Pesa",
+    "wikiEn": "M-Pesa",
+    "aliases": [
+      "手机货币",
+      "肯尼亚手机银行",
+      "M-PESA"
+    ],
+    "year": 2007,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "mobile_phone"
+    ],
+    "related": [
+      "digital_wallet",
+      "upi"
+    ],
+    "desc": "2007年肯尼亚推出的短信移动货币，让无银行账户者转账。"
+  },
+  {
+    "id": "upi",
+    "name": "统一支付接口",
+    "nameEn": "Unified Payments Interface",
+    "wikiEn": "Unified Payments Interface",
+    "aliases": [
+      "UPI",
+      "印度统一支付",
+      "UPI即时转账"
+    ],
+    "year": 2016,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone",
+      "internet"
+    ],
+    "related": [
+      "qr_code_payment",
+      "m_pesa"
+    ],
+    "desc": "2016年印度推出的统一实时移动支付转接系统。"
+  },
+  {
+    "id": "cryptocurrency_hardware_wallet",
+    "name": "硬件钱包",
+    "nameEn": "Cryptocurrency wallet",
+    "wikiEn": "Cryptocurrency wallet",
+    "aliases": [
+      "加密硬件钱包",
+      "Trezor",
+      "Ledger",
+      "冷钱包"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "bitcoin",
+      "digital_wallet"
+    ],
+    "desc": "2014年Trezor首发的私钥离线签名设备，保障加密资产。"
+  },
+  {
+    "id": "digital_identity",
+    "name": "数字身份",
+    "nameEn": "Digital identity",
+    "wikiEn": "Digital identity",
+    "aliases": [
+      "电子身份证",
+      "eID",
+      "网络实名",
+      "Aadhaar"
+    ],
+    "year": 2010,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "health_qr_code",
+      "smartphone_biometrics",
+      "nfc"
+    ],
+    "desc": "2010年前后以Aadhaar为代表的国家级数字身份体系。"
+  },
+  {
+    "id": "health_qr_code",
+    "name": "健康码",
+    "nameEn": "Health Codes (Chinese mobile app group)",
+    "wikiEn": "Health Codes (Chinese mobile app group)",
+    "aliases": [
+      "防疫健康码",
+      "健康行程码",
+      "Health QR Code"
+    ],
+    "year": 2020,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "digital_identity",
+      "qr_code_payment"
+    ],
+    "desc": "2020年中国疫情期间推出的手机健康状态二维码通行系统。"
+  },
+  {
+    "id": "o2o",
+    "name": "O2O",
+    "nameEn": "Online to offline",
+    "wikiEn": "Online to offline",
+    "aliases": [
+      "线上到线下",
+      "O2O商务",
+      "团购",
+      "Groupon"
+    ],
+    "year": 2010,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "uber",
+      "meituan",
+      "yelp"
+    ],
+    "desc": "2010年提出的线上引流、线下消费模式，团购本地生活盛行。"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "nameEn": "Netflix",
+    "wikiEn": "Netflix",
+    "aliases": [
+      "网飞",
+      "奈飞",
+      "流媒体视频"
+    ],
+    "year": 2007,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "youtube",
+      "spotify",
+      "digital_media_player"
+    ],
+    "desc": "2007年Netflix转型流媒体点播，后以自制剧颠覆影视业。"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "nameEn": "Spotify",
+    "wikiEn": "Spotify",
+    "aliases": [
+      "声田",
+      "流媒体音乐",
+      "Spotify音乐"
+    ],
+    "year": 2008,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "netflix",
+      "podcast",
+      "ipod"
+    ],
+    "desc": "2008年推出的正版流媒体音乐服务，订阅制取代下载。"
+  },
+  {
+    "id": "cloud_gaming",
+    "name": "云游戏",
+    "nameEn": "Cloud gaming",
+    "wikiEn": "Cloud gaming",
+    "aliases": [
+      "Stadia",
+      "GeForce Now",
+      "OnLive",
+      "游戏串流"
+    ],
+    "year": 2019,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "cloud_computing",
+      "internet"
+    ],
+    "related": [
+      "netflix",
+      "nintendo_switch"
+    ],
+    "desc": "2019年谷歌Stadia试水的云端渲染、跨端串流游戏模式。"
+  },
+  {
+    "id": "airbnb",
+    "name": "Airbnb",
+    "nameEn": "Airbnb",
+    "wikiEn": "Airbnb",
+    "aliases": [
+      "爱彼迎",
+      "空中食宿",
+      "民宿短租"
+    ],
+    "year": 2008,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "smartphone"
+    ],
+    "related": [
+      "uber",
+      "o2o"
+    ],
+    "desc": "2008年创立的民宿共享平台，开创住宿共享经济模式。"
+  },
+  {
+    "id": "web3",
+    "name": "Web3",
+    "nameEn": "Web3",
+    "wikiEn": "Web3",
+    "aliases": [
+      "Web 3.0",
+      "去中心化互联网",
+      "链上应用"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "blockchain",
+      "metaverse",
+      "cryptocurrency_hardware_wallet"
+    ],
+    "desc": "2014年提出、2021年走红的去中心化链上互联网应用范式。"
+  },
+  {
+    "id": "metaverse",
+    "name": "元宇宙",
+    "nameEn": "Metaverse",
+    "wikiEn": "Metaverse",
+    "aliases": [
+      "Meta元宇宙",
+      "沉浸式虚拟世界",
+      "Fortnite虚拟演唱会"
+    ],
+    "year": 2021,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "roblox",
+      "apple_vision_pro",
+      "web3"
+    ],
+    "desc": "2021年因Facebook改名而火爆的沉浸式虚拟世界概念。"
+  }
+]

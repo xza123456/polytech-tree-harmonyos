@@ -1,0 +1,1788 @@
+[
+ {
+  "kept_id": "ink",
+  "swallowed_id": "printing_ink",
+  "reason": "wikiEn",
+  "wikiEn": "Ink",
+  "a": {
+   "name": "墨",
+   "year": -3200,
+   "era": "bronze_age",
+   "cat": "information",
+   "imp": 4,
+   "desc": "古埃及以炭黑与树胶制墨书写，是最早的书写墨之一。",
+   "file": "02-bronze-age.json"
+  },
+  "b": {
+   "name": "印刷油墨",
+   "year": 1440,
+   "era": "renaissance",
+   "cat": "information",
+   "imp": 4,
+   "desc": "古腾堡以亚麻油与油烟调制成附着金属字面的油性油墨。",
+   "file": "05-renaissance.json"
+  },
+  "live_desc": "古埃及以炭黑与树胶制墨书写，是最早的书写墨之一。",
+  "live_year": -3200,
+  "label": "SPLIT",
+  "label_reason": "书写墨(-3200) 与古腾堡油性印刷油墨(1440) 是两种配方两种用途",
+  "features": {
+   "d_year": 4640,
+   "d_era": 3,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.0,
+   "proto_word": false,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "steering_oar",
+  "swallowed_id": "sternpost_rudder",
+  "reason": "wikiEn",
+  "wikiEn": "Rudder",
+  "a": {
+   "name": "操舵桨",
+   "year": -3000,
+   "era": "bronze_age",
+   "cat": "transport_exploration",
+   "imp": 4,
+   "desc": "船尾侧置长大桨控制航向，为尾舵的前身。",
+   "file": "02-bronze-age.json"
+  },
+  "b": {
+   "name": "船尾舵",
+   "year": 1180,
+   "era": "middle_ages",
+   "cat": "transport_exploration",
+   "imp": 3,
+   "desc": "欧洲船尾装栓铰舵，操舵灵便，宜大船远航。",
+   "file": "04-middle-ages.json"
+  },
+  "live_desc": "船尾侧置长大桨控制航向，为尾舵的前身。",
+  "live_year": -3000,
+  "label": "SPLIT",
+  "label_reason": "操舵桨与船尾栓铰舵是舵的两代",
+  "features": {
+   "d_year": 4180,
+   "d_era": 2,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.032,
+   "proto_word": true,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "steering_oar",
+  "swallowed_id": "stern_rudder",
+  "reason": "wikiEn",
+  "wikiEn": "Rudder",
+  "a": {
+   "name": "操舵桨",
+   "year": -3000,
+   "era": "bronze_age",
+   "cat": "transport_exploration",
+   "imp": 4,
+   "desc": "船尾侧置长大桨控制航向，为尾舵的前身。",
+   "file": "02-bronze-age.json"
+  },
+  "b": {
+   "name": "船尾舵",
+   "year": 100,
+   "era": "antiquity",
+   "cat": "transport_exploration",
+   "imp": 3,
+   "desc": "船尾竖舵取代尾桨，大幅提升操纵性。",
+   "file": "03-antiquity.json"
+  },
+  "live_desc": "船尾侧置长大桨控制航向，为尾舵的前身。",
+  "live_year": -3000,
+  "label": "SPLIT",
+  "label_reason": "同上，且被两次合并吞掉两条",
+  "features": {
+   "d_year": 3100,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.034,
+   "proto_word": true,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "isoperimetric_zenodorus",
+  "swallowed_id": "isoperimetric_inequality_modern",
+  "reason": "wikiEn",
+  "wikiEn": "Isoperimetric inequality",
+  "a": {
+   "name": "芝诺多罗斯等周问题",
+   "year": -180,
+   "era": "antiquity",
+   "cat": "math_logic",
+   "imp": 3,
+   "desc": "芝诺多罗斯论证等周图形中圆面积最大、同面积立体中球体积最小，开创等周研究。",
+   "file": "25-math-geometry-topology.json"
+  },
+  "b": {
+   "name": "等周不等式的严格证明",
+   "year": 1884,
+   "era": "second_industrial",
+   "cat": "math_logic",
+   "imp": 3,
+   "desc": "魏尔斯特拉斯与施瓦茨以变分法和对称化给出古典等周不等式首个严格证明。",
+   "file": "25-math-geometry-topology.json"
+  },
+  "live_desc": "芝诺多罗斯论证等周图形中圆面积最大、同面积立体中球体积最小，开创等周研究。",
+  "live_year": -180,
+  "label": "SPLIT",
+  "label_reason": "古典等周问题与 1884 年严格证明是不同成果",
+  "features": {
+   "d_year": 2064,
+   "d_era": 4,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.016,
+   "proto_word": true,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "bellows",
+  "swallowed_id": "waterpowered_bellows",
+  "reason": "wikiEn",
+  "wikiEn": "Bellows",
+  "a": {
+   "name": "风箱",
+   "year": -2000,
+   "era": "bronze_age",
+   "cat": "materials",
+   "imp": 4,
+   "desc": "以皮囊鼓风提高炉温，是青铜冶炼的关键助燃装置。",
+   "file": "02-bronze-age.json"
+  },
+  "b": {
+   "name": "水排",
+   "year": 31,
+   "era": "antiquity",
+   "cat": "energy_power",
+   "imp": 3,
+   "desc": "杜诗以水轮往复鼓风冶铁，省人力。",
+   "file": "03-antiquity.json"
+  },
+  "live_desc": "以皮囊鼓风提高炉温，是青铜冶炼的关键助燃装置。",
+  "live_year": -2000,
+  "label": "SPLIT",
+  "label_reason": "皮囊风箱与水排（水力鼓风）动力源不同，且 category 不同",
+  "features": {
+   "d_year": 2031,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.031,
+   "proto_word": false,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "force_pump",
+  "swallowed_id": "piston_pump",
+  "reason": "wikiEn",
+  "wikiEn": "Piston pump",
+  "a": {
+   "name": "压力泵",
+   "year": -250,
+   "era": "antiquity",
+   "cat": "energy_power",
+   "imp": 3,
+   "desc": "双动活塞泵压送水或空气。",
+   "file": "03-antiquity.json"
+  },
+  "b": {
+   "name": "活塞泵",
+   "year": 1210,
+   "era": "middle_ages",
+   "cat": "energy_power",
+   "imp": 3,
+   "desc": "加扎利创制带单向阀的双缸活塞吸水泵，提水效率大增。",
+   "file": "04-middle-ages.json"
+  },
+  "live_desc": "双动活塞泵压送水或空气。",
+  "live_year": -250,
+  "label": "SPLIT",
+  "label_reason": "希腊双动泵与加扎利双缸单向阀泵相隔 1460 年",
+  "features": {
+   "d_year": 1460,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.032,
+   "proto_word": false,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "blast_furnace",
+  "swallowed_id": "blast_furnace_china",
+  "reason": "wikiEn",
+  "wikiEn": "Blast furnace",
+  "a": {
+   "name": "高炉",
+   "year": 1150,
+   "era": "middle_ages",
+   "cat": "materials",
+   "imp": 2,
+   "desc": "水力鼓风竖炉连续产出生铁，欧洲中世纪铁业大进。",
+   "file": "04-middle-ages.json"
+  },
+  "b": {
+   "name": "高炉雏形",
+   "year": -250,
+   "era": "antiquity",
+   "cat": "materials",
+   "imp": 3,
+   "desc": "中国战国末至汉代高炉连续炼出生铁。",
+   "file": "03-antiquity.json"
+  },
+  "live_desc": "水力鼓风竖炉连续产出生铁，欧洲中世纪铁业大进。",
+  "live_year": 1150,
+  "label": "SPLIT",
+  "label_reason": "中国战国生铁高炉与欧洲中世纪高炉，地域与技术脉络不同",
+  "features": {
+   "d_year": 1400,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.129,
+   "proto_word": true,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "canal_lock",
+  "swallowed_id": "pound_lock",
+  "reason": "wikiEn",
+  "wikiEn": "Lock (water navigation)",
+  "a": {
+   "name": "船闸",
+   "year": -280,
+   "era": "antiquity",
+   "cat": "transport_exploration",
+   "imp": 3,
+   "desc": "托勒密二世运河上调节水位的闸室。",
+   "file": "03-antiquity.json"
+  },
+  "b": {
+   "name": "复闸",
+   "year": 984,
+   "era": "middle_ages",
+   "cat": "transport_exploration",
+   "imp": 3,
+   "desc": "乔维岳在运河建双闸门复闸，分级调水通航。",
+   "file": "04-middle-ages.json"
+  },
+  "live_desc": "托勒密二世运河上调节水位的闸室。",
+  "live_year": -280,
+  "label": "SPLIT",
+  "label_reason": "托勒密单闸与 984 年乔维岳双闸复闸，是闸室的两代",
+  "features": {
+   "d_year": 1264,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.033,
+   "proto_word": false,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "match",
+  "swallowed_id": "friction_match",
+  "reason": "wikiEn",
+  "wikiEn": "Match",
+  "a": {
+   "name": "火柴",
+   "year": 577,
+   "era": "middle_ages",
+   "cat": "materials",
+   "imp": 4,
+   "desc": "北齐宫女用硫磺制发烛引火，是火柴的雏形。",
+   "file": "04-middle-ages.json"
+  },
+  "b": {
+   "name": "摩擦火柴",
+   "year": 1826,
+   "era": "industrial",
+   "cat": "materials",
+   "imp": 5,
+   "desc": "沃克发明摩擦起火的火柴，1844年安全火柴问世。",
+   "file": "06-industrial.json"
+  },
+  "live_desc": "北齐宫女用硫磺制发烛引火，是火柴的雏形。",
+  "live_year": 577,
+  "label": "SPLIT",
+  "label_reason": "发烛（硫磺引火）与沃克摩擦火柴是不同代",
+  "features": {
+   "d_year": 1249,
+   "d_era": 2,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.031,
+   "proto_word": true,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "windmill",
+  "swallowed_id": "windmill_proto",
+  "reason": "wikiEn",
+  "wikiEn": "Windmill",
+  "a": {
+   "name": "风车",
+   "year": 1180,
+   "era": "middle_ages",
+   "cat": "energy_power",
+   "imp": 2,
+   "desc": "欧洲水平轴风车出现，用于磨谷、排水与锯木。",
+   "file": "04-middle-ages.json"
+  },
+  "b": {
+   "name": "风动轮雏形",
+   "year": 50,
+   "era": "antiquity",
+   "cat": "energy_power",
+   "imp": 5,
+   "desc": "希罗描述风力驱动风琴的设想装置。",
+   "file": "03-antiquity.json"
+  },
+  "live_desc": "欧洲水平轴风车出现，用于磨谷、排水与锯木。",
+  "live_year": 1180,
+  "label": "SPLIT",
+  "label_reason": "希罗风动玩具与 12 世纪磨坊风车，一个非实用装置",
+  "features": {
+   "d_year": 1130,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.0,
+   "proto_word": true,
+   "imp_diff": 3
+  }
+ },
+ {
+  "kept_id": "faience",
+  "swallowed_id": "egyptian_faience",
+  "reason": "wikiEn",
+  "wikiEn": "Egyptian faience",
+  "a": {
+   "name": "釉砂",
+   "year": -4500,
+   "era": "neolithic",
+   "cat": "materials",
+   "imp": 4,
+   "desc": "石英砂胎施釉烧成的釉砂饰品，玻璃工艺前身。",
+   "file": "01-prehistory-neolithic.json"
+  },
+  "b": {
+   "name": "费昂斯",
+   "year": -3500,
+   "era": "bronze_age",
+   "cat": "materials",
+   "imp": 4,
+   "desc": "石英砂胎施釉烧出的蓝绿色仿玉材料，古埃及盛行。",
+   "file": "02-bronze-age.json"
+  },
+  "live_desc": "石英砂胎施釉烧成的釉砂饰品，玻璃工艺前身。",
+  "live_year": -4500,
+  "label": "SPLIT",
+  "label_reason": "釉砂(-4500) 与费昂斯(-3500) 同物异名倾向大，但年份差 1000 年必须人工定名",
+  "features": {
+   "d_year": 1000,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.188,
+   "proto_word": true,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "crank_handle",
+  "swallowed_id": "crank",
+  "reason": "wikiEn",
+  "wikiEn": "Crank (mechanism)",
+  "a": {
+   "name": "曲柄",
+   "year": 100,
+   "era": "antiquity",
+   "cat": "materials",
+   "imp": 4,
+   "desc": "汉代陶塑与罗马铁器出现手摇曲柄。",
+   "file": "03-antiquity.json"
+  },
+  "b": {
+   "name": "曲柄",
+   "year": 900,
+   "era": "middle_ages",
+   "cat": "materials",
+   "imp": 3,
+   "desc": "曲柄把往复与旋转运动互转，9世纪起在欧亚广泛使用。",
+   "file": "04-middle-ages.json"
+  },
+  "live_desc": "汉代陶塑与罗马铁器出现手摇曲柄。",
+  "live_year": 100,
+  "label": "SPLIT",
+  "label_reason": "同名不同代：汉代手摇曲柄 vs 9 世纪曲柄机构普及",
+  "features": {
+   "d_year": 800,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": true,
+   "desc_jaccard": 0.029,
+   "proto_word": false,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "paddle_wheel_boat",
+  "swallowed_id": "paddle_wheel_ship",
+  "reason": "wikiEn",
+  "wikiEn": "Paddle wheel",
+  "a": {
+   "name": "明轮船雏形",
+   "year": 400,
+   "era": "antiquity",
+   "cat": "transport_exploration",
+   "imp": 5,
+   "desc": "《论军事》设想畜力带动两侧明轮的船。",
+   "file": "03-antiquity.json"
+  },
+  "b": {
+   "name": "车船",
+   "year": 1134,
+   "era": "middle_ages",
+   "cat": "transport_exploration",
+   "imp": 3,
+   "desc": "南宋水军以人力踏动叶轮推进车船，用于江湖水战。",
+   "file": "04-middle-ages.json"
+  },
+  "live_desc": "《论军事》设想畜力带动两侧明轮的船。",
+  "live_year": 400,
+  "label": "SPLIT",
+  "label_reason": "《论军事》设想与南宋实际车船",
+  "features": {
+   "d_year": 734,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.0,
+   "proto_word": true,
+   "imp_diff": 2
+  }
+ },
+ {
+  "kept_id": "coke_fuel",
+  "swallowed_id": "coke_smelting",
+  "reason": "wikiEn",
+  "wikiEn": "Coke (fuel)",
+  "a": {
+   "name": "焦炭",
+   "year": 1050,
+   "era": "middle_ages",
+   "cat": "energy_power",
+   "imp": 3,
+   "desc": "宋代以煤干馏成焦炭，用于炊爨与冶铁。",
+   "file": "04-middle-ages.json"
+  },
+  "b": {
+   "name": "焦炭炼铁",
+   "year": 1709,
+   "era": "industrial",
+   "cat": "materials",
+   "imp": 2,
+   "desc": "达比以焦炭代替木炭冶炼生铁，开启廉价冶铁时代。",
+   "file": "06-industrial.json"
+  },
+  "live_desc": "宋代以煤干馏成焦炭，用于炊爨与冶铁。",
+  "live_year": 1050,
+  "label": "SPLIT",
+  "label_reason": "宋代焦炭燃料与达比焦炭炼铁工艺，category 也不同",
+  "features": {
+   "d_year": 659,
+   "d_era": 2,
+   "era_diff": true,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.061,
+   "proto_word": false,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "sugar_crystallization",
+  "swallowed_id": "sugar",
+  "reason": "wikiEn",
+  "wikiEn": "Sugar",
+  "a": {
+   "name": "结晶糖",
+   "year": 250,
+   "era": "antiquity",
+   "cat": "life_medicine",
+   "imp": 4,
+   "desc": "印度笈多时期掌握蔗糖结晶造粒技术。",
+   "file": "03-antiquity.json"
+  },
+  "b": {
+   "name": "蔗糖",
+   "year": 870,
+   "era": "middle_ages",
+   "cat": "life_medicine",
+   "imp": 3,
+   "desc": "伊斯兰世界推广甘蔗种植与炼糖，蔗糖传入地中海。",
+   "file": "04-middle-ages.json"
+  },
+  "live_desc": "印度笈多时期掌握蔗糖结晶造粒技术。",
+  "live_year": 250,
+  "label": "SPLIT",
+  "label_reason": "笈多结晶法与伊斯兰炼糖推广是两件事",
+  "features": {
+   "d_year": 620,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.029,
+   "proto_word": false,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "roller_cotton_gin",
+  "swallowed_id": "cotton_gin",
+  "reason": "wikiEn",
+  "wikiEn": "Cotton gin",
+  "a": {
+   "name": "蜗杆轧花机",
+   "year": 1300,
+   "era": "middle_ages",
+   "cat": "materials",
+   "imp": 4,
+   "desc": "德里苏丹地区以蜗杆辊轴轧去棉籽，效率倍增。",
+   "file": "04-middle-ages.json"
+  },
+  "b": {
+   "name": "轧棉机",
+   "year": 1793,
+   "era": "industrial",
+   "cat": "materials",
+   "imp": 2,
+   "desc": "惠特尼发明锯齿轧棉机，清棉效率提高约五十倍。",
+   "file": "06-industrial.json"
+  },
+  "live_desc": "德里苏丹地区以蜗杆辊轴轧去棉籽，效率倍增。",
+  "live_year": 1300,
+  "label": "SPLIT",
+  "label_reason": "蜗杆轧花机与惠特尼锯齿轧棉机是两代机构",
+  "features": {
+   "d_year": 493,
+   "d_era": 2,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.028,
+   "proto_word": false,
+   "imp_diff": 2
+  }
+ },
+ {
+  "kept_id": "hindu_numerals",
+  "swallowed_id": "hindu_arabic_numerals",
+  "reason": "wikiEn",
+  "wikiEn": "Hindu–Arabic numeral system",
+  "a": {
+   "name": "印度位置制数字",
+   "year": 400,
+   "era": "antiquity",
+   "cat": "information",
+   "imp": 3,
+   "desc": "印度形成含零的十进位值记数数字。",
+   "file": "03-antiquity.json"
+  },
+  "b": {
+   "name": "阿拉伯数字",
+   "year": 825,
+   "era": "middle_ages",
+   "cat": "information",
+   "imp": 2,
+   "desc": "印度数字经花剌子米传入伊斯兰世界，后传欧洲。",
+   "file": "04-middle-ages.json"
+  },
+  "live_desc": "印度形成含零的十进位值记数数字。",
+  "live_year": 400,
+  "label": "SPLIT",
+  "label_reason": "印度形成与经花剌子米传播，是两个阶段",
+  "features": {
+   "d_year": 425,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.065,
+   "proto_word": false,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "cannon",
+  "swallowed_id": "cast_iron_cannon",
+  "reason": "wikiEn",
+  "wikiEn": "Cannon",
+  "a": {
+   "name": "火炮",
+   "year": 1128,
+   "era": "middle_ages",
+   "cat": "materials",
+   "imp": 2,
+   "desc": "大足石刻已有瓶状火炮图像，13世纪金属管炮流行。",
+   "file": "04-middle-ages.json"
+  },
+  "b": {
+   "name": "铸铁炮",
+   "year": 1543,
+   "era": "renaissance",
+   "cat": "materials",
+   "imp": 3,
+   "desc": "英国铸成整体铸铁大炮，比青铜炮廉价，推动重炮大规模普及。",
+   "file": "05-renaissance.json"
+  },
+  "live_desc": "大足石刻已有瓶状火炮图像，13世纪金属管炮流行。",
+  "live_year": 1128,
+  "label": "SPLIT",
+  "label_reason": "早期火炮与 1543 整体铸铁炮是两代",
+  "features": {
+   "d_year": 415,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.0,
+   "proto_word": false,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "screw_cutting_lathe",
+  "swallowed_id": "metal_lathe",
+  "reason": "wikiEn",
+  "wikiEn": "Screw-cutting lathe",
+  "a": {
+   "name": "螺纹车床",
+   "year": 1569,
+   "era": "renaissance",
+   "cat": "materials",
+   "imp": 4,
+   "desc": "贝松设计带导轨与样板的车床，首次较精确地车削标准螺纹。",
+   "file": "05-renaissance.json"
+  },
+  "b": {
+   "name": "全金属螺纹车床",
+   "year": 1800,
+   "era": "industrial",
+   "cat": "materials",
+   "imp": 2,
+   "desc": "莫兹利全金属精密车床与溜板刀架，机床工业之母。",
+   "file": "06-industrial.json"
+  },
+  "live_desc": "贝松设计带导轨与样板的车床，首次较精确地车削标准螺纹。",
+  "live_year": 1569,
+  "label": "SPLIT",
+  "label_reason": "贝松木质车床与莫兹利全金属车床，机床史公认两代",
+  "features": {
+   "d_year": 231,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.023,
+   "proto_word": true,
+   "imp_diff": 2
+  }
+ },
+ {
+  "kept_id": "bernoulli_law_large_numbers",
+  "swallowed_id": "khinchin_law_large_numbers",
+  "reason": "wikiEn",
+  "wikiEn": "Law of large numbers",
+  "a": {
+   "name": "伯努利大数定律",
+   "year": 1713,
+   "era": "industrial",
+   "cat": "information",
+   "imp": 2,
+   "desc": "雅各布·伯努利遗著证明频率随试验次数收敛于概率，为数理统计奠定理论基石。",
+   "file": "20-knowledge-math-cs.json"
+  },
+  "b": {
+   "name": "辛钦大数定律",
+   "year": 1929,
+   "era": "second_industrial",
+   "cat": "math_logic",
+   "imp": 3,
+   "desc": "辛钦证明独立同分布且期望有限时样本均值依概率收敛，给出弱律最简形。",
+   "file": "27-math-probability-stats-or.json"
+  },
+  "live_desc": "雅各布·伯努利遗著证明频率随试验次数收敛于概率，为数理统计奠定理论基石。",
+  "live_year": 1713,
+  "label": "SPLIT",
+  "label_reason": "伯努利弱律与辛钦 iid 证明是两个定理",
+  "features": {
+   "d_year": 216,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.051,
+   "proto_word": true,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "jacobs_staff",
+  "swallowed_id": "cross_staff",
+  "reason": "wikiEn",
+  "wikiEn": "Jacob's staff",
+  "a": {
+   "name": "十字杖",
+   "year": 1330,
+   "era": "middle_ages",
+   "cat": "information",
+   "imp": 4,
+   "desc": "以横臂滑尺测天体高度，是航海与测地常用的简仪。",
+   "file": "04-middle-ages.json"
+  },
+  "b": {
+   "name": "航海十字杆",
+   "year": 1520,
+   "era": "renaissance",
+   "cat": "transport_exploration",
+   "imp": 4,
+   "desc": "滑动横尺测天体与海平线夹角，结构简单，是常用测纬仪器。",
+   "file": "05-renaissance.json"
+  },
+  "live_desc": "以横臂滑尺测天体高度，是航海与测地常用的简仪。",
+  "live_year": 1330,
+  "label": "SPLIT",
+  "label_reason": "同一类仪器的两种条目，desc 几乎同文——须人工定名是否同物",
+  "features": {
+   "d_year": 190,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.103,
+   "proto_word": false,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "canning",
+  "swallowed_id": "canning_industrialization",
+  "reason": "wikiEn",
+  "wikiEn": "Canning",
+  "a": {
+   "name": "罐头食品",
+   "year": 1810,
+   "era": "industrial",
+   "cat": "life_medicine",
+   "imp": 2,
+   "desc": "阿佩尔密封加热法、杜兰德马口铁罐，食品长期保藏。",
+   "file": "06-industrial.json"
+  },
+  "b": {
+   "name": "罐头工业化",
+   "year": 1903,
+   "era": "second_industrial",
+   "cat": "life_medicine",
+   "imp": 3,
+   "desc": "双重卷封卫生罐与高速制罐线推动罐头量产。",
+   "file": "08-2ind-info-life.json"
+  },
+  "live_desc": "阿佩尔密封加热法、杜兰德马口铁罐，食品长期保藏。",
+  "live_year": 1810,
+  "label": "SPLIT",
+  "label_reason": "发明（阿佩尔/杜兰德）与 1903 卷封产线工业化",
+  "features": {
+   "d_year": 93,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.0,
+   "proto_word": false,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "telephone_exchange",
+  "swallowed_id": "digital_telephone_switch",
+  "reason": "wikiEn",
+  "wikiEn": "Telephone exchange",
+  "a": {
+   "name": "电话交换机",
+   "year": 1878,
+   "era": "second_industrial",
+   "cat": "information",
+   "imp": 3,
+   "desc": "话务员接续线路，使多用户电话组网运行。",
+   "file": "08-2ind-info-life.json"
+  },
+  "b": {
+   "name": "数字程控交换机",
+   "year": 1970,
+   "era": "information",
+   "cat": "information",
+   "imp": 3,
+   "desc": "1970年法国拉尼翁E10开通，世界首个时分数字电话交换系统。",
+   "file": "14-info-network.json"
+  },
+  "live_desc": "话务员接续线路，使多用户电话组网运行。",
+  "live_year": 1878,
+  "label": "SPLIT",
+  "label_reason": "人工交换与 1970 E10 数字程控是两代",
+  "features": {
+   "d_year": 92,
+   "d_era": 2,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.028,
+   "proto_word": true,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "wind_turbine_electric",
+  "swallowed_id": "modern_wind_turbine",
+  "reason": "wikiEn",
+  "wikiEn": "Wind turbine",
+  "a": {
+   "name": "风力发电机",
+   "year": 1888,
+   "era": "second_industrial",
+   "cat": "energy_power",
+   "imp": 4,
+   "desc": "布拉什1888年建成首台自动发电风力机，风电雏形。",
+   "file": "07-2ind-materials-energy.json"
+  },
+  "b": {
+   "name": "现代风力发电机组",
+   "year": 1979,
+   "era": "information",
+   "cat": "energy_power",
+   "imp": 2,
+   "desc": "丹麦三叶片上风向风机定型，开启现代风电产业。",
+   "file": "15-info-other.json"
+  },
+  "live_desc": "布拉什1888年建成首台自动发电风力机，风电雏形。",
+  "live_year": 1888,
+  "label": "SPLIT",
+  "label_reason": "1888 布拉什首台与 1979 三叶片现代风机",
+  "features": {
+   "d_year": 91,
+   "d_era": 2,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.028,
+   "proto_word": true,
+   "imp_diff": 2
+  }
+ },
+ {
+  "kept_id": "wallace_natural_selection",
+  "swallowed_id": "simson_line",
+  "reason": "alias",
+  "wikiEn": "Alfred Russel Wallace",
+  "a": {
+   "name": "华莱士自然选择学说",
+   "year": 1858,
+   "era": "industrial",
+   "cat": "life_medicine",
+   "imp": 3,
+   "desc": "1858年独立提出自然选择，并开创岛屿生物地理学。",
+   "file": "23-knowledge-life-social.json"
+  },
+  "b": {
+   "name": "西姆松线",
+   "year": 1799,
+   "era": "industrial",
+   "cat": "math_logic",
+   "imp": 4,
+   "desc": "华莱士首先发表：外接圆上一点向三角形三边作垂足，三垂足必共线。",
+   "file": "25-math-geometry-topology.json"
+  },
+  "live_desc": "华莱士首先发表：外接圆上一点向三角形三边作垂足，三垂足必共线。",
+  "live_year": 1858,
+  "label": "SPLIT",
+  "label_reason": "自然选择学说与西姆松线毫不相干，仅因发明人同名'华莱士'被 alias 撞并",
+  "features": {
+   "d_year": 59,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.0,
+   "proto_word": true,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "early_hovercraft",
+  "swallowed_id": "hovercraft",
+  "reason": "wikiEn",
+  "wikiEn": "Hovercraft",
+  "a": {
+   "name": "早期气垫船",
+   "year": 1915,
+   "era": "second_industrial",
+   "cat": "transport_exploration",
+   "imp": 3,
+   "desc": "奥地利米勒鱼雷形气垫艇试航，气垫船最早雏形。",
+   "file": "09-2ind-transport.json"
+  },
+  "b": {
+   "name": "气垫船",
+   "year": 1959,
+   "era": "atomic_electronic",
+   "cat": "transport_exploration",
+   "imp": 3,
+   "desc": "科克雷尔设计SR.N1，1959年首渡英吉利海峡。",
+   "file": "12-atomic-life-transport.json"
+  },
+  "live_desc": "奥地利米勒鱼雷形气垫艇试航，气垫船最早雏形。",
+  "live_year": 1915,
+  "label": "SPLIT",
+  "label_reason": "1915 试验艇与 SR.N1 实用气垫船",
+  "features": {
+   "d_year": 44,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.0,
+   "proto_word": true,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "maglev_train",
+  "swallowed_id": "high_speed_maglev",
+  "reason": "wikiEn",
+  "wikiEn": "Maglev",
+  "a": {
+   "name": "磁悬浮列车",
+   "year": 1984,
+   "era": "information",
+   "cat": "transport_exploration",
+   "imp": 3,
+   "desc": "伯明翰机场磁浮商业线开通，磁悬浮首获商业运营。",
+   "file": "15-info-other.json"
+  },
+  "b": {
+   "name": "高速磁浮列车",
+   "year": 2021,
+   "era": "intelligent",
+   "cat": "transport_exploration",
+   "imp": 5,
+   "desc": "2021年中国时速600公里高速磁浮样车下线。",
+   "file": "18-intelligent-life-energy-transport.json"
+  },
+  "live_desc": "伯明翰机场磁浮商业线开通，磁悬浮首获商业运营。",
+  "live_year": 1984,
+  "label": "SPLIT",
+  "label_reason": "1984 商用低速线与 2021 时速 600 km 样车",
+  "features": {
+   "d_year": 37,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.031,
+   "proto_word": true,
+   "imp_diff": 2
+  }
+ },
+ {
+  "kept_id": "calculus_of_variations",
+  "swallowed_id": "euler_cauchy_equation",
+  "reason": "alias",
+  "wikiEn": "Calculus of variations",
+  "a": {
+   "name": "变分法",
+   "year": 1744,
+   "era": "industrial",
+   "cat": "information",
+   "imp": 2,
+   "desc": "欧拉《求曲线的方法》与拉格朗日方程系统化最速降线以来的泛函极值理论。",
+   "file": "20-knowledge-math-cs.json"
+  },
+  "b": {
+   "name": "柯西-欧拉方程",
+   "year": 1769,
+   "era": "industrial",
+   "cat": "math_logic",
+   "imp": 4,
+   "desc": "系数为x^k的变系数方程经幂代换化为常系数方程，是奇点邻域求解的经典类型。",
+   "file": "26-math-analysis.json"
+  },
+  "live_desc": "系数为x^k的变系数方程经幂代换化为常系数方程，是奇点邻域求解的经典类型。",
+  "live_year": 1744,
+  "label": "SPLIT",
+  "label_reason": "变分法与柯西-欧拉方程同上，人名 alias 撞车",
+  "features": {
+   "d_year": 25,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.018,
+   "proto_word": true,
+   "imp_diff": 2
+  }
+ },
+ {
+  "kept_id": "markov_chains",
+  "swallowed_id": "kolmogorov_markov_process",
+  "reason": "alias",
+  "wikiEn": "Markov chain",
+  "a": {
+   "name": "马尔可夫链",
+   "year": 1906,
+   "era": "second_industrial",
+   "cat": "information",
+   "imp": 2,
+   "desc": "马尔可夫创立无后效随机过程模型，后广泛用于统计物理、排队论、语言与算法。",
+   "file": "20-knowledge-math-cs.json"
+  },
+  "b": {
+   "name": "马尔可夫过程一般理论",
+   "year": 1931,
+   "era": "second_industrial",
+   "cat": "math_logic",
+   "imp": 2,
+   "desc": "科尔莫戈罗夫用查普曼方程建立连续时间马氏过程的一般解析理论。",
+   "file": "27-math-probability-stats-or.json"
+  },
+  "live_desc": "马尔可夫创立无后效随机过程模型，后广泛用于统计物理、排队论、语言与算法。",
+  "live_year": 1906,
+  "label": "SPLIT",
+  "label_reason": "马尔可夫链(1906) 与科尔莫戈罗夫连续时间一般理论(1931) 是两代",
+  "features": {
+   "d_year": 25,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.017,
+   "proto_word": true,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "positron_imaging",
+  "swallowed_id": "pet_scanner",
+  "reason": "wikiEn",
+  "wikiEn": "Positron emission tomography",
+  "a": {
+   "name": "正电子成像",
+   "year": 1953,
+   "era": "atomic_electronic",
+   "cat": "life_medicine",
+   "imp": 4,
+   "desc": "1953年首例正电子脑部扫描，为PET技术前身。",
+   "file": "12-atomic-life-transport.json"
+  },
+  "b": {
+   "name": "PET扫描仪",
+   "year": 1973,
+   "era": "information",
+   "cat": "life_medicine",
+   "imp": 2,
+   "desc": "菲尔兹等制成PET原型，以正电子示踪观测代谢功能。",
+   "file": "15-info-other.json"
+  },
+  "live_desc": "1953年首例正电子脑部扫描，为PET技术前身。",
+  "live_year": 1953,
+  "label": "SPLIT",
+  "label_reason": "1953 首例成像与 1973 商用 PET 机",
+  "features": {
+   "d_year": 20,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.065,
+   "proto_word": true,
+   "imp_diff": 2
+  }
+ },
+ {
+  "kept_id": "necar_fuel_cell_vehicle",
+  "swallowed_id": "fuel_cell_vehicle",
+  "reason": "wikiEn",
+  "wikiEn": "Fuel cell vehicle",
+  "a": {
+   "name": "燃料电池汽车",
+   "year": 1994,
+   "era": "information",
+   "cat": "transport_exploration",
+   "imp": 3,
+   "desc": "奔驰NECAR 1以燃料电池驱动，氢燃料电池车原型上路。",
+   "file": "15-info-other.json"
+  },
+  "b": {
+   "name": "氢燃料电池汽车",
+   "year": 2014,
+   "era": "intelligent",
+   "cat": "energy_power",
+   "imp": 3,
+   "desc": "2014年丰田Mirai上市，氢燃料电池乘用车量产尝试。",
+   "file": "18-intelligent-life-energy-transport.json"
+  },
+  "live_desc": "奔驰NECAR 1以燃料电池驱动，氢燃料电池车原型上路。",
+  "live_year": 1994,
+  "label": "SPLIT",
+  "label_reason": "1994 NECAR 原型与 2014 Mirai 量产",
+  "features": {
+   "d_year": 20,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.148,
+   "proto_word": true,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "ivf_mammal",
+  "swallowed_id": "ivf",
+  "reason": "wikiEn",
+  "wikiEn": "In vitro fertilisation",
+  "a": {
+   "name": "哺乳动物体外受精",
+   "year": 1959,
+   "era": "atomic_electronic",
+   "cat": "life_medicine",
+   "imp": 4,
+   "desc": "张明觉1959年首次实现兔子体外受精，试管婴儿先声。",
+   "file": "12-atomic-life-transport.json"
+  },
+  "b": {
+   "name": "试管婴儿",
+   "year": 1978,
+   "era": "information",
+   "cat": "life_medicine",
+   "imp": 2,
+   "desc": "世界首例试管婴儿路易丝出生，辅助生殖医学开端。",
+   "file": "15-info-other.json"
+  },
+  "live_desc": "张明觉1959年首次实现兔子体外受精，试管婴儿先声。",
+  "live_year": 1959,
+  "label": "SPLIT",
+  "label_reason": "1959 兔体外受精与 1978 试管婴儿",
+  "features": {
+   "d_year": 19,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.083,
+   "proto_word": true,
+   "imp_diff": 2
+  }
+ },
+ {
+  "kept_id": "game_theory",
+  "swallowed_id": "von_neumann_minimax_theorem",
+  "reason": "alias",
+  "wikiEn": "Game theory",
+  "a": {
+   "name": "博弈论",
+   "year": 1944,
+   "era": "second_industrial",
+   "cat": "information",
+   "imp": 2,
+   "desc": "冯·诺依曼与摩根斯坦《博弈论与经济行为》以极小极大定理奠基策略决策的数学。",
+   "file": "20-knowledge-math-cs.json"
+  },
+  "b": {
+   "name": "冯·诺依曼极小极大定理",
+   "year": 1928,
+   "era": "second_industrial",
+   "cat": "math_logic",
+   "imp": 2,
+   "desc": "冯·诺依曼证明两人零和博弈混合策略的最大最小相等，奠定博弈论数学。",
+   "file": "27-math-probability-stats-or.json"
+  },
+  "live_desc": "冯·诺依曼与摩根斯坦《博弈论与经济行为》以极小极大定理奠基策略决策的数学。",
+  "live_year": 1944,
+  "label": "SPLIT",
+  "label_reason": "1928 极小极大定理与 1944 奠基专著相隔 16 年，两代",
+  "features": {
+   "d_year": 16,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.132,
+   "proto_word": false,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "calculus_of_variations",
+  "swallowed_id": "euler_fluid_equations",
+  "reason": "alias",
+  "wikiEn": "Calculus of variations",
+  "a": {
+   "name": "变分法",
+   "year": 1744,
+   "era": "industrial",
+   "cat": "information",
+   "imp": 2,
+   "desc": "欧拉《求曲线的方法》与拉格朗日方程系统化最速降线以来的泛函极值理论。",
+   "file": "20-knowledge-math-cs.json"
+  },
+  "b": {
+   "name": "欧拉流体动力学方程",
+   "year": 1757,
+   "era": "industrial",
+   "cat": "math_logic",
+   "imp": 2,
+   "desc": "欧拉写出理想流体的连续性与动量方程组，是连续介质力学最早的偏微分方程组。",
+   "file": "26-math-analysis.json"
+  },
+  "live_desc": "系数为x^k的变系数方程经幂代换化为常系数方程，是奇点邻域求解的经典类型。",
+  "live_year": 1744,
+  "label": "SPLIT",
+  "label_reason": "变分法与欧拉流体方程是不同领域成果，只因同由欧拉提出",
+  "features": {
+   "d_year": 13,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.034,
+   "proto_word": true,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "boolean_algebra",
+  "swallowed_id": "boolean_algebra_structure",
+  "reason": "alias",
+  "wikiEn": "Boolean algebra",
+  "a": {
+   "name": "布尔代数",
+   "year": 1854,
+   "era": "industrial",
+   "cat": "information",
+   "imp": 3,
+   "desc": "布尔将逻辑化为真假二值代数，后世数字电路根基。",
+   "file": "06-industrial.json"
+  },
+  "b": {
+   "name": "布尔代数（结构）",
+   "year": 1847,
+   "era": "industrial",
+   "cat": "math_logic",
+   "imp": 2,
+   "desc": "以与或非为运算、满足分配与吸收律的代数结构，布尔1847年为逻辑代数化创立。",
+   "file": "24-math-number-theory-algebra.json"
+  },
+  "live_desc": "以与或非为运算、满足分配与吸收律的代数结构，布尔1847年为逻辑代数化创立。",
+  "live_year": 1854,
+  "label": "SPLIT",
+  "label_reason": "逻辑代数(1854) 与作为抽象代数结构的布尔代数，源记录故意分两条",
+  "features": {
+   "d_year": 7,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.065,
+   "proto_word": false,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "markov_chains",
+  "swallowed_id": "markov_onegin_application",
+  "reason": "wikiEn",
+  "wikiEn": "Markov chain",
+  "a": {
+   "name": "马尔可夫链",
+   "year": 1906,
+   "era": "second_industrial",
+   "cat": "information",
+   "imp": 2,
+   "desc": "马尔可夫创立无后效随机过程模型，后广泛用于统计物理、排队论、语言与算法。",
+   "file": "20-knowledge-math-cs.json"
+  },
+  "b": {
+   "name": "马尔可夫《叶甫盖尼·奥涅金》试验",
+   "year": 1913,
+   "era": "second_industrial",
+   "cat": "math_logic",
+   "imp": 3,
+   "desc": "马尔可夫统计普希金诗行元音辅音转换，首次用真实数据验证马氏链。",
+   "file": "27-math-probability-stats-or.json"
+  },
+  "live_desc": "马尔可夫创立无后效随机过程模型，后广泛用于统计物理、排队论、语言与算法。",
+  "live_year": 1906,
+  "label": "SPLIT",
+  "label_reason": "模型创立与首次实证应用（奥涅金试验）",
+  "features": {
+   "d_year": 7,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.073,
+   "proto_word": true,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "simplex_method",
+  "swallowed_id": "lemke_dual_simplex",
+  "reason": "wikiEn",
+  "wikiEn": "Simplex algorithm",
+  "a": {
+   "name": "单纯形法",
+   "year": 1947,
+   "era": "atomic_electronic",
+   "cat": "information",
+   "imp": 2,
+   "desc": "丹齐格沿可行域顶点迭代求解线性规划，成为运筹学与工业调度的主力算法。",
+   "file": "20-knowledge-math-cs.json"
+  },
+  "b": {
+   "name": "对偶单纯形与原始对偶法",
+   "year": 1954,
+   "era": "atomic_electronic",
+   "cat": "math_logic",
+   "imp": 3,
+   "desc": "莱姆克1954年创对偶单纯形，丹齐格等1956年给出原始对偶法。",
+   "file": "27-math-probability-stats-or.json"
+  },
+  "live_desc": "丹齐格沿可行域顶点迭代求解线性规划，成为运筹学与工业调度的主力算法。",
+  "live_year": 1947,
+  "label": "SPLIT",
+  "label_reason": "单纯形法与对偶单纯形是两个算法，category 不同",
+  "features": {
+   "d_year": 7,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.041,
+   "proto_word": false,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "runge_theorem",
+  "swallowed_id": "pade_approximant",
+  "reason": "alias",
+  "wikiEn": "Runge's theorem",
+  "a": {
+   "name": "龙格逼近定理",
+   "year": 1885,
+   "era": "second_industrial",
+   "cat": "math_logic",
+   "imp": 3,
+   "desc": "龙格给出全纯函数在紧集上被有理函数逼近的拓扑条件，是复分析版的逼近基本定理。",
+   "file": "26-math-analysis.json"
+  },
+  "b": {
+   "name": "Padé逼近",
+   "year": 1892,
+   "era": "second_industrial",
+   "cat": "math_logic",
+   "imp": 4,
+   "desc": "帕德1892年系统研究的有理函数逼近，局部常比同阶泰勒级数更准确。",
+   "file": "29-math-applied-computational.json"
+  },
+  "live_desc": "龙格给出全纯函数在紧集上被有理函数逼近的拓扑条件，是复分析版的逼近基本定理。",
+  "live_year": 1885,
+  "label": "SPLIT",
+  "label_reason": "龙格逼近定理与帕德逼近是不同的逼近理论对象",
+  "features": {
+   "d_year": 7,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.093,
+   "proto_word": false,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "conservation_of_energy",
+  "swallowed_id": "first_law_thermodynamics",
+  "reason": "alias",
+  "wikiEn": "Conservation of energy",
+  "a": {
+   "name": "能量守恒定律",
+   "year": 1847,
+   "era": "industrial",
+   "cat": "information",
+   "imp": 3,
+   "desc": "焦耳与亥姆霍兹等确立能量转化守恒，热力学基石。",
+   "file": "06-industrial.json"
+  },
+  "b": {
+   "name": "热力学第一定律",
+   "year": 1850,
+   "era": "industrial",
+   "cat": "energy_power",
+   "imp": 2,
+   "desc": "克劳修斯表述热功转化中内能守恒，热力学第一定律成形。",
+   "file": "21-knowledge-physics.json"
+  },
+  "live_desc": "克劳修斯表述热功转化中内能守恒，热力学第一定律成形。",
+  "live_year": 1847,
+  "label": "DUP",
+  "label_reason": "同一条守恒律的两种表述，Δyear=3",
+  "features": {
+   "d_year": 3,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.132,
+   "proto_word": false,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "abel_integral_equation",
+  "swallowed_id": "abel_summation",
+  "reason": "alias",
+  "wikiEn": "Abel transform",
+  "a": {
+   "name": "阿贝尔积分方程",
+   "year": 1823,
+   "era": "industrial",
+   "cat": "math_logic",
+   "imp": 4,
+   "desc": "阿贝尔从等时曲线问题导出首个积分方程，其阿贝尔变换后用于层析成像与位势论。",
+   "file": "26-math-analysis.json"
+  },
+  "b": {
+   "name": "阿贝尔求和公式",
+   "year": 1826,
+   "era": "industrial",
+   "cat": "math_logic",
+   "imp": 4,
+   "desc": "阿贝尔给出离散形式的分部积分公式，是数论级数、傅里叶收敛与误差估计的通用工具。",
+   "file": "26-math-analysis.json"
+  },
+  "live_desc": "阿贝尔给出离散形式的分部积分公式，是数论级数、傅里叶收敛与误差估计的通用工具。",
+  "live_year": 1823,
+  "label": "SPLIT",
+  "label_reason": "阿贝尔积分方程与阿贝尔求和公式是两项不同成果",
+  "features": {
+   "d_year": 3,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.047,
+   "proto_word": true,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "hemodialysis",
+  "swallowed_id": "kidney_dialysis",
+  "reason": "wikiEn",
+  "wikiEn": "Hemodialysis",
+  "a": {
+   "name": "血液透析",
+   "year": 1943,
+   "era": "second_industrial",
+   "cat": "life_medicine",
+   "imp": 3,
+   "desc": "科尔夫转鼓透析机首个人工肾用于救治肾衰。",
+   "file": "08-2ind-info-life.json"
+  },
+  "b": {
+   "name": "肾透析",
+   "year": 1945,
+   "era": "atomic_electronic",
+   "cat": "life_medicine",
+   "imp": 2,
+   "desc": "考尔夫1945年首次成功血透，救治肾衰患者。",
+   "file": "12-atomic-life-transport.json"
+  },
+  "live_desc": "科尔夫转鼓透析机首个人工肾用于救治肾衰。",
+  "live_year": 1943,
+  "label": "DUP",
+  "label_reason": "科尔夫=考尔夫=Kolff，转鼓人工肾同一事件；年份 1943/1945 需二选一",
+  "features": {
+   "d_year": 2,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.138,
+   "proto_word": true,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "safety_elevator",
+  "swallowed_id": "otis_elevator",
+  "reason": "wikiEn",
+  "wikiEn": "Elevator",
+  "a": {
+   "name": "安全电梯",
+   "year": 1852,
+   "era": "industrial",
+   "cat": "transport_exploration",
+   "imp": 3,
+   "desc": "奥的斯发明断绳自锁安全升降机，催生高层建筑。",
+   "file": "06-industrial.json"
+  },
+  "b": {
+   "name": "安全电梯",
+   "year": 1852,
+   "era": "second_industrial",
+   "cat": "transport_exploration",
+   "imp": 3,
+   "desc": "奥的斯发明防坠安全钳电梯，开启高楼垂直交通。",
+   "file": "09-2ind-transport.json"
+  },
+  "live_desc": "奥的斯发明断绳自锁安全升降机，催生高层建筑。",
+  "live_year": 1852,
+  "label": "DUP",
+  "label_reason": "同年 1852、同名'安全电梯'、同一发明人同一装置，纯重复收录",
+  "features": {
+   "d_year": 0,
+   "d_era": 1,
+   "era_diff": true,
+   "cat_diff": false,
+   "name_same": true,
+   "desc_jaccard": 0.152,
+   "proto_word": false,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "delivery_drone",
+  "swallowed_id": "drone_delivery",
+  "reason": "wikiEn",
+  "wikiEn": "Delivery drone",
+  "a": {
+   "name": "无人机配送",
+   "year": 2016,
+   "era": "intelligent",
+   "cat": "information",
+   "imp": 5,
+   "desc": "2016年亚马逊、Zipline等开启小件与医疗物资无人机投送。",
+   "file": "17-intelligent-devices.json"
+  },
+  "b": {
+   "name": "无人机物流",
+   "year": 2016,
+   "era": "intelligent",
+   "cat": "transport_exploration",
+   "imp": 4,
+   "desc": "2016年亚马逊完成首单无人机配送，低空物流试运行。",
+   "file": "18-intelligent-life-energy-transport.json"
+  },
+  "live_desc": "2016年亚马逊、Zipline等开启小件与医疗物资无人机投送。",
+  "live_year": 2016,
+  "label": "DUP",
+  "label_reason": "同为 2016 无人机配送，只是 category 一个记 information 一个记 transport（贴标分歧，非两件事）",
+  "features": {
+   "d_year": 0,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.156,
+   "proto_word": true,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "de_humani_fabrica",
+  "swallowed_id": "vesalius_fabrica",
+  "reason": "nameEn",
+  "wikiEn": "De Humani Corporis Fabrica Libri Septem",
+  "a": {
+   "name": "人体的构造",
+   "year": 1543,
+   "era": "renaissance",
+   "cat": "life_medicine",
+   "imp": 2,
+   "desc": "维萨里基于实地解剖写成的解剖学巨著，系统纠正千年旧说。",
+   "file": "05-renaissance.json"
+  },
+  "b": {
+   "name": "维萨里人体构造",
+   "year": 1543,
+   "era": "renaissance",
+   "cat": "life_medicine",
+   "imp": 2,
+   "desc": "基于实地解剖纠正盖伦，1543年开创近代人体解剖学。",
+   "file": "23-knowledge-life-social.json"
+  },
+  "live_desc": "维萨里基于实地解剖写成的解剖学巨著，系统纠正千年旧说。",
+  "live_year": 1543,
+  "label": "DUP",
+  "label_reason": "同一部《人体的构造》，同年同名异写",
+  "features": {
+   "d_year": 0,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.206,
+   "proto_word": false,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "game_theory",
+  "swallowed_id": "game_theory_founding",
+  "reason": "reverse-alias",
+  "wikiEn": "Game theory",
+  "a": {
+   "name": "博弈论",
+   "year": 1944,
+   "era": "second_industrial",
+   "cat": "information",
+   "imp": 2,
+   "desc": "冯·诺依曼与摩根斯坦《博弈论与经济行为》以极小极大定理奠基策略决策的数学。",
+   "file": "20-knowledge-math-cs.json"
+  },
+  "b": {
+   "name": "博弈论创立",
+   "year": 1944,
+   "era": "second_industrial",
+   "cat": "information",
+   "imp": 1,
+   "desc": "建立策略互动的数学分析框架，重塑经济学与决策科学。",
+   "file": "23-knowledge-life-social.json"
+  },
+  "live_desc": "冯·诺依曼与摩根斯坦《博弈论与经济行为》以极小极大定理奠基策略决策的数学。",
+  "live_year": 1944,
+  "label": "DUP",
+  "label_reason": "同一部《博弈论与经济行为》的两种写法",
+  "features": {
+   "d_year": 0,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": false,
+   "name_same": false,
+   "desc_jaccard": 0.102,
+   "proto_word": false,
+   "imp_diff": 1
+  }
+ },
+ {
+  "kept_id": "cayley_matrix_algebra",
+  "swallowed_id": "cayley_hamilton_theorem",
+  "reason": "alias",
+  "wikiEn": "Matrix (mathematics)",
+  "a": {
+   "name": "凯莱矩阵代数",
+   "year": 1858,
+   "era": "industrial",
+   "cat": "information",
+   "imp": 2,
+   "desc": "凯莱《矩阵论备忘录》确立矩阵运算与凯莱-哈密顿定理，为线性代数与量子力学铺路。",
+   "file": "20-knowledge-math-cs.json"
+  },
+  "b": {
+   "name": "凯莱-哈密顿定理",
+   "year": 1858,
+   "era": "industrial",
+   "cat": "math_logic",
+   "imp": 2,
+   "desc": "每个方阵都满足自身的特征多项式，是矩阵化简与矩阵函数的核心定理。",
+   "file": "24-math-number-theory-algebra.json"
+  },
+  "live_desc": "凯莱《矩阵论备忘录》确立矩阵运算与凯莱-哈密顿定理，为线性代数与量子力学铺路。",
+  "live_year": 1858,
+  "label": "SPLIT",
+  "label_reason": "矩阵代数的创立与凯莱-哈密顿定理是两项不同成果",
+  "features": {
+   "d_year": 0,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.035,
+   "proto_word": false,
+   "imp_diff": 0
+  }
+ },
+ {
+  "kept_id": "marine_clock_early",
+  "swallowed_id": "huyghens_horologium",
+  "reason": "wikiEn",
+  "wikiEn": "Horologium Oscillatorium",
+  "a": {
+   "name": "航海钟雏形",
+   "year": 1673,
+   "era": "renaissance",
+   "cat": "information",
+   "imp": 4,
+   "desc": "惠更斯以摆钟试航测定经度并著《摆钟论》，为航海钟之雏形。",
+   "file": "05-renaissance.json"
+  },
+  "b": {
+   "name": "惠更斯摆线与曲线研究",
+   "year": 1673,
+   "era": "renaissance",
+   "cat": "math_logic",
+   "imp": 3,
+   "desc": "惠更斯在《摆钟论》中证明摆线等时性并建立渐屈线理论，推进平面曲线研究。",
+   "file": "25-math-geometry-topology.json"
+  },
+  "live_desc": "惠更斯以摆钟试航测定经度并著《摆钟论》，为航海钟之雏形。",
+  "live_year": 1673,
+  "label": "SPLIT",
+  "label_reason": "同一年同一部《摆钟论》的两条不同贡献：摆线等时性/渐屈线（数学）与摆钟试航测经度（航海）。年份与描述都相同，闸门拦不住，须靠'著作型 wikiEn'排除项",
+  "features": {
+   "d_year": 0,
+   "d_era": 0,
+   "era_diff": false,
+   "cat_diff": true,
+   "name_same": false,
+   "desc_jaccard": 0.083,
+   "proto_word": true,
+   "imp_diff": 1
+  }
+ }
+]

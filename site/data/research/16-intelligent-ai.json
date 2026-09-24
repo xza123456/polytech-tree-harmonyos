@@ -1,0 +1,1339 @@
+[
+  {
+    "id": "deep_learning",
+    "name": "深度学习",
+    "nameEn": "Deep learning",
+    "wikiEn": "Deep learning",
+    "aliases": [
+      "Deep neural network",
+      "深度神经网络",
+      "深度机器学习"
+    ],
+    "year": 2012,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [
+      "backpropagation",
+      "gpu"
+    ],
+    "related": [
+      "convolutional_neural_network",
+      "large_language_model",
+      "alexnet"
+    ],
+    "desc": "多层神经网络结合大数据与GPU训练的AI范式，2012年AlexNet引爆。"
+  },
+  {
+    "id": "backpropagation",
+    "name": "反向传播",
+    "nameEn": "Backpropagation",
+    "wikiEn": "Backpropagation",
+    "aliases": [
+      "BP算法",
+      "误差反向传播",
+      "Backprop"
+    ],
+    "year": 1986,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "deep_learning",
+      "convolutional_neural_network",
+      "recurrent_neural_network"
+    ],
+    "desc": "误差反向传播算法，1986年Hinton等人系统化，是深度学习训练基石。"
+  },
+  {
+    "id": "convolutional_neural_network",
+    "name": "卷积神经网络",
+    "nameEn": "Convolutional neural network",
+    "wikiEn": "Convolutional neural network",
+    "aliases": [
+      "CNN",
+      "卷积网络",
+      "LeNet"
+    ],
+    "year": 2012,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "backpropagation"
+    ],
+    "related": [
+      "alexnet",
+      "imagenet",
+      "deep_learning"
+    ],
+    "desc": "卷积深度网络擅图像识别；1990年代起源，2012年随AlexNet成熟。"
+  },
+  {
+    "id": "alexnet",
+    "name": "AlexNet",
+    "nameEn": "AlexNet",
+    "wikiEn": "AlexNet",
+    "aliases": [
+      "AlexNet深度网络",
+      "Krizhevsky网络"
+    ],
+    "year": 2012,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "backpropagation",
+      "cuda",
+      "imagenet"
+    ],
+    "related": [
+      "deep_learning",
+      "convolutional_neural_network"
+    ],
+    "desc": "Hinton团队2012年深度CNN，ImageNet夺冠，引爆深度学习革命。"
+  },
+  {
+    "id": "recurrent_neural_network",
+    "name": "循环神经网络",
+    "nameEn": "Recurrent neural network",
+    "wikiEn": "Recurrent neural network",
+    "aliases": [
+      "RNN",
+      "LSTM",
+      "长短期记忆",
+      "GRU",
+      "时间递归神经网络"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "backpropagation"
+    ],
+    "related": [
+      "neural_machine_translation",
+      "deep_learning",
+      "speech_recognition"
+    ],
+    "desc": "处理序列的循环网络，LSTM始于1997年；2014年seq2seq使其成熟。"
+  },
+  {
+    "id": "transformer_architecture",
+    "name": "Transformer架构",
+    "nameEn": "Transformer (deep learning architecture)",
+    "wikiEn": "Transformer (deep learning architecture)",
+    "aliases": [
+      "Transformer",
+      "变换器模型",
+      "自注意力模型",
+      "Attention Is All You Need"
+    ],
+    "year": 2017,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "deep_learning"
+    ],
+    "related": [
+      "bert",
+      "large_language_model",
+      "chatgpt"
+    ],
+    "desc": "2017年谷歌提出的自注意力架构，可并行训练，成为大模型统一基础。"
+  },
+  {
+    "id": "bert",
+    "name": "BERT",
+    "nameEn": "BERT",
+    "wikiEn": "BERT (language model)",
+    "aliases": [
+      "BERT",
+      "Bidirectional Encoder Representations from Transformers",
+      "伯特模型"
+    ],
+    "year": 2018,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "transformer_architecture"
+    ],
+    "related": [
+      "large_language_model",
+      "word2vec"
+    ],
+    "desc": "谷歌2018年双向预训练语言模型，横扫NLP基准，确立预训练-微调范式。"
+  },
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "nameEn": "ChatGPT",
+    "wikiEn": "ChatGPT",
+    "aliases": [
+      "GPT",
+      "GPT-3",
+      "GPT-4",
+      "Generative pre-trained transformer",
+      "生成式预训练变换器"
+    ],
+    "year": 2022,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "large_language_model",
+      "reinforcement_learning"
+    ],
+    "related": [
+      "transformer_architecture",
+      "github_copilot",
+      "agentic_ai"
+    ],
+    "desc": "OpenAI对话大模型，2022年上线后破亿用户，引爆全球生成式AI浪潮。"
+  },
+  {
+    "id": "large_language_model",
+    "name": "大语言模型",
+    "nameEn": "Large language model",
+    "wikiEn": "Large language model",
+    "aliases": [
+      "LLM",
+      "大型语言模型",
+      "大规模语言模型"
+    ],
+    "year": 2020,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [
+      "transformer_architecture",
+      "deep_learning"
+    ],
+    "related": [
+      "chatgpt",
+      "foundation_model",
+      "llama",
+      "bert"
+    ],
+    "desc": "千亿参数级预训练语言模型，2020年GPT-3展示涌现能力，开启大模型时代。"
+  },
+  {
+    "id": "foundation_model",
+    "name": "基础模型",
+    "nameEn": "Foundation model",
+    "wikiEn": "Foundation model",
+    "aliases": [
+      "Foundation models",
+      "基座模型",
+      "基础大模型"
+    ],
+    "year": 2021,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "large_language_model"
+    ],
+    "related": [
+      "stable_diffusion",
+      "chatgpt",
+      "llama"
+    ],
+    "desc": "经海量数据预训练、可适配多下游任务的模型类别，2021年斯坦福定名。"
+  },
+  {
+    "id": "generative_adversarial_network",
+    "name": "生成对抗网络",
+    "nameEn": "Generative adversarial network",
+    "wikiEn": "Generative adversarial network",
+    "aliases": [
+      "GAN",
+      "对抗生成网络",
+      "GANS"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "deep_learning"
+    ],
+    "related": [
+      "diffusion_model",
+      "stable_diffusion"
+    ],
+    "desc": "Goodfellow 2014年提出的生成器与判别器对抗训练的生成模型框架。"
+  },
+  {
+    "id": "diffusion_model",
+    "name": "扩散模型",
+    "nameEn": "Diffusion model",
+    "wikiEn": "Diffusion model",
+    "aliases": [
+      "Diffusion Models",
+      "去噪扩散模型",
+      "DDPM",
+      "Score-based model"
+    ],
+    "year": 2020,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "deep_learning"
+    ],
+    "related": [
+      "generative_adversarial_network",
+      "stable_diffusion",
+      "sora"
+    ],
+    "desc": "模拟加噪去噪过程的生成模型；2015年提出，2020年DDPM证明其实用性。"
+  },
+  {
+    "id": "stable_diffusion",
+    "name": "Stable Diffusion",
+    "nameEn": "Stable Diffusion",
+    "wikiEn": "Stable Diffusion",
+    "aliases": [
+      "稳定扩散",
+      "DALL-E",
+      "Midjourney",
+      "文生图",
+      "AI绘画"
+    ],
+    "year": 2022,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "diffusion_model"
+    ],
+    "related": [
+      "generative_adversarial_network",
+      "sora"
+    ],
+    "desc": "2022年开源的潜空间扩散文生图模型，与DALL-E共同引爆AIGC绘画。"
+  },
+  {
+    "id": "sora",
+    "name": "Sora",
+    "nameEn": "Sora (text-to-video model)",
+    "wikiEn": "Sora (text-to-video model)",
+    "aliases": [
+      "OpenAI Sora",
+      "文生视频模型",
+      "文本生成视频"
+    ],
+    "year": 2024,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "diffusion_model",
+      "large_language_model"
+    ],
+    "related": [
+      "stable_diffusion"
+    ],
+    "desc": "OpenAI 2024年发布的文生视频模型，可按提示生成长达一分钟的视频。"
+  },
+  {
+    "id": "alphago",
+    "name": "阿尔法围棋",
+    "nameEn": "AlphaGo",
+    "wikiEn": "AlphaGo",
+    "aliases": [
+      "AlphaGo",
+      "AlphaGo Lee",
+      "阿尔法狗"
+    ],
+    "year": 2016,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "deep_learning",
+      "reinforcement_learning",
+      "convolutional_neural_network"
+    ],
+    "related": [
+      "alphafold"
+    ],
+    "desc": "DeepMind围棋AI，2016年4:1击败李世石，深度强化学习的标志性突破。"
+  },
+  {
+    "id": "alphafold",
+    "name": "AlphaFold",
+    "nameEn": "AlphaFold",
+    "wikiEn": "AlphaFold",
+    "aliases": [
+      "AlphaFold2",
+      "蛋白质结构预测AI"
+    ],
+    "year": 2021,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "deep_learning"
+    ],
+    "related": [
+      "alphago",
+      "crispr_gene_editing",
+      "human_genome_project"
+    ],
+    "desc": "DeepMind蛋白质结构预测系统，AlphaFold2达实验精度并开源。"
+  },
+  {
+    "id": "reinforcement_learning",
+    "name": "强化学习",
+    "nameEn": "Reinforcement learning",
+    "wikiEn": "Reinforcement learning",
+    "aliases": [
+      "RL",
+      "DQN",
+      "深度Q网络",
+      "深度强化学习",
+      "RLHF",
+      "人类反馈强化学习"
+    ],
+    "year": 2013,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "alphago",
+      "deep_learning",
+      "chatgpt",
+      "embodied_ai"
+    ],
+    "desc": "靠试错奖励学习的范式；2013年DQN达标人类，2022年RLHF对齐大模型。"
+  },
+  {
+    "id": "imagenet",
+    "name": "ImageNet",
+    "nameEn": "ImageNet",
+    "wikiEn": "ImageNet",
+    "aliases": [
+      "ILSVRC",
+      "ImageNet竞赛",
+      "图像识别大赛"
+    ],
+    "year": 2009,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "convolutional_neural_network",
+      "alexnet",
+      "crowdsourcing"
+    ],
+    "desc": "李飞飞团队2009年建成的千万级标注图像库及竞赛，点燃视觉深度学习。"
+  },
+  {
+    "id": "neural_machine_translation",
+    "name": "神经机器翻译",
+    "nameEn": "Neural machine translation",
+    "wikiEn": "Neural machine translation",
+    "aliases": [
+      "NMT",
+      "端到端机器翻译",
+      "神经网络机译"
+    ],
+    "year": 2016,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "recurrent_neural_network",
+      "deep_learning"
+    ],
+    "related": [
+      "transformer_architecture",
+      "large_language_model"
+    ],
+    "desc": "端到端编码器-解码器神经网络机译；2016年谷歌上线，取代统计机译。"
+  },
+  {
+    "id": "speech_recognition",
+    "name": "语音识别",
+    "nameEn": "Speech recognition",
+    "wikiEn": "Speech recognition",
+    "aliases": [
+      "自动语音识别",
+      "ASR",
+      "端到端语音识别",
+      "Deep Speech"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "deep_learning"
+    ],
+    "related": [
+      "recurrent_neural_network",
+      "large_language_model"
+    ],
+    "desc": "将语音转文字的技术；2009年后深度学习大幅降错误率，2014年端到端成熟。"
+  },
+  {
+    "id": "recommender_system",
+    "name": "推荐系统",
+    "nameEn": "Recommender system",
+    "wikiEn": "Recommender system",
+    "aliases": [
+      "推荐引擎",
+      "协同过滤",
+      "Netflix Prize",
+      "个性化推荐"
+    ],
+    "year": 2006,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "big_data",
+      "deep_learning"
+    ],
+    "desc": "预测用户偏好的信息过滤系统；2006年Netflix大赛，2016年深度学习化。"
+  },
+  {
+    "id": "autonomous_driving",
+    "name": "自动驾驶",
+    "nameEn": "Self-driving car",
+    "wikiEn": "Self-driving car",
+    "aliases": [
+      "无人驾驶汽车",
+      "Waymo",
+      "Tesla Autopilot",
+      "自动驾驶辅助",
+      "ADAS"
+    ],
+    "year": 2009,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "deep_learning",
+      "imagenet",
+      "electric_vehicle"
+    ],
+    "desc": "以AI感知决策替代驾驶；2009年谷歌启动，2015年Autopilot量产。"
+  },
+  {
+    "id": "github_copilot",
+    "name": "GitHub Copilot",
+    "nameEn": "GitHub Copilot",
+    "wikiEn": "GitHub Copilot",
+    "aliases": [
+      "Copilot",
+      "AI代码补全",
+      "AI结对编程",
+      "代码大模型"
+    ],
+    "year": 2021,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "large_language_model"
+    ],
+    "related": [
+      "chatgpt",
+      "agentic_ai"
+    ],
+    "desc": "2021年上线的AI编程助手，基于大模型实时代码补全与函数生成。"
+  },
+  {
+    "id": "retrieval_augmented_generation",
+    "name": "检索增强生成",
+    "nameEn": "Retrieval-augmented generation",
+    "wikiEn": "Retrieval-augmented generation",
+    "aliases": [
+      "RAG",
+      "检索增强",
+      "外挂知识库"
+    ],
+    "year": 2020,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "transformer_architecture"
+    ],
+    "related": [
+      "chatgpt",
+      "knowledge_graph",
+      "agentic_ai",
+      "large_language_model"
+    ],
+    "desc": "让大模型先检索外部知识库再生成答案，2020年提出，缓解幻觉与时效问题。"
+  },
+  {
+    "id": "agentic_ai",
+    "name": "智能体",
+    "nameEn": "Agentic AI",
+    "wikiEn": "Agentic AI",
+    "aliases": [
+      "AI Agent",
+      "自主智能体",
+      "AutoGPT",
+      "AI智能体"
+    ],
+    "year": 2023,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "large_language_model",
+      "retrieval_augmented_generation"
+    ],
+    "related": [
+      "chatgpt",
+      "embodied_ai"
+    ],
+    "desc": "能自主规划、调用工具并执行多步任务的LLM智能体，2023年AutoGPT兴起。"
+  },
+  {
+    "id": "embodied_ai",
+    "name": "",
+    "nameEn": "Embodied agent",
+    "wikiEn": "Embodied agent",
+    "aliases": [
+      "具身智能",
+      "具身AI",
+      "Embodied AI",
+      "VLA模型",
+      "RT-2"
+    ],
+    "year": 2022,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "large_language_model",
+      "reinforcement_learning"
+    ],
+    "related": [
+      "agentic_ai",
+      "autonomous_driving"
+    ],
+    "desc": "大模型驱动机器人通过身体与环境交互完成任务，2022年SayCan等验证可行。"
+  },
+  {
+    "id": "llama",
+    "name": "LLaMA",
+    "nameEn": "LLaMA",
+    "wikiEn": "LLaMA",
+    "aliases": [
+      "Llama",
+      "Llama 2",
+      "羊驼模型",
+      "Meta开源大模型"
+    ],
+    "year": 2023,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "large_language_model",
+      "transformer_architecture"
+    ],
+    "related": [
+      "foundation_model",
+      "chatgpt"
+    ],
+    "desc": "Meta 2023年开放权重的大模型系列，低成本可微调，催生开源模型生态。"
+  },
+  {
+    "id": "word2vec",
+    "name": "Word2vec",
+    "nameEn": "Word2vec",
+    "wikiEn": "Word2vec",
+    "aliases": [
+      "词向量",
+      "词嵌入",
+      "Word embedding",
+      "分布式表示"
+    ],
+    "year": 2013,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "deep_learning"
+    ],
+    "related": [
+      "bert",
+      "large_language_model"
+    ],
+    "desc": "谷歌2013年提出的词嵌入模型，开启文本分布式表示与预训练路线。"
+  },
+  {
+    "id": "knowledge_graph",
+    "name": "知识图谱",
+    "nameEn": "Knowledge graph",
+    "wikiEn": "Knowledge graph",
+    "aliases": [
+      "Google知识图谱",
+      "实体关系图",
+      "Knowledge panel"
+    ],
+    "year": 2012,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "wikipedia",
+      "retrieval_augmented_generation",
+      "large_language_model"
+    ],
+    "desc": "以实体与关系组织的结构化知识库，谷歌2012年用于语义搜索。"
+  },
+  {
+    "id": "ibm_watson",
+    "name": "沃森",
+    "nameEn": "Watson (computer)",
+    "wikiEn": "Watson (computer)",
+    "aliases": [
+      "IBM Watson",
+      "沃森超级电脑",
+      "DeepQA"
+    ],
+    "year": 2011,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "imagenet",
+      "large_language_model"
+    ],
+    "desc": "IBM问答系统，2011年在《危险边缘》击败人类冠军，深度学习前夕的AI里程碑。"
+  },
+  {
+    "id": "tensorflow",
+    "name": "TensorFlow",
+    "nameEn": "TensorFlow",
+    "wikiEn": "TensorFlow",
+    "aliases": [
+      "PyTorch",
+      "Keras",
+      "深度学习框架",
+      "TF"
+    ],
+    "year": 2015,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "deep_learning",
+      "cuda"
+    ],
+    "related": [
+      "alexnet",
+      "tensor_processing_unit"
+    ],
+    "desc": "谷歌2015年开源的深度学习框架，与PyTorch共同构成模型开发基础设施。"
+  },
+  {
+    "id": "cloud_computing",
+    "name": "云计算",
+    "nameEn": "Cloud computing",
+    "wikiEn": "Cloud computing",
+    "aliases": [
+      "云端运算",
+      "云服务",
+      "弹性计算",
+      "公有云"
+    ],
+    "year": 2006,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [
+      "internet",
+      "virtualization"
+    ],
+    "related": [
+      "amazon_web_services",
+      "big_data",
+      "serverless_computing"
+    ],
+    "desc": "按需自助、弹性付费的网络化计算资源模式，2006年随AWS走向主流。"
+  },
+  {
+    "id": "amazon_web_services",
+    "name": "亚马逊云科技",
+    "nameEn": "Amazon Web Services",
+    "wikiEn": "Amazon Web Services",
+    "aliases": [
+      "AWS",
+      "亚马逊云",
+      "EC2",
+      "S3",
+      "Azure",
+      "Google Cloud"
+    ],
+    "year": 2006,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "virtualization",
+      "internet"
+    ],
+    "related": [
+      "cloud_computing",
+      "serverless_computing",
+      "kubernetes"
+    ],
+    "desc": "2006年S3、EC2上线开创公有云市场，后与Azure、GCP三强鼎立。"
+  },
+  {
+    "id": "virtualization",
+    "name": "虚拟化技术",
+    "nameEn": "Virtualization",
+    "wikiEn": "Virtualization",
+    "aliases": [
+      "硬件虚拟化",
+      "虚拟机",
+      "hypervisor",
+      "Xen",
+      "VMware"
+    ],
+    "year": 2003,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "personal_computer"
+    ],
+    "related": [
+      "cloud_computing",
+      "docker"
+    ],
+    "desc": "在单台物理机上运行多个隔离虚拟机；Xen 2003年开源，是云计算底座。"
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "nameEn": "Docker (software)",
+    "wikiEn": "Docker (software)",
+    "aliases": [
+      "容器技术",
+      "容器化",
+      "Container",
+      "Docker镜像"
+    ],
+    "year": 2013,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "virtualization"
+    ],
+    "related": [
+      "kubernetes",
+      "cloud_computing"
+    ],
+    "desc": "2013年开源的轻量级容器引擎，以镜像封装应用，重塑软件交付与运维。"
+  },
+  {
+    "id": "kubernetes",
+    "name": "Kubernetes",
+    "nameEn": "Kubernetes",
+    "wikiEn": "Kubernetes",
+    "aliases": [
+      "K8s",
+      "容器编排",
+      "Google Borg",
+      "Kube"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "docker"
+    ],
+    "related": [
+      "cloud_computing",
+      "amazon_web_services"
+    ],
+    "desc": "谷歌2014年开源的容器编排系统，成为云原生大规模部署的事实标准。"
+  },
+  {
+    "id": "software_as_a_service",
+    "name": "软件即服务",
+    "nameEn": "Software as a service",
+    "wikiEn": "Software as a service",
+    "aliases": [
+      "SaaS",
+      "软件服务化",
+      "按需软件"
+    ],
+    "year": 2001,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "cloud_computing"
+    ],
+    "desc": "经网络订阅集中托管软件的模式，2001年定名，Salesforce推动普及。"
+  },
+  {
+    "id": "big_data",
+    "name": "大数据",
+    "nameEn": "Big data",
+    "wikiEn": "Big data",
+    "aliases": [
+      "Hadoop",
+      "MapReduce",
+      "海量数据",
+      "巨量资料"
+    ],
+    "year": 2006,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "apache_spark",
+      "cloud_computing",
+      "deep_learning"
+    ],
+    "desc": "海量多形态数据的分布式存储与分析体系；2006年Hadoop问世走向实用。"
+  },
+  {
+    "id": "apache_spark",
+    "name": "Apache Spark",
+    "nameEn": "Apache Spark",
+    "wikiEn": "Apache Spark",
+    "aliases": [
+      "Spark",
+      "内存计算框架",
+      "Spark RDD"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "big_data"
+    ],
+    "related": [
+      "cloud_computing",
+      "tensorflow"
+    ],
+    "desc": "2014年成熟的开源分布式内存计算框架，弥补Hadoop迭代计算性能短板。"
+  },
+  {
+    "id": "edge_computing",
+    "name": "边缘计算",
+    "nameEn": "Edge computing",
+    "wikiEn": "Edge computing",
+    "aliases": [
+      "边缘运算",
+      "Cloudlet",
+      "雾计算",
+      "Fog computing"
+    ],
+    "year": 2015,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "cloud_computing"
+    ],
+    "related": [
+      "internet_of_things"
+    ],
+    "desc": "将计算下沉到靠近数据源的网络边缘以降低时延，2015年随物联网兴起。"
+  },
+  {
+    "id": "serverless_computing",
+    "name": "无服务器计算",
+    "nameEn": "Serverless computing",
+    "wikiEn": "Serverless computing",
+    "aliases": [
+      "Serverless",
+      "函数即服务",
+      "FaaS",
+      "AWS Lambda"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "cloud_computing"
+    ],
+    "related": [
+      "amazon_web_services"
+    ],
+    "desc": "按调用自动伸缩的事件驱动云服务，2014年AWS Lambda确立其形态。"
+  },
+  {
+    "id": "cuda",
+    "name": "CUDA",
+    "nameEn": "CUDA",
+    "wikiEn": "CUDA",
+    "aliases": [
+      "NVIDIA CUDA",
+      "GPU通用计算",
+      "GPGPU",
+      "GPU并行计算"
+    ],
+    "year": 2007,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "gpu"
+    ],
+    "related": [
+      "deep_learning",
+      "ai_accelerator",
+      "tensor_processing_unit"
+    ],
+    "desc": "NVIDIA 2007年推出的GPU通用计算平台，后成为深度学习训练算力底座。"
+  },
+  {
+    "id": "tensor_processing_unit",
+    "name": "张量处理单元",
+    "nameEn": "Tensor Processing Unit",
+    "wikiEn": "Tensor Processing Unit",
+    "aliases": [
+      "TPU",
+      "Google TPU",
+      "张量处理器"
+    ],
+    "year": 2016,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "deep_learning",
+      "cuda"
+    ],
+    "related": [
+      "ai_accelerator",
+      "tensorflow"
+    ],
+    "desc": "谷歌2016年披露、为张量运算定制的ASIC，专为神经网络推理训练优化。"
+  },
+  {
+    "id": "ai_accelerator",
+    "name": "AI加速器",
+    "nameEn": "AI accelerator",
+    "wikiEn": "AI accelerator",
+    "aliases": [
+      "AI芯片",
+      "神经网络芯片",
+      "NPU",
+      "神经处理单元",
+      "深度学习加速器"
+    ],
+    "year": 2016,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "deep_learning"
+    ],
+    "related": [
+      "cuda",
+      "tensor_processing_unit"
+    ],
+    "desc": "专为神经网络矩阵运算设计的加速芯片品类，2016年后随大模型训练爆发。"
+  },
+  {
+    "id": "wikipedia",
+    "name": "维基百科",
+    "nameEn": "Wikipedia",
+    "wikiEn": "Wikipedia",
+    "aliases": [
+      "维基",
+      "Wikipedia百科",
+      "MediaWiki协作"
+    ],
+    "year": 2001,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "world_wide_web"
+    ],
+    "related": [
+      "crowdsourcing",
+      "creative_commons",
+      "knowledge_graph"
+    ],
+    "desc": "2001年上线的自由协作在线百科，Wiki模式汇集众智，是最大知识工程之一。"
+  },
+  {
+    "id": "crowdsourcing",
+    "name": "众包",
+    "nameEn": "Crowdsourcing",
+    "wikiEn": "Crowdsourcing",
+    "aliases": [
+      "群众外包",
+      "大众协作",
+      "维基协作",
+      "Amazon Mechanical Turk"
+    ],
+    "year": 2006,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "world_wide_web"
+    ],
+    "related": [
+      "wikipedia",
+      "imagenet"
+    ],
+    "desc": "把任务开放给大规模网民协作完成的模式，2006年《连线》杂志正式定名。"
+  },
+  {
+    "id": "creative_commons",
+    "name": "知识共享",
+    "nameEn": "Creative Commons",
+    "wikiEn": "Creative Commons",
+    "aliases": [
+      "CC协议",
+      "创用CC",
+      "创作共用",
+      "开放版权许可"
+    ],
+    "year": 2002,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "world_wide_web"
+    ],
+    "related": [
+      "wikipedia"
+    ],
+    "desc": "2002年推出的开放版权许可协议，支撑维基百科等开放知识内容生态。"
+  },
+  {
+    "id": "blockchain",
+    "name": "区块链",
+    "nameEn": "Blockchain",
+    "wikiEn": "Blockchain",
+    "aliases": [
+      "块链",
+      "分布式账本",
+      "Distributed ledger",
+      "区块链技术"
+    ],
+    "year": 2008,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "bitcoin",
+      "ethereum"
+    ],
+    "desc": "密码学链式分布式账本技术，2008年中本聪比特币白皮书提出并落地。"
+  },
+  {
+    "id": "bitcoin",
+    "name": "比特币",
+    "nameEn": "Bitcoin",
+    "wikiEn": "Bitcoin",
+    "aliases": [
+      "BTC",
+      "加密货币",
+      "Cryptocurrency",
+      "点对点电子现金"
+    ],
+    "year": 2009,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "blockchain"
+    ],
+    "related": [
+      "ethereum",
+      "stablecoin"
+    ],
+    "desc": "中本聪2009年启动的首个去中心化加密货币与点对点电子现金系统。"
+  },
+  {
+    "id": "ethereum",
+    "name": "以太坊",
+    "nameEn": "Ethereum",
+    "wikiEn": "Ethereum",
+    "aliases": [
+      "ETH",
+      "智能合约",
+      "Smart contract",
+      "EVM"
+    ],
+    "year": 2015,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "blockchain",
+      "bitcoin"
+    ],
+    "related": [
+      "non_fungible_token",
+      "decentralized_finance"
+    ],
+    "desc": "2015年上线、支持图灵完备智能合约的公链，催生DeFi与NFT应用生态。"
+  },
+  {
+    "id": "non_fungible_token",
+    "name": "非同质化代币",
+    "nameEn": "Non-fungible token",
+    "wikiEn": "Non-fungible token",
+    "aliases": [
+      "NFT",
+      "非同质化通证",
+      "数字藏品",
+      "ERC-721"
+    ],
+    "year": 2017,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "ethereum"
+    ],
+    "related": [
+      "blockchain",
+      "decentralized_finance"
+    ],
+    "desc": "链上唯一、不可互换的数字权属凭证，2017年ERC-721标准后用于数字藏品。"
+  },
+  {
+    "id": "stablecoin",
+    "name": "稳定币",
+    "nameEn": "Stablecoin",
+    "wikiEn": "Stablecoin",
+    "aliases": [
+      "Stablecoins",
+      "Tether",
+      "USDT",
+      "锚定型加密货币"
+    ],
+    "year": 2014,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "bitcoin"
+    ],
+    "related": [
+      "ethereum",
+      "decentralized_finance"
+    ],
+    "desc": "锚定法币或资产以保持币值稳定的加密货币，2014年Tether率先推出。"
+  },
+  {
+    "id": "decentralized_finance",
+    "name": "去中心化金融",
+    "nameEn": "Decentralized finance",
+    "wikiEn": "Decentralized finance",
+    "aliases": [
+      "DeFi",
+      "开放式金融",
+      "链上金融",
+      "流动性挖矿"
+    ],
+    "year": 2020,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "ethereum",
+      "stablecoin"
+    ],
+    "related": [
+      "non_fungible_token",
+      "blockchain"
+    ],
+    "desc": "构建在智能合约上的链上借贷交易协议，2020年“DeFi之夏”规模爆发。"
+  },
+  {
+    "id": "sycamore_processor",
+    "name": "悬铃木处理器",
+    "nameEn": "Sycamore processor",
+    "wikiEn": "Sycamore processor",
+    "aliases": [
+      "Sycamore",
+      "悬铃木",
+      "谷歌量子芯片",
+      "量子优越性",
+      "Quantum supremacy",
+      "IBM Q"
+    ],
+    "year": 2019,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "micius_satellite"
+    ],
+    "desc": "谷歌2019年53量子比特超导处理器，200秒完成超算万年任务，宣示量子优越性。"
+  },
+  {
+    "id": "micius_satellite",
+    "name": "墨子号量子卫星",
+    "nameEn": "Micius (satellite)",
+    "wikiEn": "Micius (satellite)",
+    "aliases": [
+      "墨子号",
+      "Micius",
+      "QUESS",
+      "量子科学实验卫星",
+      "星地量子通信"
+    ],
+    "year": 2016,
+    "era": "intelligent",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "artificial_satellite"
+    ],
+    "related": [
+      "sycamore_processor"
+    ],
+    "desc": "中国2016年发射的世界首颗量子科学实验卫星，实现千公里星地量子密钥分发。"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "extends": "../site/tsconfig.json",
+  "compilerOptions": {
+    "noEmit": false,
+    "allowImportingTsExtensions": false,
+    "declaration": false,
+    "sourceMap": false,
+    "outDir": "../build/dist",
+    "rootDir": "../site"
+  }
+}

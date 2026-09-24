@@ -1,0 +1,1387 @@
+[
+  {
+    "id": "ybco_high_tc_superconductor",
+    "name": "钇钡铜氧超导体",
+    "nameEn": "YBCO copper-oxide superconductor",
+    "wikiEn": "Yttrium barium copper oxide",
+    "aliases": [
+      "YBCO",
+      "钇钡铜氧",
+      "123超导体"
+    ],
+    "year": 1987,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1986 年发现钡镧铜氧近 35 K，1987 年 YBCO 突破 90 K 液氮温区",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "superconductivity_discovery",
+      "niobium_tin"
+    ],
+    "related": [
+      "bcs_theory",
+      "niobium_titanium"
+    ],
+    "desc": "铜氧化物层状钙钛矿在液氮温区超导，使强磁场与低损输电材料可工程化。"
+  },
+  {
+    "id": "sige_heterostructure_epi",
+    "name": "硅锗异质结",
+    "nameEn": "SiGe heterostructure",
+    "wikiEn": "Silicon–germanium",
+    "aliases": [
+      "SiGe",
+      "硅锗合金",
+      "SiGe 外延"
+    ],
+    "year": 1987,
+    "year_basis": "circa",
+    "year_span": [
+      1987,
+      1992
+    ],
+    "year_note": "1980 年代末实现应变 SiGe 异质结双极晶体管，1990 年代初进入工艺平台",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "epitaxy",
+      "silicon_transistor"
+    ],
+    "related": [
+      "germanium_metal",
+      "wide_bandgap_semiconductor",
+      "laser_diode"
+    ],
+    "desc": "在硅上外延应变硅锗以裁剪能带，支撑高频双极器件与后来的应变沟道。"
+  },
+  {
+    "id": "photonic_crystal_structure",
+    "name": "光子晶体",
+    "nameEn": "Photonic crystal",
+    "wikiEn": "Photonic crystal",
+    "aliases": [
+      "光子带隙材料",
+      "Photonic band-gap material"
+    ],
+    "year": 1987,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1987 年两条独立理论路线同期提出周期介电带隙概念",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "laser",
+      "band_theory"
+    ],
+    "related": [
+      "metamaterial",
+      "optical_fiber_silica"
+    ],
+    "desc": "折射率周期排列打开光子带隙，可阻断或引导特定波长，用于微腔与波导。"
+  },
+  {
+    "id": "ingaas_strained_quantum_well",
+    "name": "铟镓砷量子阱",
+    "nameEn": "InGaAs strained quantum well",
+    "wikiEn": "Indium gallium arsenide",
+    "aliases": [
+      "InGaAs",
+      "铟镓砷"
+    ],
+    "year": 1989,
+    "year_basis": "circa",
+    "year_span": [
+      1987,
+      1992
+    ],
+    "year_note": "应变 InGaAs(P)/InP 多量子阱激光器在 1980 年代末推向 1.3 微米窗口",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "epitaxy",
+      "quantum_dot"
+    ],
+    "related": [
+      "laser_diode",
+      "fiber_optics_comm",
+      "gaas_solar_cell"
+    ],
+    "desc": "磷化铟上应变铟镓砷阱把发光与探测波长搬进光纤低损窗口。"
+  },
+  {
+    "id": "epoxy_negative_thick_resist",
+    "name": "环氧负性厚光刻胶",
+    "nameEn": "Epoxy-based negative thick resist (SU-8)",
+    "wikiEn": "SU-8 photoresist",
+    "aliases": [
+      "SU-8",
+      "环氧负胶"
+    ],
+    "year": 1989,
+    "year_basis": "circa",
+    "year_span": [
+      1989,
+      1991
+    ],
+    "year_note": "1989 年报道、次年初商品化的环氧型负性厚膜胶",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "photoresist",
+      "epoxy_resin"
+    ],
+    "related": [
+      "photolithography",
+      "plasma_etching"
+    ],
+    "desc": "受光交联的厚膜负胶让微米级高深宽结构可直接光刻成形，充当电镀模具。"
+  },
+  {
+    "id": "metal_organic_framework",
+    "name": "金属有机框架",
+    "nameEn": "Metal–organic framework",
+    "wikiEn": "Metal–organic framework",
+    "aliases": [
+      "MOF",
+      "有机金属骨架"
+    ],
+    "year": 1995,
+    "year_basis": "circa",
+    "year_span": [
+      1995,
+      1999
+    ],
+    "year_note": "1990 年代中期首个定向设计的开放骨架，1999 年高比表面成员确立",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "conductive_polymer",
+      "reverse_osmosis_membrane",
+      "carbon_nanotube"
+    ],
+    "desc": "金属节点与有机连接体自组装成可裁剪的永久多孔晶体，用于储气与分离。"
+  },
+  {
+    "id": "igzo_oxide_channel",
+    "name": "铟镓锌氧化物",
+    "nameEn": "Indium gallium zinc oxide",
+    "wikiEn": "Indium gallium zinc oxide",
+    "aliases": [
+      "IGZO",
+      "非晶氧化物半导体"
+    ],
+    "year": 1995,
+    "year_basis": "scholarly_disputed",
+    "year_span": [
+      1995,
+      2004
+    ],
+    "year_note": "非晶氧化物半导体薄膜晶体管 1995 年提出，IGZO 体系 2004 年后定型",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "vacuum_deposition",
+      "transistor"
+    ],
+    "related": [
+      "oled",
+      "amorphous_metal"
+    ],
+    "desc": "室温沉积的非晶多元氧化物迁移率远高于非晶硅且漏电极低，做显示背板沟道。"
+  },
+  {
+    "id": "tantalum_nitride_barrier",
+    "name": "氮化钽扩散阻挡层",
+    "nameEn": "Tantalum nitride diffusion barrier",
+    "wikiEn": "Tantalum nitride",
+    "aliases": [
+      "TaN",
+      "钽/氮化钽阻挡层"
+    ],
+    "year": 1997,
+    "year_basis": "circa",
+    "year_span": [
+      1997,
+      2001
+    ],
+    "year_note": "与铜大马士革工艺同期在 1990 年代后期定型为量产阻挡层",
+    "era": "information",
+    "category": "materials",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "vacuum_deposition",
+      "electroplating"
+    ],
+    "related": [
+      "plasma_etching",
+      "through_silicon_via"
+    ],
+    "desc": "铜互连与介质之间的氮化物阻挡薄膜，既阻断铜扩散又充当电镀种子的黏附底层。"
+  },
+  {
+    "id": "low_k_interlayer_dielectric",
+    "name": "低介电常数层间介质",
+    "nameEn": "Low-k interlayer dielectric",
+    "wikiEn": "Low-kappa dielectric",
+    "aliases": [
+      "low-k 介质",
+      "多孔低 k 材料"
+    ],
+    "year": 2001,
+    "year_basis": "circa",
+    "year_span": [
+      1998,
+      2003
+    ],
+    "year_note": "氟硅玻璃与多孔低 k 材料在 1990 年代末到 2000 年代初随铜互连量产",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "chemical_vapor_deposition",
+      "semiconductor_device_fabrication"
+    ],
+    "related": [
+      "atomic_layer_deposition",
+      "plasma_etching"
+    ],
+    "desc": "用多孔氟硅玻璃等替代二氧化硅做层间介质，压低互连电容与串扰延迟。"
+  },
+  {
+    "id": "strained_silicon_channel",
+    "name": "应变硅沟道",
+    "nameEn": "Strained silicon channel",
+    "wikiEn": "Strained silicon",
+    "aliases": [
+      "应变硅",
+      "应力工程沟道"
+    ],
+    "year": 2003,
+    "year_basis": "circa",
+    "year_span": [
+      2002,
+      2003
+    ],
+    "year_note": "2002—2003 年 90 纳米节点把应变工程引入量产晶体管",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "silicon_on_insulator_fab",
+      "ion_implantation"
+    ],
+    "related": [
+      "silicon_transistor",
+      "finfet"
+    ],
+    "desc": "用应力记忆、埋层或全局应变拉伸硅沟道，在不缩节点下换来速度。"
+  },
+  {
+    "id": "microcapsule_self_healing_polymer",
+    "name": "微胶囊自修复聚合物",
+    "nameEn": "Microencapsulated self-healing polymer",
+    "wikiEn": "Self-healing material",
+    "aliases": [
+      "自修复材料",
+      "本征自修复聚合物"
+    ],
+    "year": 2001,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2001 年提出含修复剂微胶囊的断裂触发聚合方案",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "epoxy_resin",
+      "photopolymer"
+    ],
+    "related": [
+      "high_strength_carbon_fiber",
+      "conductive_polymer"
+    ],
+    "desc": "裂纹扩展时胶囊破裂释放单体聚合，自动闭合损伤并恢复部分承载能力。"
+  },
+  {
+    "id": "nmc_layered_cathode",
+    "name": "镍锰钴三元正极",
+    "nameEn": "Lithium nickel manganese cobalt oxide",
+    "wikiEn": "Lithium nickel manganese cobalt oxides",
+    "aliases": [
+      "NMC",
+      "三元材料",
+      "镍钴锰酸锂"
+    ],
+    "year": 2003,
+    "year_basis": "scholarly_disputed",
+    "year_span": [
+      1995,
+      2003
+    ],
+    "year_note": "1990 年代中期固溶体路线到 2003 年三组分配比定型，取主流值",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "lithium_ion_battery",
+      "lithium_metal"
+    ],
+    "related": [
+      "electric_vehicle",
+      "lfp_battery",
+      "battery_energy_storage"
+    ],
+    "desc": "镍锰钴层状氧化物兼顾容量、倍率与热稳定，成为动力电池主流正极体系。"
+  },
+  {
+    "id": "llzo_garnet_solid_electrolyte",
+    "name": "石榴石型固态电解质",
+    "nameEn": "LLZO garnet solid electrolyte",
+    "wikiEn": "LLZO",
+    "aliases": [
+      "锂镧锆氧",
+      "石榴石电解质"
+    ],
+    "year": 2007,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2007 年报告镧锆氧石榴石具备实用锂离子电导",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "lithium_ion_battery",
+      "zirconia_ceramic"
+    ],
+    "related": [
+      "solid_state_battery",
+      "lithium_metal"
+    ],
+    "desc": "石榴石结构氧化物导锂离子且较耐枝晶穿刺，是全固态电池的关键陶瓷电解质。"
+  },
+  {
+    "id": "covalent_organic_framework",
+    "name": "共价有机框架",
+    "nameEn": "Covalent organic framework",
+    "wikiEn": "Covalent organic framework",
+    "aliases": [
+      "COF"
+    ],
+    "year": 2005,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2005 年首次以可逆缩合反应构筑结晶性多孔有机骨架",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "conductive_polymer",
+      "reverse_osmosis_membrane"
+    ],
+    "desc": "轻元素以强共价键连成周期性孔道骨架，孔壁化学可调用于储存与催化。"
+  },
+  {
+    "id": "rebco_coated_conductor_tape",
+    "name": "稀土钡铜氧超导带材",
+    "nameEn": "REBCO coated conductor",
+    "wikiEn": "Rare-earth barium copper oxide",
+    "aliases": [
+      "ReBCO",
+      "第二代高温超导带材",
+      "涂层导体"
+    ],
+    "year": 2006,
+    "year_basis": "circa",
+    "year_span": [
+      2005,
+      2008
+    ],
+    "year_note": "2000 年代中期双面织构缓冲层加超导薄膜实现千米级带材",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "chemical_vapor_deposition",
+      "superconductivity_discovery"
+    ],
+    "related": [
+      "niobium_tin",
+      "ndfeb_magnet"
+    ],
+    "desc": "在织构金属基带上外延稀土钡铜氧薄膜，做成可载大电流的柔性超导带。"
+  },
+  {
+    "id": "gamma_titanium_aluminide",
+    "name": "γ 钛铝金属间化合物",
+    "nameEn": "Gamma titanium aluminide",
+    "wikiEn": "Titanium aluminide",
+    "aliases": [
+      "TiAl",
+      "钛铝合金"
+    ],
+    "year": 2000,
+    "year_basis": "circa",
+    "year_span": [
+      1995,
+      2006
+    ],
+    "year_note": "1970 年代起研发，1990 年代末到 2000 年代进入热端结构件服役",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "titanium_alloy",
+      "superalloy"
+    ],
+    "related": [
+      "jet_engine",
+      "turbofan"
+    ],
+    "desc": "γ 相钛铝密度约为镍基高温合金一半而高温不失强，用于涡轮叶片减重。"
+  },
+  {
+    "id": "ingan_quantum_well_led",
+    "name": "氮化铟镓多量子阱",
+    "nameEn": "InGaN multiple quantum well",
+    "wikiEn": "Indium gallium nitride",
+    "aliases": [
+      "InGaN",
+      "铟镓氮"
+    ],
+    "year": 1993,
+    "year_basis": "circa",
+    "year_span": [
+      1991,
+      1994
+    ],
+    "year_note": "p 型掺杂与应变多量子阱有源区在 1990 年代初打通高效蓝光发光",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 1,
+    "prereqs": [
+      "chemical_vapor_deposition",
+      "led"
+    ],
+    "related": [
+      "gallium_nitride",
+      "laser_diode",
+      "wide_bandgap_semiconductor"
+    ],
+    "desc": "氮化铟镓应变量子阱作有源区把电致发光推到蓝光并实现高效白光照明。"
+  },
+  {
+    "id": "algan_gan_hemt_channel",
+    "name": "铝镓氮异质结",
+    "nameEn": "AlGaN/GaN heterostructure",
+    "wikiEn": "Aluminium gallium nitride",
+    "aliases": [
+      "AlGaN",
+      "铝镓氮二维电子气"
+    ],
+    "year": 2010,
+    "year_basis": "circa",
+    "year_span": [
+      2004,
+      2011
+    ],
+    "year_note": "常关型氮化镓功率开关在 2000 年代末至 2010 年前后商品化",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "gallium_nitride",
+      "wide_bandgap_semiconductor"
+    ],
+    "related": [
+      "electric_vehicle",
+      "photovoltaic_power_station",
+      "laser_diode"
+    ],
+    "desc": "铝镓氮与氮化镓界面形成高浓度二维电子气，承担射频与高压功率开关沟道。"
+  },
+  {
+    "id": "gallium_oxide_bulk_crystal",
+    "name": "氧化镓单晶",
+    "nameEn": "Gallium oxide single crystal",
+    "wikiEn": "Gallium oxide",
+    "aliases": [
+      "β-Ga2O3",
+      "氧化镓"
+    ],
+    "year": 2012,
+    "year_basis": "circa",
+    "year_span": [
+      2012,
+      2015
+    ],
+    "year_note": "2010 年代初相继实现氧化镓场效应管与大功率击穿演示",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "czochralski_process",
+      "wide_bandgap_semiconductor"
+    ],
+    "related": [
+      "silicon_carbide",
+      "gallium_nitride"
+    ],
+    "desc": "超宽禁带氧化镓能用熔体法长大大尺寸单晶，以低迁移率换极低导通损耗。"
+  },
+  {
+    "id": "mos2_monolayer_channel",
+    "name": "二硫化钼单层沟道",
+    "nameEn": "Monolayer MoS2 channel",
+    "wikiEn": "Molybdenum disulfide",
+    "aliases": [
+      "MoS2",
+      "层状过渡金属硫化物"
+    ],
+    "year": 2011,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2011 年单层二硫化钼场效应管证明二维半导体可作晶体管沟道",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "graphene",
+      "planar_process"
+    ],
+    "related": [
+      "gaa_node_fet",
+      "wide_bandgap_semiconductor"
+    ],
+    "desc": "层状硫化物减薄到单层后开直接带隙、原子级平整，被视为后硅沟道候选。"
+  },
+  {
+    "id": "phosphorene_2d_channel",
+    "name": "磷烯",
+    "nameEn": "Phosphorene",
+    "wikiEn": "Phosphorene",
+    "aliases": [
+      "单层黑磷",
+      "black phosphorus"
+    ],
+    "year": 2014,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2014 年机械剥离单层黑磷并演示高迁移率场效应管",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "graphene"
+    ],
+    "related": [
+      "silicon_transistor",
+      "gaa_node_fet"
+    ],
+    "desc": "单层黑磷带隙可调且空穴迁移率高，但遇水氧易退化限制了工艺窗口。"
+  },
+  {
+    "id": "silicene_epi_layer",
+    "name": "硅烯",
+    "nameEn": "Silicene",
+    "wikiEn": "Silicene",
+    "aliases": [
+      "单层硅"
+    ],
+    "year": 2012,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2012 年在衬底上外延确认蜂窝硅单层的形成",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "graphene",
+      "wafer_electronics"
+    ],
+    "related": [
+      "epitaxy",
+      "band_theory"
+    ],
+    "desc": "与石墨烯同构的蜂窝硅单层因屈曲而具可观能谷自旋特性，须依托衬底存在。"
+  },
+  {
+    "id": "mxene_2d_carbide",
+    "name": "MXene 二维碳化物",
+    "nameEn": "MXene",
+    "wikiEn": "MXenes",
+    "aliases": [
+      "过渡金属碳氮化物",
+      "MXene"
+    ],
+    "year": 2011,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2011 年选择性刻蚀 MAX 相制得单层过渡金属碳化物",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "titanium_alloy",
+      "high_entropy_alloy"
+    ],
+    "related": [
+      "lithium_ion_battery",
+      "graphene"
+    ],
+    "desc": "刻去 MAX 相中的 A 层得到导电碳氮化物片层，兼具金属导性与电容储能。"
+  },
+  {
+    "id": "boron_nitride_nanosheet",
+    "name": "氮化硼纳米片",
+    "nameEn": "Hexagonal boron nitride nanosheet",
+    "wikiEn": "Boron nitride nanosheet",
+    "aliases": [
+      "h-BN",
+      "白石墨烯"
+    ],
+    "year": 2009,
+    "year_basis": "circa",
+    "year_span": [
+      2008,
+      2010
+    ],
+    "year_note": "2000 年代末实现单层六方氮化硼剥离并用作器件衬底",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cubic_boron_nitride",
+      "graphene"
+    ],
+    "related": [
+      "wide_bandgap_semiconductor",
+      "gallium_nitride"
+    ],
+    "desc": "与石墨烯同构却是宽带隙绝缘层，充当二维器件的干净衬底与隧道势垒。"
+  },
+  {
+    "id": "phase_shift_photomask",
+    "name": "相移掩模",
+    "nameEn": "Phase-shift photomask",
+    "wikiEn": "Phase-shift mask",
+    "aliases": [
+      "PSM",
+      "移相掩膜版"
+    ],
+    "year": 1986,
+    "year_basis": "circa",
+    "year_span": [
+      1986,
+      1989
+    ],
+    "year_note": "1980 年代中后期发明并逐步用于亚微米光刻",
+    "era": "information",
+    "category": "materials",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "photolithography",
+      "synthetic_quartz"
+    ],
+    "related": [
+      "euv_lithography",
+      "excimer_laser"
+    ],
+    "desc": "让相邻透光区相差半波长以抵消衍射，把可分辨线宽推过传统极限。"
+  },
+  {
+    "id": "lithium_sulfur_cathode_system",
+    "name": "锂硫电极体系",
+    "nameEn": "Lithium–sulfur electrode system",
+    "wikiEn": "Lithium–sulfur battery",
+    "aliases": [
+      "Li-S 电池",
+      "硫正极"
+    ],
+    "year": 2009,
+    "year_basis": "circa",
+    "year_span": [
+      2008,
+      2011
+    ],
+    "year_note": "2000 年代末纳米碳复合硫正极与锂金属负极保护方案集中出现",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "lithium_metal"
+    ],
+    "related": [
+      "lithium_ion_battery",
+      "electric_vehicle"
+    ],
+    "desc": "单质硫正极配锂金属负极把理论比容量抬到锂盐正极的数倍，多硫化物穿梭是难点。"
+  },
+  {
+    "id": "aluminium_nitride_piezo_film",
+    "name": "氮化铝压电薄膜",
+    "nameEn": "Aluminium nitride piezoelectric film",
+    "wikiEn": "Aluminium nitride",
+    "aliases": [
+      "AlN",
+      "氮化铝"
+    ],
+    "year": 2003,
+    "year_basis": "circa",
+    "year_span": [
+      2000,
+      2005
+    ],
+    "year_note": "体声波谐振器与深紫外外延在 2000 年代前后将 AlN 薄膜量产化",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "piezoelectricity",
+      "chemical_vapor_deposition"
+    ],
+    "related": [
+      "pzt_ceramic",
+      "gallium_nitride"
+    ],
+    "desc": "纤锌矿氮化铝薄膜压电性强、声速高，用于射频滤波谐振与紫外探测外延层。"
+  },
+  {
+    "id": "deep_reactive_ion_etching",
+    "name": "深反应离子刻蚀",
+    "nameEn": "Deep reactive-ion etching",
+    "wikiEn": "Deep reactive-ion etching",
+    "aliases": [
+      "DRIE",
+      "各向异性深硅刻蚀"
+    ],
+    "year": 1992,
+    "year_basis": "circa",
+    "year_span": [
+      1990,
+      1994
+    ],
+    "year_note": "钝化与刻蚀交替的循环工艺在 1990 年代初成型",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "plasma_etching",
+      "laser"
+    ],
+    "related": [
+      "through_silicon_via",
+      "advanced_packaging_technology"
+    ],
+    "desc": "交替各向异性刻蚀与侧壁钝化，把硅挖成高深宽比通孔与垂直微结构。"
+  },
+  {
+    "id": "mems_probe_card",
+    "name": "晶圆探针卡",
+    "nameEn": "MEMS probe card",
+    "wikiEn": "Probe card",
+    "aliases": [
+      "探针卡",
+      "测试卡板"
+    ],
+    "year": 1996,
+    "year_basis": "circa",
+    "year_span": [
+      1993,
+      1998
+    ],
+    "year_note": "微加工探针阵列在 1990 年代中后期支撑高引脚数晶圆测试",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "wafer_electronics",
+      "printed_circuit_board"
+    ],
+    "related": [
+      "semiconductor_device_fabrication",
+      "dram"
+    ],
+    "desc": "把密集弹性探针与电极布在同一基板上的测试界面，决定晶圆分选的节拍与成本。"
+  },
+  {
+    "id": "wafer_sort_kgd_test",
+    "name": "晶圆测试分选",
+    "nameEn": "Wafer testing and known-good-die sort",
+    "wikiEn": "Wafer testing",
+    "aliases": [
+      "CP 测试",
+      "晶圆分选",
+      "已知合格裸片"
+    ],
+    "year": 1998,
+    "year_basis": "circa",
+    "year_span": [
+      1995,
+      2000
+    ],
+    "year_note": "已知合格裸片策略随深亚微米良率压力在 1990 年代末普及",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "integrated_circuit",
+      "semiconductor_device_fabrication"
+    ],
+    "related": [
+      "advanced_packaging_technology",
+      "flash_memory"
+    ],
+    "desc": "封装前逐颗探针打分挑出合格裸片，避免把坏片装进昂贵封装造成连带损失。"
+  },
+  {
+    "id": "semiconductor_burn_in_reliability",
+    "name": "半导体老化与可靠性筛选",
+    "nameEn": "Semiconductor burn-in and reliability screening",
+    "wikiEn": "Reliability (semiconductor)",
+    "aliases": [
+      "老化筛选",
+      "HTOL",
+      "失效物理"
+    ],
+    "year": 1995,
+    "year_basis": "circa",
+    "year_span": [
+      1990,
+      2000
+    ],
+    "year_note": "热载流子、电迁移等失效模型在 1990 年代随深亚微米成为量产必检项",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "moore_law",
+      "integrated_circuit"
+    ],
+    "related": [
+      "three_dimensional_ic",
+      "charge_coupled_device"
+    ],
+    "desc": "以高温加压通电老化配合失效物理模型剔除早期失效并外推现场寿命。"
+  },
+  {
+    "id": "acoustic_microscopy_package_inspection",
+    "name": "封装声学扫描显微检测",
+    "nameEn": "Scanning acoustic microscopy of packages",
+    "wikiEn": "Scanning acoustic microscope",
+    "aliases": [
+      "C-SAM",
+      "声扫检测"
+    ],
+    "year": 1990,
+    "year_basis": "circa",
+    "year_span": [
+      1986,
+      1995
+    ],
+    "year_note": "超声反射成像于 1980 年代末至 1990 年代成为封装无损检测常规手段",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "ultrasound_imaging"
+    ],
+    "related": [
+      "flip_chip",
+      "advanced_packaging_technology"
+    ],
+    "desc": "靠界面反射的超声回切成像塑封体内部，无损判读空洞、裂纹与分层。"
+  },
+  {
+    "id": "solder_ball_bump_forming",
+    "name": "焊料球凸点成形",
+    "nameEn": "Solder ball bump forming",
+    "wikiEn": "Solder ball",
+    "aliases": [
+      "植球",
+      "焊球",
+      "微凸点"
+    ],
+    "year": 1990,
+    "year_basis": "circa",
+    "year_span": [
+      1985,
+      1995
+    ],
+    "year_note": "球栅阵列与倒装植球工艺在 1980 年代末到 1990 年代成为量产标准",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "ball_grid_array",
+      "surface_mount_technology"
+    ],
+    "related": [
+      "flip_chip",
+      "printed_circuit_board"
+    ],
+    "desc": "把焊料整成可控微小球体，充当芯片与基板、堆叠封装之间的可焊节点。"
+  },
+  {
+    "id": "wafer_backgrinding_thinning",
+    "name": "晶圆背面磨削减薄",
+    "nameEn": "Wafer backgrinding",
+    "wikiEn": "Wafer backgrinding",
+    "aliases": [
+      "背磨",
+      "晶圆减薄"
+    ],
+    "year": 1993,
+    "year_basis": "circa",
+    "year_span": [
+      1990,
+      1998
+    ],
+    "year_note": "卡带与存储类封装推动批量背面减薄在 1990 年代普及",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "wafer_electronics",
+      "chemical_mechanical_planarization"
+    ],
+    "related": [
+      "three_dimensional_ic",
+      "flip_chip"
+    ],
+    "desc": "磨削加干式抛光把晶圆背面去掉大部厚度，为堆叠、柔性封装与打孔让路。"
+  },
+  {
+    "id": "wafer_level_packaging",
+    "name": "晶圆级封装",
+    "nameEn": "Wafer-level packaging",
+    "wikiEn": "Wafer-level packaging",
+    "aliases": [
+      "WLP",
+      "芯片尺寸封装工艺"
+    ],
+    "year": 1999,
+    "year_basis": "circa",
+    "year_span": [
+      1994,
+      2000
+    ],
+    "year_note": "1990 年代中后期提出并在世纪之交随移动器件量产",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "surface_mount_technology",
+      "ball_grid_array"
+    ],
+    "related": [
+      "flip_chip",
+      "chiplet_packaging"
+    ],
+    "desc": "在划片前于整片晶圆上完成凸点与钝化，把封装体积压到接近裸片本身。"
+  },
+  {
+    "id": "system_in_package_integration",
+    "name": "系统级封装",
+    "nameEn": "System in a package",
+    "wikiEn": "System in a package",
+    "aliases": [
+      "SiP",
+      "系统封装"
+    ],
+    "year": 2005,
+    "year_basis": "circa",
+    "year_span": [
+      2001,
+      2007
+    ],
+    "year_note": "2000 年代中期随便携产品把多芯片与无源件集成为单一封装体",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "wire_bonding",
+      "surface_mount_technology"
+    ],
+    "related": [
+      "smartphone",
+      "chiplet_packaging"
+    ],
+    "desc": "在一个封装内混装处理器、存储与无源件，以组装层级替代制程微缩。"
+  },
+  {
+    "id": "redistribution_layer_routing",
+    "name": "再分布布线层",
+    "nameEn": "Redistribution layer",
+    "wikiEn": "Redistribution layer",
+    "aliases": [
+      "RDL",
+      "重布线层"
+    ],
+    "year": 2003,
+    "year_basis": "circa",
+    "year_span": [
+      2000,
+      2006
+    ],
+    "year_note": "聚合物多层再布线随晶圆级与扇出封装在 2000 年代成熟",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "photolithography",
+      "electroplating"
+    ],
+    "related": [
+      "flip_chip",
+      "advanced_packaging_technology"
+    ],
+    "desc": "在芯片表面追加多层金属布线，把焊盘扇出到更大间距或整面凸点阵列。"
+  },
+  {
+    "id": "die_singulation_dicing",
+    "name": "晶圆切割分粒",
+    "nameEn": "Die singulation",
+    "wikiEn": "Die singulation",
+    "aliases": [
+      "划片",
+      "晶圆切割"
+    ],
+    "year": 2005,
+    "year_basis": "circa",
+    "year_span": [
+      2000,
+      2008
+    ],
+    "year_note": "激光改质隐切在 2000 年代随超薄晶圆与低 k 介质普及",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "wafer_electronics",
+      "laser"
+    ],
+    "related": [
+      "wafer_bonding",
+      "advanced_packaging_technology"
+    ],
+    "desc": "用金刚石刀片或激光改质层把成品晶圆分离成单颗裸片，控制崩边与隐裂。"
+  },
+  {
+    "id": "binder_jet_powder_printing",
+    "name": "黏结剂喷射粉末成形",
+    "nameEn": "Binder jetting",
+    "wikiEn": "Powder bed and inkjet head 3D printing",
+    "aliases": [
+      "黏结剂喷射",
+      "粉末床喷墨成形"
+    ],
+    "year": 1993,
+    "year_basis": "circa",
+    "year_span": [
+      1993,
+      1997
+    ],
+    "year_note": "1990 年代初提出粉床喷墨头成形原理并于中期商品化",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "inkjet_printing",
+      "powder_metallurgy"
+    ],
+    "related": [
+      "additive_manufacturing",
+      "selective_laser_melting"
+    ],
+    "desc": "在金属或砂粉床上逐层喷射黏结剂成形，生坯再经烧结致密成可用零件。"
+  },
+  {
+    "id": "electron_beam_powder_bed_melting",
+    "name": "电子束粉末床熔化",
+    "nameEn": "Electron beam melting",
+    "wikiEn": "Electron-beam additive manufacturing",
+    "aliases": [
+      "EBM",
+      "选区电子束熔化"
+    ],
+    "year": 1997,
+    "year_basis": "circa",
+    "year_span": [
+      1997,
+      2002
+    ],
+    "year_note": "1990 年代末提出、2000 年代初设备商品化",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "powder_metallurgy",
+      "vacuum_pump"
+    ],
+    "related": [
+      "selective_laser_melting",
+      "additive_manufacturing"
+    ],
+    "desc": "真空下以高能电子束预热并全熔金属粉床，适合钛铝活性合金并回收粉末。"
+  },
+  {
+    "id": "silicon_interposer_2p5d",
+    "name": "硅中介层互连",
+    "nameEn": "Silicon interposer integration",
+    "wikiEn": "Interposer",
+    "aliases": [
+      "2.5D 集成",
+      "硅插层"
+    ],
+    "year": 2011,
+    "year_basis": "circa",
+    "year_span": [
+      2007,
+      2012
+    ],
+    "year_note": "2007 年前后出现样品，2011 年前后进入高性能量产",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "through_silicon_via",
+      "flip_chip"
+    ],
+    "related": [
+      "chiplet_packaging",
+      "three_dimensional_ic"
+    ],
+    "desc": "以带通孔与密集布线的硅插层把多颗裸片并排连成超高带宽的单一封装。"
+  },
+  {
+    "id": "hybrid_direct_bonding",
+    "name": "混合键合",
+    "nameEn": "Hybrid direct bonding",
+    "wikiEn": "Direct bonding",
+    "aliases": [
+      "铜-铜混合键合",
+      "晶圆对晶圆键合"
+    ],
+    "year": 2012,
+    "year_basis": "circa",
+    "year_span": [
+      2011,
+      2014
+    ],
+    "year_note": "介质面对介面对加铜焊盘的量产键合在 2010 年代初用于堆叠成像芯片",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "wafer_bonding",
+      "chemical_mechanical_planarization"
+    ],
+    "related": [
+      "three_dimensional_ic",
+      "through_silicon_via"
+    ],
+    "desc": "抛平到纳米粗糙度的介质面与铜焊盘同面直接键合，实现微米级互连间距堆叠。"
+  },
+  {
+    "id": "thermocompression_die_stack_bonding",
+    "name": "热压键合堆叠",
+    "nameEn": "Thermocompression bonding stack",
+    "wikiEn": "Thermocompression bonding",
+    "aliases": [
+      "TC 键合",
+      "热压扩散键合"
+    ],
+    "year": 2013,
+    "year_basis": "circa",
+    "year_span": [
+      2013,
+      2016
+    ],
+    "year_note": "金-金热压更早；2013 年前后因存储堆叠带宽需求重回主线",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "wafer_bonding",
+      "flip_chip"
+    ],
+    "related": [
+      "three_dimensional_ic",
+      "dram"
+    ],
+    "desc": "同时加热加压使金属面原子互扩散成键，把多层存储与逻辑芯片压成一体叠。"
+  },
+  {
+    "id": "fan_out_wafer_level_packaging",
+    "name": "扇出型晶圆级封装",
+    "nameEn": "Fan-out wafer-level packaging",
+    "wikiEn": "Fan-out wafer-level packaging",
+    "aliases": [
+      "FOWLP",
+      "扇出封装"
+    ],
+    "year": 2015,
+    "year_basis": "circa",
+    "year_span": [
+      2009,
+      2016
+    ],
+    "year_note": "2009 年前后提出嵌入重建晶圆方案，2010 年代中期大规模量产",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "advanced_packaging_technology",
+      "epoxy_resin"
+    ],
+    "related": [
+      "chiplet_packaging",
+      "smartphone"
+    ],
+    "desc": "把裸片埋进重建晶圆后在其上再布线扇出，省去基板做出大尺寸超薄封装。"
+  },
+  {
+    "id": "thermoelectric_copper_pillar_bump",
+    "name": "热铜柱凸点",
+    "nameEn": "Thermal copper pillar bump",
+    "wikiEn": "Thermal copper pillar bump",
+    "aliases": [
+      "热电凸点",
+      "铜柱凸点散热"
+    ],
+    "year": 2015,
+    "year_basis": "circa",
+    "year_span": [
+      2013,
+      2016
+    ],
+    "year_note": "在铜柱互连内集成薄膜热电堆的原型于 2010 年代中期报道",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "flip_chip",
+      "thermoelectric_generator"
+    ],
+    "related": [
+      "through_silicon_via",
+      "advanced_packaging_technology"
+    ],
+    "desc": "在倒装铜柱凸点里嵌入薄膜热电堆，主动抽运芯片局部热点的热量。"
+  },
+  {
+    "id": "immersion_cooled_compute",
+    "name": "浸没式液冷算力机柜",
+    "nameEn": "Immersion cooling of computing hardware",
+    "wikiEn": "Immersion cooling",
+    "aliases": [
+      "浸没冷却",
+      "相变浸没液冷"
+    ],
+    "year": 2016,
+    "year_basis": "circa",
+    "year_span": [
+      2012,
+      2019
+    ],
+    "year_note": "单相与双相浸没方案在 2010 年代中后期进入数据中心规模验证",
+    "era": "intelligent",
+    "category": "computing_systems",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "cloud_computing",
+      "printed_circuit_board"
+    ],
+    "related": [
+      "gpu",
+      "large_language_model"
+    ],
+    "desc": "整机浸入不导电冷却液，用液体换热带走高密度机柜功耗并省掉风机能耗。"
+  },
+  {
+    "id": "silicon_photonics_integration",
+    "name": "硅光集成引擎",
+    "nameEn": "Silicon photonics integration",
+    "wikiEn": "Silicon photonics",
+    "aliases": [
+      "硅基光电子",
+      "硅光互连"
+    ],
+    "year": 2016,
+    "year_basis": "circa",
+    "year_span": [
+      2008,
+      2018
+    ],
+    "year_note": "硅基调制器与波导器件在 2010 年代中期起规模化出货",
+    "era": "intelligent",
+    "category": "computing_systems",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "fiber_optics_comm",
+      "semiconductor_device_fabrication"
+    ],
+    "related": [
+      "laser_diode",
+      "large_language_model"
+    ],
+    "desc": "用标准硅工艺集成波导与调制器，把光引擎搬到交换与算力芯片近旁。"
+  }
+]

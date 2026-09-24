@@ -1,0 +1,3595 @@
+[
+  {
+    "id": "pike",
+    "name": "长矛",
+    "nameEn": "Pike",
+    "wikiEn": "Pike (weapon)",
+    "aliases": [
+      "Sarissa",
+      "Pike square",
+      "超长枪"
+    ],
+    "year": -350,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "马其顿萨里沙长矛约公元前4世纪定型",
+    "era": "antiquity",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "iron_smelting",
+      "woodworking"
+    ],
+    "related": [
+      "phalanx_infantry",
+      "sword",
+      "shield"
+    ],
+    "desc": "四至六米超长枪，配密集队形主宰冷兵器战场。"
+  },
+  {
+    "id": "phalanx_infantry",
+    "name": "重装步兵方阵",
+    "nameEn": "Phalanx",
+    "wikiEn": "Phalanx",
+    "aliases": [
+      "Hoplite phalanx",
+      "方阵"
+    ],
+    "year": -650,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "希腊重装步兵方阵约公元前7世纪出现",
+    "era": "antiquity",
+    "category": "military",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "spear"
+    ],
+    "related": [
+      "pike",
+      "cavalry",
+      "roman_legion"
+    ],
+    "desc": "密集持盾枪阵，希腊城邦公民步兵的战术骨架。"
+  },
+  {
+    "id": "roman_legion",
+    "name": "罗马军团",
+    "nameEn": "Roman army",
+    "wikiEn": "Roman army",
+    "aliases": [
+      "Roman legion",
+      "罗马军队"
+    ],
+    "year": -300,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "共和中期三线列队编制",
+    "era": "antiquity",
+    "category": "military",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "phalanx_infantry"
+    ],
+    "related": [
+      "roman_roads",
+      "ballista",
+      "cavalry"
+    ],
+    "desc": "以百人队为单元的职业陆军，兼修道路与野战工事。"
+  },
+  {
+    "id": "cavalry",
+    "name": "骑兵",
+    "nameEn": "Cavalry",
+    "wikiEn": "Cavalry",
+    "aliases": [
+      "Mounted warfare",
+      "骑兵团"
+    ],
+    "year": -800,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "亚述骑兵作为独立兵种约公元前800年",
+    "era": "antiquity",
+    "category": "military",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "horse_domestication"
+    ],
+    "related": [
+      "chariot",
+      "composite_bow",
+      "stirrup"
+    ],
+    "desc": "骑马作战的兵种，冷兵器时代的机动与冲击主力。"
+  },
+  {
+    "id": "lamellar_armour",
+    "name": "扎甲",
+    "nameEn": "Lamellar armour",
+    "wikiEn": "Lamellar armour",
+    "aliases": [
+      "Lamellar armor",
+      "札甲"
+    ],
+    "year": -500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "欧亚草原与中原战国时期普及",
+    "era": "antiquity",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "iron_smelting"
+    ],
+    "related": [
+      "scale_armor",
+      "chain_mail",
+      "plate_armour"
+    ],
+    "desc": "小甲片相互编缀成身，草原与中原长期通用。"
+  },
+  {
+    "id": "castle",
+    "name": "城堡",
+    "nameEn": "Castle",
+    "wikiEn": "Castle",
+    "aliases": [
+      "Motte-and-bailey",
+      "要塞住宅"
+    ],
+    "year": 900,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "土丘-围廓城堡约9至10世纪兴起于西欧",
+    "era": "middle_ages",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "city_wall"
+    ],
+    "related": [
+      "siege_tower",
+      "counterweight_trebuchet",
+      "battering_ram"
+    ],
+    "desc": "兼具居住与防御的设防领地建筑，封建权力的支点。"
+  },
+  {
+    "id": "siege_tower",
+    "name": "攻城塔",
+    "nameEn": "Siege tower",
+    "wikiEn": "Siege tower",
+    "aliases": [
+      "Belfry",
+      "攻城楼"
+    ],
+    "year": -850,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "亚述攻城战浮雕所见早期形态",
+    "era": "antiquity",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "woodworking",
+      "wheel_axle"
+    ],
+    "related": [
+      "battering_ram",
+      "castle",
+      "counterweight_trebuchet"
+    ],
+    "desc": "带轮多层木塔，使攻城兵与守军在同一高度接战。"
+  },
+  {
+    "id": "ship_of_the_line",
+    "name": "风帆战列舰",
+    "nameEn": "Ship of the line",
+    "wikiEn": "Ship of the line",
+    "aliases": [
+      "Line of battle ship",
+      "战列舰"
+    ],
+    "year": 1650,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1650年代英荷海军确立战列线战术",
+    "era": "renaissance",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "galleon",
+      "cannon"
+    ],
+    "related": [
+      "dreadnought",
+      "bastion_fort",
+      "carrack"
+    ],
+    "desc": "数十门重炮排成战列线对射，风帆时代的海上主力。"
+  },
+  {
+    "id": "howitzer",
+    "name": "榴弹炮",
+    "nameEn": "Howitzer",
+    "wikiEn": "Howitzer",
+    "aliases": [
+      "野战曲射炮"
+    ],
+    "year": 1650,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "17世纪欧式曲射攻城炮定型",
+    "era": "renaissance",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cannon"
+    ],
+    "related": [
+      "mortar",
+      "trench_warfare",
+      "multiple_rocket_launcher"
+    ],
+    "desc": "弹道弯曲、装药可调的曲射火炮，野战压制核心。"
+  },
+  {
+    "id": "mortar",
+    "name": "臼炮",
+    "nameEn": "Mortar (weapon)",
+    "wikiEn": "Mortar (weapon)",
+    "aliases": [
+      "迫击炮",
+      "Siege mortar"
+    ],
+    "year": 1450,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "15世纪攻城臼炮，取该世纪中叶",
+    "era": "renaissance",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cannon",
+      "bomb"
+    ],
+    "related": [
+      "howitzer",
+      "trench_warfare",
+      "castle"
+    ],
+    "desc": "短管大仰角曲射火器，攻坚与堑壕战必备。"
+  },
+  {
+    "id": "torpedo",
+    "name": "鱼雷",
+    "nameEn": "Torpedo",
+    "wikiEn": "Torpedo",
+    "aliases": [
+      "自航水雷",
+      "Torpedo boat"
+    ],
+    "year": 1800,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "富尔顿爆破浮雷1800年演示，自航鱼雷1866年",
+    "era": "industrial",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "naval_mine"
+    ],
+    "related": [
+      "submarine",
+      "dreadnought",
+      "sonar"
+    ],
+    "desc": "水下自航爆炸物，颠覆了主力舰与海岸防御的天平。"
+  },
+  {
+    "id": "percussion_cap",
+    "name": "雷汞火帽",
+    "nameEn": "Percussion cap",
+    "wikiEn": "Percussion cap",
+    "aliases": [
+      "击发帽",
+      "Percussion lock"
+    ],
+    "year": 1807,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "福赛斯1807年取得专利",
+    "era": "industrial",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "flintlock"
+    ],
+    "related": [
+      "cartridge_firearms",
+      "breechloader",
+      "rifling"
+    ],
+    "desc": "以击发药帽替代明火引药，射击不再受风雨限制。"
+  },
+  {
+    "id": "cartridge_firearms",
+    "name": "定装枪弹",
+    "nameEn": "Cartridge (firearms)",
+    "wikiEn": "Cartridge (firearms)",
+    "aliases": [
+      "子弹",
+      "Metallic cartridge"
+    ],
+    "year": 1836,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "莱福舍pinfire金属弹壳1836年",
+    "era": "industrial",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "percussion_cap",
+      "brass"
+    ],
+    "related": [
+      "breechloader",
+      "machine_gun",
+      "smokeless_powder"
+    ],
+    "desc": "弹壳、底火、发射药与弹头一体，现代轻武器的基石。"
+  },
+  {
+    "id": "breechloader",
+    "name": "后膛装填武器",
+    "nameEn": "Breechloader",
+    "wikiEn": "Breechloader",
+    "aliases": [
+      "Breech-loading weapon",
+      "后膛炮"
+    ],
+    "year": 1841,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "德莱塞击针枪1841年列装普军",
+    "era": "industrial",
+    "category": "military",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "percussion_cap"
+    ],
+    "related": [
+      "cartridge_firearms",
+      "machine_gun",
+      "minie_ball"
+    ],
+    "desc": "从膛尾闭锁装弹，卧姿即可装填，射速成倍提高。"
+  },
+  {
+    "id": "minie_ball",
+    "name": "米尼弹",
+    "nameEn": "Minié ball",
+    "wikiEn": "Minié ball",
+    "aliases": [
+      "米涅球",
+      "Minié rifle"
+    ],
+    "year": 1849,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1849年前后定型并被各国采用",
+    "era": "industrial",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "rifling"
+    ],
+    "related": [
+      "breechloader",
+      "trench_warfare",
+      "cartridge_firearms"
+    ],
+    "desc": "空心底锥形弹，使线膛枪兼顾快速装填与远射精度。"
+  },
+  {
+    "id": "machine_gun",
+    "name": "机枪",
+    "nameEn": "Machine gun",
+    "wikiEn": "Machine gun",
+    "aliases": [
+      "Maxim gun",
+      "重机枪",
+      "Gatling gun"
+    ],
+    "year": 1884,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "马克沁自动机枪1884年取得专利",
+    "era": "second_industrial",
+    "category": "military",
+    "kind": "器物",
+    "importance": 1,
+    "prereqs": [
+      "cartridge_firearms"
+    ],
+    "related": [
+      "submachine_gun",
+      "trench_warfare",
+      "assault_rifle"
+    ],
+    "desc": "自动连续射击的火器，使正面冲锋沦为大规模屠杀。"
+  },
+  {
+    "id": "grenade",
+    "name": "手榴弹",
+    "nameEn": "Grenade",
+    "wikiEn": "Grenade",
+    "aliases": [
+      "手雷",
+      "Grenadier"
+    ],
+    "year": 1500,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "15至16世纪欧洲出现投掷爆炸罐，取16世纪中叶",
+    "era": "renaissance",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "bomb",
+      "gunpowder"
+    ],
+    "related": [
+      "assault_rifle",
+      "trench_warfare",
+      "bulletproof_vest"
+    ],
+    "desc": "单兵投掷的破片爆炸物，堑壕与巷战的随身火力。"
+  },
+  {
+    "id": "submachine_gun",
+    "name": "冲锋枪",
+    "nameEn": "Submachine gun",
+    "wikiEn": "Submachine gun",
+    "aliases": [
+      "SMG",
+      "汤姆森冲锋枪"
+    ],
+    "year": 1915,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "维拉尔-佩罗萨1915年，MP18于1918年列装",
+    "era": "second_industrial",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "machine_gun",
+      "cartridge_firearms"
+    ],
+    "related": [
+      "assault_rifle",
+      "trench_warfare",
+      "tank"
+    ],
+    "desc": "发射手枪弹的便携全自动武器，近距离扫射利器。"
+  },
+  {
+    "id": "assault_rifle",
+    "name": "突击步枪",
+    "nameEn": "Assault rifle",
+    "wikiEn": "Assault rifle",
+    "aliases": [
+      "StG 44",
+      "自动步枪"
+    ],
+    "year": 1944,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "StG44于1944年投入实战",
+    "era": "second_industrial",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "submachine_gun",
+      "cartridge_firearms"
+    ],
+    "related": [
+      "machine_gun",
+      "grenade",
+      "bulletproof_vest"
+    ],
+    "desc": "发射中间威力弹、可选连发的步枪，战后步兵标准武器。"
+  },
+  {
+    "id": "chemical_warfare",
+    "name": "化学武器",
+    "nameEn": "Chemical warfare",
+    "wikiEn": "Chemical warfare",
+    "aliases": [
+      "毒气战",
+      "Chemical agent"
+    ],
+    "year": 1915,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1915年伊普尔首次大规模使用氯气",
+    "era": "second_industrial",
+    "category": "military",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "bleaching_powder"
+    ],
+    "related": [
+      "trench_warfare",
+      "biological_warfare",
+      "gas_mask"
+    ],
+    "desc": "以工业毒剂杀伤有生力量，1915年伊普尔首开先例。"
+  },
+  {
+    "id": "biological_warfare",
+    "name": "生物武器",
+    "nameEn": "Biological warfare",
+    "wikiEn": "Biological warfare",
+    "aliases": [
+      "细菌战",
+      "Germ warfare"
+    ],
+    "year": 1346,
+    "year_basis": "scholarly_disputed",
+    "year_span": null,
+    "year_note": "1346年卡法围城投掷病尸之说存疑，取该说",
+    "era": "middle_ages",
+    "category": "military",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "chemical_warfare",
+      "castle",
+      "siege_tower"
+    ],
+    "desc": "用病原体或毒素作战，从围城投尸到现代细菌战部队。"
+  },
+  {
+    "id": "trench_warfare",
+    "name": "堑壕战",
+    "nameEn": "Trench warfare",
+    "wikiEn": "Trench warfare",
+    "aliases": [
+      "阵地战",
+      "战壕战"
+    ],
+    "year": 1914,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "西线堑壕体系始于1914年马恩河之后",
+    "era": "second_industrial",
+    "category": "military",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "machine_gun",
+      "minie_ball"
+    ],
+    "related": [
+      "chemical_warfare",
+      "howitzer",
+      "camouflage"
+    ],
+    "desc": "机枪、铁丝网与火炮构成的静态阵地消耗战。"
+  },
+  {
+    "id": "gas_mask",
+    "name": "防毒面具",
+    "nameEn": "Gas mask",
+    "wikiEn": "Gas mask",
+    "aliases": [
+      "防毒面罩",
+      "Respirator"
+    ],
+    "year": 1916,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "德军1916年列装带滤毒罐的防毒面具",
+    "era": "second_industrial",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "chemical_warfare"
+    ],
+    "related": [
+      "charcoal",
+      "trench_warfare",
+      "camouflage"
+    ],
+    "desc": "滤毒罐吸附或中和毒剂蒸气，化学战的标配防护。"
+  },
+  {
+    "id": "camouflage",
+    "name": "迷彩伪装",
+    "nameEn": "Camouflage",
+    "wikiEn": "Camouflage",
+    "aliases": [
+      "伪装",
+      "Dazzle camouflage"
+    ],
+    "year": 1915,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "法军1915年首设专职伪装分队",
+    "era": "second_industrial",
+    "category": "military",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "dyeing"
+    ],
+    "related": [
+      "stealth_technology",
+      "ship_of_the_line",
+      "tank"
+    ],
+    "desc": "以破碎色块扰乱轮廓，源于炮兵观测与航空侦察。"
+  },
+  {
+    "id": "conscription",
+    "name": "征兵制",
+    "nameEn": "Conscription",
+    "wikiEn": "Conscription",
+    "aliases": [
+      "义务兵役制",
+      "Levée en masse"
+    ],
+    "year": 1793,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "法国1793年全民动员令",
+    "era": "industrial",
+    "category": "military",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "guerrilla_warfare",
+      "machine_gun",
+      "roman_legion"
+    ],
+    "desc": "以公民义务为基础的普遍兵役制，决定近代动员规模。"
+  },
+  {
+    "id": "anti_aircraft_warfare",
+    "name": "防空火力",
+    "nameEn": "Anti-aircraft warfare",
+    "wikiEn": "Anti-aircraft warfare",
+    "aliases": [
+      "高射炮",
+      "Flak"
+    ],
+    "year": 1915,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "一战中期形成专门高射炮兵",
+    "era": "second_industrial",
+    "category": "military",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "machine_gun",
+      "howitzer"
+    ],
+    "related": [
+      "radar",
+      "strategic_bombing",
+      "cruise_missile"
+    ],
+    "desc": "对付飞机的地面炮火与火控体系，催生雷达引导射击。"
+  },
+  {
+    "id": "strategic_bombing",
+    "name": "战略轰炸",
+    "nameEn": "Strategic bombing",
+    "wikiEn": "Strategic bombing",
+    "aliases": [
+      "战略空袭"
+    ],
+    "year": 1918,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1918年英国独立空军成立",
+    "era": "second_industrial",
+    "category": "military",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "airplane",
+      "bomb"
+    ],
+    "related": [
+      "nuclear_weapon",
+      "precision_guided_munition",
+      "anti_aircraft_warfare"
+    ],
+    "desc": "以空袭摧毁敌方战争潜力与国民意志的空军学说。"
+  },
+  {
+    "id": "blitzkrieg",
+    "name": "闪击战",
+    "nameEn": "Blitzkrieg",
+    "wikiEn": "Blitzkrieg",
+    "aliases": [
+      "闪电战",
+      "机械化突破作战"
+    ],
+    "year": 1940,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1940年法国战役中成型",
+    "era": "second_industrial",
+    "category": "military",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "tank",
+      "airplane",
+      "automobile"
+    ],
+    "related": [
+      "guerrilla_warfare",
+      "strategic_bombing",
+      "radio"
+    ],
+    "desc": "装甲集群与空中力量协同的速决突破，1940年成名。"
+  },
+  {
+    "id": "guerrilla_warfare",
+    "name": "游击战",
+    "nameEn": "Guerrilla warfare",
+    "wikiEn": "Guerrilla warfare",
+    "aliases": [
+      "游击战争"
+    ],
+    "year": 1808,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "半岛战争1808年，该词由此流行",
+    "era": "industrial",
+    "category": "military",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "conscription",
+      "blitzkrieg",
+      "assault_rifle"
+    ],
+    "desc": "弱势一方依托民众以袭扰消耗正规军的非对称战法。"
+  },
+  {
+    "id": "multiple_rocket_launcher",
+    "name": "火箭炮",
+    "nameEn": "Multiple rocket launcher",
+    "wikiEn": "Multiple rocket launcher",
+    "aliases": [
+      "MRL",
+      "卡秋莎",
+      "齐射炮"
+    ],
+    "year": 1938,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "苏军BM-13于1938年定型",
+    "era": "second_industrial",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "rocket",
+      "multistage_rocket"
+    ],
+    "related": [
+      "howitzer",
+      "mortar",
+      "trench_warfare"
+    ],
+    "desc": "多轨齐射的自行火箭炮，以面积覆盖换取单发精度。"
+  },
+  {
+    "id": "cruise_missile",
+    "name": "巡航导弹",
+    "nameEn": "Cruise missile",
+    "wikiEn": "Cruise missile",
+    "aliases": [
+      "飞航式导弹",
+      "V-1"
+    ],
+    "year": 1944,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "V-1于1944年6月首次实战",
+    "era": "second_industrial",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "gyroscope",
+      "autopilot"
+    ],
+    "related": [
+      "icbm",
+      "precision_guided_munition",
+      "stealth_technology"
+    ],
+    "desc": "靠喷气推进自导航行的导弹，1944年V-1首开先河。"
+  },
+  {
+    "id": "bulletproof_vest",
+    "name": "防弹衣",
+    "nameEn": "Bulletproof vest",
+    "wikiEn": "Bulletproof vest",
+    "aliases": [
+      "防弹背心",
+      "Body armor"
+    ],
+    "year": 1975,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "凯夫拉纤维使轻便软质防弹衣实用化",
+    "era": "information",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "kevlar"
+    ],
+    "related": [
+      "plate_armour",
+      "grenade",
+      "assault_rifle"
+    ],
+    "desc": "凯夫拉软质纤维层拦截破片与手枪弹的单兵防护。"
+  },
+  {
+    "id": "stealth_technology",
+    "name": "隐身技术",
+    "nameEn": "Stealth technology",
+    "wikiEn": "Stealth technology",
+    "aliases": [
+      "低可探测技术",
+      "Stealth aircraft"
+    ],
+    "year": 1977,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "Have Blue验证机1977年首飞",
+    "era": "information",
+    "category": "military",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "radar"
+    ],
+    "related": [
+      "camouflage",
+      "cruise_missile",
+      "precision_guided_munition"
+    ],
+    "desc": "以外形设计与吸波材料把雷达与红外特征压到极低。"
+  },
+  {
+    "id": "precision_guided_munition",
+    "name": "精确制导弹药",
+    "nameEn": "Precision-guided munition",
+    "wikiEn": "Precision-guided munition",
+    "aliases": [
+      "PGM",
+      "激光制导炸弹",
+      "Smart bomb"
+    ],
+    "year": 1965,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "铺路爪激光制导炸弹1965年立项",
+    "era": "atomic_electronic",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "laser",
+      "sidewinder_missile"
+    ],
+    "related": [
+      "cruise_missile",
+      "strategic_bombing",
+      "gps"
+    ],
+    "desc": "以激光或卫星制导把圆概率误差压缩至米级。"
+  },
+  {
+    "id": "unmanned_combat_aircraft",
+    "name": "无人作战飞机",
+    "nameEn": "Unmanned combat aerial vehicle",
+    "wikiEn": "Unmanned combat aerial vehicle",
+    "aliases": [
+      "UCAV",
+      "察打一体无人机",
+      "武装无人机"
+    ],
+    "year": 2001,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "捕食者2001年首次发射导弹",
+    "era": "intelligent",
+    "category": "military",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "autopilot",
+      "precision_guided_munition",
+      "gps"
+    ],
+    "related": [
+      "cruise_missile",
+      "cyberwarfare",
+      "consumer_drone"
+    ],
+    "desc": "长航时侦察并同时挂载导弹打击的无人作战平台。"
+  },
+  {
+    "id": "cyberwarfare",
+    "name": "网络战",
+    "nameEn": "Cyberwarfare",
+    "wikiEn": "Cyberwarfare",
+    "aliases": [
+      "网络攻击",
+      "信息战"
+    ],
+    "year": 2007,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2007年爱沙尼亚大规模网络瘫痪事件",
+    "era": "intelligent",
+    "category": "military",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "internet"
+    ],
+    "related": [
+      "unmanned_combat_aircraft",
+      "precision_guided_munition",
+      "gps"
+    ],
+    "desc": "以网络入侵瘫痪对手系统与数据的第五维战场。"
+  },
+  {
+    "id": "concrete",
+    "name": "混凝土",
+    "nameEn": "Concrete",
+    "wikiEn": "Concrete",
+    "aliases": [
+      "水泥混凝土",
+      "Concrete structure"
+    ],
+    "year": -6500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "黎凡特与纳巴泰最早的石灰基混凝土",
+    "era": "neolithic",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 1,
+    "prereqs": [
+      "plaster",
+      "bitumen"
+    ],
+    "related": [
+      "roman_concrete",
+      "reinforced_concrete",
+      "fired_brick"
+    ],
+    "desc": "胶凝料、骨料与水硬化而成的人工石，现代用量最大的建材。"
+  },
+  {
+    "id": "masonry",
+    "name": "砌体结构",
+    "nameEn": "Masonry",
+    "wikiEn": "Masonry",
+    "aliases": [
+      "砌筑",
+      "石砌体"
+    ],
+    "year": -9000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "安纳托利亚与黎凡特早期石砌墙体",
+    "era": "prehistory",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "ashlar",
+      "fired_brick",
+      "arch"
+    ],
+    "desc": "砖石错缝砌筑并靠自重承重的建造技艺。"
+  },
+  {
+    "id": "timber_framing",
+    "name": "木骨架结构",
+    "nameEn": "Timber framing",
+    "wikiEn": "Timber framing",
+    "aliases": [
+      "Half-timbered",
+      "木构架"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "欧洲新石器时代长屋的柱架体系",
+    "era": "bronze_age",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "woodworking",
+      "adze"
+    ],
+    "related": [
+      "cross_laminated_timber",
+      "truss",
+      "wattle_and_daub"
+    ],
+    "desc": "以榫卯梁柱组成骨架、间柱填充围护的木结构体系。"
+  },
+  {
+    "id": "vault_construction",
+    "name": "拱顶",
+    "nameEn": "Vault",
+    "wikiEn": "Vault (architecture)",
+    "aliases": [
+      "筒形拱顶",
+      "Barrel vault",
+      "穹棱拱"
+    ],
+    "year": -100,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "共和晚期至帝国初的混凝土拱顶",
+    "era": "antiquity",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "arch",
+      "roman_concrete"
+    ],
+    "related": [
+      "dome",
+      "truss",
+      "reinforced_concrete"
+    ],
+    "desc": "连续拱构成的空间曲面顶盖，古典时代的大跨手段。"
+  },
+  {
+    "id": "truss",
+    "name": "桁架",
+    "nameEn": "Truss",
+    "wikiEn": "Truss",
+    "aliases": [
+      "屋架",
+      "Triangular truss"
+    ],
+    "year": -600,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "希腊神庙木桁架约公元前7至6世纪",
+    "era": "antiquity",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "woodworking",
+      "chisel"
+    ],
+    "related": [
+      "timber_framing",
+      "cable_stayed_bridge",
+      "dome"
+    ],
+    "desc": "以三角形单元把弯矩化为轴力的杆系，大跨屋盖的骨架。"
+  },
+  {
+    "id": "cable_stayed_bridge",
+    "name": "斜拉桥",
+    "nameEn": "Cable-stayed bridge",
+    "wikiEn": "Cable-stayed bridge",
+    "aliases": [
+      "斜张桥"
+    ],
+    "year": 1955,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "瑞典斯特伦松德桥1955年，现代斜拉桥起点",
+    "era": "atomic_electronic",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "suspension_bridge",
+      "prestressed_concrete"
+    ],
+    "related": [
+      "cantilever_bridge",
+      "crane",
+      "segmental_arch_bridge"
+    ],
+    "desc": "主梁由高拉力斜索直接吊挂，跨度与用钢量的经济平衡。"
+  },
+  {
+    "id": "cantilever_bridge",
+    "name": "悬臂桥",
+    "nameEn": "Cantilever bridge",
+    "wikiEn": "Cantilever bridge",
+    "aliases": [
+      "平衡悬臂梁桥"
+    ],
+    "year": 1890,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "苏格兰福斯桥1890年建成",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "bessemer_steel",
+      "suspension_bridge"
+    ],
+    "related": [
+      "cable_stayed_bridge",
+      "railway_locomotive",
+      "truss"
+    ],
+    "desc": "以悬臂逐段外伸、中部挂孔合龙的桥型，铁路过海利器。"
+  },
+  {
+    "id": "tunnel_boring_machine",
+    "name": "隧道掘进机",
+    "nameEn": "Tunnel boring machine",
+    "wikiEn": "Tunnel boring machine",
+    "aliases": [
+      "TBM",
+      "盾构机",
+      "Brunel shield"
+    ],
+    "year": 1861,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "巴罗1818年专利，1861年胡萨克隧道改用机械掘进",
+    "era": "industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "tunnelling_shield",
+      "milling_machine"
+    ],
+    "related": [
+      "channel_tunnel",
+      "subway",
+      "crane"
+    ],
+    "desc": "刀盘旋转破岩并同步支护衬砌的隧道机械。"
+  },
+  {
+    "id": "prefabrication",
+    "name": "预制装配化建造",
+    "nameEn": "Prefabrication",
+    "wikiEn": "Prefabrication",
+    "aliases": [
+      "装配式建筑",
+      "Prefab"
+    ],
+    "year": 1945,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "战后住房危机推动大规模构件预制",
+    "era": "atomic_electronic",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "portland_cement",
+      "interchangeable_parts"
+    ],
+    "related": [
+      "cross_laminated_timber",
+      "reinforced_concrete",
+      "skyscraper"
+    ],
+    "desc": "构件工厂生产、现场吊装的建造方式，战后住房主力。"
+  },
+  {
+    "id": "cross_laminated_timber",
+    "name": "正交胶合木",
+    "nameEn": "Cross-laminated timber",
+    "wikiEn": "Cross-laminated timber",
+    "aliases": [
+      "CLT",
+      "交叉层压木材"
+    ],
+    "year": 1995,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "1990年代欧洲完成工程化并首次建楼",
+    "era": "information",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "adhesive",
+      "timber_framing"
+    ],
+    "related": [
+      "prefabrication",
+      "skyscraper",
+      "concrete"
+    ],
+    "desc": "木层板正交胶合的结构性板材，可替代混凝土建高层。"
+  },
+  {
+    "id": "pile_foundation",
+    "name": "桩基础",
+    "nameEn": "Piling",
+    "wikiEn": "Piling",
+    "aliases": [
+      "Deep foundation",
+      "桩基工程"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "阿尔卑斯湖滨桩居与湖上聚落",
+    "era": "bronze_age",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "woodworking"
+    ],
+    "related": [
+      "masonry",
+      "maritime_dock",
+      "three_gorges_dam"
+    ],
+    "desc": "把上部荷载穿过软弱土层传至深部硬土的施工工艺。"
+  },
+  {
+    "id": "skyscraper",
+    "name": "摩天楼",
+    "nameEn": "Skyscraper",
+    "wikiEn": "Skyscraper",
+    "aliases": [
+      "高层建筑",
+      "超高层"
+    ],
+    "year": 1885,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "芝加哥家庭保险大楼1885年",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 1,
+    "prereqs": [
+      "steel_frame_construction",
+      "safety_elevator"
+    ],
+    "related": [
+      "reinforced_concrete",
+      "prefabrication",
+      "air_conditioning"
+    ],
+    "desc": "金属框架与电梯支撑的可居住高层建筑，始于芝加哥。"
+  },
+  {
+    "id": "steel_frame_construction",
+    "name": "钢框架结构",
+    "nameEn": "Steel frame",
+    "wikiEn": "Steel frame",
+    "aliases": [
+      "Skeleton framing",
+      "钢骨架"
+    ],
+    "year": 1884,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1884年家庭保险大楼以金属柱承重",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "bessemer_steel",
+      "rolling_mill"
+    ],
+    "related": [
+      "skyscraper",
+      "truss",
+      "cantilever_bridge"
+    ],
+    "desc": "梁柱骨架独立承重，外墙退化为仅遮风雨的围护。"
+  },
+  {
+    "id": "suez_canal",
+    "name": "苏伊士运河",
+    "nameEn": "Suez Canal",
+    "wikiEn": "Suez Canal",
+    "aliases": [
+      "苏彝士运河"
+    ],
+    "year": 1869,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1869年11月通航",
+    "era": "industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "canal"
+    ],
+    "related": [
+      "panama_canal",
+      "oil_tanker",
+      "container_shipping"
+    ],
+    "desc": "贯通地中海与红海的海平面运河，重写了世界航路。"
+  },
+  {
+    "id": "panama_canal",
+    "name": "巴拿马运河",
+    "nameEn": "Panama Canal",
+    "wikiEn": "Panama Canal",
+    "aliases": [
+      "巴拿马地峡运河"
+    ],
+    "year": 1914,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1914年8月首次通航",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "suez_canal",
+      "pound_lock"
+    ],
+    "related": [
+      "maritime_dock",
+      "hydroelectricity",
+      "intermodal_container"
+    ],
+    "desc": "以船闸翻越地峡分水岭的两洋运河，工程与防疫并举。"
+  },
+  {
+    "id": "three_gorges_dam",
+    "name": "三峡大坝",
+    "nameEn": "Three Gorges Dam",
+    "wikiEn": "Three Gorges Dam",
+    "aliases": [
+      "长江三峡水利枢纽"
+    ],
+    "year": 2006,
+    "year_basis": "exact",
+    "year_span": [
+      2003,
+      2006
+    ],
+    "year_note": "2003年首台机组发电，2006年坝体封顶",
+    "era": "intelligent",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "concrete",
+      "hydroelectricity",
+      "prestressed_concrete"
+    ],
+    "related": [
+      "dam",
+      "high_voltage_direct_current",
+      "container_shipping"
+    ],
+    "desc": "长江干流混凝土重力坝，装机规模居世界首位。"
+  },
+  {
+    "id": "land_reclamation",
+    "name": "围海造地",
+    "nameEn": "Land reclamation",
+    "wikiEn": "Land reclamation",
+    "aliases": [
+      "圩田",
+      "Polder"
+    ],
+    "year": 1612,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "荷兰比姆斯特圩田1612年排水成陆",
+    "era": "renaissance",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "windpump",
+      "dam"
+    ],
+    "related": [
+      "irrigation",
+      "canal",
+      "maritime_dock"
+    ],
+    "desc": "以堤围加排水把海域湖沼改造为可用土地。"
+  },
+  {
+    "id": "air_conditioning",
+    "name": "空气调节",
+    "nameEn": "Air conditioning",
+    "wikiEn": "Air conditioning",
+    "aliases": [
+      "空调",
+      "Carrier air conditioning"
+    ],
+    "year": 1902,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "开利1902年第一套温湿度调节装置",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "refrigeration"
+    ],
+    "related": [
+      "safety_elevator",
+      "hypocaust",
+      "skyscraper"
+    ],
+    "desc": "对室内温湿度与洁净度联合调节，重塑办公与居住。"
+  },
+  {
+    "id": "sewage_treatment",
+    "name": "污水处理",
+    "nameEn": "Sewage treatment",
+    "wikiEn": "Sewage treatment",
+    "aliases": [
+      "污水生化处理",
+      "Activated sludge"
+    ],
+    "year": 1887,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1880年代末首座生化处理厂，1914年活性污泥法",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "public_water_supply"
+    ],
+    "related": [
+      "modern_sewer",
+      "pasteurization",
+      "desalination"
+    ],
+    "desc": "用生物与化学手段净化生活污水，切断水传疾病链条。"
+  },
+  {
+    "id": "desalination",
+    "name": "海水淡化",
+    "nameEn": "Desalination",
+    "wikiEn": "Desalination",
+    "aliases": [
+      "海水脱盐",
+      "Reverse osmosis desalination"
+    ],
+    "year": 1985,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "1980年代反渗透淡化厂大规模投产",
+    "era": "information",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "reverse_osmosis_membrane"
+    ],
+    "related": [
+      "sewage_treatment",
+      "public_water_supply",
+      "irrigation"
+    ],
+    "desc": "以膜法或蒸馏从海水制取淡水的规模化市政工艺。"
+  },
+  {
+    "id": "cereal",
+    "name": "谷物驯化",
+    "nameEn": "Cereal",
+    "wikiEn": "Cereal",
+    "aliases": [
+      "Cereal grain",
+      "禾谷类作物",
+      "Founder crops"
+    ],
+    "year": -9000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "新月沃地小麦、大麦约前9000年驯化",
+    "era": "prehistory",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 1,
+    "prereqs": [
+      "digging_stick",
+      "sickle"
+    ],
+    "related": [
+      "agriculture",
+      "irrigation",
+      "plow"
+    ],
+    "desc": "小麦大麦等禾本科谷物的驯化，定居文明的能量底座。"
+  },
+  {
+    "id": "rice_cultivation",
+    "name": "水稻栽培",
+    "nameEn": "Rice",
+    "wikiEn": "Rice",
+    "aliases": [
+      "Rice cultivation",
+      "稻作"
+    ],
+    "year": -5500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "长江中下游驯化，河姆渡遗存约前5000年",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cereal"
+    ],
+    "related": [
+      "irrigation",
+      "terrace_farming",
+      "aquaculture"
+    ],
+    "desc": "东亚主粮，水田与灌排体系塑造了稻作社会。"
+  },
+  {
+    "id": "maize",
+    "name": "玉米",
+    "nameEn": "Maize",
+    "wikiEn": "Maize",
+    "aliases": [
+      "Corn",
+      "玉蜀黍",
+      "Teosinte"
+    ],
+    "year": -7000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "墨西哥巴尔萨斯河谷由类蜀黍驯化",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cereal",
+      "slash_and_burn"
+    ],
+    "related": [
+      "potato",
+      "food_preservation",
+      "terrace_farming"
+    ],
+    "desc": "由类蜀黍驯化的美洲主粮，养活了前哥伦布诸文明。"
+  },
+  {
+    "id": "potato",
+    "name": "马铃薯",
+    "nameEn": "Potato",
+    "wikiEn": "Potato",
+    "aliases": [
+      "土豆",
+      "Andean potato"
+    ],
+    "year": -5000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "安第斯山区秘鲁一带驯化",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "agriculture",
+      "digging_stick"
+    ],
+    "related": [
+      "maize",
+      "food_preservation",
+      "terrace_farming"
+    ],
+    "desc": "安第斯块茎作物，冷凉高地上稳定的热量来源。"
+  },
+  {
+    "id": "soybean",
+    "name": "大豆",
+    "nameEn": "Soybean",
+    "wikiEn": "Soybean",
+    "aliases": [
+      "黄豆",
+      "Glycine max"
+    ],
+    "year": -1000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "黄河流域周代已栽培",
+    "era": "antiquity",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cereal"
+    ],
+    "related": [
+      "crop_rotation",
+      "manure",
+      "fermentation"
+    ],
+    "desc": "原产中国的豆科作物，兼供植物蛋白与恢复地力。"
+  },
+  {
+    "id": "coffee",
+    "name": "咖啡",
+    "nameEn": "Coffee",
+    "wikiEn": "Coffee",
+    "aliases": [
+      "小粒咖啡",
+      "Coffeehouse"
+    ],
+    "year": 1450,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "也门阿拉伯半岛15世纪开始栽培烘焙",
+    "era": "renaissance",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "arab_agricultural_revolution",
+      "tea"
+    ],
+    "related": [
+      "sugar",
+      "distilled_liquor",
+      "fermentation"
+    ],
+    "desc": "原产埃塞俄比亚的饮品作物，经阿拉伯世界传遍全球。"
+  },
+  {
+    "id": "crop_rotation",
+    "name": "轮作制",
+    "nameEn": "Crop rotation",
+    "wikiEn": "Crop rotation",
+    "aliases": [
+      "换茬",
+      "Four-course rotation"
+    ],
+    "year": -600,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "先秦已有豆谷茬作，近代由诺福克体系完善",
+    "era": "antiquity",
+    "category": "agriculture_food",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "manure"
+    ],
+    "related": [
+      "norfolk_crop_rotation",
+      "three_field_system",
+      "soybean"
+    ],
+    "desc": "按季轮换作物种类以维持地力并抑制草害的耕作制度。"
+  },
+  {
+    "id": "no_till_farming",
+    "name": "免耕法",
+    "nameEn": "No-till farming",
+    "wikiEn": "No-till farming",
+    "aliases": [
+      "保护性耕作",
+      "Direct seeding"
+    ],
+    "year": 1947,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1940年代美国大平原起源的保护性耕作实践",
+    "era": "atomic_electronic",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "tractor",
+      "moldboard_plow"
+    ],
+    "related": [
+      "crop_rotation",
+      "precision_agriculture",
+      "two_four_d_herbicide"
+    ],
+    "desc": "翻耕改为直播并保留残茬覆盖，抑制风蚀与水蚀。"
+  },
+  {
+    "id": "combine_harvester",
+    "name": "联合收割机",
+    "nameEn": "Combine harvester",
+    "wikiEn": "Combine harvester",
+    "aliases": [
+      "康拜因",
+      "Harvester-thresher"
+    ],
+    "year": 1836,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1830年代收割与脱粒联合装置，自走式1940年代普及",
+    "era": "industrial",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "mechanical_reaper",
+      "threshing_machine"
+    ],
+    "related": [
+      "tractor",
+      "galloroman_reaper",
+      "no_till_farming"
+    ],
+    "desc": "一次通过完成收割、脱粒与清选的自走式农机。"
+  },
+  {
+    "id": "greenhouse",
+    "name": "温室",
+    "nameEn": "Greenhouse",
+    "wikiEn": "Greenhouse",
+    "aliases": [
+      "Orangery",
+      "玻璃温室"
+    ],
+    "year": 1680,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "17世纪荷兰与英国出现玻璃覆盖的暖房",
+    "era": "renaissance",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "glassmaking",
+      "lead_glass"
+    ],
+    "related": [
+      "vertical_farming",
+      "hydroponics",
+      "arab_agricultural_revolution"
+    ],
+    "desc": "以透明覆盖物人工控温湿的促成栽培建筑。"
+  },
+  {
+    "id": "hydroponics",
+    "name": "水培",
+    "nameEn": "Hydroponics",
+    "wikiEn": "Hydroponics",
+    "aliases": [
+      "无土栽培",
+      "溶液栽培"
+    ],
+    "year": 1936,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "格里克1936年前后命名并推广",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "greenhouse"
+    ],
+    "related": [
+      "vertical_farming",
+      "aquaculture",
+      "precision_agriculture"
+    ],
+    "desc": "以营养液替代土壤直接向根系供水肥的栽培法。"
+  },
+  {
+    "id": "aquaculture",
+    "name": "水产养殖",
+    "nameEn": "Aquaculture",
+    "wikiEn": "Aquaculture",
+    "aliases": [
+      "养鱼业",
+      "Fish farming"
+    ],
+    "year": -600,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "中国范蠡养鱼约公元前5世纪已有记载",
+    "era": "antiquity",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "irrigation",
+      "animal_husbandry"
+    ],
+    "related": [
+      "fishing_net",
+      "fish_hook",
+      "hydroponics"
+    ],
+    "desc": "人工投喂与繁殖水产物种，最早成规模于中国池塘。"
+  },
+  {
+    "id": "poultry_farming",
+    "name": "家禽饲养",
+    "nameEn": "Poultry farming",
+    "wikiEn": "Poultry farming",
+    "aliases": [
+      "养鸡业",
+      "Poultry"
+    ],
+    "year": -1500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "东南亚家鸡驯化约公元前1500年",
+    "era": "bronze_age",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "animal_husbandry",
+      "agriculture"
+    ],
+    "related": [
+      "dairy",
+      "beekeeping",
+      "food_preservation"
+    ],
+    "desc": "规模化饲养鸡鸭取蛋肉，最省料的高效动物蛋白来源。"
+  },
+  {
+    "id": "plant_breeding",
+    "name": "作物育种",
+    "nameEn": "Plant breeding",
+    "wikiEn": "Plant breeding",
+    "aliases": [
+      "育种学",
+      "Selective breeding of crops"
+    ],
+    "year": 1900,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1900年前后孟德尔定律重现，育种成为学科",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "mendelian_inheritance",
+      "evolution_natural_selection"
+    ],
+    "related": [
+      "heterosis",
+      "radiation_breeding",
+      "green_revolution"
+    ],
+    "desc": "以选择与杂交定向改良作物遗传性状的学科实践。"
+  },
+  {
+    "id": "heterosis",
+    "name": "杂种优势",
+    "nameEn": "Heterosis",
+    "wikiEn": "Heterosis",
+    "aliases": [
+      "杂交活力",
+      "Hybrid seed",
+      "杂交玉米"
+    ],
+    "year": 1908,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "舒尔1908年提出，1917年用于玉米制种",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "plant_breeding"
+    ],
+    "related": [
+      "dwarf_wheat",
+      "green_revolution",
+      "ir8_rice"
+    ],
+    "desc": "杂一代在产量与抗性上超越双亲，使制种成为产业。"
+  },
+  {
+    "id": "pesticide",
+    "name": "化学农药",
+    "nameEn": "Pesticide",
+    "wikiEn": "Pesticide",
+    "aliases": [
+      "杀虫剂",
+      "Insecticide",
+      "DDT"
+    ],
+    "year": 1939,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1939年发现DDT的杀虫作用",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "integrated_pest_management",
+      "two_four_d_herbicide",
+      "green_revolution"
+    ],
+    "desc": "以化学药剂扑灭病虫草害，20世纪农业增产的支柱之一。"
+  },
+  {
+    "id": "graphene",
+    "name": "石墨烯",
+    "nameEn": "Graphene",
+    "wikiEn": "Graphene",
+    "aliases": [
+      "单层石墨",
+      "Graphene sheet"
+    ],
+    "year": 2004,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2004年胶带剥离法首次分离单层",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "carbon_nanotube",
+      "fullerene"
+    ],
+    "related": [
+      "nanomaterials",
+      "semiconductor_device_fabrication",
+      "conductive_polymer"
+    ],
+    "desc": "单原子层碳片，强度与导电性能刷新材料纪录。"
+  },
+  {
+    "id": "nanomaterials",
+    "name": "纳米材料",
+    "nameEn": "Nanomaterials",
+    "wikiEn": "Nanomaterials",
+    "aliases": [
+      "Nanostructured material",
+      "纳米结构材料"
+    ],
+    "year": 1985,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以富勒烯发现与扫描隧道显微镜为起点",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "semiconductor_device_fabrication"
+    ],
+    "related": [
+      "graphene",
+      "carbon_nanotube",
+      "quantum_dot"
+    ],
+    "desc": "在一至一百纳米尺度构造并利用量子效应的材料族。"
+  },
+  {
+    "id": "metamaterial",
+    "name": "超材料",
+    "nameEn": "Metamaterial",
+    "wikiEn": "Metamaterial",
+    "aliases": [
+      "人工电磁材料",
+      "Negative-index metamaterial"
+    ],
+    "year": 2000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1968年理论预言，2000年前后实现负折射",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "maxwell_equations"
+    ],
+    "related": [
+      "nanomaterials",
+      "laser",
+      "stealth_technology"
+    ],
+    "desc": "靠人工微结构获得负折射等天然材料没有的响应。"
+  },
+  {
+    "id": "high_entropy_alloy",
+    "name": "高熵合金",
+    "nameEn": "High-entropy alloy",
+    "wikiEn": "High-entropy alloy",
+    "aliases": [
+      "HEA",
+      "多主元合金"
+    ],
+    "year": 2004,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "叶均全与坎托2004年分别提出",
+    "era": "intelligent",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "amorphous_metal",
+      "titanium_alloy"
+    ],
+    "related": [
+      "superalloy",
+      "additive_manufacturing",
+      "selective_laser_melting"
+    ],
+    "desc": "多种元素近等原子比混合，强度、韧性与耐蚀齐升。"
+  },
+  {
+    "id": "gallium_nitride",
+    "name": "氮化镓",
+    "nameEn": "Gallium nitride",
+    "wikiEn": "Gallium nitride",
+    "aliases": [
+      "GaN",
+      "III-nitride"
+    ],
+    "year": 1993,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1993年商用蓝光LED基于氮化镓",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "led",
+      "chemical_vapor_deposition"
+    ],
+    "related": [
+      "wide_bandgap_semiconductor",
+      "laser_diode",
+      "semiconductor_device_fabrication"
+    ],
+    "desc": "宽禁带第三代半导体，蓝光照明与功率器件的基础。"
+  },
+  {
+    "id": "quantum_dot",
+    "name": "量子点",
+    "nameEn": "Quantum dot",
+    "wikiEn": "Quantum dot",
+    "aliases": [
+      "QD",
+      "半导体纳米晶"
+    ],
+    "year": 1981,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1981年胶体法合成尺寸依赖发光",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "semiconductor_device_fabrication",
+      "epitaxy"
+    ],
+    "related": [
+      "nanomaterials",
+      "oled",
+      "laser_diode"
+    ],
+    "desc": "两三纳米的半导体晶粒，粒径决定发光颜色。"
+  },
+  {
+    "id": "superalloy",
+    "name": "高温合金",
+    "nameEn": "Superalloy",
+    "wikiEn": "Superalloy",
+    "aliases": [
+      "镍基超合金",
+      "Super alloy"
+    ],
+    "year": 1945,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1940年代为喷气涡轮研制镍基耐热合金",
+    "era": "atomic_electronic",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "electric_arc_furnace",
+      "stainless_steel"
+    ],
+    "related": [
+      "gas_turbine",
+      "jet_engine",
+      "selective_laser_melting"
+    ],
+    "desc": "近熔点仍保持强度的镍基合金，航空发动机的命门。"
+  },
+  {
+    "id": "wafer_electronics",
+    "name": "硅晶圆",
+    "nameEn": "Wafer (electronics)",
+    "wikiEn": "Wafer (electronics)",
+    "aliases": [
+      "Wafer",
+      "晶圆",
+      "硅片"
+    ],
+    "year": 1960,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1950年代末单晶硅锭与圆片成为量产基底",
+    "era": "atomic_electronic",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "czochralski_process",
+      "zone_refining"
+    ],
+    "related": [
+      "silicon_transistor",
+      "photolithography",
+      "epitaxy"
+    ],
+    "desc": "单晶锭切片抛磨成的圆片，芯片制造的通用基底。"
+  },
+  {
+    "id": "solid_electrolyte",
+    "name": "固体电解质",
+    "nameEn": "Fast-ion conductor",
+    "wikiEn": "Fast-ion conductor",
+    "aliases": [
+      "Solid electrolyte",
+      "快离子导体",
+      "固态电解质"
+    ],
+    "year": 1967,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1967年β-氧化铝钠导体发现带动固态电池",
+    "era": "atomic_electronic",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "lithium_metal"
+    ],
+    "related": [
+      "solid_state_battery",
+      "lithium_ion_battery",
+      "battery_energy_storage"
+    ],
+    "desc": "只靠离子迁移导电的固态材料，全固态电池的核心。"
+  },
+  {
+    "id": "recycling",
+    "name": "材料回收",
+    "nameEn": "Recycling",
+    "wikiEn": "Recycling",
+    "aliases": [
+      "再生利用",
+      "资源回收"
+    ],
+    "year": 1970,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1970年首个地球日推动系统性回收",
+    "era": "information",
+    "category": "materials",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "hall_heroult_process",
+      "polyethylene"
+    ],
+    "related": [
+      "biodegradable_plastic",
+      "electric_arc_furnace",
+      "portland_cement"
+    ],
+    "desc": "把废弃金属与塑料重新投入生产循环的工业流程。"
+  },
+  {
+    "id": "photopolymer",
+    "name": "光敏树脂",
+    "nameEn": "Photopolymer",
+    "wikiEn": "Photopolymer",
+    "aliases": [
+      "UV-curable resin",
+      "光固化树脂"
+    ],
+    "year": 1972,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1970年代紫外固化涂料与立体光刻树脂",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "photoresist"
+    ],
+    "related": [
+      "additive_manufacturing",
+      "euv_lithography",
+      "surface_mount_technology"
+    ],
+    "desc": "受紫外光即交联固化的树脂，支撑光刻与立体打印。"
+  },
+  {
+    "id": "wide_bandgap_semiconductor",
+    "name": "宽禁带半导体",
+    "nameEn": "Wide-bandgap semiconductor",
+    "wikiEn": "Wide-bandgap semiconductor",
+    "aliases": [
+      "WBG",
+      "第三代半导体",
+      "碳化硅半导体"
+    ],
+    "year": 1989,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1980年代末碳化硅器件进入商用",
+    "era": "information",
+    "category": "materials",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "silicon_transistor"
+    ],
+    "related": [
+      "gallium_nitride",
+      "silicon_carbide",
+      "electric_vehicle"
+    ],
+    "desc": "禁带宽于硅的半导体，耐高压、耐高温与高频工作。"
+  },
+  {
+    "id": "semiconductor_device_fabrication",
+    "name": "半导体器件制造工艺",
+    "nameEn": "Semiconductor device fabrication",
+    "wikiEn": "Semiconductor device fabrication",
+    "aliases": [
+      "Wafer fabrication",
+      "芯片制造",
+      "Front-end process"
+    ],
+    "year": 1959,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以1959年平面工艺确立为起点",
+    "era": "atomic_electronic",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 1,
+    "prereqs": [
+      "silicon_transistor",
+      "integrated_circuit"
+    ],
+    "related": [
+      "photolithography",
+      "wafer_electronics",
+      "microprocessor"
+    ],
+    "desc": "在硅片上成膜、光刻、掺杂并图形化的整套制芯流程。"
+  },
+  {
+    "id": "chemical_vapor_deposition",
+    "name": "化学气相沉积",
+    "nameEn": "Chemical vapor deposition",
+    "wikiEn": "Chemical vapor deposition",
+    "aliases": [
+      "CVD",
+      "气相沉积",
+      "MOCVD"
+    ],
+    "year": 1956,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1950年代中期外延与掺杂薄膜CVD工艺成型",
+    "era": "atomic_electronic",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "vacuum_deposition"
+    ],
+    "related": [
+      "atomic_layer_deposition",
+      "semiconductor_device_fabrication",
+      "gallium_nitride"
+    ],
+    "desc": "让气态前驱体在基片表面反应成膜的材料生长工艺。"
+  },
+  {
+    "id": "atomic_layer_deposition",
+    "name": "原子层沉积",
+    "nameEn": "Atomic layer deposition",
+    "wikiEn": "Atomic layer deposition",
+    "aliases": [
+      "ALD",
+      "分子层外延",
+      "SNG (Suntola)"
+    ],
+    "year": 1974,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "桑托拉1974年以气体脉冲反应实现单层生长",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "chemical_vapor_deposition"
+    ],
+    "related": [
+      "semiconductor_device_fabrication",
+      "wafer_bonding",
+      "high_entropy_alloy"
+    ],
+    "desc": "逐原子层自限制生长薄膜，是High-κ栅介质的制法。"
+  },
+  {
+    "id": "plasma_etching",
+    "name": "等离子体刻蚀",
+    "nameEn": "Plasma etching",
+    "wikiEn": "Plasma etching",
+    "aliases": [
+      "Reactive-ion etching",
+      "干法刻蚀",
+      "RIE"
+    ],
+    "year": 1970,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1970年前后反应离子刻蚀用于器件图形转移",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "photolithography",
+      "chemical_vapor_deposition"
+    ],
+    "related": [
+      "semiconductor_device_fabrication",
+      "euv_lithography",
+      "wafer_bonding"
+    ],
+    "desc": "用活性等离子体各向异性地挖出微细图形的减法工艺。"
+  },
+  {
+    "id": "chemical_mechanical_planarization",
+    "name": "化学机械抛光",
+    "nameEn": "Chemical-mechanical polishing",
+    "wikiEn": "Chemical-mechanical polishing",
+    "aliases": [
+      "CMP",
+      "化学机械平坦化"
+    ],
+    "year": 1976,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1970年代用于磁泡器件，1990年代成为铜互连必需",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "precision_grinding",
+      "semiconductor_device_fabrication"
+    ],
+    "related": [
+      "euv_lithography",
+      "advanced_packaging_technology",
+      "wafer_electronics"
+    ],
+    "desc": "化学腐蚀与机械磨削并举，把多层结构逐层摊平。"
+  },
+  {
+    "id": "euv_lithography",
+    "name": "极紫外光刻",
+    "nameEn": "EUV lithography",
+    "wikiEn": "EUV lithography",
+    "aliases": [
+      "Extreme ultraviolet lithography",
+      "High-NA EUV",
+      "极紫外光刻"
+    ],
+    "year": 2013,
+    "year_basis": "circa",
+    "year_span": [
+      2010,
+      2023
+    ],
+    "year_note": "2010年原型机、2013年量产，High-NA为后续代际",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "photolithography",
+      "laser",
+      "laser_diode"
+    ],
+    "related": [
+      "photoresist",
+      "wafer_electronics",
+      "semiconductor_device_fabrication"
+    ],
+    "desc": "以13.5纳米极紫外光刻画图形，先进节点的必需工序。"
+  },
+  {
+    "id": "finfet",
+    "name": "鳍式场效应晶体管",
+    "nameEn": "Fin field-effect transistor",
+    "wikiEn": "Fin field-effect transistor",
+    "aliases": [
+      "FinFET",
+      "三栅晶体管",
+      "Tri-gate"
+    ],
+    "year": 2004,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2004年研发器件成型，2011年Intel量产",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "silicon_on_insulator_fab",
+      "semiconductor_device_fabrication"
+    ],
+    "related": [
+      "euv_lithography",
+      "three_dimensional_ic",
+      "gaa_node_fet"
+    ],
+    "desc": "把沟道竖成鳍片由三面成栅，延续摩尔定律的关键。"
+  },
+  {
+    "id": "gaa_node_fet",
+    "name": "环绕栅纳米片晶体管",
+    "nameEn": "2 nm process",
+    "wikiEn": "2 nm process",
+    "aliases": [
+      "Gate-all-around FET",
+      "GAA",
+      "Nanosheet transistor",
+      "CFET",
+      "2纳米工艺"
+    ],
+    "year": 2022,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "环绕栅纳米片随2纳米节点于2022年后量产",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "finfet",
+      "atomic_layer_deposition"
+    ],
+    "related": [
+      "euv_lithography",
+      "nanomaterials",
+      "through_silicon_via"
+    ],
+    "desc": "沟道成水平纳米片被栅极四面环绕的先进晶体管。"
+  },
+  {
+    "id": "flip_chip",
+    "name": "倒装芯片",
+    "nameEn": "Flip chip",
+    "wikiEn": "Flip chip",
+    "aliases": [
+      "C4 (controlled collapse connection)",
+      "裸片反扣互连"
+    ],
+    "year": 1965,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1960年代中期IBM用于固态逻辑微模块互连",
+    "era": "atomic_electronic",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "integrated_circuit",
+      "soldering"
+    ],
+    "related": [
+      "wire_bonding",
+      "advanced_packaging_technology",
+      "through_silicon_via"
+    ],
+    "desc": "芯片有源面朝下以凸点直接互连，路径缩短、密度提高。"
+  },
+  {
+    "id": "wire_bonding",
+    "name": "引线键合",
+    "nameEn": "Wire bonding",
+    "wikiEn": "Wire bonding",
+    "aliases": [
+      "金线键合",
+      "Ball bonding"
+    ],
+    "year": 1965,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1965年热超声球键合工艺问世",
+    "era": "atomic_electronic",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "integrated_circuit",
+      "soldering"
+    ],
+    "related": [
+      "flip_chip",
+      "surface_mount_technology",
+      "advanced_packaging_technology"
+    ],
+    "desc": "用细金属线把芯片焊盘接到引线上，至今最通用的互连。"
+  },
+  {
+    "id": "through_silicon_via",
+    "name": "硅通孔",
+    "nameEn": "Through-silicon via",
+    "wikiEn": "Through-silicon via",
+    "aliases": [
+      "TSV",
+      "硅穿孔"
+    ],
+    "year": 1964,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1964年IBM平面封装中以通孔互连上下片",
+    "era": "atomic_electronic",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "semiconductor_device_fabrication"
+    ],
+    "related": [
+      "three_dimensional_ic",
+      "wafer_bonding",
+      "advanced_packaging_technology"
+    ],
+    "desc": "垂直贯穿硅片的导电孔，堆叠芯片互连的支柱。"
+  },
+  {
+    "id": "wafer_bonding",
+    "name": "晶圆键合",
+    "nameEn": "Wafer bonding",
+    "wikiEn": "Wafer bonding",
+    "aliases": [
+      "Direct bonding",
+      "混合键合",
+      "Hybrid bonding"
+    ],
+    "year": 1986,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1986年硅直接键合(SDB)实现，混合键合为当代代际",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "chemical_mechanical_planarization",
+      "silicon_on_insulator_fab"
+    ],
+    "related": [
+      "three_dimensional_ic",
+      "through_silicon_via",
+      "advanced_packaging_technology"
+    ],
+    "desc": "把两片晶圆面面对准贴合，铜-铜混合键合已用于芯粒堆叠。"
+  },
+  {
+    "id": "silicon_on_insulator_fab",
+    "name": "绝缘体上硅工艺",
+    "nameEn": "Silicon on insulator",
+    "wikiEn": "Silicon on insulator",
+    "aliases": [
+      "SOI",
+      "SIMOX",
+      "键合SOI"
+    ],
+    "year": 1979,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1970年代末SOI晶圆制备工艺成熟",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "semiconductor_device_fabrication",
+      "ion_implantation"
+    ],
+    "related": [
+      "finfet",
+      "gallium_nitride",
+      "wide_bandgap_semiconductor"
+    ],
+    "desc": "在埋氧层上做成有源硅层，寄生电容小、射频与功耗受益。"
+  },
+  {
+    "id": "advanced_packaging_technology",
+    "name": "先进封装",
+    "nameEn": "Integrated circuit packaging",
+    "wikiEn": "Integrated circuit packaging",
+    "aliases": [
+      "Advanced packaging",
+      "芯粒封装",
+      "2.5D封装"
+    ],
+    "year": 1995,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "1990年代中期从引线键合转向面阵列与倒装为主",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "flip_chip",
+      "surface_mount_technology"
+    ],
+    "related": [
+      "ball_grid_array",
+      "three_dimensional_ic",
+      "chiplet_packaging"
+    ],
+    "desc": "把多颗芯粒拼成一体并承担散热与互连的封装层次。"
+  },
+  {
+    "id": "ball_grid_array",
+    "name": "球栅阵列封装",
+    "nameEn": "Ball grid array",
+    "wikiEn": "Ball grid array",
+    "aliases": [
+      "BGA",
+      "焊球阵列"
+    ],
+    "year": 1982,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1980年代初出现，1990年代成为主流",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "surface_mount_technology",
+      "printed_circuit_board"
+    ],
+    "related": [
+      "flip_chip",
+      "advanced_packaging_technology",
+      "chiplet_packaging"
+    ],
+    "desc": "封装底面布满焊球，引脚间距与良率同时改善。"
+  },
+  {
+    "id": "three_dimensional_ic",
+    "name": "三维集成电路",
+    "nameEn": "Three-dimensional integrated circuit",
+    "wikiEn": "Three-dimensional integrated circuit",
+    "aliases": [
+      "3D IC",
+      "堆叠芯片",
+      "Through-silicon via stacking"
+    ],
+    "year": 2005,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "2000年代中期硅通孔堆叠存储率先量产",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "through_silicon_via",
+      "wafer_bonding"
+    ],
+    "related": [
+      "chiplet_packaging",
+      "advanced_packaging_technology",
+      "microprocessor"
+    ],
+    "desc": "多层有源硅片垂直堆叠互连，把平面缩放换成高度方向。"
+  },
+  {
+    "id": "chiplet_packaging",
+    "name": "芯粒架构",
+    "nameEn": "Chiplet",
+    "wikiEn": "Chiplet",
+    "aliases": [
+      "小芯片",
+      "裸片互连",
+      "UCIe"
+    ],
+    "year": 2008,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "概念于2008年前后提出，2010年代后成为主流",
+    "era": "intelligent",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "advanced_packaging_technology",
+      "three_dimensional_ic"
+    ],
+    "related": [
+      "integrated_circuit",
+      "euv_lithography",
+      "microprocessor"
+    ],
+    "desc": "把大芯片拆成可异质集成的小裸片，良率与成本双降。"
+  },
+  {
+    "id": "basic_oxygen_steelmaking",
+    "name": "氧气顶吹转炉炼钢",
+    "nameEn": "Basic oxygen steelmaking",
+    "wikiEn": "Basic oxygen steelmaking",
+    "aliases": [
+      "BOS",
+      "LD转炉",
+      "林茨-多纳维茨法"
+    ],
+    "year": 1952,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1952年奥地利林茨厂投产",
+    "era": "atomic_electronic",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "gilchrist_thomas_process",
+      "linde_air_liquefaction",
+      "continuous_casting"
+    ],
+    "related": [
+      "bessemer_steel",
+      "electric_arc_furnace",
+      "stainless_steel"
+    ],
+    "desc": "向熔池吹纯氧脱碳，数十分钟一炉，取代平炉成为主流。"
+  },
+  {
+    "id": "powder_metallurgy",
+    "name": "粉末冶金",
+    "nameEn": "Powder metallurgy",
+    "wikiEn": "Powder metallurgy",
+    "aliases": [
+      "PM",
+      "粉末压制烧结"
+    ],
+    "year": 1909,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1909年柯立芝以粉末延性钨丝实现工业化",
+    "era": "second_industrial",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "incandescent_lamp",
+      "smelting"
+    ],
+    "related": [
+      "selective_laser_melting",
+      "high_entropy_alloy",
+      "amorphous_metal"
+    ],
+    "desc": "制粉、压制、烧结成形，近净形状并保留多孔与硬质相。"
+  },
+  {
+    "id": "surface_mount_technology",
+    "name": "表面贴装技术",
+    "nameEn": "Surface-mount technology",
+    "wikiEn": "Surface-mount technology",
+    "aliases": [
+      "SMT",
+      "贴片装配"
+    ],
+    "year": 1967,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1960年代IBM先行，1980年代成为电子装配主流",
+    "era": "atomic_electronic",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "printed_circuit_board",
+      "integrated_circuit"
+    ],
+    "related": [
+      "ball_grid_array",
+      "advanced_packaging_technology",
+      "semiconductor_device_fabrication"
+    ],
+    "desc": "元件直接贴焊在印制板表面，装配密度与自动化齐升。"
+  },
+  {
+    "id": "additive_manufacturing",
+    "name": "增材制造",
+    "nameEn": "3D printing",
+    "wikiEn": "3D printing",
+    "aliases": [
+      "Additive manufacturing",
+      "3D打印",
+      "立体光刻"
+    ],
+    "year": 1984,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1984年赫尔为立体光刻申请专利",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "photopolymer",
+      "laser"
+    ],
+    "related": [
+      "selective_laser_melting",
+      "powder_metallurgy",
+      "prefabrication"
+    ],
+    "desc": "按数字模型逐层堆积材料直接成形零件的制造总称。"
+  },
+  {
+    "id": "selective_laser_melting",
+    "name": "激光选区熔化",
+    "nameEn": "Selective laser melting",
+    "wikiEn": "Selective laser melting",
+    "aliases": [
+      "SLM",
+      "激光粉末床熔化",
+      "Direct metal laser sintering"
+    ],
+    "year": 1995,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1995年Behrens等以全熔化方式打印金属",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "laser",
+      "powder_metallurgy"
+    ],
+    "related": [
+      "superalloy",
+      "additive_manufacturing",
+      "titanium_alloy"
+    ],
+    "desc": "激光逐层完全熔化金属粉末成形，适合复杂承力件。"
+  },
+  {
+    "id": "electroplating",
+    "name": "电镀",
+    "nameEn": "Electroplating",
+    "wikiEn": "Electroplating",
+    "aliases": [
+      "电镀工艺",
+      "Electrodeposition"
+    ],
+    "year": 1839,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "雅可比1839年实现电镀工业应用",
+    "era": "industrial",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "voltaic_pile"
+    ],
+    "related": [
+      "copper_electrorefining",
+      "recycling",
+      "semiconductor_device_fabrication"
+    ],
+    "desc": "靠电解在工件表面沉积金属薄层，兼防腐与装饰。"
+  },
+  {
+    "id": "heat_treating",
+    "name": "热处理",
+    "nameEn": "Heat treating",
+    "wikiEn": "Heat treating",
+    "aliases": [
+      "淬火",
+      "回火",
+      "Metal heat treatment"
+    ],
+    "year": 1868,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "19世纪中后期金相学使淬火回火科学化",
+    "era": "industrial",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "crucible_steel",
+      "bessemer_steel"
+    ],
+    "related": [
+      "high_speed_steel",
+      "mangalloy",
+      "basic_oxygen_steelmaking"
+    ],
+    "desc": "以加热保温冷却改变钢的组织，调控硬度与韧性。"
+  },
+  {
+    "id": "forging",
+    "name": "锻造",
+    "nameEn": "Forging",
+    "wikiEn": "Forging",
+    "aliases": [
+      "锻压",
+      "Hammer forging"
+    ],
+    "year": -1500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "青铜时代锤击成形，铁器时代成熟",
+    "era": "bronze_age",
+    "category": "manufacturing",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "bronze_metallurgy",
+      "bellows"
+    ],
+    "related": [
+      "trip_hammer",
+      "steam_hammer",
+      "crucible_steel"
+    ],
+    "desc": "以冲击力使金属塑性流动成形并细化晶粒。"
+  },
+  {
+    "id": "lean_manufacturing",
+    "name": "精益生产",
+    "nameEn": "Lean manufacturing",
+    "wikiEn": "Lean manufacturing",
+    "aliases": [
+      "Just-in-time manufacturing",
+      "丰田生产方式",
+      "TPS"
+    ],
+    "year": 1988,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "源于1950年代丰田，1988年定名精益",
+    "era": "information",
+    "category": "manufacturing",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "assembly_line",
+      "taylor_scientific_management"
+    ],
+    "related": [
+      "automobile",
+      "model_t",
+      "interchangeable_parts"
+    ],
+    "desc": "以消除不增值环节、按需拉动生产的制造管理范式。"
+  },
+  {
+    "id": "electrolysis_of_water",
+    "name": "电解水",
+    "nameEn": "Electrolysis of water",
+    "wikiEn": "Electrolysis of water",
+    "aliases": [
+      "水电解",
+      "Water electrolysis"
+    ],
+    "year": 1800,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "尼科尔森与卡莱尔1800年首次电解水",
+    "era": "industrial",
+    "category": "energy_power",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "voltaic_pile",
+      "green_hydrogen",
+      "fuel_cell"
+    ],
+    "desc": "用直流电把水分解为氢与氧，绿氢路线的关键一步。"
+  },
+  {
+    "id": "coal_fired_power_station",
+    "name": "燃煤火力发电厂",
+    "nameEn": "Coal-fired power station",
+    "wikiEn": "Coal-fired power station",
+    "aliases": [
+      "火电厂",
+      "Thermal power station"
+    ],
+    "year": 1882,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以1882年首批商用燃煤电站为起点",
+    "era": "second_industrial",
+    "category": "energy_power",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "electricity_generation",
+      "steam_engine"
+    ],
+    "related": [
+      "coal_fuel",
+      "carbon_capture_and_storage",
+      "electrical_grid"
+    ],
+    "desc": "燃煤产汽驱动汽轮发电机组，20世纪的主力电源。"
+  },
+  {
+    "id": "biogas",
+    "name": "沼气",
+    "nameEn": "Biogas",
+    "wikiEn": "Biogas",
+    "aliases": [
+      "甲烷发酵气",
+      "Anaerobic digestion"
+    ],
+    "year": 1895,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "19世纪末建成首批厌氧消化池",
+    "era": "second_industrial",
+    "category": "energy_power",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "fermentation"
+    ],
+    "related": [
+      "manure",
+      "natural_gas_distribution",
+      "dairy"
+    ],
+    "desc": "厌氧消化粪污与有机垃圾所得可燃气体及其工程。"
+  },
+  {
+    "id": "steam_reforming",
+    "name": "蒸汽重整制氢",
+    "nameEn": "Steam reforming",
+    "wikiEn": "Steam reforming",
+    "aliases": [
+      "天然气重整",
+      "SMR"
+    ],
+    "year": 1926,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1920年代工业化生产合成气与氢",
+    "era": "second_industrial",
+    "category": "energy_power",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "haber_process",
+      "natural_gas_distribution"
+    ],
+    "related": [
+      "green_hydrogen",
+      "fuel_cell",
+      "electrolysis_of_water"
+    ],
+    "desc": "以高温水蒸气重整天然气取氢与合成气的主流工业法。"
+  },
+  {
+    "id": "hydraulic_fracturing",
+    "name": "水力压裂",
+    "nameEn": "Fracking",
+    "wikiEn": "Fracking",
+    "aliases": [
+      "Hydraulic fracturing",
+      "压裂",
+      "页岩气革命"
+    ],
+    "year": 1947,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1947年首次商业压裂试验",
+    "era": "atomic_electronic",
+    "category": "energy_power",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "rotary_drilling"
+    ],
+    "related": [
+      "natural_gas_distribution",
+      "petroleum_refinery",
+      "oil_well"
+    ],
+    "desc": "以高压流体压裂储层释放致密油气，重绘能源版图。"
+  },
+  {
+    "id": "combined_cycle_power_plant",
+    "name": "燃气蒸汽联合循环电站",
+    "nameEn": "Combined-cycle power plant",
+    "wikiEn": "Combined-cycle power plant",
+    "aliases": [
+      "CCPP",
+      "联合循环发电"
+    ],
+    "year": 1949,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1949年首座联合循环电站投入运行",
+    "era": "atomic_electronic",
+    "category": "energy_power",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "gas_turbine",
+      "steam_turbine"
+    ],
+    "related": [
+      "natural_gas_distribution",
+      "electrical_grid",
+      "carbon_capture_and_storage"
+    ],
+    "desc": "燃气轮机排气再烧锅炉驱动汽轮机，供电效率超六成。"
+  },
+  {
+    "id": "high_voltage_direct_current",
+    "name": "高压直流输电",
+    "nameEn": "High-voltage direct current",
+    "wikiEn": "High-voltage direct current",
+    "aliases": [
+      "HVDC",
+      "直流输电"
+    ],
+    "year": 1954,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1954年哥特兰岛首次商用架空HVDC",
+    "era": "atomic_electronic",
+    "category": "energy_power",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "alternating_current",
+      "electrical_grid"
+    ],
+    "related": [
+      "transformer",
+      "three_phase_power",
+      "nuclear_power_plant"
+    ],
+    "desc": "以直流远距离输电并互联不同步电网，损耗低于交流。"
+  },
+  {
+    "id": "multi_junction_solar_cell",
+    "name": "多结叠层太阳能电池",
+    "nameEn": "Multi-junction solar cell",
+    "wikiEn": "Multi-junction solar cell",
+    "aliases": [
+      "Tandem solar cell",
+      "叠层电池",
+      "钙钛矿叠层"
+    ],
+    "year": 1976,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1970年代中期异质结串联电池效率领先",
+    "era": "information",
+    "category": "energy_power",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "solar_cell",
+      "gaas_solar_cell",
+      "epitaxy"
+    ],
+    "related": [
+      "perovskite_solar_cell",
+      "photovoltaic_power_station",
+      "artificial_satellite"
+    ],
+    "desc": "多种禁带材料叠层分食光谱，效率纪录常驻的结构。"
+  },
+  {
+    "id": "carbon_capture_and_storage",
+    "name": "碳捕集与封存",
+    "nameEn": "Carbon capture and storage",
+    "wikiEn": "Carbon capture and storage",
+    "aliases": [
+      "CCS",
+      "碳封存"
+    ],
+    "year": 1996,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1996年挪威Sleipner项目首次海上地质封存",
+    "era": "information",
+    "category": "energy_power",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "petroleum_refinery",
+      "natural_gas_distribution"
+    ],
+    "related": [
+      "green_hydrogen",
+      "coal_fired_power_station",
+      "electricity_generation"
+    ],
+    "desc": "把电厂与工业烟气中的二氧化碳捕集后封存于地下。"
+  },
+  {
+    "id": "railway_signalling",
+    "name": "铁路信号闭塞系统",
+    "nameEn": "Railway signalling",
+    "wikiEn": "Railway signalling",
+    "aliases": [
+      "Railway signaling",
+      "闭塞制",
+      "联锁"
+    ],
+    "year": 1841,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1840年前后英国确立时间间隔与绝对闭塞",
+    "era": "industrial",
+    "category": "transport",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "railway_locomotive"
+    ],
+    "related": [
+      "telegraph",
+      "railway_air_brake",
+      "subway"
+    ],
+    "desc": "以闭塞分区与联锁保证同一区间不两车相撞的规则体系。"
+  },
+  {
+    "id": "clipper_ship",
+    "name": "飞剪船",
+    "nameEn": "Clipper",
+    "wikiEn": "Clipper",
+    "aliases": [
+      "Clipper ship",
+      "快剪船"
+    ],
+    "year": 1845,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1845年彩虹号开创飞剪船时代",
+    "era": "industrial",
+    "category": "transport",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "sailing_ship"
+    ],
+    "related": [
+      "suez_canal",
+      "steamship",
+      "tea"
+    ],
+    "desc": "线型细瘦、满帆高速的木壳商船，茶运与移民潮主力。"
+  },
+  {
+    "id": "turbocharger",
+    "name": "涡轮增压器",
+    "nameEn": "Turbocharger",
+    "wikiEn": "Turbocharger",
+    "aliases": [
+      "增压器",
+      "Turbo"
+    ],
+    "year": 1905,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "布希1905年为柴油机排气增压申请专利",
+    "era": "second_industrial",
+    "category": "transport",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "gas_turbine",
+      "diesel_engine"
+    ],
+    "related": [
+      "diesel_locomotive",
+      "automobile",
+      "internal_combustion_engine"
+    ],
+    "desc": "用废气涡轮驱动压气机给进气增压，提高功率密度。"
+  },
+  {
+    "id": "airbag",
+    "name": "安全气囊",
+    "nameEn": "Airbag",
+    "wikiEn": "Airbag",
+    "aliases": [
+      "辅助约束系统",
+      "SRS airbag"
+    ],
+    "year": 1973,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1973年通用汽车首次量产装备",
+    "era": "information",
+    "category": "transport",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "three_point_seatbelt"
+    ],
+    "related": [
+      "automobile",
+      "model_t",
+      "tank"
+    ],
+    "desc": "碰撞传感器引爆气囊，数十毫秒内缓冲乘员头胸部。"
+  },
+  {
+    "id": "fly_by_wire",
+    "name": "电传操纵",
+    "nameEn": "Fly-by-wire",
+    "wikiEn": "Fly-by-wire",
+    "aliases": [
+      "FBW",
+      "数字式电传"
+    ],
+    "year": 1972,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1972年F-8C完成数字式电传试飞",
+    "era": "information",
+    "category": "transport",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "autopilot",
+      "transistor"
+    ],
+    "related": [
+      "airplane",
+      "consumer_drone",
+      "gyroscope"
+    ],
+    "desc": "以电信号与计算机取代钢缆液压杆操纵飞机舵面。"
+  },
+  {
+    "id": "catalytic_converter",
+    "name": "汽车三元催化器",
+    "nameEn": "Catalytic converter",
+    "wikiEn": "Catalytic converter",
+    "aliases": [
+      "触媒转化器",
+      "Three-way catalyst"
+    ],
+    "year": 1975,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1975年美国排放法规推动量产装车上路",
+    "era": "information",
+    "category": "transport",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "internal_combustion_engine",
+      "petroleum_refinery"
+    ],
+    "related": [
+      "tetraethyllead",
+      "recycling",
+      "automobile"
+    ],
+    "desc": "贵金属涂层的蜂窝陶瓷，把尾气有害物转化为无害气体。"
+  },
+  {
+    "id": "ion_thruster",
+    "name": "离子推进器",
+    "nameEn": "Ion thruster",
+    "wikiEn": "Ion thruster",
+    "aliases": [
+      "静电推进",
+      "Spacecraft electric propulsion"
+    ],
+    "year": 1964,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1964年SERT-1完成首次在轨点火试验",
+    "era": "atomic_electronic",
+    "category": "space_exploration",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "electrical_grid"
+    ],
+    "related": [
+      "rocket_engine",
+      "tokamak",
+      "artificial_satellite"
+    ],
+    "desc": "把电离气体加速喷出以获得微小但持久的推力。"
+  },
+  {
+    "id": "autonomous_underwater_vehicle",
+    "name": "自主水下航行器",
+    "nameEn": "Autonomous underwater vehicle",
+    "wikiEn": "Autonomous underwater vehicle",
+    "aliases": [
+      "AUV",
+      "无缆水下机器人"
+    ],
+    "year": 1957,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1957年SPUR号首艘无缆自航鱼雷式载体",
+    "era": "atomic_electronic",
+    "category": "space_exploration",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "submarine"
+    ],
+    "related": [
+      "alvin_submersible",
+      "sonar",
+      "inertial_navigation"
+    ],
+    "desc": "无需缆绳按预置任务自主航行探测的水下机器人。"
+  },
+  {
+    "id": "gravity_assist",
+    "name": "引力弹弓",
+    "nameEn": "Gravity assist",
+    "wikiEn": "Gravity assist",
+    "aliases": [
+      "Swing-by",
+      "借力变轨"
+    ],
+    "year": 1973,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1973年先锋10号首次借木星加速",
+    "era": "information",
+    "category": "space_exploration",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "rocket_engine"
+    ],
+    "related": [
+      "voyager_program",
+      "new_horizons",
+      "artificial_satellite"
+    ],
+    "desc": "借行星轨道运动改变探测器速度与方向的导航技术。"
+  },
+  {
+    "id": "tiangong_space_station",
+    "name": "天宫空间站",
+    "nameEn": "Tiangong space station",
+    "wikiEn": "Tiangong space station",
+    "aliases": [
+      "中国空间站",
+      "CSS"
+    ],
+    "year": 2022,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2022年底以问天、梦天完成三舱构型",
+    "era": "intelligent",
+    "category": "space_exploration",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "iss",
+      "rocket_engine",
+      "space_suit"
+    ],
+    "related": [
+      "artificial_satellite",
+      "extravehicular_activity",
+      "chinese_lunar_program"
+    ],
+    "desc": "中国三舱构型近地空间站，2022年建成转入应用。"
+  }
+]

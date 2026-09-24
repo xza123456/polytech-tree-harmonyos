@@ -1,0 +1,414 @@
+[
+ {
+  "id": "characteristic_classes",
+  "add_prereqs": [],
+  "add_related": [
+   "yang_mills_gauge_theory",
+   "general_relativity"
+  ],
+  "reason": "杨-米尔斯瞬子与磁单极的拓扑荷由陈类/施蒂费尔-惠特尼类分类，广义相对论中自旋结构存在性亦以示性类为障碍，示性类成为规范场拓扑分类与时空流形研究的工具"
+ },
+ {
+  "id": "xerography",
+  "add_prereqs": [
+   "einstein_photoelectric"
+  ],
+  "add_related": [],
+  "reason": "卡尔逊1938年静电复印以硒涂层鼓的光电导成潜影：照到处电荷消散、暗处留影，光导机理直接依赖爱因斯坦1905年建立的光电效应理论"
+ },
+ {
+  "id": "kantorovich_linear_programming",
+  "add_prereqs": [],
+  "add_related": [
+   "taylor_scientific_management"
+  ],
+  "reason": "康托洛维奇1939年《生产的组织与计划的数学方法》研究水泥、木材运输与设备利用率优化，自我定位为泰勒科学管理传统的定量化延续"
+ },
+ {
+  "id": "symplectic_geometry",
+  "add_prereqs": [
+   "hamilton_jacobi_equation"
+  ],
+  "add_related": [],
+  "reason": "外尔1939年命名辛群、建立辛几何，其相空间反对称形式直接源于哈密顿-雅可比正则变换理论的几何化，无经典力学分析框架则辛结构无从产生"
+ },
+ {
+  "id": "artificial_neural_network",
+  "add_prereqs": [
+   "neuron_doctrine"
+  ],
+  "add_related": [],
+  "reason": "麦卡洛克与皮茨1943年阈值神经单元模型以神经元的'全或无'放电与突触传递为原型，其论文直接引用谢林顿的神经生理学，神经元学说是不可绕开的前提"
+ },
+ {
+  "id": "c_star_algebras",
+  "add_prereqs": [],
+  "add_related": [
+   "von_neumann_quantum_foundations"
+  ],
+  "reason": "盖尔范德-奈伊马克1943年巴拿赫代数理论与冯·诺依曼1929-32年量子力学算子环公理化互为表里：交换谱定理统一傅里叶分析，非交换侧直接服务于可观测量代数"
+ },
+ {
+  "id": "game_theory",
+  "add_prereqs": [],
+  "add_related": [
+   "thermonuclear_weapon",
+   "vickrey_auction_theory"
+  ],
+  "reason": "冯·诺依曼-摩根斯坦1944年奠基后，博弈论成为核威慑与边缘政策分析的官方语言；维克里1961年拍卖理论又把其信息-策略结构用于定价机制设计"
+ },
+ {
+  "id": "chern_classes",
+  "add_prereqs": [],
+  "add_related": [
+   "yang_mills_gauge_theory",
+   "standard_model_particle_physics"
+  ],
+  "reason": "'t Hooft-Polyakov单极磁荷即首陈类，BPST瞬子的拓扑荷由第二陈数给出；标准模型的反常消除与拓扑项也以陈类为表述语言，陈类1946年构造在1970年代成为规范场论的分类工具"
+ },
+ {
+  "id": "electronic_computer",
+  "add_prereqs": [],
+  "add_related": [
+   "ballistics"
+  ],
+  "reason": "ENIAC由宾夕法尼亚军械研究委员会出资、为阿伯丁弹道研究实验室计算火炮弹道表而建，1946年公布后首项任务即火力表编制，是弹道学需求催生了这台机器"
+ },
+ {
+  "id": "crank_nicolson",
+  "add_prereqs": [],
+  "add_related": [
+   "nuclear_reactor"
+  ],
+  "reason": "克兰克与尼科尔森1947年在洛斯阿拉莫斯同期发表反应堆堆内热中子扩散的隐式无条件稳定格式，方法由早期核反应堆输运计算的刚性问题直接催生"
+ },
+ {
+  "id": "lp_duality_theory",
+  "add_prereqs": [],
+  "add_related": [
+   "arrow_debreu_model"
+  ],
+  "reason": "冯·诺依曼对偶定理中原问题的对偶变量被解释为影子价格，1950年代与阿罗-德布鲁一般均衡模型互相印证，线性规划对偶成为均衡价格存在性论证的代数骨架"
+ },
+ {
+  "id": "operations_research",
+  "add_prereqs": [],
+  "add_related": [
+   "airborne_radar",
+   "sonar"
+  ],
+  "reason": "运筹学1940年前后诞生于布莱克特小组对英国雷达防空资源调配、大西洋护航船队对抗潜艇的作战研究，机载雷达与声呐的战术运用是其最早的定量研究对象"
+ },
+ {
+  "id": "simplex_method",
+  "add_prereqs": [],
+  "add_related": [
+   "vitamins"
+  ],
+  "reason": "1953年施密斯等用单纯形法求解斯蒂格勒以热量、维生素等营养约束构造的最低成本膳食问题，成为单纯形法首次公开的大规模实证，直接推动线性规划进入经济与管理"
+ },
+ {
+  "id": "information_theory",
+  "add_prereqs": [],
+  "add_related": [
+   "entropy_clausius"
+  ],
+  "reason": "香农1948年信息熵公式即玻尔兹曼-克劳修斯熵的加性形式（冯·诺依曼建议沿用'熵'一名），信息熵与热力学熵经麦克斯韦妖、兰道尔原理持续互通"
+ },
+ {
+  "id": "monte_carlo_method",
+  "add_prereqs": [],
+  "add_related": [
+   "thermonuclear_weapon"
+  ],
+  "reason": "乌拉姆与冯·诺依曼1949年在洛斯阿拉莫斯以随机抽样解中子与辐射输运问题，直接服务于氢弹辐射内爆方案Super的可行性计算，方法因核武器问题而生"
+ },
+ {
+  "id": "pseudorandom_number_generator",
+  "add_prereqs": [],
+  "add_related": [
+   "nuclear_reactor"
+  ],
+  "reason": "冯·诺依曼1949年在ENIAC上提出平方取中法，是为反应堆点阵中子增殖蒙特卡洛计算提供随机数，PRNG与早期核反应堆物理模拟同步诞生"
+ },
+ {
+  "id": "nash_equilibrium",
+  "add_prereqs": [],
+  "add_related": [
+   "arrow_debreu_model"
+  ],
+  "reason": "纳什1950-51年不动点论证与阿罗-德布鲁1954年一般均衡存在性证明共用同一数学骨架，均衡概念由博弈论直接进入瓦尔拉斯价格体系，重塑微观经济学"
+ },
+ {
+  "id": "kuhn_tucker_conditions",
+  "add_prereqs": [],
+  "add_related": [
+   "arrow_debreu_model"
+  ],
+  "reason": "库恩1954年以库恩-塔克约束极值条件重写竞争性均衡存在性证明， saddle-point与影子价格成为阿罗-德布鲁体系的标准表述，不等式规划与均衡理论互为表里"
+ },
+ {
+  "id": "univac_i",
+  "add_prereqs": [],
+  "add_related": [
+   "census_system"
+  ],
+  "reason": "UNIVAC I 1951年首台交付美国人口普查局用于处理普查数据，埃克特-莫奇利转产商用机的关键资金来自人口普查局对1950年普查的处理合同"
+ },
+ {
+  "id": "regular_expression",
+  "add_prereqs": [],
+  "add_related": [
+   "genetic_code"
+  ],
+  "reason": "正则表达式经Kleene正则语言理论进入生物信息学：1970-80年代DNA调控基序、酶切位点与蛋白家族的模体检索均以正则模式为查询语言，对象正是破译后的遗传密码序列"
+ },
+ {
+  "id": "bellman_dynamic_programming",
+  "add_prereqs": [],
+  "add_related": [
+   "human_genome_project"
+  ],
+  "reason": "尼德曼-翁施1970年全局序列比对即贝尔曼递推的最优性原理应用，动态规划由此成为人类基因组计划中序列拼接与比对的核心算法"
+ },
+ {
+  "id": "doob_martingale_theorems",
+  "add_prereqs": [],
+  "add_related": [
+   "stock_exchange"
+  ],
+  "reason": "杜布1953年鞅收敛与可选停止定理经萨缪尔森1965年'有效市场价格为鞅'论断移植到金融，成为证券交易所定价与衍生品数学的基础语言"
+ },
+ {
+  "id": "hash_table",
+  "add_prereqs": [],
+  "add_related": [
+   "human_genome_project"
+  ],
+  "reason": "鲁恩1953年链式散列开创键值检索；基因组鸟枪法组装依赖k-mer哈希表建de Bruijn图，人类基因组计划及其后工具使散列成为海量序列数据处理基石"
+ },
+ {
+  "id": "magnetic_core_memory",
+  "add_prereqs": [],
+  "add_related": [
+   "corona_satellite"
+  ],
+  "reason": "磁芯存储器因抗辐射、非易失成为1960年代星载计算机唯一可行的内存，科罗纳等可回收胶片侦察卫星即以其承载姿态与回收控制程序"
+ },
+ {
+  "id": "metropolis_hastings",
+  "add_prereqs": [],
+  "add_related": [
+   "gibbs_statistical_ensembles"
+  ],
+  "reason": "梅特罗波利斯等1953年论文题为'用快速计算机的物态方程计算'，目标是吉布斯系综框架下多体系统配分函数与相变，MCMC直接承自系综统计力学"
+ },
+ {
+  "id": "milnor_exotic_spheres",
+  "add_prereqs": [],
+  "add_related": [
+   "general_relativity"
+  ],
+  "reason": "七维 exotic sphere 于1970年代末被霍金-佩里等用于引力瞬子背景与量子引力路径积分病态分析，其不存在性后成N=2超引力整体反常消除条件，微分拓扑与广义相对论由此交汇"
+ },
+ {
+  "id": "pontryagin_maximum_principle",
+  "add_prereqs": [],
+  "add_related": [
+   "apollo_11"
+  ],
+  "reason": "庞特里亚金极大值原理经劳登1963年引物矢量理论给出变推力最优轨道转移条件，阿波罗动力下降PGNCS制导即以最优控制必要条件数值求解，航天器燃料优化是其经典应用"
+ },
+ {
+  "id": "fortran",
+  "add_prereqs": [],
+  "add_related": [
+   "petroleum_refinery"
+  ],
+  "reason": "IBM 1957年将首个IBM之外的FORTRAN编译器交付德士古炼油公司用于炼油流程计算，石化装置优化成为FORTRAN最早的工业用户场景"
+ },
+ {
+  "id": "kaplan_meier_estimator",
+  "add_prereqs": [],
+  "add_related": [
+   "randomized_controlled_trial"
+  ],
+  "reason": "卡普兰-迈耶乘积极限估计专为医学随访中的删失生存数据而创，随即成为随机对照临床试验总生存期分析的标准方法，统计工具由试验需求直接催生"
+ },
+ {
+  "id": "modem",
+  "add_prereqs": [],
+  "add_related": [
+   "nike_sam"
+  ],
+  "reason": "1958年随SAGE防空系统量产的TAAC-1调制解调器经电话线在管制中心、截击机与奈基地空导弹阵地间传输数字目标航迹，防空导弹作战体系是调制解调器的诞生场景"
+ },
+ {
+  "id": "breadth_first_search",
+  "add_prereqs": [],
+  "add_related": [
+   "printed_circuit_board"
+  ],
+  "reason": "李1961年解印刷电路板布线迷宫的线搜索算法即无权图广度优先搜索的网格形式，PCB与芯片自动布线的经典算法由此定型"
+ },
+ {
+  "id": "cobol",
+  "add_prereqs": [],
+  "add_related": [
+   "bank"
+  ],
+  "reason": "COBOL 1959年为美国银行与保险公司的批量账务数据处理而生，此后数十年近代银行核心系统仍以COBOL为主干，商业金融是定义该语言需求的客户"
+ },
+ {
+  "id": "reed_solomon_code",
+  "add_prereqs": [],
+  "add_related": [
+   "curiosity_rover"
+  ],
+  "reason": "里德-所罗门码被CCSDS采纳为深空遥测标准内级纠错码，好奇号等火星探测器链路以RS码对抗深空信噪比恶化与突发误码，是RS码最典型的空间工程舞台"
+ },
+ {
+  "id": "thom_cobordism",
+  "add_prereqs": [],
+  "add_related": [
+   "first_superstring_revolution"
+  ],
+  "reason": "托姆配边环后来成为弦论的语言：D-膜荷与拉蒙-拉蒙场由配边群刻画，2016年以来的'量子引力配边猜想'把1954年的流形边界等价直接接入超弦革命后的弦论框架"
+ },
+ {
+  "id": "multigrid_method",
+  "add_prereqs": [],
+  "add_related": [
+   "supersonic_wind_tunnel"
+  ],
+  "reason": "布兰特1970年代发展多重网格法正是为跨声速气动力方程组迭代，跨超声速风洞试验配套的CFD求解器借粗细网格互补把阻力计算降到近线性代价"
+ },
+ {
+  "id": "qr_algorithm",
+  "add_prereqs": [],
+  "add_related": [
+   "nuclear_reactor"
+  ],
+  "reason": "弗朗西斯1961年在英国原子能哈威尔研究所为反应堆点阵物理的大矩阵特征值（中子增殖因子）提出QR迭代，QR算法因核反应堆计算需求而诞生"
+ },
+ {
+  "id": "cmos",
+  "add_prereqs": [
+   "semiconductor_device_fabrication"
+  ],
+  "add_related": [],
+  "reason": "萨支唐与万拉斯1963年互补MOS结构须以平面工艺 CMOS 对管匹配制造为前提，没有半导体器件批量制造工艺互补电路无法实现"
+ },
+ {
+  "id": "tikhonov_regularization",
+  "add_prereqs": [],
+  "add_related": [
+   "electron_microscope"
+  ],
+  "reason": "吉洪诺夫学派1960-70年代把正则化解不适定问题理论应用于电子显微镜三维重构，从有限倾角投影恢复生物大分子密度是该理论最著名的直接工程应用"
+ },
+ {
+  "id": "ibm_system_360",
+  "add_prereqs": [
+   "semiconductor_device_fabrication"
+  ],
+  "add_related": [],
+  "reason": "System/360 1964年赖以统一整机成本与可靠性的固态电路（SLT）混合集成必须建立在其时刚成熟的半导体器件制造工艺之上，工艺能力决定了这条产品线的可行性"
+ },
+ {
+  "id": "cooley_tukey_fft",
+  "add_prereqs": [],
+  "add_related": [
+   "radio_astronomy"
+  ],
+  "reason": "射电天文综合孔径成像须在傅里叶域做互相关谱与反演，1965年FFT把 数千条基线相关处理降为可行规模，直接促成70年代口径综合成像（CS 等阵）"
+ },
+ {
+  "id": "minicomputer",
+  "add_prereqs": [],
+  "add_related": [
+   "wind_tunnel"
+  ],
+  "reason": "1965年起的低价PDP-8等小型机把风洞试验的实时数据采集与回路控制从主机机房搬进实验室，实验工程因此获得在线数字控制能力"
+ },
+ {
+  "id": "moore_law",
+  "add_prereqs": [
+   "semiconductor_device_fabrication"
+  ],
+  "add_related": [],
+  "reason": "摩尔1965年翻倍预测的原始论证是平面工艺晶圆批量生产的成品率与单管成本曲线，该经验规律直接建立在半导体器件制造工艺的良率经济学之上"
+ },
+ {
+  "id": "packet_switching",
+  "add_prereqs": [],
+  "add_related": [
+   "thermonuclear_weapon"
+  ],
+  "reason": "巴兰1962-64年在兰德公司的分组交换与泛在分布式网络设计，其明确目标是核武器打击后军用通信仍能存续，氢弹时代的生存性需求催生了因特网核心技术"
+ },
+ {
+  "id": "computer_vision",
+  "add_prereqs": [],
+  "add_related": [
+   "corona_satellite"
+  ],
+  "reason": "罗伯茨1966年图像理解论文出自林肯实验室为可回收卫星照片做增强与目标自动提取的CHESS计划，侦察卫星图像判读需求是计算机视觉的直接起点"
+ },
+ {
+  "id": "spectral_geometry",
+  "add_prereqs": [],
+  "add_related": [
+   "planck_quantum_hypothesis"
+  ],
+  "reason": "外尔1911-12年特征值渐近计数与相空间体积成正比，为旧量子论的玻尔-索末菲量子化给出几何表述；卡克1966年'能否听出鼓的形状'使谱几何与量子体系谱问题合流"
+ },
+ {
+  "id": "langlands_program",
+  "add_prereqs": [],
+  "add_related": [
+   "yang_mills_gauge_theory"
+  ],
+  "reason": "朗兰兹对偶自1978年被蒙托南-奥利夫电磁对偶猜想认领，2006年卡普斯京-威滕把几何朗兰兹对应实现为N=4杨-米尔斯理论的S-对偶，数论纲领与规范场论双向贯通"
+ },
+ {
+  "id": "computer_algebra",
+  "add_prereqs": [],
+  "add_related": [
+   "general_relativity"
+  ],
+  "reason": "MACSYMA等符号计算系统1960-70年代的重大用户即广义相对论：黎曼与里奇张量的机器推导及精确解搜寻（REDUE等）依赖计算机代数，物理计算需求亦塑造了该领域"
+ },
+ {
+  "id": "software_engineering",
+  "add_prereqs": [],
+  "add_related": [
+   "taylor_scientific_management"
+  ],
+  "reason": "1968年北约软件工程会议的诊断是大型程序危机须以泰勒式工程化管理、分工与度量来组织开发，'软件工程'一词正是把科学管理移植到软件的产物"
+ },
+ {
+  "id": "virtual_reality",
+  "add_prereqs": [],
+  "add_related": [
+   "video_game_console"
+  ],
+  "reason": "萨瑟兰1968年头戴演示中包含实时'乒乓球'交互程序，其即时渲染-人机交互路线经布什内尔等直接启发1972年Magnavox Odyssey家用游戏机"
+ },
+ {
+  "id": "charge_coupled_device",
+  "add_prereqs": [
+   "einstein_photoelectric"
+  ],
+  "add_related": [],
+  "reason": "博伊尔与史密斯1969年CCD以栅极逐格转移光生电荷成像，光电转换依赖爱因斯坦1905年建立的光电效应，是光量子-固体电子学原理的器件化"
+ },
+ {
+  "id": "dijkstra_algorithm",
+  "add_prereqs": [],
+  "add_related": [
+   "gps"
+  ],
+  "reason": "卫星定位车载导航的路线规划引擎以加权最短路径为核心，迪克斯特拉算法及其分层改进至今仍是地图导航求解器的事实基线"
+ }
+]

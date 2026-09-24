@@ -1,0 +1,602 @@
+[
+ {
+  "id": "hoare_logic",
+  "add_prereqs": ["first_order_logic"],
+  "add_related": ["model_checking", "type_theory"],
+  "reason": "霍尔逻辑的三元式以一阶逻辑公式表达前/后置条件，其推理规则建立在一阶谓词演算之上；Clarke-Emerson 的模型检验把这类断言规范自动化为有限状态穷举，类型论则从「命题即类型」一侧给出同一目标的证明式进路"
+ },
+ {
+  "id": "dram",
+  "add_prereqs": ["silicon_transistor", "planar_process"],
+  "add_related": [],
+  "reason": "丹纳德单管单元就是一个硅 MOS 晶体管加存储电容，其制造以硅平面工艺的栅氧化与源漏扩散为前提，1970 年 Intel 1103 即据此量产"
+ },
+ {
+  "id": "linnainmaa_reverse_autodiff",
+  "add_prereqs": [],
+  "add_related": ["backpropagation", "numerical_weather_prediction"],
+  "reason": "林奈因玛在计算图上反向遍历施加链式法则，1986 年 Rumelhart-Hinton-Williams 的反向传播即该算法在多层感知机上的具体化；同一反向模式就是伴随梯度法，业务数值天气预报的四维变分同化靠它计算目标函数对初值的梯度"
+ },
+ {
+  "id": "relational_database",
+  "add_prereqs": ["cantor_set_theory"],
+  "add_related": ["archive_institution"],
+  "reason": "科德的关系即笛卡尔积的子集、关系演算即一阶谓词运算，其数学语言建立在康托尔集合论之上；而以分类编号统一检索官方记录的档案文书制度，是表格化数据管理的信息组织前身"
+ },
+ {
+  "id": "rockafellar_convex_analysis",
+  "add_prereqs": ["kuhn_tucker_conditions"],
+  "add_related": ["compressed_sensing"],
+  "reason": "凸分析的共轭函数与对偶定理是库恩-塔克最优性条件的凸化推广；2006 年压缩感知以 L1 最小化重构稀疏信号，其正确性证明依赖次微分与对偶理论"
+ },
+ {
+  "id": "b_tree",
+  "add_prereqs": ["hard_disk"],
+  "add_related": ["relational_database"],
+  "reason": "拜尔与麦克雷特为波音实时订票磁盘文件设计 B 树，阶数与结点大小按磁盘块读写代价选定，故以硬盘存储为前提；它随后成为关系数据库主索引的默认结构"
+ },
+ {
+  "id": "block_cipher",
+  "add_prereqs": [],
+  "add_related": ["enigma_machine", "cyberwarfare"],
+  "reason": "Feistel 网络的分块加密加多轮替换-置换扩散结构，是恩尼格玛等机电转子密码机的电子化延续（DES 出自 IBM Lucifer 方案）；分组密码又是当代网络战中通信加密与制式互通的核心部件"
+ },
+ {
+  "id": "cook_levin_np_completeness",
+  "add_prereqs": [],
+  "add_related": ["rsa", "euv_lithography"],
+  "reason": "NP 完全性给出「验证易而求解困难」问题的严格分界，RSA 的困难性假设正落在这条分界上；EUV 掩模的 OPC 与逆光刻被编码为大规模布尔约束求解，其算力代价的根源即此类问题的 NP 难度"
+ },
+ {
+  "id": "email",
+  "add_prereqs": ["arpanet"],
+  "add_related": ["postal_service"],
+  "reason": "汤姆林森 1971 年的网络邮件是把阿帕网上的 SNDMSG 与 CPYNET 两个程序接起来，并首次用 @ 分隔用户名与主机名，离开阿帕网的报文传输即无从产生；其投递与地址语义沿袭驿传信使制度"
+ },
+ {
+  "id": "intel_4004",
+  "add_prereqs": ["integrated_circuit", "photolithography"],
+  "add_related": [],
+  "reason": "4004 把约 2300 只晶体管装进单片硅栅 PMOS 电路，其可行性来自集成电路概念与光刻图形转移工艺，缺任一项都无法在 1971 年流片"
+ },
+ {
+  "id": "microprocessor",
+  "add_prereqs": ["integrated_circuit"],
+  "add_related": ["silicon_on_insulator_fab"],
+  "reason": "把整颗 CPU 集成到一块芯片的技术前提就是集成电路；当代微处理器为压低漏电与功耗普遍改用 1979 年问世的绝缘体上硅（SOI）工艺"
+ },
+ {
+  "id": "p_vs_np_problem",
+  "add_prereqs": [],
+  "add_related": ["rsa", "public_key_cryptography"],
+  "reason": "P 与 NP 是否相等直接决定「验证易是否求解易」：若 P=NP，RSA 与公钥体系赖以立足的大数分解、离散对数难题都将有多项式算法，现代密码的复杂性假设随之失效"
+ },
+ {
+  "id": "c_language",
+  "add_prereqs": ["algol"],
+  "add_related": ["unix"],
+  "reason": "C 的表达式语法、块结构与局部作用域承自 ALGOL 60（经 BCPL、B 语言传递）；其诞生动机正是里奇为把 Unix 从 PDP-11 汇编移植到多机型所需的系统级语言"
+ },
+ {
+  "id": "cox_proportional_hazards",
+  "add_prereqs": ["kaplan_meier_estimator"],
+  "add_related": ["randomized_controlled_trial"],
+  "reason": "考克斯模型处理右删失生存时间，其部分似然与生存曲线估计接续 1958 年卡普兰-迈耶估计；临床上它是随机对照试验随访终点（死亡、复发）分析协变量效应的主用模型"
+ },
+ {
+  "id": "depth_first_search",
+  "add_prereqs": ["seven_bridges_graph_theory"],
+  "add_related": ["kahn_topological_sort"],
+  "reason": "深度优先搜索以图为对象，其可达性与连通分量语义源于欧拉 1736 年七桥问题开创的图论；DFS 的回溯顺序正是拓扑排序与强连通分量分解的实现基础"
+ },
+ {
+  "id": "nelder_wedderburn_glm",
+  "add_prereqs": ["berkson_logistic_regression"],
+  "add_related": ["randomized_controlled_trial"],
+  "reason": "内尔德-韦德伯恩把伯克森 1944 年的逻辑回归纳入指数族加连接函数的统一框架；该框架成为随机对照试验中二分类与计数结局（有效/无效、发病数）回归分析的统计基础"
+ },
+ {
+  "id": "object_oriented_programming",
+  "add_prereqs": [],
+  "add_related": ["smalltalk", "structured_programming"],
+  "reason": "Smalltalk-72 首次实现完整的对象封装、继承与消息传递，是本条目所述范型的直接载体；面向对象在 70 年代正是作为结构化编程自顶向下分解原则的替代方案而确立"
+ },
+ {
+  "id": "ethernet",
+  "add_prereqs": ["packet_switching"],
+  "add_related": ["optical_fiber_silica"],
+  "reason": "梅特卡夫的 ALOHA 多址接入与帧格式设计建立在报文分块、独立寻径的分组交换范式之上；从 10BASE-F 起以太网主干与园区网大量使用 1970 年的低损耗石英光纤"
+ },
+ {
+  "id": "graphical_user_interface",
+  "add_prereqs": ["sketchpad"],
+  "add_related": ["neisser_cognitive_psychology"],
+  "reason": "萨瑟兰 1963 年 Sketchpad 的光笔、图形对象与实时约束是 Xerox Alto 窗口-图标界面的直接技术来源；而「识别优于回忆」、直接操纵的界面准则取自奈瑟 1967 年确立的认知心理学"
+ },
+ {
+  "id": "mobile_phone",
+  "add_prereqs": ["nicad_battery", "automatic_telephone_switch"],
+  "add_related": [],
+  "reason": "库珀 1973 年的 Dyna-TAC 原型须自带可充电电源，当时唯一可行的是 1947 年镍镉电池；蜂窝系统跨小区接续通话依赖史端乔式自动电话交换体制"
+ },
+ {
+  "id": "unix",
+  "add_prereqs": ["time_sharing"],
+  "add_related": ["c_language"],
+  "reason": "Unix 的多用户、分时与 shell 分层结构直接继承 CTSS 与 Multics 确立的分时系统体制（其名称本身就是对 Multics 的戏仿式改名）；1973 年用 C 重写才获得跨机型可移植性"
+ },
+ {
+  "id": "invariant_subspace_problem",
+  "add_prereqs": ["hilbert_space"],
+  "add_related": ["von_neumann_quantum_foundations"],
+  "reason": "该问题问的是希尔伯特空间上有界线性算子是否必有非平凡闭不变子空间，其语言与工具（谱理论、算子代数）建立在希尔伯特空间理论之上；而冯·诺依曼为量子力学作公理化时正以同一算子谱理论为核心，不变子空间对应可观测量的约化"
+ },
+ {
+  "id": "personal_computer",
+  "add_prereqs": ["microprocessor"],
+  "add_related": ["arcade_video_game"],
+  "reason": "Altair 8800 的核心就是一块 Intel 8080 微处理器，无单芯片 CPU 就没有 398 美元的套件价；而早期个人电脑的需求与资金来自街机市场——沃兹尼亚克在 Atari 设计 Pong 类街机并把奖金投入 Apple I/II"
+ },
+ {
+  "id": "appel_haken_four_color",
+  "add_prereqs": ["seven_bridges_graph_theory"],
+  "add_related": ["cartography"],
+  "reason": "四色问题源于制图实践：把地图区域化为邻接对偶图后着色，其图论语言始于欧拉 1736 年七桥问题；阿佩尔与哈肯正是把该图的可约构形穷举交给计算机完成证明"
+ },
+ {
+  "id": "cryptographic_hash_function",
+  "add_prereqs": [],
+  "add_related": ["cyclic_redundancy_check", "cyberwarfare"],
+  "reason": "循环冗余校验早已用定长摘要检测数据传输中的篡改与差错，密码学哈希在其上追加抗原像与抗碰撞要求；这类摘要正是当代网络战中数字取证、恶意代码鉴别与口令存储的基础构件"
+ },
+ {
+  "id": "diffie_hellman",
+  "add_prereqs": [],
+  "add_related": ["rsa", "public_key_cryptography"],
+  "reason": "迪菲-赫尔曼以有限域上离散对数的单向性实现公开信道上的密钥协商，是本条目所述公钥范式的第一个具体协议；RSA 随后用大数分解难题给出同一范式的加密-签名实现"
+ },
+ {
+  "id": "may_logistic_map",
+  "add_prereqs": ["verhulst_logistic_equation"],
+  "add_related": ["lorenz_chaos"],
+  "reason": "梅把费尔许斯特 1838 年的连续逻辑斯蒂种群方程离散为一维迭代映射，从而在其中发现倍周期分岔通往混沌；这一结果与洛伦兹 1963 年大气模型的决定论混沌互为印证，共同确立混沌范式"
+ },
+ {
+  "id": "public_key_cryptography",
+  "add_prereqs": ["block_cipher"],
+  "add_related": ["digital_signature", "cyberwarfare"],
+  "reason": "公钥体系针对的正是分组密码（DES 类）无法解决的安全信道密钥分发难题，故以对称分组密码为问题前提；数字签名是把公私钥方向反转得到的同一范式产物，而公钥证书与加密指挥链又成为当代网络战中身份认证的基石"
+ },
+ {
+  "id": "router",
+  "add_prereqs": ["packet_switching"],
+  "add_related": ["automatic_telephone_switch"],
+  "reason": "路由器为 IP 数据报独立选路转发，其技术前提是 1965 年前后确立的分组交换；而「按地址自动接续、在共享交换网络上转发」的工程传统始于史端乔 1891 年的自动电话交换"
+ },
+ {
+  "id": "lempel_ziv_compression",
+  "add_prereqs": ["information_theory"],
+  "add_related": ["data_compression", "dna_data_storage"],
+  "reason": "LZ 以自适应字典与指针替换取代香农-范诺式的概率模型编码，其理论目标（逼近信源熵的无损压缩）由信息论设定，是 1949 年以来无损压缩路线的通用化改造；在碱基序列这类高冗余数据上，LZ4 等 LZ 变体仍是基因组存储与传输的常用压缩方案"
+ },
+ {
+  "id": "apery_constant",
+  "add_prereqs": ["euler_product_zeta"],
+  "add_related": ["riemann_hypothesis"],
+  "reason": "阿培里常数就是黎曼 ζ 函数在 s=3 的取值，欧拉乘积公式与函数方程定义了这一对象并有 ζ(2n) 的封闭形式，ζ(2n+1) 的无理性长期悬空；其研究背景正与 ζ 函数零点分布（黎曼猜想）同属一条问题链"
+ },
+ {
+  "id": "computational_geometry",
+  "add_prereqs": ["cartography"],
+  "add_related": ["industrial_robot"],
+  "reason": "该领域的成形直接来自制图与地理数据的算法需求（尼弗加尔特 1974 年的多边形叠置、凸包与扫掠线算法）；此后多边形偏置、可见性与构型空间算法成为工业机器人避障路径规划的计算内核"
+ },
+ {
+  "id": "intel_8086",
+  "add_prereqs": ["ion_implantation"],
+  "add_related": ["ibm_pc"],
+  "reason": "8086 采用 HMOS 硅栅工艺，其阈值电压调整与源漏掺杂依赖 1954 年问世的离子注入；它因被 1981 年 IBM PC 选为 CPU 而成为延续至今的 x86 指令集源头"
+ },
+ {
+  "id": "blas",
+  "add_prereqs": [],
+  "add_related": ["nuclear_reactor", "numerical_weather_prediction"],
+  "reason": "BLAS 出自阿贡国家实验室为中子输运等反应堆物理大型线性系统编写的 SPACK 程序库，1979 年被抽象为向量-矩阵运算标准接口；数值天气预报等科学计算的稠密与稀疏矩阵求解性能长期以其实现质量为瓶颈"
+ },
+ {
+  "id": "khachiyan_ellipsoid_method",
+  "add_prereqs": ["simplex_method", "lp_duality_theory"],
+  "add_related": [],
+  "reason": "椭球法的对象是线性规划的多面体可行域，其多项式复杂度结论以单纯形法的最坏情形指数代价为对照、以线性规划对偶理论提供的分离判据为前提"
+ },
+ {
+  "id": "merkle_tree",
+  "add_prereqs": ["cryptographic_hash_function"],
+  "add_related": ["blockchain", "archive_institution"],
+  "reason": "默克尔树的每一层都是对子结点取密码学哈希归并，没有抗碰撞哈希就没有该结构；比特币等区块链用它把整本账本压缩进区块头的根哈希，使轻节点以对数量级证据验证交易，这正是档案文书制度几千年来要求的凭证可核验、不可篡改"
+ },
+ {
+  "id": "spreadsheet",
+  "add_prereqs": ["apple_ii"],
+  "add_related": ["double_entry_bookkeeping"],
+  "reason": "VisiCalc 是为 Apple II 写的杀手级程序（甚至把视频 ROM 当作额外内存以挤进 48K），离开这款个人电脑便没有 1979 年的商业化；其行列表格、单元格引用与自动重算结构直接继承复式记账账簿"
+ },
+ {
+  "id": "risc",
+  "add_prereqs": ["microprocessor"],
+  "add_related": ["parallel_computing"],
+  "reason": "精简指令集以单芯片微处理器的译码与流水实现为对象（伯克利 RISC I 用单块 HMOS 芯片实现全流水线）；其以指令级并行换取吞吐的路线，是并行计算思想落到单机上的形式"
+ },
+ {
+  "id": "ibm_pc",
+  "add_prereqs": ["intel_8086"],
+  "add_related": ["printed_circuit_board"],
+  "reason": "IBM 5150 的 CPU 就是 Intel 8086，选型决定了 x86 路线；其开放式主板与 ISA 插槽式扩展卡以印刷电路板与总线互连工艺为前提"
+ },
+ {
+  "id": "model_checking",
+  "add_prereqs": ["hoare_logic"],
+  "add_related": ["railway_signalling"],
+  "reason": "模型检验把「系统是否满足规范」化为有限状态模型上时序断言的全状态穷举，其断言-状态语义承接霍尔逻辑的程序正确性范式；工程上它的大规模应用对象正是铁路信号联锁与闭塞协议这类安全协议"
+ },
+ {
+  "id": "compact_disc",
+  "add_prereqs": ["laser_diode", "photolithography"],
+  "add_related": [],
+  "reason": "CD 拾音头用 780nm 铝镓砷半导体激光二极管与光电探测器读取凹坑，无 1962 年的激光二极管即无便携光盘；其玻璃母盘-镍模电铸复制流程以光刻与光刻胶图形转移工艺制成"
+ },
+ {
+  "id": "freedman_four_manifold",
+  "add_prereqs": ["poincare_topology"],
+  "add_related": ["yang_mills_gauge_theory"],
+  "reason": "弗里德曼证明的是四维情形庞加莱猜想并分类单连通拓扑四维流形，其问题与 handlebody 手术技术源自庞加莱 1895 年的拓扑学及斯梅尔的高维证明；随后唐纳森以杨-米尔斯瞬子证明他构造的某些拓扑流形不存在任何可微结构，二者共同界定四维的特殊性"
+ },
+ {
+  "id": "thurston_geometrization",
+  "add_prereqs": ["hyperbolic_three_manifolds"],
+  "add_related": ["general_relativity"],
+  "reason": "几何化纲领的八类几何以双曲几何为主角，其基础正是瑟斯顿自己 1978 年的双曲三维流形有限覆盖定理；该纲领把三维流形分类化归为几何问题，与相对论宇宙学以空间截面几何决定宇宙形状的问题设置同源"
+ },
+ {
+  "id": "cplusplus",
+  "add_prereqs": ["c_language", "object_oriented_programming"],
+  "add_related": [],
+  "reason": "C++ 以「C with classes」起家：语法、类型与内存模型完全继承 C，而类、继承与虚函数机制取自 70 年代 Smalltalk 确立的面向对象范型"
+ },
+ {
+  "id": "donaldson_theory",
+  "add_prereqs": ["yang_mills_gauge_theory"],
+  "add_related": ["freedman_four_manifold"],
+  "reason": "唐纳森把杨-米尔斯理论的自对偶瞬子模空间定义在四维流形上，用指标定理与瞬子计数推出光滑相交形式的对角化限制，是规范场论直接成为纯数学工具的标志；其动机与结论都针对弗里德曼的四维拓扑分类"
+ },
+ {
+  "id": "internet",
+  "add_prereqs": ["arpanet", "packet_switching"],
+  "add_related": ["cyberwarfare"],
+  "reason": "1983 年 ARPANET 切换到 TCP/IP，把瑟夫-卡恩的网间协议与戴维斯-包兰的分组交换范式连成网络之网络；统一协议使关键基础设施集中可攻，2007 年爱沙尼亚全国性网络瘫痪事件标志其成为新战场"
+ },
+ {
+  "id": "jones_polynomial",
+  "add_prereqs": ["knot_group_wirtinger"],
+  "add_related": ["yang_mills_gauge_theory"],
+  "reason": "琼斯多项式是继维尔丁格扭结群之后第一个全新类型的纽结不变量（琼斯由算子代数的子因子格发现）；1989 年威滕以陈-西蒙斯规范理论给出其物理解释，使它成为拓扑量子场论的可观测量并连上统计力学"
+ },
+ {
+  "id": "karmarkar_interior_point",
+  "add_prereqs": ["khachiyan_ellipsoid_method"],
+  "add_related": ["electrical_grid"],
+  "reason": "卡马卡尔算法在复杂度上承接哈奇扬椭球法的多项式结论，并用投影变换把内点路线变成可实用的工程算法；内点法此后长期是电网最优潮流与经济调度这类大规模线性、凸规划的主力算法"
+ },
+ {
+  "id": "macintosh",
+  "add_prereqs": ["graphical_user_interface"],
+  "add_related": ["desktop_publishing"],
+  "reason": "麦金塔把施乐 Alto 与 Star 确立的窗口-图标-菜单-指针界面（1973）商品化推向大众；它与 LaserWriter 激光打印机、麦金塔排版软件组合，直接催生 1985 年所称的桌面出版革命"
+ },
+ {
+  "id": "wavelet_transform",
+  "add_prereqs": [],
+  "add_related": ["mri_scanner", "jpeg"],
+  "reason": "小波基上的稀疏性是压缩感知加速磁共振成像的模型前提（医用 MRI 欠采样快速重建即用小波域稀疏）；在图像编码一侧，小波变换取代 1992 年 JPEG 所用 DCT 成为新一代压缩标准的核心变换"
+ },
+ {
+  "id": "abc_conjecture",
+  "add_prereqs": ["diophantine_equations"],
+  "add_related": ["three_x_plus_one_semigroup"],
+  "reason": "abc 猜想是关于互素丢番图方程 a+b=c 的素因子结构与大小的猜想，属于丢番图方程这一自丢番图以来的问题类；法尔卡 2005 年以与 abc 等价的「厚集」判据证明考拉兹 3x+1 半群不含正整数原像"
+ },
+ {
+  "id": "pearl_bayesian_networks",
+  "add_prereqs": ["kolmogorov_probability_axioms"],
+  "add_related": ["randomized_controlled_trial"],
+  "reason": "贝叶斯网络以有向无环图的条件独立分解联合概率分布，其语义建立在柯尔莫哥洛夫公理化概率之上；珀尔由此发展的因果层阶梯把「观察」与「干预」区分开，而随机对照试验正是其 do 演算对应的实证标准"
+ },
+ {
+  "id": "backpropagation",
+  "add_prereqs": ["artificial_neural_network", "linnainmaa_reverse_autodiff"],
+  "add_related": ["neuron_doctrine"],
+  "reason": "反向传播的训练对象是 1943 年麦克卡洛克-皮茨确立的人工神经网络，其梯度计算就是林奈因玛 1970 年的反向模式自动微分；网络以神经元与突触加权连接为模型，概念原型来自神经元学说"
+ },
+ {
+  "id": "gmres",
+  "add_prereqs": ["blas"],
+  "add_related": ["nuclear_reactor"],
+  "reason": "GMRES 每步迭代的代价集中在 Arnoldi 正交化与矩阵-向量乘，性能直接取决于 BLAS 实现；萨阿德与舒尔茨的方法正是为求解中子输运这类非对称大型输运方程（阿贡反应堆输运程序）而设计"
+ },
+ {
+  "id": "watkins_q_learning",
+  "add_prereqs": ["pavlov_conditioned_reflex"],
+  "add_related": ["skinner_operant_conditioning"],
+  "reason": "Q 学习是时序差分方法的无模型动作值形式，而 Sutton-Barto 的 TD 误差模型明确取自巴甫洛夫条件反射的预见性反应；以行为后果强化塑造刺激-反应联结的框架则是斯金纳操作性条件反射的算法化"
+ },
+ {
+  "id": "world_wide_web",
+  "add_prereqs": ["internet", "hypertext"],
+  "add_related": ["wikipedia"],
+  "reason": "万维网运行于 1983 年切换到 TCP/IP 的互联网之上，其节点-链接模型承自纳尔逊 1965 年命名的超文本；伯纳斯-李把网当作全球协作知识库的设想，到 2001 年维基百科才真正实现"
+ },
+ {
+  "id": "html",
+  "add_prereqs": ["world_wide_web"],
+  "add_related": ["hypertext"],
+  "reason": "HTML 是万维网的文档语法，1990 年随 CERN 的 WWW 项目定义；其 A 锚点与相对地址语义直接取自超文本的链接-节点概念"
+ },
+ {
+  "id": "microsoft_windows",
+  "add_prereqs": ["ibm_pc"],
+  "add_related": ["graphical_user_interface"],
+  "reason": "Windows 3.0 的成功以 IBM PC 兼容机的装机量及其 CPU、内存规模为硬件前提（1981 年开放架构）；它把施乐确立的窗口-图标-指针界面范式移植到大众 PC 平台"
+ },
+ {
+  "id": "gsm",
+  "add_prereqs": ["mobile_phone", "pulse_code_modulation"],
+  "add_related": [],
+  "reason": "GSM 是蜂窝移动电话体制的 2G 数字化版本，其小区组网与移动性管理以前手持蜂窝电话为对象；语音要先经脉冲编码调制数字化并压缩到 13kbit/s，才能走 TDMA 时隙"
+ },
+ {
+  "id": "http",
+  "add_prereqs": ["world_wide_web"],
+  "add_related": ["domain_name"],
+  "reason": "HTTP 是万维网的传输协议，1991 年随第一个浏览器/服务器实现发布；其 URL 的主机名部分依赖 1985 年启用的域名体系解析为 IP 地址"
+ },
+ {
+  "id": "unicode",
+  "add_prereqs": ["ascii"],
+  "add_related": ["standard_language_norm"],
+  "reason": "统一码把 ASCII 的 7 位字符编码扩展为覆盖多文种的码位空间并保留 Latin-1 兼容层，故以 ASCII 为直接技术前提；它靠制度化标准强制各方互通的做法，与 17 世纪学院式标准语正字法规范同属文字规范化工程"
+ },
+ {
+  "id": "mosaic_browser",
+  "add_prereqs": ["http", "world_wide_web"],
+  "add_related": ["wikipedia"],
+  "reason": "Mosaic 是运行在万维网之上、按 HTTP 取文档并内联渲染图像的浏览器，其图文混排能力以 1990-91 年确立的 HTML/HTTP 协议为唯一技术前提；它引爆的公众上网热潮直接提供了维基百科这类大规模协作内容所需的作者与读者群体"
+ },
+ {
+  "id": "mp3",
+  "add_prereqs": ["information_theory"],
+  "add_related": ["phonograph", "compact_disc"],
+  "reason": "MP3 的感知量化与子带滤波组编码受香农率失真理论界定极限；它是留声机开启的录音产业在数字域的延续，并作为 CD 之外的第二条音乐分发载体存在（其可共享性正是 Napster 的前提）"
+ },
+ {
+  "id": "streaming_media",
+  "add_prereqs": ["internet"],
+  "add_related": ["cinematograph"],
+  "reason": "流媒体以 IP 网络的分包传输为承载，边收边播解决的是网络抖动与缓冲问题；其「按时间轴连续播放」的视听形态来自电影机确立的放映范式，只是把放映厅搬到终端"
+ },
+ {
+  "id": "shors_algorithm",
+  "add_prereqs": ["von_neumann_quantum_foundations"],
+  "add_related": ["rsa"],
+  "reason": "肖尔算法把求周期化为量子态上的傅里叶变换并用测量取回经典信息，其形式语言建立在冯·诺依曼公理化的希尔伯特空间算子框架上；它之所以成为焦点，正因为 RSA 的安全性以分解大数困难为假设"
+ },
+ {
+  "id": "wiles_fermat_proof",
+  "add_prereqs": ["fermat_last_theorem", "arithmetic_geometry"],
+  "add_related": ["modular_curve"],
+  "reason": "证明的对象是费马 1637 年提出的猜想，方法是证半稳定椭圆曲线模性（谷山-志村猜想），这属于格罗滕迪克体系下算术几何用代数几何研究数域方程的路线；模曲线 X0(N) 正是参数化模性的舞台"
+ },
+ {
+  "id": "apache",
+  "add_prereqs": ["http"],
+  "add_related": ["mosaic_browser", "unix"],
+  "reason": "Apache 是 HTTP 协议的服务端实现，由 NCSA httpd 的补丁社区发展而来，服务对象正是 Mosaic 这类浏览器发起的请求；其代码与部署方式承自 Unix 平台的守护进程传统"
+ },
+ {
+  "id": "geometric_langlands",
+  "add_prereqs": ["langlands_program"],
+  "add_related": ["yang_mills_gauge_theory"],
+  "reason": "几何朗兰兹对应是朗兰兹 1967 年纲领在函数域上的几何化（自守层与伽罗瓦局部系统的范畴等价）；卡普斯汀与威滕 2006 年指出该对应正是 N=4 超对称杨-米尔斯理论电-磁 S 对偶限制到曲线上的结果"
+ },
+ {
+  "id": "javascript",
+  "add_prereqs": ["html"],
+  "add_related": ["c_language", "mosaic_browser"],
+  "reason": "JavaScript 是为把可执行脚本嵌入 HTML 页面（Netscape LiveScript/Mocha）而设计，故以 HTML 文档结构为前提；其表达式语法、控制结构与函数形式取自 C 一脉，兴起动力则是 Mosaic 引爆的网页交互需求"
+ },
+ {
+  "id": "svm",
+  "add_prereqs": ["perceptron"],
+  "add_related": ["human_genome_project"],
+  "reason": "支持向量机把感知机的线性可分间隔划分推广为软间隔下的凸二次规划并以核技巧隐式升维；其早期标志性应用是基因表达谱肿瘤分型（Brown 等 1999 年以 SVM 判定白血病亚型），数据基础正是人类基因组计划带动的微阵列功能基因组学"
+ },
+ {
+  "id": "wifi",
+  "add_prereqs": ["ethernet"],
+  "add_related": ["cavity_magnetron"],
+  "reason": "Wi-Fi 是以太网的无线版本——沿用其 MAC 帧格式，把 CSMA/CD 改为 CSMA/CA；它工作在 2.4GHz ISM 频段，该微波频段与磁控管驱动的微波炉共用，多径与干扰约束决定了其扩频/OFDM 与自适应速率设计"
+ },
+ {
+  "id": "google_search",
+  "add_prereqs": ["internet"],
+  "add_related": ["pagerank", "library"],
+  "reason": "谷歌搜索 crawls 互联网并建全网索引，其排序质量来自佩奇-布林的 PageRank；把海量文档统一编目、按相关性提供检索服务的形态，是图书馆目录传统在规模与速度上的延续"
+ },
+ {
+  "id": "pagerank",
+  "add_prereqs": ["world_wide_web", "rayleigh_random_walk"],
+  "add_related": ["scientific_journal"],
+  "reason": "该算法要排序的对象是万维网的链接图，其数学形式是图上随机游走的平稳分布（瑞利 1880 年研究的随机游走是其数学原型）；而「以被链接次数度量权威」取自科学期刊引文分析传统（加菲尔德引文索引与期刊影响因子）"
+ },
+ {
+  "id": "napster",
+  "add_prereqs": ["mp3"],
+  "add_related": ["copyright"],
+  "reason": "Napster 共享的文件就是 MP3 压缩音频，没有该格式就没有可经拨号网络传输的音乐体量；其复制与传播直接撞上版权法的复制权、发行权，2001 年 A&M Records 诉 Napster 案判其败诉并致服务关停"
+ },
+ {
+  "id": "quantum_computer",
+  "add_prereqs": ["shors_algorithm"],
+  "add_related": ["superconductivity_discovery"],
+  "reason": "2001 年 IBM 与斯坦福用 NMR 量子比特实现的正是肖尔算法（把 15 分解为 3×5），该算法给出了可检验的计算任务；今日占主流的超导量子比特以约瑟夫森结为非线性元件，其物理前提是 1911 年发现的超导"
+ },
+ {
+  "id": "classification_finite_simple_groups",
+  "add_prereqs": ["group_theory"],
+  "add_related": ["standard_model_particle_physics"],
+  "reason": "分类定理是伽罗华 1854 年开辟的群论在有限单群上的收官；其散在群一支经「怪物月光」猜想与二维共形场论相联，而共形场论正是弦论世界面的理论，李型单群则是粒子物理规范对称群在有限域上的对应物"
+ },
+ {
+  "id": "git",
+  "add_prereqs": ["version_control"],
+  "add_related": ["merkle_tree", "linux_kernel"],
+  "reason": "Git 解决的是版本管理问题，但以内容快照取代 CVS/SVN 的增量修订号，提交对象构成哈希命名的默克尔式有向无环图，故任意历史改动都可被检出；它因 2005 年 Linux 内核补丁分发效率危机而被托瓦兹写出"
+ },
+ {
+  "id": "big_data",
+  "add_prereqs": ["relational_database"],
+  "add_related": ["next_generation_sequencing", "human_genome_project"],
+  "reason": "大数据体系建立在关系模型与磁盘索引长期积累的规模化数据管理之上，只是把单机数据库换成分布式文件系统与 MapReduce；其典型负载来自二代测序自 2005 年起每年产出的 PB 级 reads 比对，源头是人类基因组计划开启的大科学数据范式"
+ },
+ {
+  "id": "cloud_computing",
+  "add_prereqs": ["internet"],
+  "add_related": ["electrical_grid"],
+  "reason": "云计算的按需自助、泛在接入都以互联网为传输与计费入口；其「像用水电一样用算力」的话语与集中供给、计量付费的模式，直接类比 19 世纪末形成的电力公用事业电网"
+ },
+ {
+  "id": "mcts",
+  "add_prereqs": ["monte_carlo_method"],
+  "add_related": ["game_theory", "alphago"],
+  "reason": "蒙特卡洛树搜索用随机模拟的统计平均值估计局面胜率、再以树式选择-扩张聚焦候选，其统计手段即 1949 年乌拉姆-冯诺依曼的蒙特卡洛方法；博弈树搜索针对的是博弈论定义的完全信息序贯决策问题，AlphaGo 是其最著名的成功应用"
+ },
+ {
+  "id": "cuda",
+  "add_prereqs": ["gpu"],
+  "add_related": ["deep_learning", "blas"],
+  "reason": "CUDA 将 GPU 从固定渲染管线开放为通用并行计算设备，没有 1999 年 GeForce 256 确立的可编程图形处理器便没有它；它随后成为深度学习训练的算力底座，与 BLAS 一道构成数值与 AI 负载的矩阵运算接口层"
+ },
+ {
+  "id": "ios",
+  "add_prereqs": ["lithium_ion_battery"],
+  "add_related": ["app_store", "touchscreen"],
+  "reason": "iPhone 需要全天续航与轻薄机身，其可行性以 1991 年商用的锂离子电池能量密度为前提；触屏交互与 2008 年上线的应用商店分发-分成模式，共同构成 iOS 封闭生态的两个支点"
+ },
+ {
+  "id": "smartphone",
+  "add_prereqs": ["mobile_phone", "touchscreen"],
+  "add_related": ["oled", "lithium_ion_battery"],
+  "reason": "智能手机把蜂窝通话、触屏交互与网络应用合于一机，前两要素分别是 1973 年的蜂窝移动电话与 1965 年的触摸屏；此后主流机型转向 AMOLED 显示（依赖 1987 年发现的有机电致发光），续航则建立在锂离子电池之上"
+ },
+ {
+  "id": "android",
+  "add_prereqs": ["linux_kernel", "smartphone"],
+  "add_related": ["open_source", "wifi"],
+  "reason": "安卓的内核层就是 Linux 内核（Bionic 库取代 glibc），并运行在智能手机硬件上；它以 Apache 许可证开源换取厂商广泛移植，依赖 Wi-Fi 等标准无线接入完成数据业务"
+ },
+ {
+  "id": "app_store",
+  "add_prereqs": ["ios"],
+  "add_related": ["copyright"],
+  "reason": "App Store 2008 年随 iPhone OS 2.0 上线，只能存在于 iOS 这一封闭平台之内；它以平台审核与内购分成取代传统的软件版权许可与零售发行渠道，把分发控制权从版权人转移给商店规则"
+ },
+ {
+  "id": "blockchain",
+  "add_prereqs": ["merkle_tree", "cryptographic_hash_function"],
+  "add_related": ["fiat_money"],
+  "reason": "比特币白皮书用默克尔树汇总区块交易、以哈希链串接区块，二者都以抗碰撞密码学哈希为构件；其自述动机是绕开央行式可信第三方，而法定货币正是靠中央银行信用维系的制度（1971 年后完全脱离黄金锚定）"
+ },
+ {
+  "id": "internet_of_things",
+  "add_prereqs": ["internet"],
+  "add_related": ["precision_agriculture", "wifi"],
+  "reason": "物联网的定义性特征是传感器与执行器接入 IP 网络、可被远程寻址；其规模化落地场景包括农田土壤与气象传感网络支撑的变量施肥灌溉（精准农业），短距接入大量使用 Wi-Fi 等无线局域网标准"
+ },
+ {
+  "id": "lte",
+  "add_prereqs": ["gsm"],
+  "add_related": ["optical_fiber_silica", "gps"],
+  "reason": "LTE 是 GSM/UMTS 蜂窝体制的 4G 演进，沿用其移动性管理与切换框架并向下兼容；其容量跃升首先受基站回程带宽约束，回程在 2000 年后主要由低损耗石英光纤承载，定位业务则依赖 GPS 授时与位置"
+ },
+ {
+  "id": "tablet_computer",
+  "add_prereqs": ["touchscreen", "liquid_crystal_material"],
+  "add_related": ["wifi", "app_store"],
+  "reason": "iPad 的输入与显示主体就是大尺寸多点电容触摸屏与薄膜晶体管液晶面板（液晶材料 1962 年问世）；其使用形态由 Wi-Fi 无线接入与应用商店生态共同决定"
+ },
+ {
+  "id": "voice_assistant",
+  "add_prereqs": ["smartphone"],
+  "add_related": ["speech_recognition", "cloud_computing", "chomsky_generative_grammar"],
+  "reason": "Siri 只能作为智能手机上的入口产品出现（2011 年随 iPhone 4S 发布，需常驻麦克风与蜂窝网络）；其应答链路是先做自动语音识别，再把语义解析放到云端算力上完成，而句法结构的正式描写传统来自乔姆斯基 1957 年的生成语法"
+ },
+ {
+  "id": "wechat",
+  "add_prereqs": ["internet"],
+  "add_related": ["health_qr_code", "qr_code_payment"],
+  "reason": "微信的即时通信、朋友圈与小程序都依托移动互联网与蜂窝数据网；其扫码入口与实名账户体系使它成为超级应用载体——2011 年同期的二维码支付与 2020 年以小程序为入口的健康码都建于这套机制之上"
+ },
+ {
+  "id": "alexnet",
+  "add_prereqs": ["imagenet", "cuda"],
+  "add_related": ["convolutional_neural_network", "gpu"],
+  "reason": "AlexNet 的成立有两个前提：ImageNet 提供的百万级标注图像与 ILSVRC 竞赛评测口径，以及 CUDA 让两块 GTX 580 分担两层卷积的显存与算力；其网络本身是 LeCun 卷积网络结构在深度与规模上的重做"
+ },
+ {
+  "id": "deep_learning",
+  "add_prereqs": ["backpropagation", "big_data"],
+  "add_related": ["cuda", "artificial_neural_network"],
+  "reason": "深度学习的训练算法就是反向传播，其可行性来自大数据提供的样本量与 CUDA 解锁的 GPU 算力；研究对象是多层人工神经网络，即 1943 年起的人工神经网络模型的深层化"
+ },
+ {
+  "id": "bahdanau_attention",
+  "add_prereqs": ["artificial_neural_network"],
+  "add_related": ["neural_machine_translation", "recurrent_neural_network"],
+  "reason": "注意力机制把编码器-解码器间的固定向量瓶颈换成按相关性动态加权的对齐，其载体是循环神经网络与一般人工神经网络；该软对齐方案直接成为此后神经机器翻译质量跃升的关键部件"
+ },
+ {
+  "id": "post_quantum_cryptography",
+  "add_prereqs": ["rsa", "cryptographic_hash_function"],
+  "add_related": ["micius_satellite", "shors_algorithm"],
+  "reason": "后量子密码是对肖尔算法的回应：一旦量子计算机可分解大数，以 RSA 为代表的公钥体系即失效，故改用格、编码、哈希等难题重建（哈希签名直接以密码学哈希为构件）；它与墨子号所代表的量子密钥分发是应对同一威胁的两条并行路线"
+ },
+ {
+  "id": "transformer_architecture",
+  "add_prereqs": ["bahdanau_attention"],
+  "add_related": ["parallel_computing", "cuda"],
+  "reason": "Transformer 把注意力去循环化为自注意力，其可规模化正得益于逐位置并行计算（并行计算的单机化路径）与 GPU 算力；它取代循环结构后成为大模型的统一骨干"
+ },
+ {
+  "id": "duffin_schaeffer_theorem",
+  "add_prereqs": ["diophantine_approximation"],
+  "add_related": ["kolmogorov_zero_one_law"],
+  "reason": "该定理属于度量丢番图逼近（研究满足 |x-p/q|<ψ(q)/q 的有理逼近对几乎所有 x 有多少）这一自 19 世纪发展的问题类；其结论关于「几乎所有/零测」，是尾事件，故可由柯尔莫哥洛夫零一律化为 0 或 1 的判定，2019 年证明的关键正是对例外集测度的精细估计"
+ },
+ {
+  "id": "fifth_generation_mobile",
+  "add_prereqs": ["lte"],
+  "add_related": ["wide_bandgap_semiconductor", "internet_of_things"],
+  "reason": "5G NR 在无线侧与核心网演进上直接接续 LTE（非独立组网仍以 LTE 为锚点）；其大规模 MIMO 与毫米波射频功放依赖氮化镓等宽禁带半导体才能在高频率下保持效率，而海量设备连接正是物联网的落地场景"
+ },
+ {
+  "id": "large_language_model",
+  "add_prereqs": ["transformer_architecture", "deep_learning"],
+  "add_related": ["wikipedia", "cloud_computing"],
+  "reason": "GPT-3 是 Transformer 解码器堆到千亿参数的产物，其范式是深度学习的自监督预训练；训练语料取自网络文本（Common Crawl 含维基百科等自由内容站点），训练与服务算力则以云计算形式按需获取"
+ },
+ {
+  "id": "chatgpt",
+  "add_prereqs": ["large_language_model"],
+  "add_related": ["reinforcement_learning", "encyclopedia"],
+  "reason": "ChatGPT 的底座是 GPT-3.5 这一预训练大语言模型，其对齐靠人类反馈的强化学习（以偏好排序构造奖励、用策略优化更新，即强化学习范式）完成；它把问答接口做成对话式生成，功能上取代检索式百科全书与图书馆参考咨询"
+ }
+]

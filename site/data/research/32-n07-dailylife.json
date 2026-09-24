@@ -1,0 +1,2189 @@
+[
+{
+"id": "safety_pin",
+"name": "安全别针",
+"nameEn": "Safety pin",
+"wikiEn": "Safety pin",
+"aliases": [],
+"year": 1849,
+"year_basis": "exact",
+"year_span": null,
+"year_note": null,
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"clothing",
+"crucible_steel"
+],
+"related": [
+"zipper",
+"thimble"
+],
+"desc": "金属丝弯折加护帽，扣衣物不戳伤皮肤，是尿布与胸针的通用前身。"
+},
+{
+"id": "velcro",
+"name": "魔术贴",
+"nameEn": "Velcro",
+"wikiEn": "Velcro",
+"aliases": [
+"Hook and loop fastener",
+"搭扣带"
+],
+"year": 1941,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "德梅斯特拉尔1941年受苍耳启发，1950年代获专利投产",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"nylon"
+],
+"related": [
+"zipper"
+],
+"desc": "尼龙钩圈一压即合、一撕即开，免纽扣鞋带，快拆紧固遍及服装航天。"
+},
+{
+"id": "corset",
+"name": "紧身束腰",
+"nameEn": "Corset",
+"wikiEn": "Corset",
+"aliases": [
+"Stays"
+],
+"year": 1550,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "16世纪法国宫廷流行",
+"era": "renaissance",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"dress"
+],
+"related": [
+"brassiere"
+],
+"desc": "以骨条硬衬塑形的束身内衣，主导躯干轮廓数百年，后为胸罩取代。"
+},
+{
+"id": "raincoat",
+"name": "防水胶雨衣",
+"nameEn": "Raincoat",
+"wikiEn": "Raincoat",
+"aliases": [
+"Mackintosh"
+],
+"year": 1824,
+"year_basis": "exact",
+"year_span": null,
+"year_note": null,
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"clothing"
+],
+"related": [
+"vulcanized_rubber",
+"umbrella"
+],
+"desc": "麦金托什把橡胶溶液夹入两层布间，制成首个实用防水外套。"
+},
+{
+"id": "trench_coat",
+"name": "战壕风衣",
+"nameEn": "Trench coat",
+"wikiEn": "Trench coat",
+"aliases": [],
+"year": 1879,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "华达呢防水斜纹布；一战战壕采用",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"clothing",
+"sewing_machine"
+],
+"related": [
+"hat"
+],
+"desc": "密织斜纹防水透气，由军官战壕装备转为都市常服外套。"
+},
+{
+"id": "t_shirt",
+"name": "圆领汗衫",
+"nameEn": "T-shirt",
+"wikiEn": "T-shirt",
+"aliases": [
+"T恤"
+],
+"year": 1904,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "美军水手无袖内衣演变而来",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"sewing_machine"
+],
+"related": [
+"jeans",
+"sneakers"
+],
+"desc": "针织棉质一体成型短袖，从海军内衣经上世纪中期零售推广成全球便服。"
+},
+{
+"id": "business_suit",
+"name": "现代西装",
+"nameEn": "Suit",
+"wikiEn": "Suit",
+"aliases": [
+"Business suit"
+],
+"year": 1800,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "布鲁梅尔简化英国男装",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"dress"
+],
+"related": [
+"pocket_watch",
+"wristwatch"
+],
+"desc": "剪裁合体的三件套男装摒弃宫廷刺绣，确立延续至今的商务正装范式。"
+},
+{
+"id": "backpack",
+"name": "双肩背包",
+"nameEn": "Backpack",
+"wikiEn": "Backpack",
+"aliases": [],
+"year": 1938,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "金属框架与拉链款1930年代出现",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"zipper",
+"knot"
+],
+"related": [
+"suitcase",
+"handbag"
+],
+"desc": "双带负重两肩分摊，拉链与内框架让通勤远行行李背得上、拿得出。"
+},
+{
+"id": "high_heel",
+"name": "高跟鞋",
+"nameEn": "High-heeled shoe",
+"wikiEn": "High-heeled shoe",
+"aliases": [],
+"year": 1600,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "源于波斯骑兵，16世纪末入欧洲宫廷",
+"era": "renaissance",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"shoe"
+],
+"related": [
+"wig",
+"dress"
+],
+"desc": "垫高鞋跟起初便于骑马与炫耀身份，后演变为女性时装的标志性部件。"
+},
+{
+"id": "mattress",
+"name": "弹簧床垫",
+"nameEn": "Mattress",
+"wikiEn": "Mattress",
+"aliases": [],
+"year": 1870,
+"year_basis": "decade",
+"year_span": null,
+"year_note": "钢丝弹簧床垫19世纪70年代获专利",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"bedding"
+],
+"related": [
+"pillow",
+"bessemer_steel"
+],
+"desc": "钢丝弹簧芯承托软垫，让床从硬板通铺变为可量产的现代寝具。"
+},
+{
+"id": "couch",
+"name": "软垫沙发",
+"nameEn": "Couch",
+"wikiEn": "Couch",
+"aliases": [
+"Sofa"
+],
+"year": 1730,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "18世纪初进入英国宅邸",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"chair"
+],
+"related": [
+"table_furniture",
+"wardrobe"
+],
+"desc": "带软包扶手的多人坐具，重排客厅格局，兼供小憩与待客。"
+},
+{
+"id": "clothes_hanger",
+"name": "衣架",
+"nameEn": "Clothes hanger",
+"wikiEn": "Clothes hanger",
+"aliases": [],
+"year": 1869,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "帕克1869年获美专利",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 5,
+"prereqs": [
+"wardrobe"
+],
+"related": [
+"clothes_iron"
+],
+"desc": "仿肩形吊架让衣物悬于柜中不皱不占面，熨烫时代的收纳小发明。"
+},
+{
+"id": "wok",
+"name": "炒锅",
+"nameEn": "Wok",
+"wikiEn": "Wok",
+"aliases": [
+"镬"
+],
+"year": -150,
+"year_basis": "century",
+"year_span": null,
+"year_note": "汉代出现，宋代因省薪普及",
+"era": "antiquity",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"cookware_and_bakeware",
+"cast_iron"
+],
+"related": [
+"stove"
+],
+"desc": "薄壁圆底铁锅导热快受热匀，翻炒省薪又保风味，奠定东亚厨房。"
+},
+{
+"id": "toaster",
+"name": "多士炉",
+"nameEn": "Toaster",
+"wikiEn": "Toaster",
+"aliases": [
+"Electric toaster"
+],
+"year": 1893,
+"year_basis": "exact",
+"year_span": null,
+"year_note": null,
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"electricity_generation"
+],
+"related": [
+"clothes_iron",
+"air_fryer"
+],
+"desc": "电热丝秒烤面包片，与电熨斗同为最早改变家务节奏的小型电器。"
+},
+{
+"id": "microwave_oven",
+"name": "微波炉",
+"nameEn": "Microwave oven",
+"wikiEn": "Microwave oven",
+"aliases": [],
+"year": 1945,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "斯宾塞1945年10月专利，1967年入家用",
+"era": "atomic_electronic",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"cavity_magnetron"
+],
+"related": [
+"radar",
+"oven"
+],
+"desc": "磁控管微波激发水分子产热，雷达技术军转民，几十秒热一餐饭。"
+},
+{
+"id": "dishwasher",
+"name": "洗碗机",
+"nameEn": "Dishwasher",
+"wikiEn": "Dishwasher",
+"aliases": [],
+"year": 1886,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "库克伦1886年发明",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"cookware_and_bakeware"
+],
+"related": [
+"washing_machine",
+"stainless_steel"
+],
+"desc": "喷热水与转篮冲净餐具，把洗碗从家务耗时榜顶端逐步抹去。"
+},
+{
+"id": "rice_cooker",
+"name": "电饭锅",
+"nameEn": "Rice cooker",
+"wikiEn": "Rice cooker",
+"aliases": [],
+"year": 1925,
+"year_basis": "decade",
+"year_span": null,
+"year_note": "1920年代日本出现早期产品",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"electricity_generation"
+],
+"related": [
+"oven",
+"stove"
+],
+"desc": "电热加自动温控，免看火煮出稳定米饭，东亚家庭灶台标配。"
+},
+{
+"id": "cooler_box",
+"name": "保温冷藏箱",
+"nameEn": "Cooler",
+"wikiEn": "Cooler",
+"aliases": [
+"Ice chest"
+],
+"year": 1950,
+"year_basis": "decade",
+"year_span": null,
+"year_note": "泡沫塑料箱体1950年代普及",
+"era": "atomic_electronic",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"refrigeration"
+],
+"related": [
+"vacuum_flask"
+],
+"desc": "发泡层隔绝外热配冰块随走随冰，让食物饮料摆脱产地即刻消费。"
+},
+{
+"id": "vacuum_cleaner",
+"name": "吸尘器",
+"nameEn": "Vacuum cleaner",
+"wikiEn": "Vacuum cleaner",
+"aliases": [],
+"year": 1901,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "布斯1901年机动抽尘，1908年便携款",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"vacuum_pump",
+"induction_motor"
+],
+"related": [
+"robotic_vacuum_cleaner",
+"broom"
+],
+"desc": "电机抽负压吸走尘屑，泵式集尘替代拍打地毯，除尘不扬灰。"
+},
+{
+"id": "bidet",
+"name": "坐浴盆",
+"nameEn": "Bidet",
+"wikiEn": "Bidet",
+"aliases": [],
+"year": 1710,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "1710年法国家具清单首见",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"toilet"
+],
+"related": [
+"flush_toilet"
+],
+"desc": "如厕后以清水洗身的低盆，南欧卫浴标配，省纸且清洁更彻底。"
+},
+{
+"id": "shower_bath",
+"name": "淋浴装置",
+"nameEn": "Shower",
+"wikiEn": "Shower",
+"aliases": [
+"Shower bath"
+],
+"year": 1767,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "菲瑟姆1767年手压淋浴专利",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"bathtub"
+],
+"related": [
+"flush_toilet",
+"central_heating_modern"
+],
+"desc": "顶喷流水冲身即排，比盆浴省水省时，让日浴成为都市日常。"
+},
+{
+"id": "menstrual_cup",
+"name": "月经杯",
+"nameEn": "Menstrual cup",
+"wikiEn": "Menstrual cup",
+"aliases": [],
+"year": 1937,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "查尔姆斯1930年代专利；医用硅胶为后来代",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"vulcanized_rubber"
+],
+"related": [
+"sanitary_napkin",
+"disposable_diaper"
+],
+"desc": "软硅胶杯收集而非吸收经血，可反复使用经年，耗材垃圾大减。"
+},
+{
+"id": "tampon",
+"name": "内置卫生棉",
+"nameEn": "Tampon",
+"wikiEn": "Tampon",
+"aliases": [
+"卫生棉条"
+],
+"year": 1931,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "哈斯1931年专利，1936年商业化",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"rayon"
+],
+"related": [
+"sanitary_napkin"
+],
+"desc": "人造丝吸收体配导管内置承接，让经期不再受外贴痕迹束缚。"
+},
+{
+"id": "deodorant",
+"name": "体香剂",
+"nameEn": "Deodorant",
+"wikiEn": "Deodorant",
+"aliases": [
+"Antiperspirant"
+],
+"year": 1888,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "1888年首款商品Mum",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"soap"
+],
+"related": [
+"safety_razor",
+"shampoo"
+],
+"desc": "抑制腋下细菌或阻塞汗腺，为无暇日日沐浴的现代人守住体味体面。"
+},
+{
+"id": "window_screen",
+"name": "防虫纱窗",
+"nameEn": "Window screen",
+"wikiEn": "Window screen",
+"aliases": [],
+"year": 1868,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "1868年获专利",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [],
+"related": [
+"fiberglass",
+"plate_glass"
+],
+"desc": "门窗覆细网，通风采光而拒蚊蝇于室外，低成本居家防虫屏障。"
+},
+{
+"id": "mosquito_net",
+"name": "蚊帐",
+"nameEn": "Mosquito net",
+"wikiEn": "Mosquito net",
+"aliases": [],
+"year": 950,
+"year_basis": "century",
+"year_span": null,
+"year_note": "中国10世纪已有纱帐记载",
+"era": "middle_ages",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"sericulture"
+],
+"related": [
+"bedding",
+"tent"
+],
+"desc": "丝纱垂帐隔离蚊蝇，睡得安稳之外还压低疟疾等虫媒病负担。"
+},
+{
+"id": "plastic_bag",
+"name": "塑料购物袋",
+"nameEn": "Plastic bag",
+"wikiEn": "Plastic bag",
+"aliases": [],
+"year": 1965,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "瑞典工程师图林1965年专利",
+"era": "atomic_electronic",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"polyethylene"
+],
+"related": [
+"supermarket",
+"vending_machine"
+],
+"desc": "聚乙烯热封成薄而强韧的袋，取代纸布袋，也留下白色污染课题。"
+},
+{
+"id": "smoke_detector",
+"name": "烟雾报警器",
+"nameEn": "Smoke detector",
+"wikiEn": "Smoke detector",
+"aliases": [],
+"year": 1963,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "1960年代民用化",
+"era": "atomic_electronic",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"transistor"
+],
+"related": [
+"davy_lamp"
+],
+"desc": "电离室或光电感应烟雾即鸣，把矿井安全仪器的值守搬进卧室走廊。"
+},
+{
+"id": "doorbell",
+"name": "电门铃",
+"nameEn": "Doorbell",
+"wikiEn": "Doorbell",
+"aliases": [],
+"year": 1831,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "依托1831年电磁铃",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"electromagnet"
+],
+"related": [
+"telephone",
+"key"
+],
+"desc": "按钮通电磁锤击铃，访客隔墙唤人，敲门捶的电气化替代。"
+},
+{
+"id": "baby_stroller",
+"name": "婴儿推车",
+"nameEn": "Stroller",
+"wikiEn": "Stroller",
+"aliases": [
+"Baby carriage",
+"Pram"
+],
+"year": 1736,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "肯特为监护婴儿设计手拉车",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"wheel_axle",
+"cradle"
+],
+"related": [
+"bedding"
+],
+"desc": "带篷座椅装上轮子，照护者推车即可带婴出门散心，解放怀抱。"
+},
+{
+"id": "baby_monitor",
+"name": "婴儿监护器",
+"nameEn": "Baby monitor",
+"wikiEn": "Baby monitor",
+"aliases": [],
+"year": 1937,
+"year_basis": "exact",
+"year_span": null,
+"year_note": null,
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"radio"
+],
+"related": [
+"telephone",
+"cradle"
+],
+"desc": "婴儿室声音经无线电传到父母一端，隔房也能即时响应啼哭。"
+},
+{
+"id": "contact_lens",
+"name": "隐形眼镜",
+"nameEn": "Contact lens",
+"wikiEn": "Contact lens",
+"aliases": [
+"角膜接触镜"
+],
+"year": 1887,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "菲克玻璃镜片仅能佩戴数小时",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"glassmaking"
+],
+"related": [
+"glasses",
+"intraocular_lens"
+],
+"desc": "贴附角膜的薄膜镜片矫正屈光，从玻璃演进到透氧树脂与软性水凝胶。"
+},
+{
+"id": "sunglasses",
+"name": "太阳镜",
+"nameEn": "Sunglasses",
+"wikiEn": "Sunglasses",
+"aliases": [
+"墨镜"
+],
+"year": 1929,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "格兰特1929年起量产销售",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"glasses"
+],
+"related": [
+"hat"
+],
+"desc": "染色镜片滤强光紫外，自验光配镜走向海滩街头的随身配件。"
+},
+{
+"id": "paper_clip",
+"name": "回形针",
+"nameEn": "Paper clip",
+"wikiEn": "Paper clip",
+"aliases": [],
+"year": 1867,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "1867年美式别夹专利",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"papermaking"
+],
+"related": [
+"codex",
+"typewriter"
+],
+"desc": "弹簧钢丝折弯免打孔夹拢纸张，可反复拆装，是案头最小装订件。"
+},
+{
+"id": "stapler",
+"name": "订书机",
+"nameEn": "Stapler",
+"wikiEn": "Stapler",
+"aliases": [],
+"year": 1790,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "传为路易十五御制，19世纪末量产",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"papermaking"
+],
+"related": [
+"bookbinding"
+],
+"desc": "金属钉穿纸折弯锁合，机器一分钟替代针线与糨糊的装订活。"
+},
+{
+"id": "sticky_note",
+"name": "便利贴",
+"nameEn": "Post-it note",
+"wikiEn": "Post-it note",
+"aliases": [
+"Sticky note"
+],
+"year": 1974,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "微球低黏胶意外成就商品",
+"era": "information",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"papermaking"
+],
+"related": [
+"typewriter"
+],
+"desc": "弱粘胶让纸片可反复贴起，备忘与批注变成随取随贴的纸标签。"
+},
+{
+"id": "pressure_tape",
+"name": "压敏胶带",
+"nameEn": "Pressure-sensitive tape",
+"wikiEn": "Pressure-sensitive tape",
+"aliases": [
+"透明胶带",
+"Scotch tape"
+],
+"year": 1930,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "1930年透明玻璃纸胶带上市",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"vulcanized_rubber"
+],
+"related": [
+"polyethylene"
+],
+"desc": "压敏胶不加热不蘸水，一拉即粘，包装、修补、封口一物全包。"
+},
+{
+"id": "eraser",
+"name": "橡皮擦",
+"nameEn": "Eraser",
+"wikiEn": "Eraser",
+"aliases": [
+"Rubber eraser"
+],
+"year": 1770,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "普里斯特利推介橡胶擦除铅笔字",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"mesoamerican_rubber"
+],
+"related": [
+"pencil",
+"vulcanized_rubber"
+],
+"desc": "天然橡胶能吸走石墨痕，铅笔从此可改可错，书写压力骤减。"
+},
+{
+"id": "pencil_sharpener",
+"name": "削铅笔器",
+"nameEn": "Pencil sharpener",
+"wikiEn": "Pencil sharpener",
+"aliases": [],
+"year": 1828,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "1828年削尖机专利",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 5,
+"prereqs": [
+"pencil"
+],
+"related": [],
+"desc": "转柄喂刀削出均匀锥尖，学生课堂不必再随身携带小刀修笔。"
+},
+{
+"id": "electric_blanket",
+"name": "电热毯",
+"nameEn": "Electric blanket",
+"wikiEn": "Electric blanket",
+"aliases": [],
+"year": 1912,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "电热丝织入毛毯",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"electricity_generation"
+],
+"related": [
+"central_heating_modern"
+],
+"desc": "发热线织入毯体并配温控，寒冷地区睡前预热被窝，替代汤婆子。"
+},
+{
+"id": "garbage_disposal",
+"name": "厨余粉碎机",
+"nameEn": "Garbage disposal unit",
+"wikiEn": "Garbage disposal unit",
+"aliases": [],
+"year": 1933,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "哈默斯1927年发明，1930年代初获专利",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 5,
+"prereqs": [
+"induction_motor"
+],
+"related": [
+"modern_sewer",
+"toilet"
+],
+"desc": "水槽下小电机研磨食物残渣随水冲走，从源头减量城市湿垃圾。"
+},
+{
+"id": "coffee_filter",
+"name": "咖啡滤纸",
+"nameEn": "Coffee filter",
+"wikiEn": "Coffee filter",
+"aliases": [],
+"year": 1908,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "贝恩茨借儿子作业本吸墨纸试制",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"papermaking"
+],
+"related": [
+"coffee",
+"teapot"
+],
+"desc": "多孔纸截留咖啡渣与油脂，滴滤一杯干净顺口，家常冲煮门槛骤降。"
+},
+{
+"id": "espresso_machine",
+"name": "意式咖啡机",
+"nameEn": "Espresso machine",
+"wikiEn": "Espresso machine",
+"aliases": [],
+"year": 1901,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "贝扎拉1901年锅炉加压设计",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"high_pressure_steam_engine"
+],
+"related": [
+"coffee",
+"vending_machine"
+],
+"desc": "高压热水数十秒穿过粉饼，逼出油脂奶泡，吧台与自动贩卖机的引擎。"
+},
+{
+"id": "tea_bag",
+"name": "茶包",
+"nameEn": "Tea bag",
+"wikiEn": "Tea bag",
+"aliases": [],
+"year": 1908,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "纽约茶商分装小袋意外走红",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"tea"
+],
+"related": [
+"teapot",
+"rayon"
+],
+"desc": "碎茶装小袋一泡即弃，省去茶具与称量，茶叶进入办公室与旅途。"
+},
+{
+"id": "instant_coffee",
+"name": "速溶咖啡",
+"nameEn": "Instant coffee",
+"wikiEn": "Instant coffee",
+"aliases": [],
+"year": 1901,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "加藤萨多里1901年芝加哥配方",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"coffee"
+],
+"related": [
+"tea",
+"vending_machine"
+],
+"desc": "萃取液干燥成颗粒热水即溶，军粮采购推动工艺，两千年饮用方式生变。"
+},
+{
+"id": "chewing_gum",
+"name": "口香糖",
+"nameEn": "Chewing gum",
+"wikiEn": "Chewing gum",
+"aliases": [],
+"year": 1870,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "亚当斯以糖胶树胶制块销售",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"mesoamerican_rubber"
+],
+"related": [
+"toothpaste"
+],
+"desc": "可咀嚼不溶胶基加糖与香料，包装化量产后成为最便宜的随身零食。"
+},
+{
+"id": "chocolate_conching",
+"name": "巧克力精磨",
+"nameEn": "Conching",
+"wikiEn": "Conching",
+"aliases": [],
+"year": 1879,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "林特1879年发明",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"chocolate"
+],
+"related": [
+"steam_engine"
+],
+"desc": "可可浆长时间研磨混炼，颗粒粗涩变丝滑，巧克力自饮品转为可咬糖果。"
+},
+{
+"id": "sliced_bread",
+"name": "切片面包",
+"nameEn": "Sliced bread",
+"wikiEn": "Sliced bread",
+"aliases": [],
+"year": 1928,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "1928年8月自动切片机商用",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"bread",
+"roller_mill"
+],
+"related": [
+"supermarket"
+],
+"desc": "机器切片加蜡纸封装，厚度均匀免家用刀，面包变成开袋即食商品。"
+},
+{
+"id": "soft_drink",
+"name": "碳酸软饮料",
+"nameEn": "Soft drink",
+"wikiEn": "Soft drink",
+"aliases": [
+"汽水"
+],
+"year": 1783,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "施韦普瓶装碳酸水商品化",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [],
+"related": [
+"vending_machine",
+"refrigeration"
+],
+"desc": "人工碳酸水加糖与香料装瓶，冷饮从药剂铺货成全球货架之王。"
+},
+{
+"id": "shopping_cart",
+"name": "超市购物车",
+"nameEn": "Shopping cart",
+"wikiEn": "Shopping cart",
+"aliases": [],
+"year": 1937,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "戈德曼1937年首放超市",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"supermarket"
+],
+"related": [
+"safety_bicycle"
+],
+"desc": "折叠双层篮车让顾客拿得下推得走，自助购物量随轮子成倍上涨。"
+},
+{
+"id": "parcel_locker",
+"name": "自助快递柜",
+"nameEn": "Parcel locker",
+"wikiEn": "Parcel locker",
+"aliases": [
+"Smart locker"
+],
+"year": 2008,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "2008年波兰因Post首设",
+"era": "intelligent",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"barcode"
+],
+"related": [
+"vending_machine",
+"internet"
+],
+"desc": "扫码开格存取包裹，收发货免等面，末端配送改由柜机接力。"
+},
+{
+"id": "fast_food_chain",
+"name": "连锁快餐",
+"nameEn": "Fast food",
+"wikiEn": "Fast food",
+"aliases": [],
+"year": 1921,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "白城堡1921年开店立标准",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"assembly_line"
+],
+"related": [
+"supermarket",
+"can_opener"
+],
+"desc": "标准化厨房流水线出餐，便宜快速口味一致，重排全球饮食时间表。"
+},
+{
+"id": "cigarette",
+"name": "机制卷烟",
+"nameEn": "Cigarette",
+"wikiEn": "Cigarette",
+"aliases": [
+"香烟"
+],
+"year": 1881,
+"year_basis": "scholarly_disputed",
+"year_span": null,
+"year_note": "邦萨克卷烟机1880年代初投产",
+"era": "second_industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"steam_engine"
+],
+"related": [
+"match"
+],
+"desc": "机器每分钟卷成千支细烟，价格骤降销量飙升，烟草消费随之全球化。"
+},
+{
+"id": "pocket_lighter",
+"name": "打火机",
+"nameEn": "Lighter",
+"wikiEn": "Lighter",
+"aliases": [],
+"year": 1823,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "德贝赖纳铂催化氢灯",
+"era": "industrial",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"match"
+],
+"related": [
+"candle"
+],
+"desc": "燃料与点火集成掌上，一按即燃且可反复使用，取代火柴的便携取火。"
+},
+{
+"id": "e_cigarette",
+"name": "电子烟",
+"nameEn": "Electronic cigarette",
+"wikiEn": "Electronic cigarette",
+"aliases": [
+"Vaping"
+],
+"year": 2003,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "韩力2003年发明",
+"era": "intelligent",
+"category": "daily_life",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"lithium_ion_battery",
+"microcontroller"
+],
+"related": [],
+"desc": "锂电池雾化烟碱模拟吸入，去掉燃烧焦油，也掀起新的监管争论。"
+},
+{
+"id": "chest_of_drawers",
+"name": "抽屉柜",
+"nameEn": "Chest of drawers",
+"wikiEn": "Chest of drawers",
+"aliases": [
+"五斗橱"
+],
+"year": 1650,
+"year_basis": "century",
+"year_span": null,
+"year_note": "17世纪后半叶欧洲兴起",
+"era": "renaissance",
+"category": "daily_life",
+"kind": "器物",
+"importance": 5,
+"prereqs": [
+"wardrobe",
+"key"
+],
+"related": [
+"table_furniture"
+],
+"desc": "柜体加抽拉抽屉，衣物杂物分层收纳，抽开即取不必搬倒整柜。"
+},
+{
+"id": "rugby_union",
+"name": "联合式橄榄球",
+"nameEn": "Rugby union",
+"wikiEn": "Rugby union",
+"aliases": [],
+"year": 1845,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "拉格比公学1845年成文规则",
+"era": "industrial",
+"category": "culture_media",
+"kind": "制度",
+"importance": 4,
+"prereqs": [
+"team_sport"
+],
+"related": [
+"history_of_football"
+],
+"desc": "持球冲阵与擒抱的公学游戏首次写成规则，与足球分途成独立项目。"
+},
+{
+"id": "badminton_modern",
+"name": "羽毛球运动",
+"nameEn": "Badminton",
+"wikiEn": "Badminton",
+"aliases": [],
+"year": 1873,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "博福特公爵庄园聚会定名",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "制度",
+"importance": 4,
+"prereqs": [
+"team_sport"
+],
+"related": [
+"history_of_tennis"
+],
+"desc": "印度羽毛球游戏移植英国庄园，网高拍轻节奏快，后入奥运序列。"
+},
+{
+"id": "volleyball",
+"name": "排球",
+"nameEn": "Volleyball",
+"wikiEn": "Volleyball",
+"aliases": [],
+"year": 1895,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "摩根1895年马萨诸塞创制",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "制度",
+"importance": 4,
+"prereqs": [
+"basketball"
+],
+"related": [
+"history_of_tennis"
+],
+"desc": "高网隔网传球不身体对抗，为宜室运动而生，席卷学校与沙滩。"
+},
+{
+"id": "table_tennis",
+"name": "乒乓球",
+"nameEn": "Table tennis",
+"wikiEn": "Table tennis",
+"aliases": [
+"Ping-pong"
+],
+"year": 1901,
+"year_basis": "scholarly_disputed",
+"year_span": null,
+"year_note": "源自19世纪末英国家庭游戏，1901年起有正式赛事",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "制度",
+"importance": 3,
+"prereqs": [
+"history_of_tennis",
+"vulcanized_rubber"
+],
+"related": [
+"bakelite"
+],
+"desc": "餐桌当球台缩小版网球，橡胶拍面与赛璐珞球让它成为厅堂竞技。"
+},
+{
+"id": "snowboarding",
+"name": "单板滑雪",
+"nameEn": "Snowboarding",
+"wikiEn": "Snowboarding",
+"aliases": [],
+"year": 1965,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "波彭1965年自制雪上滑水板",
+"era": "atomic_electronic",
+"category": "culture_media",
+"kind": "制度",
+"importance": 4,
+"prereqs": [
+"ski"
+],
+"related": [
+"modern_olympic_games"
+],
+"desc": "一块宽板双足横立滑下坡，从后院玩具长成冬奥正式项目。"
+},
+{
+"id": "skateboard",
+"name": "滑板",
+"nameEn": "Skateboard",
+"wikiEn": "Skateboard",
+"aliases": [],
+"year": 1950,
+"year_basis": "decade",
+"year_span": null,
+"year_note": " sidewalk surfing 兴起于1950年代",
+"era": "atomic_electronic",
+"category": "culture_media",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"roller_bearing"
+],
+"related": [
+"safety_bicycle",
+"modern_olympic_games"
+],
+"desc": "轮滑装上加板面，旱地冲浪从人行道文化走进奥运与城市通勤。"
+},
+{
+"id": "figure_skating",
+"name": "花样滑冰",
+"nameEn": "Figure skating",
+"wikiEn": "Figure skating",
+"aliases": [],
+"year": 1772,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "琼斯《滑冰论》首部教程",
+"era": "industrial",
+"category": "culture_media",
+"kind": "制度",
+"importance": 4,
+"prereqs": [],
+"related": [
+"ski",
+"modern_olympic_games"
+],
+"desc": "在冰上按图形滑出编排步伐，1772年起有系统教程，冬奥最古老项目之一。"
+},
+{
+"id": "alpine_skiing",
+"name": "高山滑雪",
+"nameEn": "Alpine skiing",
+"wikiEn": "Alpine skiing",
+"aliases": [],
+"year": 1905,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "祖达尔斯基1905年奠定阿尔卑斯技术",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "制度",
+"importance": 4,
+"prereqs": [
+"ski"
+],
+"related": [
+"modern_olympic_games"
+],
+"desc": "雪板从北欧交通术变为贴坡转向的阿尔卑斯技术，滑雪场经济由此兴起。"
+},
+{
+"id": "treadmill",
+"name": "跑步机",
+"nameEn": "Treadmill",
+"wikiEn": "Treadmill",
+"aliases": [],
+"year": 1818,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "库比特1818年设计踏步磨",
+"era": "industrial",
+"category": "culture_media",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"treadwheel_crane"
+],
+"related": [
+"water_wheel"
+],
+"desc": "踏步驱动滚筒的惩戒磨坊，二十世纪改作室内健身与心肺检测平台。"
+},
+{
+"id": "artificial_turf",
+"name": "人造草坪",
+"nameEn": "Artificial turf",
+"wikiEn": "Artificial turf",
+"aliases": [
+"AstroTurf"
+],
+"year": 1966,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "1966年休斯顿穹顶球场铺设",
+"era": "atomic_electronic",
+"category": "culture_media",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"nylon"
+],
+"related": [
+"history_of_football",
+"cricket"
+],
+"desc": "尼龙草丝铺底填砂，全天候耐践踏，让球赛不再看天与草皮脸色。"
+},
+{
+"id": "bike_sharing",
+"name": "公共自行车系统",
+"nameEn": "Bicycle-sharing system",
+"wikiEn": "Bicycle-sharing system",
+"aliases": [
+"共享单车"
+],
+"year": 1995,
+"year_basis": "scholarly_disputed",
+"year_span": null,
+"year_note": "1965年阿姆斯特丹试验，1995年哥本哈根建首个常设系统",
+"era": "information",
+"category": "culture_media",
+"kind": "制度",
+"importance": 3,
+"prereqs": [
+"safety_bicycle"
+],
+"related": [
+"smartphone",
+"internet"
+],
+"desc": "城市布桩自助租还解决最后一公里，手机解锁后单车随停随走。"
+},
+{
+"id": "tenpin_bowling",
+"name": "十瓶保龄球",
+"nameEn": "Tenpin bowling",
+"wikiEn": "Tenpin bowling",
+"aliases": [],
+"year": 1895,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "1895年美国保龄球大会定规则",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "制度",
+"importance": 4,
+"prereqs": [
+"team_sport"
+],
+"related": [
+"dice"
+],
+"desc": "九瓶改为十瓶并统一记分，机器摆瓶加持，球道成为大众夜生活标配。"
+},
+{
+"id": "curling",
+"name": "冰壶",
+"nameEn": "Curling",
+"wikiEn": "Curling",
+"aliases": [],
+"year": 1541,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "1541年苏格兰教堂记录",
+"era": "renaissance",
+"category": "culture_media",
+"kind": "制度",
+"importance": 4,
+"prereqs": [
+"team_sport"
+],
+"related": [
+"sled",
+"modern_olympic_games"
+],
+"desc": "花岗岩壶滑冰旋进大本营，擦冰喊线斗智，牧冬游戏成冬奥项目。"
+},
+{
+"id": "paralympic_games",
+"name": "残疾人奥林匹克运动会",
+"nameEn": "Paralympic Games",
+"wikiEn": "Paralympic Games",
+"aliases": [],
+"year": 1960,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "溯1948曼德维尔运动会，1960罗马为首届残奥会",
+"era": "atomic_electronic",
+"category": "culture_media",
+"kind": "制度",
+"importance": 3,
+"prereqs": [
+"modern_olympic_games"
+],
+"related": [
+"ancient_olympic_games"
+],
+"desc": "退役伤兵轮椅射箭赛扩为与奥运同城举办的全球残运体系。"
+},
+{
+"id": "doll",
+"name": "玩偶",
+"nameEn": "Doll",
+"wikiEn": "Doll",
+"aliases": [
+"人偶玩具"
+],
+"year": -500,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "古希腊罗马已有陶木偶；产业在近代",
+"era": "antiquity",
+"category": "culture_media",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"toy"
+],
+"related": [
+"teddy_bear",
+"venus_figurine"
+],
+"desc": "仿人形象的可抱玩具，从祭祀陶偶到瓷脸关节偶，承载养育与想象。"
+},
+{
+"id": "jigsaw_puzzle",
+"name": "锯板拼图",
+"nameEn": "Jigsaw puzzle",
+"wikiEn": "Jigsaw puzzle",
+"aliases": [],
+"year": 1760,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "斯皮尔斯伯里贴木地图锯块",
+"era": "industrial",
+"category": "culture_media",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"toy"
+],
+"related": [
+"puzzle",
+"map"
+],
+"desc": "地图贴板锯成碎块再拼回，教具变全民桌面游戏，催动模切工艺。"
+},
+{
+"id": "checkers",
+"name": "国际跳棋",
+"nameEn": "Checkers",
+"wikiEn": "Checkers",
+"aliases": [
+"Draughts"
+],
+"year": 1400,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "约1400年定64格与飞跳规则",
+"era": "renaissance",
+"category": "culture_media",
+"kind": "制度",
+"importance": 4,
+"prereqs": [],
+"related": [
+"chess",
+"senet"
+],
+"desc": "斜进跳吃的棋盘游戏在欧洲宫廷定型64格，规则简单而对局极深。"
+},
+{
+"id": "snakes_and_ladders",
+"name": "蛇梯棋",
+"nameEn": "Snakes and ladders",
+"wikiEn": "Snakes and ladders",
+"aliases": [],
+"year": 1892,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "印度起源，1892年英国专利输出",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "制度",
+"importance": 4,
+"prereqs": [
+"dice"
+],
+"related": [
+"backgammon",
+"playing_cards"
+],
+"desc": "掷骰上行遇蛇下滑，业力教具变成最早的量产儿童桌游之一。"
+},
+{
+"id": "monopoly_game",
+"name": "强手棋",
+"nameEn": "Monopoly",
+"wikiEn": "Monopoly (game)",
+"aliases": [],
+"year": 1935,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "派克兄弟1935年上市",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "制度",
+"importance": 3,
+"prereqs": [
+"dice"
+],
+"related": [
+"state_monopoly"
+],
+"desc": "地产买地收租让对手破产，大萧条年代最畅销的桌面资本模拟。"
+},
+{
+"id": "scrabble",
+"name": "拼字游戏",
+"nameEn": "Scrabble",
+"wikiEn": "Scrabble",
+"aliases": [],
+"year": 1948,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "1948年以Scrabble更名上市",
+"era": "atomic_electronic",
+"category": "culture_media",
+"kind": "制度",
+"importance": 4,
+"prereqs": [
+"alphabet"
+],
+"related": [
+"typewriter"
+],
+"desc": "字母块按分值上格拼词，把词汇量变成可计分的桌面竞技。"
+},
+{
+"id": "role_playing_game",
+"name": "桌面角色扮演游戏",
+"nameEn": "Role-playing game",
+"wikiEn": "Role-playing game",
+"aliases": [
+"TRPG"
+],
+"year": 1974,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "《龙与地下城》1974年出版",
+"era": "information",
+"category": "culture_media",
+"kind": "制度",
+"importance": 3,
+"prereqs": [
+"chess"
+],
+"related": [
+"esports",
+"puppet_theatre"
+],
+"desc": "玩家扮角色依规则与骰子共构冒险叙事，战争棋演变为叙事游戏体系。"
+},
+{
+"id": "collectible_card_game",
+"name": "集换式卡牌游戏",
+"nameEn": "Collectible card game",
+"wikiEn": "Collectible card game",
+"aliases": [
+"CCG"
+],
+"year": 1993,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "《万智牌》1993年8月发行",
+"era": "information",
+"category": "culture_media",
+"kind": "制度",
+"importance": 3,
+"prereqs": [
+"playing_cards"
+],
+"related": [
+"chess"
+],
+"desc": "随机补充包配自定义卡组对战，纸牌游戏长成新产业与收藏市场。"
+},
+{
+"id": "harmonica",
+"name": "口琴",
+"nameEn": "Harmonica",
+"wikiEn": "Harmonica",
+"aliases": [
+"Mouth organ"
+],
+"year": 1821,
+"year_basis": "scholarly_disputed",
+"year_span": null,
+"year_note": "通常归于1821年布斯曼；源头有争议",
+"era": "industrial",
+"category": "culture_media",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"music_box"
+],
+"related": [
+"piano",
+"water_organ"
+],
+"desc": "吹吸之间簧片振响的口袋乐器，廉价便携随蓝调与民谣流浪。"
+},
+{
+"id": "accordion",
+"name": "手风琴",
+"nameEn": "Accordion",
+"wikiEn": "Accordion",
+"aliases": [],
+"year": 1829,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "德米安1829年维也纳专利",
+"era": "industrial",
+"category": "culture_media",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"music_box"
+],
+"related": [
+"piano",
+"water_organ"
+],
+"desc": "风箱鼓风按键簧鸣，一人即乐队，随移民舞会与街头音乐走遍城乡。"
+},
+{
+"id": "electric_guitar",
+"name": "电吉他",
+"nameEn": "Electric guitar",
+"wikiEn": "Electric guitar",
+"aliases": [],
+"year": 1931,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "早期拾音器样机1930年代初，量产于1935年后",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"electromagnet",
+"radio"
+],
+"related": [
+"jazz",
+"rock_and_roll"
+],
+"desc": "磁拾音器把琴弦振动转为电流放大，吉他终于盖得过乐队，催生摇滚乐。"
+},
+{
+"id": "drum_kit",
+"name": "架子鼓",
+"nameEn": "Drum kit",
+"wikiEn": "Drum kit",
+"aliases": [
+"Drum set"
+],
+"year": 1918,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "踏板联动整合成一人套件",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"drum"
+],
+"related": [
+"jazz",
+"sewing_machine"
+],
+"desc": "借脚踏驱动大鼓，一人接住原本数人的打击组，节奏声部进爵士乐队。"
+},
+{
+"id": "jukebox",
+"name": "自动点唱机",
+"nameEn": "Jukebox",
+"wikiEn": "Jukebox",
+"aliases": [],
+"year": 1889,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "投币点唱为前身，电动点唱机1940年代成熟",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"gramophone"
+],
+"related": [
+"vending_machine"
+],
+"desc": "投币选碟自动播放，公共场所的音乐点播把唱片从客厅带到吧台。"
+},
+{
+"id": "roller_coaster_modern",
+"name": "过山车",
+"nameEn": "Roller coaster",
+"wikiEn": "Roller coaster",
+"aliases": [],
+"year": 1884,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "汤普森1884年科尼岛首铺",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "器物",
+"importance": 3,
+"prereqs": [],
+"related": [
+"railway_locomotive",
+"steel_frame_construction"
+],
+"desc": "借重力俯冲回环的轨道骑乘，铁路热退潮后转型为游乐场头牌。"
+},
+{
+"id": "ferris_wheel",
+"name": "摩天轮",
+"nameEn": "Ferris wheel",
+"wikiEn": "Ferris wheel",
+"aliases": [],
+"year": 1893,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "1893年芝加哥世博会展出",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"steam_engine"
+],
+"related": [
+"steel_frame_construction"
+],
+"desc": "蒸汽驱动巨型钢轮载人旋转俯瞰博览会，观景游乐自此有了地标。"
+},
+{
+"id": "modern_circus",
+"name": "近代马戏",
+"nameEn": "Circus",
+"wikiEn": "Circus",
+"aliases": [],
+"year": 1768,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "阿斯特利1768年圆形骑场开场",
+"era": "industrial",
+"category": "culture_media",
+"kind": "媒介",
+"importance": 4,
+"prereqs": [
+"greek_theatre"
+],
+"related": [
+"commedia_dell_arte",
+"team_sport"
+],
+"desc": "马术杂耍环绕圆形看场演出，帐篷巡演把奇观打包卖给工业城市。"
+},
+{
+"id": "theme_park",
+"name": "主题乐园",
+"nameEn": "Theme park",
+"wikiEn": "Amusement park",
+"aliases": [],
+"year": 1955,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "1955年迪士尼乐园开园",
+"era": "atomic_electronic",
+"category": "culture_media",
+"kind": "制度",
+"importance": 4,
+"prereqs": [
+"museum"
+],
+"related": [
+"vending_machine",
+"arcade_video_game"
+],
+"desc": "统一叙事分区式游乐园以电影IP运营，门票经济重塑假日出行。"
+},
+{
+"id": "pinball_machine",
+"name": "弹珠台",
+"nameEn": "Pinball",
+"wikiEn": "Pinball",
+"aliases": [],
+"year": 1947,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "1947年加装电磁弹杆",
+"era": "atomic_electronic",
+"category": "culture_media",
+"kind": "器物",
+"importance": 4,
+"prereqs": [
+"electromagnet"
+],
+"related": [
+"arcade_video_game"
+],
+"desc": "电磁弹杆让玩家可以回击钢珠，街机厅在电子游戏前夜的王牌。"
+},
+{
+"id": "karaoke",
+"name": "卡拉OK",
+"nameEn": "Karaoke",
+"wikiEn": "Karaoke",
+"aliases": [],
+"year": 1971,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "井上大佑1971年陪酒伴奏机",
+"era": "information",
+"category": "culture_media",
+"kind": "工艺",
+"importance": 3,
+"prereqs": [
+"magnetic_tape_recorder"
+],
+"related": [
+"synthesizer",
+"gramophone"
+],
+"desc": "伴奏带加荧光歌词让听众变歌手，包厢消费成为东亚夜生活基础设施。"
+},
+{
+"id": "modern_lottery",
+"name": "现代彩票",
+"nameEn": "Lottery",
+"wikiEn": "Lottery",
+"aliases": [],
+"year": 1466,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "热那亚公证抽签彩票传统",
+"era": "renaissance",
+"category": "culture_media",
+"kind": "制度",
+"importance": 3,
+"prereqs": [
+"dice"
+],
+"related": [
+"playing_cards",
+"state_monopoly",
+"tarot_card_game"
+],
+"desc": "编号票据公开摇号分级授彩，政府以概率为财政与公益募资。"
+},
+{
+"id": "slot_machine",
+"name": "老虎机",
+"nameEn": "Slot machine",
+"wikiEn": "Slot machine",
+"aliases": [],
+"year": 1894,
+"year_basis": "circa",
+"year_span": null,
+"year_note": "1890年代布鲁克林投币机",
+"era": "second_industrial",
+"category": "culture_media",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"vending_machine"
+],
+"related": [
+"playing_cards"
+],
+"desc": "投币转盘三符成线即吐彩，从酒馆小机器到电子角子机的赌博主力。"
+},
+{
+"id": "lp_record",
+"name": "密纹唱片",
+"nameEn": "LP record",
+"wikiEn": "LP record",
+"aliases": [
+"Long Play"
+],
+"year": 1948,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "哥伦比亚1948年发布33⅓转",
+"era": "atomic_electronic",
+"category": "culture_media",
+"kind": "器物",
+"importance": 3,
+"prereqs": [
+"gramophone"
+],
+"related": [
+"compact_cassette",
+"compact_disc"
+],
+"desc": "每面可录二十分钟的微槽胶片唱片，录音专辑时代由此开始。"
+},
+{
+"id": "ballet",
+"name": "古典芭蕾",
+"nameEn": "Ballet",
+"wikiEn": "Ballet",
+"aliases": [],
+"year": 1661,
+"year_basis": "exact",
+"year_span": null,
+"year_note": "皇家舞蹈学院1661年成立，五位脚定型",
+"era": "renaissance",
+"category": "culture_media",
+"kind": "媒介",
+"importance": 4,
+"prereqs": [
+"greek_theatre"
+],
+"related": [
+"opera",
+"commedia_dell_arte"
+],
+"desc": "宫廷舞宴经皇家学院立规范，足尖与五位脚成就程式化舞台舞蹈。"
+},
+{
+"id": "fly_fishing",
+"name": "飞蝇钓",
+"nameEn": "Fly fishing",
+"wikiEn": "Fly fishing",
+"aliases": [],
+"year": 1496,
+"year_basis": "scholarly_disputed",
+"year_span": null,
+"year_note": "1496年《珀斯郡法案》首见英文记载",
+"era": "renaissance",
+"category": "culture_media",
+"kind": "工艺",
+"importance": 5,
+"prereqs": [
+"fishing_net",
+"fishing_reel"
+],
+"related": [],
+"desc": "以假毛钩模仿落水虫，靠抛线而非坠重诱鱼，垂钓从觅食化为竞技。"
+}
+]

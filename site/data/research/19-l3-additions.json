@@ -1,0 +1,191 @@
+[
+  {
+    "id": "gyroscope",
+    "name": "陀螺仪",
+    "nameEn": "Gyroscope",
+    "wikiEn": "Gyroscope",
+    "aliases": [
+      "傅科陀螺仪",
+      "Foucault gyroscope"
+    ],
+    "year": 1852,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "inertial_navigation"
+    ],
+    "desc": "傅科发明，高速转子保持定轴，为惯性导航核心器件"
+  },
+  {
+    "id": "wind_tunnel",
+    "name": "风洞",
+    "nameEn": "Wind tunnel",
+    "wikiEn": "Wind tunnel",
+    "aliases": [
+      "Wenham wind tunnel",
+      "航空风洞"
+    ],
+    "year": 1871,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "supersonic_wind_tunnel"
+    ],
+    "desc": "韦纳姆建造首座航空风洞，用可控气流实验飞行器"
+  },
+  {
+    "id": "goddard_liquid_rocket",
+    "name": "戈达德液体火箭",
+    "nameEn": "Goddard liquid-propellant rocket",
+    "wikiEn": "Robert H. Goddard",
+    "aliases": [
+      "液体燃料火箭",
+      "Goddard rocket",
+      "Nell火箭"
+    ],
+    "year": 1926,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "v2_rocket_postwar",
+      "rocket_engine"
+    ],
+    "desc": "戈达德首飞液体推进剂火箭，奠定现代火箭技术"
+  },
+  {
+    "id": "cell_culture",
+    "name": "细胞培养",
+    "nameEn": "Cell culture",
+    "wikiEn": "Cell culture",
+    "aliases": [
+      "组织培养",
+      "tissue culture",
+      "哈里森培养法"
+    ],
+    "year": 1907,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "hela_cells"
+    ],
+    "desc": "哈里森体外培养神经组织成功，现代细胞培养之始"
+  },
+  {
+    "id": "steroid",
+    "name": "类固醇激素",
+    "nameEn": "Steroid hormone",
+    "wikiEn": "Steroid hormone",
+    "aliases": [
+      "甾体激素",
+      "steroid"
+    ],
+    "year": 1929,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "cortisone",
+      "oral_contraceptive"
+    ],
+    "desc": "性激素等甾体结构被分离阐明，开辟激素药物"
+  },
+  {
+    "id": "antihistamine",
+    "name": "抗组胺药",
+    "nameEn": "Antihistamine",
+    "wikiEn": "Antihistamine",
+    "aliases": [
+      "苯海拉明",
+      "Benadryl",
+      "抗组织胺药"
+    ],
+    "year": 1942,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "chlorpromazine"
+    ],
+    "desc": "苯海拉明上市，首批抗过敏化学药物"
+  },
+  {
+    "id": "operating_microscope",
+    "name": "手术显微镜",
+    "nameEn": "Operating microscope",
+    "wikiEn": "Operating microscope",
+    "aliases": [
+      "外科显微镜",
+      "surgical microscope"
+    ],
+    "year": 1953,
+    "era": "atomic_electronic",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "microsurgery"
+    ],
+    "desc": "专用手术显微镜问世，使显微外科成为可能"
+  },
+  {
+    "id": "video_game_console",
+    "name": "家用游戏机",
+    "nameEn": "Home video game console",
+    "wikiEn": "Video game console",
+    "aliases": [
+      "Magnavox Odyssey",
+      "奥德赛游戏机",
+      "电视游戏机"
+    ],
+    "year": 1972,
+    "era": "information",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "arcade_video_game"
+    ],
+    "related": [
+      "nintendo_switch",
+      "game_boy"
+    ],
+    "desc": "奥德赛首台家用游戏机，电子游戏进入家庭"
+  },
+  {
+    "id": "hair_dryer",
+    "name": "吹风机",
+    "nameEn": "Hair dryer",
+    "wikiEn": "Hair dryer",
+    "aliases": [
+      "电吹风",
+      "烘发器"
+    ],
+    "year": 1930,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "手持式电动吹风机在三十年代进入家庭",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "electricity_generation",
+      "shampoo"
+    ],
+    "related": [
+      "comb",
+      "towel",
+      "cosmetics"
+    ],
+    "desc": "以电机鼓风并加热烘干头发的便携器具，把梳洗时间从自然晾干中解放。"
+  }
+]

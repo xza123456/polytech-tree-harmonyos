@@ -1,0 +1,1320 @@
+[
+  {
+    "id": "wheat",
+    "name": "小麦",
+    "nameEn": "Wheat",
+    "wikiEn": "Wheat",
+    "aliases": [
+      "普通小麦",
+      "小麦驯化"
+    ],
+    "year": -9000,
+    "year_basis": "circa",
+    "year_span": [
+      -10500,
+      -8000
+    ],
+    "year_note": "新月沃地驯化，碳十四与考古学估计区间大",
+    "era": "prehistory",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 1,
+    "prereqs": [
+      "grain_storage"
+    ],
+    "related": [
+      "cereal",
+      "bread",
+      "food_storage"
+    ],
+    "desc": "新月沃地驯化的基石谷物，养活了欧亚非无数农耕文明。"
+  },
+  {
+    "id": "barley",
+    "name": "大麦",
+    "nameEn": "Barley",
+    "wikiEn": "Barley",
+    "aliases": [
+      "稜大麦",
+      "驯化大麦"
+    ],
+    "year": -9000,
+    "year_basis": "circa",
+    "year_span": [
+      -10500,
+      -8000
+    ],
+    "year_note": "与小麦同期在新月沃地驯化",
+    "era": "prehistory",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "grain_storage"
+    ],
+    "related": [
+      "cereal",
+      "beer",
+      "bread"
+    ],
+    "desc": "耐寒早熟的驯化谷物，酿酒与高原农业的重要作物。"
+  },
+  {
+    "id": "cattle_domestication",
+    "name": "家牛驯化",
+    "nameEn": "Cattle domestication",
+    "wikiEn": "Cattle",
+    "aliases": [
+      "牛驯化"
+    ],
+    "year": -7500,
+    "year_basis": "circa",
+    "year_span": [
+      -8500,
+      -6000
+    ],
+    "year_note": "近东与南亚多地独立驯化，年代有争议",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "animal_husbandry"
+    ],
+    "related": [
+      "dairy",
+      "agriculture",
+      "plow",
+      "ox_yoke"
+    ],
+    "desc": "近东与南亚驯化家牛，提供役力、乳肉与肥料。"
+  },
+  {
+    "id": "pig_domestication",
+    "name": "猪的驯化",
+    "nameEn": "Pig domestication",
+    "wikiEn": "Pig farming",
+    "aliases": [
+      "家猪"
+    ],
+    "year": -7000,
+    "year_basis": "circa",
+    "year_span": [
+      -9000,
+      -5000
+    ],
+    "year_note": "近东与中国分别独立驯化，取约值",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "animal_husbandry"
+    ],
+    "related": [
+      "agriculture",
+      "food_storage"
+    ],
+    "desc": "欧亚两地独立驯化家猪，将谷物剩余高效转化为肉食。"
+  },
+  {
+    "id": "foxtail_millet",
+    "name": "粟",
+    "nameEn": "Foxtail millet",
+    "wikiEn": "Foxtail millet",
+    "aliases": [
+      "小米",
+      "谷子"
+    ],
+    "year": -7000,
+    "year_basis": "circa",
+    "year_span": [
+      -8000,
+      -6000
+    ],
+    "year_note": "华北磁山等遗址炭化粟遗存",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cereal"
+    ],
+    "related": [
+      "agriculture",
+      "slash_and_burn"
+    ],
+    "desc": "华北驯化的耐旱谷物，北方旱作农业的基础作物。"
+  },
+  {
+    "id": "proso_millet",
+    "name": "黍",
+    "nameEn": "Proso millet",
+    "wikiEn": "Proso millet",
+    "aliases": [
+      "糜子"
+    ],
+    "year": -6000,
+    "year_basis": "circa",
+    "year_span": [
+      -7000,
+      -5000
+    ],
+    "year_note": "华北与欧亚草原边缘多地驯化",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cereal"
+    ],
+    "related": [
+      "agriculture",
+      "slash_and_burn"
+    ],
+    "desc": "耐旱短熟的黍子，支撑旱作区并随游牧传播欧洲。"
+  },
+  {
+    "id": "sorghum",
+    "name": "高粱",
+    "nameEn": "Sorghum",
+    "wikiEn": "Sorghum",
+    "aliases": [
+      "蜀黍"
+    ],
+    "year": -5000,
+    "year_basis": "circa",
+    "year_span": [
+      -6000,
+      -4000
+    ],
+    "year_note": "非洲萨赫勒地带驯化，年代学界有分歧",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cereal"
+    ],
+    "related": [
+      "irrigation",
+      "terrace_farming"
+    ],
+    "desc": "非洲萨赫勒驯化的抗旱谷物，后传亚洲与美洲。"
+  },
+  {
+    "id": "banana_cultivation",
+    "name": "香蕉栽培",
+    "nameEn": "Banana cultivation",
+    "wikiEn": "Banana",
+    "aliases": [
+      "芭蕉",
+      "大蕉"
+    ],
+    "year": -5000,
+    "year_basis": "circa",
+    "year_span": [
+      -7000,
+      -4000
+    ],
+    "year_note": "巴新库克沼泽证据可早至约前七千年",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "agriculture"
+    ],
+    "related": [
+      "slash_and_burn",
+      "terrace_farming"
+    ],
+    "desc": "新几内亚沼泽地最早无性繁殖栽培的果类作物。"
+  },
+  {
+    "id": "cassava_cultivation",
+    "name": "木薯栽培",
+    "nameEn": "Cassava cultivation",
+    "wikiEn": "Cassava",
+    "aliases": [
+      "树薯",
+      "曼奥卡"
+    ],
+    "year": -6000,
+    "year_basis": "circa",
+    "year_span": [
+      -8000,
+      -4000
+    ],
+    "year_note": "亚马逊西南缘早期遗存，年代有争议",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "agriculture"
+    ],
+    "related": [
+      "maize",
+      "potato",
+      "food_preservation"
+    ],
+    "desc": "南美驯化的块根粮作物，供养热带数亿人口。"
+  },
+  {
+    "id": "sugarcane_domestication",
+    "name": "甘蔗驯化",
+    "nameEn": "Sugarcane domestication",
+    "wikiEn": "Sugarcane",
+    "aliases": [
+      "甘蔗起源",
+      "驯化甘蔗"
+    ],
+    "year": -7000,
+    "year_basis": "circa",
+    "year_span": [
+      -8000,
+      -6000
+    ],
+    "year_note": "新几内亚起源地，取约值",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "agriculture"
+    ],
+    "related": [
+      "sugar",
+      "screw_press",
+      "sugarcane_mill"
+    ],
+    "desc": "新几内亚驯化的甜茎禾草，糖业与乙醇的源头。"
+  },
+  {
+    "id": "common_bean",
+    "name": "菜豆",
+    "nameEn": "Common bean",
+    "wikiEn": "Phaseolus vulgaris",
+    "aliases": [
+      "四季豆",
+      "普通菜豆"
+    ],
+    "year": -6000,
+    "year_basis": "circa",
+    "year_span": [
+      -7000,
+      -5000
+    ],
+    "year_note": "中美洲与安第斯分别驯化",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "maize"
+    ],
+    "related": [
+      "potato",
+      "soybean",
+      "irrigation"
+    ],
+    "desc": "美洲驯化的主粮豆类，与玉米南瓜间作互利。"
+  },
+  {
+    "id": "secondary_products_revolution",
+    "name": "次级产品革命",
+    "nameEn": "Secondary Products Revolution",
+    "wikiEn": "Secondary products revolution",
+    "aliases": [
+      "二次产品革命"
+    ],
+    "year": -4000,
+    "year_basis": "scholarly_disputed",
+    "year_span": [
+      -5000,
+      -3000
+    ],
+    "year_note": "夏瓦特1981年提出的假说，年代存争议",
+    "era": "neolithic",
+    "category": "agriculture_food",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "animal_husbandry"
+    ],
+    "related": [
+      "dairy",
+      "wool",
+      "horse_domestication"
+    ],
+    "desc": "从吃肉转向取奶役毛的畜利用法转变，重塑欧亚农业。"
+  },
+  {
+    "id": "date_palm_cultivation",
+    "name": "海枣栽培",
+    "nameEn": "Date palm cultivation",
+    "wikiEn": "Date palm",
+    "aliases": [
+      "椰枣"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": [
+      -4000,
+      -2500
+    ],
+    "year_note": "美索不达米亚灌溉绿洲农业兴起期",
+    "era": "bronze_age",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "irrigation"
+    ],
+    "related": [
+      "qanat",
+      "dam"
+    ],
+    "desc": "两河流域灌溉绿洲的招牌果树，耐盐高热能量主食。"
+  },
+  {
+    "id": "sweet_potato",
+    "name": "甘薯",
+    "nameEn": "Sweet potato",
+    "wikiEn": "Sweet potato",
+    "aliases": [
+      "番薯",
+      "地瓜"
+    ],
+    "year": -2000,
+    "year_basis": "scholarly_disputed",
+    "year_span": [
+      -4000,
+      -1000
+    ],
+    "year_note": "中美洲驯化年代争议大；16世纪末传入中国",
+    "era": "bronze_age",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "maize"
+    ],
+    "related": [
+      "potato",
+      "grain_storage",
+      "food_storage"
+    ],
+    "desc": "美洲驯化块根作物，明清传入后极大扩充口粮。"
+  },
+  {
+    "id": "green_manure",
+    "name": "绿肥",
+    "nameEn": "Green manure",
+    "wikiEn": "Green manure",
+    "aliases": [
+      "肥田草",
+      "压青"
+    ],
+    "year": -50,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "《氾胜之书》载苕草压肥，为最早系统记载之一",
+    "era": "antiquity",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "agriculture",
+      "crop_rotation"
+    ],
+    "related": [
+      "manure",
+      "rice_cultivation",
+      "irrigation"
+    ],
+    "desc": "翻压活草肥田的培肥法，中国首载于汉代农书。"
+  },
+  {
+    "id": "tofu",
+    "name": "豆腐",
+    "nameEn": "Tofu",
+    "wikiEn": "Tofu",
+    "aliases": [
+      "豆花"
+    ],
+    "year": -100,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "一般归于西汉，托名刘安说不可靠",
+    "era": "antiquity",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "soybean",
+      "salt_production"
+    ],
+    "related": [
+      "dairy",
+      "food_preservation"
+    ],
+    "desc": "以盐卤点豆浆成块的植物蛋白加工术，源于汉代。"
+  },
+  {
+    "id": "cake_fertilizer",
+    "name": "饼肥",
+    "nameEn": "Seed cake fertilizer",
+    "wikiEn": "Press cake",
+    "aliases": [
+      "Seed cake",
+      "油饼肥"
+    ],
+    "year": 1050,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "榨油副产物作肥在宋代推广，取世纪中值",
+    "era": "middle_ages",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "manure",
+      "agriculture"
+    ],
+    "related": [
+      "superphosphate_fertilizer",
+      "soybean"
+    ],
+    "desc": "榨油残渣还田的高浓度有机肥，支撑宋代集约农业。"
+  },
+  {
+    "id": "open_field_system",
+    "name": "敞田制",
+    "nameEn": "Open-field system",
+    "wikiEn": "Open-field system",
+    "aliases": [
+      "条田制"
+    ],
+    "year": 1250,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "英格兰中世纪成熟形态，取世纪中值",
+    "era": "middle_ages",
+    "category": "agriculture_food",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "three_field_system",
+      "heavy_plow"
+    ],
+    "related": [
+      "crop_rotation",
+      "norfolk_crop_rotation"
+    ],
+    "desc": "英格兰敞田条田与公有放牧结合的村社轮作制度。"
+  },
+  {
+    "id": "columbian_exchange",
+    "name": "哥伦布大交换",
+    "nameEn": "Columbian Exchange",
+    "wikiEn": "Columbian exchange",
+    "aliases": [
+      "哥伦布交换"
+    ],
+    "year": 1492,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "renaissance",
+    "category": "agriculture_food",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "sailing_ship"
+    ],
+    "related": [
+      "maize",
+      "potato",
+      "coffee",
+      "agriculture"
+    ],
+    "desc": "新旧大陆作物牲畜病菌的物种大交换，重排全球食谱。"
+  },
+  {
+    "id": "tull_seed_drill",
+    "name": "机械条播机",
+    "nameEn": "Tull seed drill",
+    "wikiEn": "Jethro Tull (agriculturist)",
+    "aliases": [
+      "杰思罗·塔尔播种机"
+    ],
+    "year": 1701,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "industrial",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "seed_drill"
+    ],
+    "related": [
+      "agriculture",
+      "threshing_machine"
+    ],
+    "desc": "塔尔马耕条播机使播种定量成行，除草间苗皆省力。"
+  },
+  {
+    "id": "artificial_insemination",
+    "name": "人工授精",
+    "nameEn": "Artificial insemination",
+    "wikiEn": "Artificial insemination",
+    "aliases": [
+      "家畜人工输精"
+    ],
+    "year": 1780,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "亨特与斯帕兰扎尼的犬科实验约在1780年代",
+    "era": "industrial",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "animal_husbandry",
+      "microscope"
+    ],
+    "related": [
+      "spallanzani_biogenesis",
+      "selective_breeding_bakewell",
+      "dairy"
+    ],
+    "desc": "人为输精使良种公牛一次射精可配千牛，加速育种。"
+  },
+  {
+    "id": "liebig_mineral_nutrition",
+    "name": "最小养分律",
+    "nameEn": "Liebig's law of the minimum",
+    "wikiEn": "Liebig's law of the minimum",
+    "aliases": [
+      "李比希矿质营养学说"
+    ],
+    "year": 1840,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "李比希《有机化学在农业和生理学上的应用》1840年",
+    "era": "industrial",
+    "category": "agriculture_food",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "agriculture"
+    ],
+    "related": [
+      "superphosphate_fertilizer",
+      "nitrogen_cycle",
+      "manure"
+    ],
+    "desc": "产量受最短缺养分限制的矿质营养理论，化肥科学基石。"
+  },
+  {
+    "id": "sodium_nitrate_fertilizer",
+    "name": "智利硝石农用",
+    "nameEn": "Chile saltpetre agriculture",
+    "wikiEn": "Sodium nitrate",
+    "aliases": [
+      "秘鲁硝石",
+      "智利硝石"
+    ],
+    "year": 1840,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "19世纪40年代起在欧洲规模农用",
+    "era": "industrial",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "manure"
+    ],
+    "related": [
+      "superphosphate_fertilizer",
+      "calcium_cyanamide",
+      "haber_process",
+      "nitrogen_cycle"
+    ],
+    "desc": "阿塔卡马天然硝酸钠远洋贩运，合成氮肥前的氮源主力。"
+  },
+  {
+    "id": "roller_mill",
+    "name": "辊式磨粉机",
+    "nameEn": "Roller mill",
+    "wikiEn": "Roller mill",
+    "aliases": [
+      "对辊磨",
+      "匈牙利制粉法"
+    ],
+    "year": 1863,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "匈牙利辊磨出白面粉工艺19世纪60年代成熟",
+    "era": "industrial",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "quern_stones",
+      "steam_engine"
+    ],
+    "related": [
+      "bread",
+      "breakfast_cereal"
+    ],
+    "desc": "钢辊渐次碾磨取代石磨，出粉率与白度大增。"
+  },
+  {
+    "id": "grain_elevator",
+    "name": "谷物升降筒仓",
+    "nameEn": "Grain elevator",
+    "wikiEn": "Grain elevator",
+    "aliases": [
+      "立筒仓"
+    ],
+    "year": 1843,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "达什珀1842-43年布法罗蒸汽升降仓",
+    "era": "industrial",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "grain_storage"
+    ],
+    "related": [
+      "railway_locomotive",
+      "refrigerated_transport"
+    ],
+    "desc": "蒸汽连续提升与筒仓散装储粮，成就大宗谷物贸易。"
+  },
+  {
+    "id": "rothamsted_station",
+    "name": "洛桑实验站",
+    "nameEn": "Rothamsted Experimental Station",
+    "wikiEn": "Rothamsted Research",
+    "aliases": [
+      "洛姆斯特德站"
+    ],
+    "year": 1843,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "industrial",
+    "category": "agriculture_food",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "agriculture",
+      "crop_rotation"
+    ],
+    "related": [
+      "superphosphate_fertilizer",
+      "no_till_farming"
+    ],
+    "desc": "世界最古老农业研究站，长期定位施肥试验由此开始。"
+  },
+  {
+    "id": "silage",
+    "name": "青贮饲料",
+    "nameEn": "Silage",
+    "wikiEn": "Silage",
+    "aliases": [
+      "青储"
+    ],
+    "year": 1857,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "法国的嫌气青贮法19世纪50年代提出并传入英美",
+    "era": "industrial",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "fermentation",
+      "animal_husbandry"
+    ],
+    "related": [
+      "dairy",
+      "poultry_farming"
+    ],
+    "desc": "牧草嫌气发酵封存，让奶牛冬季也有青饲料。"
+  },
+  {
+    "id": "infant_formula",
+    "name": "婴儿配方奶粉",
+    "nameEn": "Infant formula",
+    "wikiEn": "Infant formula",
+    "aliases": [
+      "奶粉",
+      "婴儿代乳粉"
+    ],
+    "year": 1867,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "雀巢1867年推出商业化代乳粉",
+    "era": "industrial",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "pasteurization",
+      "dairy"
+    ],
+    "related": [
+      "germ_theory",
+      "refrigeration"
+    ],
+    "desc": "以牛乳改良的代乳粉，把婴儿喂养变成食品工业问题。"
+  },
+  {
+    "id": "soil_classification",
+    "name": "土壤分类学",
+    "nameEn": "Soil classification",
+    "wikiEn": "Soil classification",
+    "aliases": [
+      "发生学土壤分类",
+      "道库恰耶夫分类"
+    ],
+    "year": 1880,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "道库恰耶夫发生学分类体系形成于19世纪七八十年代",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "agriculture",
+      "microscope"
+    ],
+    "related": [
+      "precision_agriculture",
+      "irrigation",
+      "manure"
+    ],
+    "desc": "按成土因素给土壤分区定类，施肥改土自此有据。"
+  },
+  {
+    "id": "bordeaux_mixture",
+    "name": "波尔多液",
+    "nameEn": "Bordeaux mixture",
+    "wikiEn": "Bordeaux mixture",
+    "aliases": [
+      "硫酸铜石灰合剂"
+    ],
+    "year": 1885,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "米亚尔代1882年发现、1885年起大面积推广",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "germ_theory"
+    ],
+    "related": [
+      "pesticide",
+      "integrated_pest_management",
+      "wine"
+    ],
+    "desc": "硫酸铜加石灰的保护性杀菌剂，救法国葡萄园于霜霉。"
+  },
+  {
+    "id": "biological_pest_control",
+    "name": "害虫生物防治",
+    "nameEn": "Biological pest control",
+    "wikiEn": "Biological pest control",
+    "aliases": [
+      "以虫治虫",
+      "生物防控"
+    ],
+    "year": 1888,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1888年澳洲瓢虫引入加州治吹绵蚧为标志事件",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "agriculture"
+    ],
+    "related": [
+      "pesticide",
+      "integrated_pest_management",
+      "beekeeping"
+    ],
+    "desc": "养瓢虫治棉蚧，利用天敌的植保学科自此确立。"
+  },
+  {
+    "id": "monosodium_glutamate",
+    "name": "味精",
+    "nameEn": "Monosodium glutamate",
+    "wikiEn": "Monosodium glutamate",
+    "aliases": [
+      "谷氨酸钠"
+    ],
+    "year": 1908,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "池田菊苗1908年分离出谷氨酸，次年投产",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "fermentation",
+      "salt_production"
+    ],
+    "related": [
+      "nitrogen_cycle",
+      "food_preservation"
+    ],
+    "desc": "从海带分出谷氨酸并产业化，鲜味成为可制造的商品。"
+  },
+  {
+    "id": "freeze_drying",
+    "name": "冷冻干燥",
+    "nameEn": "Freeze drying",
+    "wikiEn": "Freeze drying",
+    "aliases": [
+      "冻干",
+      "升华干燥"
+    ],
+    "year": 1906,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "达尔松伐尔1906年提出生物制品冻干构想",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "refrigeration"
+    ],
+    "related": [
+      "frozen_food",
+      "food_preservation"
+    ],
+    "desc": "冰冻真空升华脱水，色味与营养保存远胜热风烘干。"
+  },
+  {
+    "id": "aerial_application",
+    "name": "航空植保",
+    "nameEn": "Aerial application",
+    "wikiEn": "Aerial application",
+    "aliases": [
+      "飞机喷药",
+      "农用航空"
+    ],
+    "year": 1921,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1921年俄亥俄州代顿用改装机喷砷铅粉防治Catalogna木蛾",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "airplane"
+    ],
+    "related": [
+      "pesticide",
+      "combine_harvester"
+    ],
+    "desc": "用飞机喷洒药粉治虫，植保作业第一次离开地面。"
+  },
+  {
+    "id": "hybrid_maize",
+    "name": "杂交玉米",
+    "nameEn": "Hybrid maize",
+    "wikiEn": "Hybrid (biology)",
+    "aliases": [
+      "杂交种玉米",
+      "double-cross hybrid corn"
+    ],
+    "year": 1926,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "双交制种法1920年代中期建立；玉米杂交无独立词条，挂上位条目Hybrid (biology)",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "mendelian_inheritance",
+      "heterosis",
+      "plant_breeding"
+    ],
+    "related": [
+      "dwarf_wheat",
+      "green_revolution",
+      "maize"
+    ],
+    "desc": "自交系间双交种制种法使玉米单产跃升，种子公司兴起。"
+  },
+  {
+    "id": "factory_farming",
+    "name": "工厂化养殖",
+    "nameEn": "Factory farming",
+    "wikiEn": "Intensive animal farming",
+    "aliases": [
+      "集约化养殖",
+      "工厂化牧场"
+    ],
+    "year": 1920,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "家禽集约化饲养20世纪20年代起步，二战后成型",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "animal_husbandry",
+      "selective_breeding_bakewell"
+    ],
+    "related": [
+      "dairy",
+      "poultry_farming"
+    ],
+    "desc": "高密度笼舍与配合饲料的流水线畜禽生产体制。"
+  },
+  {
+    "id": "organic_farming",
+    "name": "有机农业",
+    "nameEn": "Organic farming",
+    "wikiEn": "Organic farming",
+    "aliases": [
+      "有机耕作"
+    ],
+    "year": 1940,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "诺斯伯勒1940年提出术语，霍华德同年出《农业圣典》",
+    "era": "second_industrial",
+    "category": "agriculture_food",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "superphosphate_fertilizer",
+      "manure"
+    ],
+    "related": [
+      "no_till_farming",
+      "integrated_pest_management"
+    ],
+    "desc": "反对化肥农药依赖、以腐殖循环养地的耕作体系。"
+  },
+  {
+    "id": "drip_irrigation",
+    "name": "滴灌",
+    "nameEn": "Drip irrigation",
+    "wikiEn": "Drip irrigation",
+    "aliases": [
+      "滴灌法"
+    ],
+    "year": 1959,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "布拉斯的现代滴灌系统50年代末在以色列定型",
+    "era": "atomic_electronic",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "irrigation"
+    ],
+    "related": [
+      "qanat",
+      "greenhouse",
+      "precision_agriculture"
+    ],
+    "desc": "管道逐滴湿润根区，旱地用水效率较漫灌倍增。"
+  },
+  {
+    "id": "uht_milk",
+    "name": "超高温灭菌乳",
+    "nameEn": "UHT milk",
+    "wikiEn": "Ultra-high-temperature processing",
+    "aliases": [
+      "常温奶",
+      "超高温瞬时灭菌"
+    ],
+    "year": 1961,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "工业化UHT产线20世纪60年代初投用",
+    "era": "atomic_electronic",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "pasteurization",
+      "germ_theory"
+    ],
+    "related": [
+      "pasteurized_milk",
+      "refrigeration",
+      "canning"
+    ],
+    "desc": "瞬时超高温加无菌灌装，牛奶从此不必冷藏。"
+  },
+  {
+    "id": "codex_alimentarius",
+    "name": "国际食品法典",
+    "nameEn": "Codex Alimentarius",
+    "wikiEn": "Codex Alimentarius",
+    "aliases": [
+      "食品法典委员会"
+    ],
+    "year": 1963,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "粮农组织与世卫组织1963年共同创立",
+    "era": "atomic_electronic",
+    "category": "agriculture_food",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "pasteurization",
+      "canning_industrialization"
+    ],
+    "related": [
+      "food_preservation",
+      "pasteurized_milk"
+    ],
+    "desc": "全球统一的食品添加剂与卫生标准体系。"
+  },
+  {
+    "id": "cold_chain",
+    "name": "冷链",
+    "nameEn": "Cold chain",
+    "wikiEn": "Cold chain",
+    "aliases": [
+      "低温物流",
+      "冷链体系"
+    ],
+    "year": 1960,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "制冷、冷藏运输与终端冷链成体系于20世纪中叶",
+    "era": "atomic_electronic",
+    "category": "agriculture_food",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "refrigeration",
+      "refrigerated_transport"
+    ],
+    "related": [
+      "frozen_food",
+      "canning_industrialization",
+      "pasteurized_milk"
+    ],
+    "desc": "从产地到餐桌不断低温的易腐品运配体系。"
+  },
+  {
+    "id": "glyphosate",
+    "name": "草甘膦",
+    "nameEn": "Glyphosate",
+    "wikiEn": "Glyphosate",
+    "aliases": [
+      "农达",
+      "膦酸类除草剂"
+    ],
+    "year": 1970,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1970年前后发现除草活性，1974年商品化",
+    "era": "information",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "pesticide",
+      "two_four_d_herbicide"
+    ],
+    "related": [
+      "no_till_farming",
+      "green_revolution"
+    ],
+    "desc": "广谱灭生性除草剂，成为免耕农业的化学支点。"
+  },
+  {
+    "id": "hybrid_rice",
+    "name": "杂交水稻",
+    "nameEn": "Hybrid rice",
+    "wikiEn": "Hybrid rice",
+    "aliases": [
+      "三系法杂交稻"
+    ],
+    "year": 1973,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1973年三系配套成功",
+    "era": "information",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 1,
+    "prereqs": [
+      "heterosis",
+      "plant_breeding",
+      "rice_cultivation"
+    ],
+    "related": [
+      "green_revolution",
+      "ir8_rice",
+      "dwarf_wheat"
+    ],
+    "desc": "三系法籼型杂交稻配组成功，稻作单产大幅提高。"
+  },
+  {
+    "id": "marker_assisted_selection",
+    "name": "分子标记辅助选择",
+    "nameEn": "Marker-assisted selection",
+    "wikiEn": "Marker-assisted selection",
+    "aliases": [
+      "分子标记育种",
+      "MAS"
+    ],
+    "year": 1988,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "RFLP标记连锁定位80年代后期引入育种实践",
+    "era": "information",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "dna_double_helix",
+      "pcr",
+      "plant_breeding"
+    ],
+    "related": [
+      "radiation_breeding",
+      "crispr_gene_editing"
+    ],
+    "desc": "按DNA标记筛选苗系，育种从表型选择走进基因型。"
+  },
+  {
+    "id": "bt_cotton",
+    "name": "转基因抗虫棉",
+    "nameEn": "Bt cotton",
+    "wikiEn": "Bt cotton",
+    "aliases": [
+      "抗虫棉",
+      "Bt作物"
+    ],
+    "year": 1996,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1996年起在美国商业化，1997年引入中国",
+    "era": "information",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "recombinant_dna_technology",
+      "fermentation"
+    ],
+    "related": [
+      "flavr_savr",
+      "pesticide"
+    ],
+    "desc": "转入苏云金芽孢杆菌毒蛋白基因的棉花自行杀虫。"
+  },
+  {
+    "id": "golden_rice",
+    "name": "黄金大米",
+    "nameEn": "Golden rice",
+    "wikiEn": "Golden rice",
+    "aliases": [
+      "富β-胡萝卜素的转基因稻"
+    ],
+    "year": 2000,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2000年《科学》报道首批工程稻系",
+    "era": "intelligent",
+    "category": "agriculture_food",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "recombinant_dna_technology",
+      "plant_breeding"
+    ],
+    "related": [
+      "flavr_savr",
+      "rice_cultivation"
+    ],
+    "desc": "转入合成β-胡萝卜素途径的稻米，针对隐性饥饿。"
+  },
+  {
+    "id": "seed_vault",
+    "name": "斯瓦尔巴全球种子库",
+    "nameEn": "Svalbard Global Seed Vault",
+    "wikiEn": "Svalbard Global Seed Vault",
+    "aliases": [
+      "末日种子库",
+      "全球粮种库"
+    ],
+    "year": 2008,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": null,
+    "era": "intelligent",
+    "category": "agriculture_food",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "grain_storage",
+      "plant_breeding"
+    ],
+    "related": [
+      "green_revolution",
+      "ir8_rice"
+    ],
+    "desc": "北极永久冻土中的农作物种子备份库，开库即启用。"
+  },
+  {
+    "id": "rinderpest_eradication",
+    "name": "牛瘟全球根除",
+    "nameEn": "Rinderpest eradication",
+    "wikiEn": "Rinderpest",
+    "aliases": [
+      "牛瘟消灭计划"
+    ],
+    "year": 2011,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2011年粮农组织宣布全球根除，为牛瘟而非口蹄疫",
+    "era": "intelligent",
+    "category": "agriculture_food",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "anthrax_vaccine",
+      "germ_theory"
+    ],
+    "related": [
+      "animal_husbandry",
+      "dairy"
+    ],
+    "desc": "全球疫情监测加疫苗运动根除牛瘟，畜禽防疫首例。"
+  }
+]

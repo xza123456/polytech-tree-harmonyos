@@ -1,0 +1,3806 @@
+[
+  {
+    "nameEn": "4D vector",
+    "wikiEn": "4D vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "API-Calculus",
+    "wikiEn": "API-Calculus",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Abel polynomials",
+    "wikiEn": "Abel polynomials",
+    "name": "阿貝爾多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Abhyankar's conjecture",
+    "wikiEn": "Abhyankar's conjecture",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Abhyankar's inequality",
+    "wikiEn": "Abhyankar's inequality",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Abhyankar's lemma",
+    "wikiEn": "Abhyankar's lemma",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Absolute value (algebra)",
+    "wikiEn": "Absolute value (algebra)",
+    "name": "绝对赋值",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Absolutely convex set",
+    "wikiEn": "Absolutely convex set",
+    "name": "绝对凸集",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Absorbing element",
+    "wikiEn": "Absorbing element",
+    "name": "",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Absorption law",
+    "wikiEn": "Absorption law",
+    "name": "吸收律",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Abstract algebra",
+    "wikiEn": "Abstract algebra",
+    "name": "抽象代数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Action algebra",
+    "wikiEn": "Action algebra",
+    "name": "作用代数",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Action groupoid",
+    "wikiEn": "Action groupoid",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Actor model and process calculi",
+    "wikiEn": "Actor model and process calculi",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Actor model and process calculi history",
+    "wikiEn": "Actor model and process calculi history",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Actuarial polynomials",
+    "wikiEn": "Actuarial polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Additive group",
+    "wikiEn": "Additive group",
+    "name": "加法群",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Additive identity",
+    "wikiEn": "Additive identity",
+    "name": "加法單位元",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Additive inverse",
+    "wikiEn": "Additive inverse",
+    "name": "加法逆元",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Additive map",
+    "wikiEn": "Additive map",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Additive polynomial",
+    "wikiEn": "Additive polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Adequate subcategory",
+    "wikiEn": "Adequate subcategory",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Affine monoid",
+    "wikiEn": "Affine monoid",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Aitken interpolation",
+    "wikiEn": "Aitken interpolation",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Alexander polynomial",
+    "wikiEn": "Alexander polynomial",
+    "name": "亞歷山大多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Algebra of communicating processes",
+    "wikiEn": "Algebra of communicating processes",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Algebra: Chapter 0",
+    "wikiEn": "Algebra: Chapter 0",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Algebraic element",
+    "wikiEn": "Algebraic element",
+    "name": "",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Algebraic equation",
+    "wikiEn": "Algebraic equation",
+    "name": "代数方程",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Algebraic function",
+    "wikiEn": "Algebraic function",
+    "name": "代數函數",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Algebraic set",
+    "wikiEn": "Algebraic set",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Algebraic structure",
+    "wikiEn": "Algebraic structure",
+    "name": "代数结构",
+    "subcat": ""
+  },
+  {
+    "nameEn": "All one polynomial",
+    "wikiEn": "All one polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Alternating polynomial",
+    "wikiEn": "Alternating polynomial",
+    "name": "交错多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Ambient calculus",
+    "wikiEn": "Ambient calculus",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Andreotti–Grauert theorem",
+    "wikiEn": "Andreotti–Grauert theorem",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Angelescu polynomials",
+    "wikiEn": "Angelescu polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Annihilating polynomial",
+    "wikiEn": "Annihilating polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Antihomomorphism",
+    "wikiEn": "Antihomomorphism",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Antiisomorphism",
+    "wikiEn": "Antiisomorphism",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Appell sequence",
+    "wikiEn": "Appell sequence",
+    "name": "阿佩爾序列",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Arity",
+    "wikiEn": "Arity",
+    "name": "元数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Automorphism",
+    "wikiEn": "Automorphism",
+    "name": "自同构",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Automorphism of a Lie algebra",
+    "wikiEn": "Automorphism of a Lie algebra",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Ax–Grothendieck theorem",
+    "wikiEn": "Ax–Grothendieck theorem",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "A∞-operad",
+    "wikiEn": "A∞-operad",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "BCK algebra",
+    "wikiEn": "BCK algebra",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "BF-algebra",
+    "wikiEn": "BF-algebra",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Baer *-semigroup",
+    "wikiEn": "Baer *-semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Band (algebra)",
+    "wikiEn": "Band (algebra)",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Barrel shifter",
+    "wikiEn": "Barrel shifter",
+    "name": "桶式移位器",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Baumslag–Gersten group",
+    "wikiEn": "Baumslag–Gersten group",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Bell polynomials",
+    "wikiEn": "Bell polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bendixson's inequality",
+    "wikiEn": "Bendixson's inequality",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Berlekamp–Rabin algorithm",
+    "wikiEn": "Berlekamp–Rabin algorithm",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bernoulli polynomials",
+    "wikiEn": "Bernoulli polynomials",
+    "name": "伯努利多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bernoulli polynomials of the second kind",
+    "wikiEn": "Bernoulli polynomials of the second kind",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bernstein polynomial",
+    "wikiEn": "Bernstein polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bernstein–Sato polynomial",
+    "wikiEn": "Bernstein–Sato polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bifundamental representation",
+    "wikiEn": "Bifundamental representation",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Bilinear form",
+    "wikiEn": "Bilinear form",
+    "name": "雙線性形式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Binary operation",
+    "wikiEn": "Binary operation",
+    "name": "二元运算",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Binomial (polynomial)",
+    "wikiEn": "Binomial (polynomial)",
+    "name": "二项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Binomial type",
+    "wikiEn": "Binomial type",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Biordered set",
+    "wikiEn": "Biordered set",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Biracks and biquandles",
+    "wikiEn": "Biracks and biquandles",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Blaschke sum",
+    "wikiEn": "Blaschke sum",
+    "name": "",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Boas–Buck polynomials",
+    "wikiEn": "Boas–Buck polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bollobás–Riordan polynomial",
+    "wikiEn": "Bollobás–Riordan polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bombieri norm",
+    "wikiEn": "Bombieri norm",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Boole polynomials",
+    "wikiEn": "Boole polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Boolean algebra (structure)",
+    "wikiEn": "Boolean algebra (structure)",
+    "name": "布尔代数",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Bracket polynomial",
+    "wikiEn": "Bracket polynomial",
+    "name": "括號多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Brahmagupta polynomials",
+    "wikiEn": "Brahmagupta polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Bring radical",
+    "wikiEn": "Bring radical",
+    "name": "布靈根式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Burgers vector",
+    "wikiEn": "Burgers vector",
+    "name": "伯格斯矢量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Bézout matrix",
+    "wikiEn": "Bézout matrix",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Calculus of broadcasting systems",
+    "wikiEn": "Calculus of broadcasting systems",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Calculus of communicating systems",
+    "wikiEn": "Calculus of communicating systems",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Caloric polynomial",
+    "wikiEn": "Caloric polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Cancellation property",
+    "wikiEn": "Cancellation property",
+    "name": "",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Cancellative semigroup",
+    "wikiEn": "Cancellative semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Canonical basis",
+    "wikiEn": "Canonical basis",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cap product",
+    "wikiEn": "Cap product",
+    "name": "",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Carlitz–Wan conjecture",
+    "wikiEn": "Carlitz–Wan conjecture",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Cartan's theorem",
+    "wikiEn": "Cartan's theorem",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Casus irreducibilis",
+    "wikiEn": "Casus irreducibilis",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Catamorphism",
+    "wikiEn": "Catamorphism",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Category (mathematics)",
+    "wikiEn": "Category (mathematics)",
+    "name": "範疇 (數學)",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Cauchy sequence",
+    "wikiEn": "Cauchy sequence",
+    "name": "柯西序列",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cavalieri's quadrature formula",
+    "wikiEn": "Cavalieri's quadrature formula",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Center (algebra)",
+    "wikiEn": "Center (algebra)",
+    "name": "中心 (代数)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Centralizer and normalizer",
+    "wikiEn": "Centralizer and normalizer",
+    "name": "中心化子和正规化子",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Characteristic polynomial",
+    "wikiEn": "Characteristic polynomial",
+    "name": "特徵多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Chebyshev polynomials",
+    "wikiEn": "Chebyshev polynomials",
+    "name": "切比雪夫多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Circular convolution",
+    "wikiEn": "Circular convolution",
+    "name": "圓周摺積",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Class of groups",
+    "wikiEn": "Class of groups",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Clifford semigroup",
+    "wikiEn": "Clifford semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Closure (mathematics)",
+    "wikiEn": "Closure (mathematics)",
+    "name": "闭包 (数学)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Closure with a twist",
+    "wikiEn": "Closure with a twist",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Coefficient",
+    "wikiEn": "Coefficient",
+    "name": "系数",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Coefficient diagram method",
+    "wikiEn": "Coefficient diagram method",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Cohn's irreducibility criterion",
+    "wikiEn": "Cohn's irreducibility criterion",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Coimage",
+    "wikiEn": "Coimage",
+    "name": "余象",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cokernel",
+    "wikiEn": "Cokernel",
+    "name": "余核",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Communicating sequential processes",
+    "wikiEn": "Communicating sequential processes",
+    "name": "通信顺序进程",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Commutative ring",
+    "wikiEn": "Commutative ring",
+    "name": "交换环",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Commutator",
+    "wikiEn": "Commutator",
+    "name": "交換子",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Complete Heyting algebra",
+    "wikiEn": "Complete Heyting algebra",
+    "name": "完全海廷代数",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Completely regular semigroup",
+    "wikiEn": "Completely regular semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Completing the square",
+    "wikiEn": "Completing the square",
+    "name": "配方法",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Complex conjugate of a vector space",
+    "wikiEn": "Complex conjugate of a vector space",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Complex quadratic polynomial",
+    "wikiEn": "Complex quadratic polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Composition of relations",
+    "wikiEn": "Composition of relations",
+    "name": "",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Composition ring",
+    "wikiEn": "Composition ring",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Conditional event algebra",
+    "wikiEn": "Conditional event algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Conditioned disjunction",
+    "wikiEn": "Conditioned disjunction",
+    "name": "",
+    "subcat": "Ternary operations"
+  },
+  {
+    "nameEn": "Conformal linear transformation",
+    "wikiEn": "Conformal linear transformation",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Congruence relation",
+    "wikiEn": "Congruence relation",
+    "name": "同餘關係",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Constant term",
+    "wikiEn": "Constant term",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Construction and Analysis of Distributed Processes",
+    "wikiEn": "Construction and Analysis of Distributed Processes",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Continuant (mathematics)",
+    "wikiEn": "Continuant (mathematics)",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Convex space",
+    "wikiEn": "Convex space",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Coordinate vector",
+    "wikiEn": "Coordinate vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Courant bracket",
+    "wikiEn": "Courant bracket",
+    "name": "",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Covariance and contravariance of vectors",
+    "wikiEn": "Covariance and contravariance of vectors",
+    "name": "共變和反變",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Cover (algebra)",
+    "wikiEn": "Cover (algebra)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cubic equation",
+    "wikiEn": "Cubic equation",
+    "name": "三次方程",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Cup product",
+    "wikiEn": "Cup product",
+    "name": "上积",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Cycle graph (algebra)",
+    "wikiEn": "Cycle graph (algebra)",
+    "name": "環圖",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cyclic redundancy check",
+    "wikiEn": "Cyclic redundancy check",
+    "name": "循環冗餘校驗",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Cyclic vector",
+    "wikiEn": "Cyclic vector",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cyclotomic polynomial",
+    "wikiEn": "Cyclotomic polynomial",
+    "name": "分圆多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Cylinder (algebra)",
+    "wikiEn": "Cylinder (algebra)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cylindrical algebraic decomposition",
+    "wikiEn": "Cylindrical algebraic decomposition",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "DE-9IM",
+    "wikiEn": "DE-9IM",
+    "name": "",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Damm algorithm",
+    "wikiEn": "Damm algorithm",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Darboux vector",
+    "wikiEn": "Darboux vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Degree of a polynomial",
+    "wikiEn": "Degree of a polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Delta operator",
+    "wikiEn": "Delta operator",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Demonic composition",
+    "wikiEn": "Demonic composition",
+    "name": "",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Denisyuk polynomials",
+    "wikiEn": "Denisyuk polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Derivation of the Routh array",
+    "wikiEn": "Derivation of the Routh array",
+    "name": "勞斯陣列的推導",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Diagonal morphism",
+    "wikiEn": "Diagonal morphism",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Dialgebra",
+    "wikiEn": "Dialgebra",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Dickson polynomial",
+    "wikiEn": "Dickson polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Difference polynomials",
+    "wikiEn": "Difference polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Differential graded module",
+    "wikiEn": "Differential graded module",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Digroup",
+    "wikiEn": "Digroup",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Dimension",
+    "wikiEn": "Dimension",
+    "name": "維度",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Dimension (vector space)",
+    "wikiEn": "Dimension (vector space)",
+    "name": "向量空间的维数",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Dimension theorem for vector spaces",
+    "wikiEn": "Dimension theorem for vector spaces",
+    "name": "向量空间的维数定理",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Direct limit",
+    "wikiEn": "Direct limit",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Direct product",
+    "wikiEn": "Direct product",
+    "name": "直积",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Direct sum",
+    "wikiEn": "Direct sum",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Direction cosine",
+    "wikiEn": "Direction cosine",
+    "name": "方向餘弦",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Directional derivative",
+    "wikiEn": "Directional derivative",
+    "name": "方向导数",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Discriminant",
+    "wikiEn": "Discriminant",
+    "name": "判别式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Distance from a point to a line",
+    "wikiEn": "Distance from a point to a line",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Distribution (number theory)",
+    "wikiEn": "Distribution (number theory)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Distribution algebra",
+    "wikiEn": "Distribution algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Distributive homomorphism",
+    "wikiEn": "Distributive homomorphism",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Divided power structure",
+    "wikiEn": "Divided power structure",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Division polynomials",
+    "wikiEn": "Division polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Dixmier conjecture",
+    "wikiEn": "Dixmier conjecture",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Dold–Kan correspondence",
+    "wikiEn": "Dold–Kan correspondence",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Domain (ring theory)",
+    "wikiEn": "Domain (ring theory)",
+    "name": "無零因子環",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Dot product",
+    "wikiEn": "Dot product",
+    "name": "点积",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Double groupoid",
+    "wikiEn": "Double groupoid",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "E-LOTOS",
+    "wikiEn": "E-LOTOS",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "E-dense semigroup",
+    "wikiEn": "E-dense semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "E-semigroup",
+    "wikiEn": "E-semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Eccentricity vector",
+    "wikiEn": "Eccentricity vector",
+    "name": "離心率向量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Eckmann–Hilton argument",
+    "wikiEn": "Eckmann–Hilton argument",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Effect algebra",
+    "wikiEn": "Effect algebra",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Ehrhart polynomial",
+    "wikiEn": "Ehrhart polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Eigenvalues and eigenvectors",
+    "wikiEn": "Eigenvalues and eigenvectors",
+    "name": "特征值和特征向量",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Eisenstein's criterion",
+    "wikiEn": "Eisenstein's criterion",
+    "name": "艾森斯坦判別法",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Elliptic algebra",
+    "wikiEn": "Elliptic algebra",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Elvis operator",
+    "wikiEn": "Elvis operator",
+    "name": "埃尔维斯运算符",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Embedding",
+    "wikiEn": "Embedding",
+    "name": "嵌入 (数学)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Emmy Noether bibliography",
+    "wikiEn": "Emmy Noether bibliography",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Empty semigroup",
+    "wikiEn": "Empty semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Endomorphism",
+    "wikiEn": "Endomorphism",
+    "name": "自同态",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Enumerator polynomial",
+    "wikiEn": "Enumerator polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Epigroup",
+    "wikiEn": "Epigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Epimorphism",
+    "wikiEn": "Epimorphism",
+    "name": "",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Equally spaced polynomial",
+    "wikiEn": "Equally spaced polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Equipollence (geometry)",
+    "wikiEn": "Equipollence (geometry)",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Essential dimension",
+    "wikiEn": "Essential dimension",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Essential monomorphism",
+    "wikiEn": "Essential monomorphism",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Euclidean vector",
+    "wikiEn": "Euclidean vector",
+    "name": "向量",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Eutactic star",
+    "wikiEn": "Eutactic star",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Eventually stable polynomial",
+    "wikiEn": "Eventually stable polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Exponential field",
+    "wikiEn": "Exponential field",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Exponential polynomial",
+    "wikiEn": "Exponential polynomial",
+    "name": "指數多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Exponentiation",
+    "wikiEn": "Exponentiation",
+    "name": "冪",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Expression (mathematics)",
+    "wikiEn": "Expression (mathematics)",
+    "name": "表達式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Ext functor",
+    "wikiEn": "Ext functor",
+    "name": "Ext函子",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "External ray",
+    "wikiEn": "External ray",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "E∞-operad",
+    "wikiEn": "E∞-operad",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "FGLM algorithm",
+    "wikiEn": "FGLM algorithm",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Faber polynomials",
+    "wikiEn": "Faber polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Factorization algebra",
+    "wikiEn": "Factorization algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Factorization of polynomials",
+    "wikiEn": "Factorization of polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Factorization of polynomials over finite fields",
+    "wikiEn": "Factorization of polynomials over finite fields",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Faddeev–LeVerrier algorithm",
+    "wikiEn": "Faddeev–LeVerrier algorithm",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Faltings' annihilator theorem",
+    "wikiEn": "Faltings' annihilator theorem",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Fekete polynomial",
+    "wikiEn": "Fekete polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Fibonacci polynomials",
+    "wikiEn": "Fibonacci polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Fibrations of graphs",
+    "wikiEn": "Fibrations of graphs",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Field (mathematics)",
+    "wikiEn": "Field (mathematics)",
+    "name": "域 (数学)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Filtration (mathematics)",
+    "wikiEn": "Filtration (mathematics)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Finite lattice representation problem",
+    "wikiEn": "Finite lattice representation problem",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Finitely generated abelian group",
+    "wikiEn": "Finitely generated abelian group",
+    "name": "有限生成阿貝爾群",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Flat lattice",
+    "wikiEn": "Flat lattice",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Formal derivative",
+    "wikiEn": "Formal derivative",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Formal power series",
+    "wikiEn": "Formal power series",
+    "name": "形式幂级数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Foulis semigroup",
+    "wikiEn": "Foulis semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Four-vector",
+    "wikiEn": "Four-vector",
+    "name": "四維矢量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Free object",
+    "wikiEn": "Free object",
+    "name": "自由對象",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Free presentation",
+    "wikiEn": "Free presentation",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Free product of associative algebras",
+    "wikiEn": "Free product of associative algebras",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Full linear monoid",
+    "wikiEn": "Full linear monoid",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Function composition",
+    "wikiEn": "Function composition",
+    "name": "复合函数",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Fundamental lemma (Langlands program)",
+    "wikiEn": "Fundamental lemma (Langlands program)",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Fundamental theorem on homomorphisms",
+    "wikiEn": "Fundamental theorem on homomorphisms",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Gabriel–Popescu theorem",
+    "wikiEn": "Gabriel–Popescu theorem",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Garside element",
+    "wikiEn": "Garside element",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Gelfand–Kirillov dimension",
+    "wikiEn": "Gelfand–Kirillov dimension",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "General linear group",
+    "wikiEn": "General linear group",
+    "name": "一般线性群",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Generalized Appell polynomials",
+    "wikiEn": "Generalized Appell polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Generalized Poisson distribution on a locally compact Abelian group",
+    "wikiEn": "Generalized Poisson distribution on a locally compact Abelian group",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Generating set of a module",
+    "wikiEn": "Generating set of a module",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Generator (mathematics)",
+    "wikiEn": "Generator (mathematics)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Generic flatness",
+    "wikiEn": "Generic flatness",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Generic matrix ring",
+    "wikiEn": "Generic matrix ring",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Geometrical properties of polynomial roots",
+    "wikiEn": "Geometrical properties of polynomial roots",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Gould polynomials",
+    "wikiEn": "Gould polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Graded-commutative ring",
+    "wikiEn": "Graded-commutative ring",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Graph homomorphism",
+    "wikiEn": "Graph homomorphism",
+    "name": "圖同態",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Graph isomorphism",
+    "wikiEn": "Graph isomorphism",
+    "name": "图同构",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Graph isomorphism problem",
+    "wikiEn": "Graph isomorphism problem",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Graph polynomial",
+    "wikiEn": "Graph polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Grothendieck group",
+    "wikiEn": "Grothendieck group",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Group (mathematics)",
+    "wikiEn": "Group (mathematics)",
+    "name": "群",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Group homomorphism",
+    "wikiEn": "Group homomorphism",
+    "name": "群同態",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Group isomorphism",
+    "wikiEn": "Group isomorphism",
+    "name": "群同構",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Groupoid",
+    "wikiEn": "Groupoid",
+    "name": "广群",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Groupoid algebra",
+    "wikiEn": "Groupoid algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "HOMFLY polynomial",
+    "wikiEn": "HOMFLY polynomial",
+    "name": "HOMFLY多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hardy field",
+    "wikiEn": "Hardy field",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Harmonic polynomial",
+    "wikiEn": "Harmonic polynomial",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Hasse–Schmidt derivation",
+    "wikiEn": "Hasse–Schmidt derivation",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Heap (mathematics)",
+    "wikiEn": "Heap (mathematics)",
+    "name": "",
+    "subcat": "Ternary operations"
+  },
+  {
+    "nameEn": "Hecke algebra",
+    "wikiEn": "Hecke algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Height function",
+    "wikiEn": "Height function",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Heine–Stieltjes polynomials",
+    "wikiEn": "Heine–Stieltjes polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hermite polynomials",
+    "wikiEn": "Hermite polynomials",
+    "name": "埃尔米特多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hidden algebra",
+    "wikiEn": "Hidden algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Hilbert's Nullstellensatz",
+    "wikiEn": "Hilbert's Nullstellensatz",
+    "name": "希尔伯特零点定理",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hilbert's thirteenth problem",
+    "wikiEn": "Hilbert's thirteenth problem",
+    "name": "希爾伯特第十三問題",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hiptmair–Xu preconditioner",
+    "wikiEn": "Hiptmair–Xu preconditioner",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hom functor",
+    "wikiEn": "Hom functor",
+    "name": "",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Homomorphic secret sharing",
+    "wikiEn": "Homomorphic secret sharing",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Homomorphism",
+    "wikiEn": "Homomorphism",
+    "name": "同态",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Horner's method",
+    "wikiEn": "Horner's method",
+    "name": "秦九韶算法",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hudde's rules",
+    "wikiEn": "Hudde's rules",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Humbert polynomials",
+    "wikiEn": "Humbert polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hurwitz polynomial",
+    "wikiEn": "Hurwitz polynomial",
+    "name": "赫爾維茨多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Hyperstructure",
+    "wikiEn": "Hyperstructure",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "I-semigroup",
+    "wikiEn": "I-semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Icosian calculus",
+    "wikiEn": "Icosian calculus",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Ideal (ring theory)",
+    "wikiEn": "Ideal (ring theory)",
+    "name": "理想 (环论)",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Idealizer",
+    "wikiEn": "Idealizer",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Idempotence",
+    "wikiEn": "Idempotence",
+    "name": "冪等",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Identity element",
+    "wikiEn": "Identity element",
+    "name": "單位元",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Indicator vector",
+    "wikiEn": "Indicator vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Infinite expression",
+    "wikiEn": "Infinite expression",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Infinite-dimensional vector function",
+    "wikiEn": "Infinite-dimensional vector function",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Information algebra",
+    "wikiEn": "Information algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Infrastructure (number theory)",
+    "wikiEn": "Infrastructure (number theory)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Integer-valued polynomial",
+    "wikiEn": "Integer-valued polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Integrable module",
+    "wikiEn": "Integrable module",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Integral closure of an ideal",
+    "wikiEn": "Integral closure of an ideal",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Integral element",
+    "wikiEn": "Integral element",
+    "name": "整性",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Interior algebra",
+    "wikiEn": "Interior algebra",
+    "name": "内部代数",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Invariant polynomial",
+    "wikiEn": "Invariant polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Inverse element",
+    "wikiEn": "Inverse element",
+    "name": "逆元素",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Inverse limit",
+    "wikiEn": "Inverse limit",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Inverse semigroup",
+    "wikiEn": "Inverse semigroup",
+    "name": "逆半群",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Involution (mathematics)",
+    "wikiEn": "Involution (mathematics)",
+    "name": "對合",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Irreducible element",
+    "wikiEn": "Irreducible element",
+    "name": "不可約元素",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Irreducible polynomial",
+    "wikiEn": "Irreducible polynomial",
+    "name": "不可约多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Isomorphism",
+    "wikiEn": "Isomorphism",
+    "name": "同构",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Isomorphism class",
+    "wikiEn": "Isomorphism class",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Isomorphism extension theorem",
+    "wikiEn": "Isomorphism extension theorem",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Iterated binary operation",
+    "wikiEn": "Iterated binary operation",
+    "name": "",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "J-structure",
+    "wikiEn": "J-structure",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Jacobian conjecture",
+    "wikiEn": "Jacobian conjecture",
+    "name": "雅可比猜想",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Join and meet",
+    "wikiEn": "Join and meet",
+    "name": "",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Join-calculus",
+    "wikiEn": "Join-calculus",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Jones polynomial",
+    "wikiEn": "Jones polynomial",
+    "name": "琼斯多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Joubert's theorem",
+    "wikiEn": "Joubert's theorem",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Jónsson–Tarski algebra",
+    "wikiEn": "Jónsson–Tarski algebra",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Kasch ring",
+    "wikiEn": "Kasch ring",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Kauffman polynomial",
+    "wikiEn": "Kauffman polynomial",
+    "name": "考夫曼多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Kazhdan–Lusztig polynomial",
+    "wikiEn": "Kazhdan–Lusztig polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Kernel (set theory)",
+    "wikiEn": "Kernel (set theory)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Kharitonov region",
+    "wikiEn": "Kharitonov region",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Kleene algebra",
+    "wikiEn": "Kleene algebra",
+    "name": "克莱尼代数",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Knot polynomial",
+    "wikiEn": "Knot polynomial",
+    "name": "紐結多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Knuth–Eve algorithm",
+    "wikiEn": "Knuth–Eve algorithm",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Källén function",
+    "wikiEn": "Källén function",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "L-semi-inner product",
+    "wikiEn": "L-semi-inner product",
+    "name": "",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "LLT polynomial",
+    "wikiEn": "LLT polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Lagrange polynomial",
+    "wikiEn": "Lagrange polynomial",
+    "name": "拉格朗日插值法",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Laguerre polynomials",
+    "wikiEn": "Laguerre polynomials",
+    "name": "拉盖尔多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Language of Temporal Ordering Specification",
+    "wikiEn": "Language of Temporal Ordering Specification",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Laplace–Runge–Lenz vector",
+    "wikiEn": "Laplace–Runge–Lenz vector",
+    "name": "拉普拉斯-龍格-冷次向量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Latimer–MacDuffee theorem",
+    "wikiEn": "Latimer–MacDuffee theorem",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Lattice (order)",
+    "wikiEn": "Lattice (order)",
+    "name": "格 (数学)",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Laurent polynomial",
+    "wikiEn": "Laurent polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Lebesgue constant",
+    "wikiEn": "Lebesgue constant",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Left and right (algebra)",
+    "wikiEn": "Left and right (algebra)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Legendre moment",
+    "wikiEn": "Legendre moment",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Legendre polynomials",
+    "wikiEn": "Legendre polynomials",
+    "name": "勒让德多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Lehmer's conjecture",
+    "wikiEn": "Lehmer's conjecture",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Lie operad",
+    "wikiEn": "Lie operad",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Light's associativity test",
+    "wikiEn": "Light's associativity test",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Lill's method",
+    "wikiEn": "Lill's method",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Lindenbaum–Tarski algebra",
+    "wikiEn": "Lindenbaum–Tarski algebra",
+    "name": "林登鲍姆-塔斯基代数",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Lindsey–Fox algorithm",
+    "wikiEn": "Lindsey–Fox algorithm",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Linear independence",
+    "wikiEn": "Linear independence",
+    "name": "線性無關",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear map",
+    "wikiEn": "Linear map",
+    "name": "线性映射",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear relation",
+    "wikiEn": "Linear relation",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Linear span",
+    "wikiEn": "Linear span",
+    "name": "线性生成空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linearised polynomial",
+    "wikiEn": "Linearised polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Littlewood polynomial",
+    "wikiEn": "Littlewood polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Local criterion for flatness",
+    "wikiEn": "Local criterion for flatness",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Locally finite operator",
+    "wikiEn": "Locally finite operator",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Logic alphabet",
+    "wikiEn": "Logic alphabet",
+    "name": "",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Logical consequence",
+    "wikiEn": "Logical consequence",
+    "name": "蕴涵",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Lommel polynomial",
+    "wikiEn": "Lommel polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Lorentz scalar",
+    "wikiEn": "Lorentz scalar",
+    "name": "",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Lulu smoothing",
+    "wikiEn": "Lulu smoothing",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "MCRL2",
+    "wikiEn": "MCRL2",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "MV-algebra",
+    "wikiEn": "MV-algebra",
+    "name": "MV-代数",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Magma (algebra)",
+    "wikiEn": "Magma (algebra)",
+    "name": "原群",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Mahler measure",
+    "wikiEn": "Mahler measure",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Mahler polynomial",
+    "wikiEn": "Mahler polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Massey product",
+    "wikiEn": "Massey product",
+    "name": "梅西积",
+    "subcat": "Ternary operations"
+  },
+  {
+    "nameEn": "Matching polynomial",
+    "wikiEn": "Matching polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Matrix factorization of a polynomial",
+    "wikiEn": "Matrix factorization of a polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Matrix polynomial",
+    "wikiEn": "Matrix polynomial",
+    "name": "矩阵多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Matrix ring",
+    "wikiEn": "Matrix ring",
+    "name": "矩阵环",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Matrix semialgebra",
+    "wikiEn": "Matrix semialgebra",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Matrix semiring",
+    "wikiEn": "Matrix semiring",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Maximal common divisor",
+    "wikiEn": "Maximal common divisor",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Maximum-length sequence",
+    "wikiEn": "Maximum-length sequence",
+    "name": "M-sequence",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Mean operation",
+    "wikiEn": "Mean operation",
+    "name": "平均运算",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Median algebra",
+    "wikiEn": "Median algebra",
+    "name": "",
+    "subcat": "Ternary operations"
+  },
+  {
+    "nameEn": "Minimal algebra",
+    "wikiEn": "Minimal algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Minimal ideal",
+    "wikiEn": "Minimal ideal",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Minimal polynomial (field theory)",
+    "wikiEn": "Minimal polynomial (field theory)",
+    "name": "極小多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Minimal polynomial (linear algebra)",
+    "wikiEn": "Minimal polynomial (linear algebra)",
+    "name": "極小多項式 (線性代數)",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Minimal polynomial of 2cos(2pi/n)",
+    "wikiEn": "Minimal polynomial of 2cos(2pi/n)",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Minkowski addition",
+    "wikiEn": "Minkowski addition",
+    "name": "閔可夫斯基和",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Mittag-Leffler polynomials",
+    "wikiEn": "Mittag-Leffler polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Moderne Algebra",
+    "wikiEn": "Moderne Algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Modeshape",
+    "wikiEn": "Modeshape",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Modular multiplicative inverse",
+    "wikiEn": "Modular multiplicative inverse",
+    "name": "模反元素",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Modular tensor category",
+    "wikiEn": "Modular tensor category",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Module (mathematics)",
+    "wikiEn": "Module (mathematics)",
+    "name": "模",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Monic polynomial",
+    "wikiEn": "Monic polynomial",
+    "name": "首一多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Monogenic semigroup",
+    "wikiEn": "Monogenic semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Monoid",
+    "wikiEn": "Monoid",
+    "name": "幺半群",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Monomial basis",
+    "wikiEn": "Monomial basis",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Monomial ideal",
+    "wikiEn": "Monomial ideal",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Monomial order",
+    "wikiEn": "Monomial order",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Monomorphism",
+    "wikiEn": "Monomorphism",
+    "name": "單態射",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Monus",
+    "wikiEn": "Monus",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Morley–Wang–Xu element",
+    "wikiEn": "Morley–Wang–Xu element",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Morphism",
+    "wikiEn": "Morphism",
+    "name": "态射",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Mott polynomials",
+    "wikiEn": "Mott polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Moufang polygon",
+    "wikiEn": "Moufang polygon",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Multilinear form",
+    "wikiEn": "Multilinear form",
+    "name": "多重线性形式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Multilinear polynomial",
+    "wikiEn": "Multilinear polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Multiplicative graph",
+    "wikiEn": "Multiplicative graph",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Multiplicative group",
+    "wikiEn": "Multiplicative group",
+    "name": "乘法群",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Multiplicative inverse",
+    "wikiEn": "Multiplicative inverse",
+    "name": "倒数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Multiplicative sequence",
+    "wikiEn": "Multiplicative sequence",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "N-ary group",
+    "wikiEn": "N-ary group",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Narayana polynomials",
+    "wikiEn": "Narayana polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Narumi polynomials",
+    "wikiEn": "Narumi polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Near sets",
+    "wikiEn": "Near sets",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Near-field (mathematics)",
+    "wikiEn": "Near-field (mathematics)",
+    "name": "近域",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Near-ring",
+    "wikiEn": "Near-ring",
+    "name": "近环",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Near-semiring",
+    "wikiEn": "Near-semiring",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Neumann polynomial",
+    "wikiEn": "Neumann polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Neville's algorithm",
+    "wikiEn": "Neville's algorithm",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Newton polynomial",
+    "wikiEn": "Newton polynomial",
+    "name": "牛顿多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Nilpotent",
+    "wikiEn": "Nilpotent",
+    "name": "幂零元",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Normal basis",
+    "wikiEn": "Normal basis",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Normal element",
+    "wikiEn": "Normal element",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Normal homomorphism",
+    "wikiEn": "Normal homomorphism",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Normal morphism",
+    "wikiEn": "Normal morphism",
+    "name": "正规态射",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Nowhere commutative semigroup",
+    "wikiEn": "Nowhere commutative semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Null coalescing operator",
+    "wikiEn": "Null coalescing operator",
+    "name": "空值结合运算符",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Numerical semigroup",
+    "wikiEn": "Numerical semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Operad",
+    "wikiEn": "Operad",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Operad algebra",
+    "wikiEn": "Operad algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orbital state vectors",
+    "wikiEn": "Orbital state vectors",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Order (group theory)",
+    "wikiEn": "Order (group theory)",
+    "name": "階 (群論)",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Order isomorphism",
+    "wikiEn": "Order isomorphism",
+    "name": "序同构",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Order polynomial",
+    "wikiEn": "Order polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Ordered exponential",
+    "wikiEn": "Ordered exponential",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Ordered exponential field",
+    "wikiEn": "Ordered exponential field",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Orientation character",
+    "wikiEn": "Orientation character",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Orthogonality (mathematics)",
+    "wikiEn": "Orthogonality (mathematics)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Overring",
+    "wikiEn": "Overring",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "P-recursive equation",
+    "wikiEn": "P-recursive equation",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "PEPA",
+    "wikiEn": "PEPA",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "PT-group",
+    "wikiEn": "PT-group",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Padovan polynomials",
+    "wikiEn": "Padovan polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Pairing",
+    "wikiEn": "Pairing",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Parallel (operator)",
+    "wikiEn": "Parallel (operator)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Partial algebra",
+    "wikiEn": "Partial algebra",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Partial groupoid",
+    "wikiEn": "Partial groupoid",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Perfect complex",
+    "wikiEn": "Perfect complex",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Permutation polynomial",
+    "wikiEn": "Permutation polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Perron's irreducibility criterion",
+    "wikiEn": "Perron's irreducibility criterion",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Peters polynomials",
+    "wikiEn": "Peters polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Pidduck polynomials",
+    "wikiEn": "Pidduck polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Pincherle polynomials",
+    "wikiEn": "Pincherle polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Planar ternary ring",
+    "wikiEn": "Planar ternary ring",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Poincaré space",
+    "wikiEn": "Poincaré space",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Point-surjective morphism",
+    "wikiEn": "Point-surjective morphism",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Pointed set",
+    "wikiEn": "Pointed set",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Polarization identity",
+    "wikiEn": "Polarization identity",
+    "name": "极化恒等式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Polarization of an algebraic form",
+    "wikiEn": "Polarization of an algebraic form",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Polylogarithmic function",
+    "wikiEn": "Polylogarithmic function",
+    "name": "多對數函數",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial",
+    "wikiEn": "Polynomial",
+    "name": "多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial Diophantine equation",
+    "wikiEn": "Polynomial Diophantine equation",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial Wigner–Ville distribution",
+    "wikiEn": "Polynomial Wigner–Ville distribution",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial chaos",
+    "wikiEn": "Polynomial chaos",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial decomposition",
+    "wikiEn": "Polynomial decomposition",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial evaluation",
+    "wikiEn": "Polynomial evaluation",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial expansion",
+    "wikiEn": "Polynomial expansion",
+    "name": "多項式展開",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial greatest common divisor",
+    "wikiEn": "Polynomial greatest common divisor",
+    "name": "最大公因式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial identity testing",
+    "wikiEn": "Polynomial identity testing",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial interpolation",
+    "wikiEn": "Polynomial interpolation",
+    "name": "多项式插值",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial long division",
+    "wikiEn": "Polynomial long division",
+    "name": "多项式除法",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial matrix",
+    "wikiEn": "Polynomial matrix",
+    "name": "多项式矩阵",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial matrix spectral factorization",
+    "wikiEn": "Polynomial matrix spectral factorization",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial ring",
+    "wikiEn": "Polynomial ring",
+    "name": "多项式环",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial root-finding",
+    "wikiEn": "Polynomial root-finding",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial sequence",
+    "wikiEn": "Polynomial sequence",
+    "name": "多項式序列",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial solutions of P-recursive equations",
+    "wikiEn": "Polynomial solutions of P-recursive equations",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Polynomial transformation",
+    "wikiEn": "Polynomial transformation",
+    "name": "多项式变换",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Positive element",
+    "wikiEn": "Positive element",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Poynting vector",
+    "wikiEn": "Poynting vector",
+    "name": "坡印廷向量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Predual",
+    "wikiEn": "Predual",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Pregroup",
+    "wikiEn": "Pregroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Prime avoidance lemma",
+    "wikiEn": "Prime avoidance lemma",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Primitive element theorem",
+    "wikiEn": "Primitive element theorem",
+    "name": "本原元定理",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Primitive part and content",
+    "wikiEn": "Primitive part and content",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Primitive polynomial (field theory)",
+    "wikiEn": "Primitive polynomial (field theory)",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Primitive ring",
+    "wikiEn": "Primitive ring",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Primordial element (algebra)",
+    "wikiEn": "Primordial element (algebra)",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Principal root of unity",
+    "wikiEn": "Principal root of unity",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Principle of distributivity",
+    "wikiEn": "Principle of distributivity",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Probability vector",
+    "wikiEn": "Probability vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Process calculus",
+    "wikiEn": "Process calculus",
+    "name": "进程演算",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Proofs involving the addition of natural numbers",
+    "wikiEn": "Proofs involving the addition of natural numbers",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Pseudo-ring",
+    "wikiEn": "Pseudo-ring",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Pseudoalgebra",
+    "wikiEn": "Pseudoalgebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Pseudocomplemented lattice",
+    "wikiEn": "Pseudocomplemented lattice",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Pseudogroup",
+    "wikiEn": "Pseudogroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Pseudoscalar",
+    "wikiEn": "Pseudoscalar",
+    "name": "贗純量",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Pseudovector",
+    "wikiEn": "Pseudovector",
+    "name": "赝矢量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Q-difference polynomial",
+    "wikiEn": "Q-difference polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Quantum differential calculus",
+    "wikiEn": "Quantum differential calculus",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Quantum groupoid",
+    "wikiEn": "Quantum groupoid",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Quartic equation",
+    "wikiEn": "Quartic equation",
+    "name": "四次方程",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Quasi-free algebra",
+    "wikiEn": "Quasi-free algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Quasi-polynomial",
+    "wikiEn": "Quasi-polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Quasisymmetric function",
+    "wikiEn": "Quasisymmetric function",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Quillen–Suslin theorem",
+    "wikiEn": "Quillen–Suslin theorem",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Radical polynomial",
+    "wikiEn": "Radical polynomial",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rainville polynomials",
+    "wikiEn": "Rainville polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Rational monoid",
+    "wikiEn": "Rational monoid",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Rational series",
+    "wikiEn": "Rational series",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rayleigh's quotient in vibrations analysis",
+    "wikiEn": "Rayleigh's quotient in vibrations analysis",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Real-root isolation",
+    "wikiEn": "Real-root isolation",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Reciprocal polynomial",
+    "wikiEn": "Reciprocal polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Regular chain",
+    "wikiEn": "Regular chain",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Regular semi-algebraic system",
+    "wikiEn": "Regular semi-algebraic system",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Regular semigroup",
+    "wikiEn": "Regular semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Relational operator",
+    "wikiEn": "Relational operator",
+    "name": "關係運算子",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Relative scalar",
+    "wikiEn": "Relative scalar",
+    "name": "",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Remez algorithm",
+    "wikiEn": "Remez algorithm",
+    "name": "雷米茲演算法",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Representation theory",
+    "wikiEn": "Representation theory",
+    "name": "表示论",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Resolvent cubic",
+    "wikiEn": "Resolvent cubic",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Resultant",
+    "wikiEn": "Resultant",
+    "name": "結式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Right group",
+    "wikiEn": "Right group",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Right-hand rule",
+    "wikiEn": "Right-hand rule",
+    "name": "右手定則",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Ring (mathematics)",
+    "wikiEn": "Ring (mathematics)",
+    "name": "环 (代数)",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Ring homomorphism",
+    "wikiEn": "Ring homomorphism",
+    "name": "环同态",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Ring of symmetric functions",
+    "wikiEn": "Ring of symmetric functions",
+    "name": "对称函数环",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Ring theory",
+    "wikiEn": "Ring theory",
+    "name": "环论",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Rng (algebra)",
+    "wikiEn": "Rng (algebra)",
+    "name": "伪环",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Romanovski polynomials",
+    "wikiEn": "Romanovski polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Rook polynomial",
+    "wikiEn": "Rook polynomial",
+    "name": "棋盘多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Root of unity",
+    "wikiEn": "Root of unity",
+    "name": "单位根",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Rosenbrock function",
+    "wikiEn": "Rosenbrock function",
+    "name": "羅森布羅克函數",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Rotation vector",
+    "wikiEn": "Rotation vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Routh–Hurwitz stability criterion",
+    "wikiEn": "Routh–Hurwitz stability criterion",
+    "name": "劳斯–赫尔维茨稳定性判据",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Row and column spaces",
+    "wikiEn": "Row and column spaces",
+    "name": "行空间与列空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Row and column vectors",
+    "wikiEn": "Row and column vectors",
+    "name": "行向量與列向量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Ruffini's rule",
+    "wikiEn": "Ruffini's rule",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Samuelson–Berkowitz algorithm",
+    "wikiEn": "Samuelson–Berkowitz algorithm",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Scalar (mathematics)",
+    "wikiEn": "Scalar (mathematics)",
+    "name": "标量 (数学)",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Scalar field theory",
+    "wikiEn": "Scalar field theory",
+    "name": "标量场论",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Scalar triple product",
+    "wikiEn": "Scalar triple product",
+    "name": "",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Schur algebra",
+    "wikiEn": "Schur algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Secondary polynomials",
+    "wikiEn": "Secondary polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Segal's conjecture",
+    "wikiEn": "Segal's conjecture",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Self-adjoint element",
+    "wikiEn": "Self-adjoint element",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Semifield",
+    "wikiEn": "Semifield",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Semigroup",
+    "wikiEn": "Semigroup",
+    "name": "半群",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Semigroup with involution",
+    "wikiEn": "Semigroup with involution",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Semigroup with three elements",
+    "wikiEn": "Semigroup with three elements",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Semigroup with two elements",
+    "wikiEn": "Semigroup with two elements",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Semigroupoid",
+    "wikiEn": "Semigroupoid",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Semilattice",
+    "wikiEn": "Semilattice",
+    "name": "半格",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Semimodule",
+    "wikiEn": "Semimodule",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Semiprimitive ring",
+    "wikiEn": "Semiprimitive ring",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Semiring",
+    "wikiEn": "Semiring",
+    "name": "半环",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Separable polynomial",
+    "wikiEn": "Separable polynomial",
+    "name": "可分多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Septic equation",
+    "wikiEn": "Septic equation",
+    "name": "七次方程",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Sequential composition",
+    "wikiEn": "Sequential composition",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Sequential dynamical system",
+    "wikiEn": "Sequential dynamical system",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Series expansion",
+    "wikiEn": "Series expansion",
+    "name": "级数展开",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Setoid",
+    "wikiEn": "Setoid",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Sextic equation",
+    "wikiEn": "Sextic equation",
+    "name": "六次方程",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Shapiro polynomials",
+    "wikiEn": "Shapiro polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Sheffer sequence",
+    "wikiEn": "Sheffer sequence",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Simple (abstract algebra)",
+    "wikiEn": "Simple (abstract algebra)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Simplicial commutative ring",
+    "wikiEn": "Simplicial commutative ring",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Sister Beiter conjecture",
+    "wikiEn": "Sister Beiter conjecture",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Sister Celine's polynomials",
+    "wikiEn": "Sister Celine's polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Skew-Hermitian matrix",
+    "wikiEn": "Skew-Hermitian matrix",
+    "name": "斜埃尔米特矩阵",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Sklyanin algebra",
+    "wikiEn": "Sklyanin algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Sparse polynomial",
+    "wikiEn": "Sparse polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Special classes of semigroups",
+    "wikiEn": "Special classes of semigroups",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Special trinomial",
+    "wikiEn": "Special trinomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Split exact sequence",
+    "wikiEn": "Split exact sequence",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Square-free polynomial",
+    "wikiEn": "Square-free polynomial",
+    "name": "無平方多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Stability radius",
+    "wikiEn": "Stability radius",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Stable polynomial",
+    "wikiEn": "Stable polynomial",
+    "name": "穩定多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Stanley symmetric function",
+    "wikiEn": "Stanley symmetric function",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Steinitz's theorem (field theory)",
+    "wikiEn": "Steinitz's theorem (field theory)",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Stirling polynomials",
+    "wikiEn": "Stirling polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Stochastic probe",
+    "wikiEn": "Stochastic probe",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Stokes' theorem",
+    "wikiEn": "Stokes' theorem",
+    "name": "斯托克斯定理",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Strassmann's theorem",
+    "wikiEn": "Strassmann's theorem",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Strong monomorphism",
+    "wikiEn": "Strong monomorphism",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Structure theorem for finitely generated modules over a principal ideal domain",
+    "wikiEn": "Structure theorem for finitely generated modules over a principal ideal domain",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Subfield of an algebra",
+    "wikiEn": "Subfield of an algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Subquotient",
+    "wikiEn": "Subquotient",
+    "name": "子商",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Swinnerton-Dyer polynomial",
+    "wikiEn": "Swinnerton-Dyer polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Sylvester matrix",
+    "wikiEn": "Sylvester matrix",
+    "name": "西尔维斯特矩阵",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Symmetric algebra",
+    "wikiEn": "Symmetric algebra",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Symmetric inverse semigroup",
+    "wikiEn": "Symmetric inverse semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Symmetric polynomial",
+    "wikiEn": "Symmetric polynomial",
+    "name": "對稱多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Synthetic division",
+    "wikiEn": "Synthetic division",
+    "name": "綜合除法",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "System of polynomial equations",
+    "wikiEn": "System of polynomial equations",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Tangent vector",
+    "wikiEn": "Tangent vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Temporal Process Language",
+    "wikiEn": "Temporal Process Language",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Ternary commutator",
+    "wikiEn": "Ternary commutator",
+    "name": "",
+    "subcat": "Ternary operations"
+  },
+  {
+    "nameEn": "Ternary conditional operator",
+    "wikiEn": "Ternary conditional operator",
+    "name": "条件运算符?:",
+    "subcat": "Ternary operations"
+  },
+  {
+    "nameEn": "Ternary operation",
+    "wikiEn": "Ternary operation",
+    "name": "三元运算符",
+    "subcat": "Ternary operations"
+  },
+  {
+    "nameEn": "Tertiary ideal",
+    "wikiEn": "Tertiary ideal",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Theory of equations",
+    "wikiEn": "Theory of equations",
+    "name": "方程理论",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Thomae's formula",
+    "wikiEn": "Thomae's formula",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Tian yuan shu",
+    "wikiEn": "Tian yuan shu",
+    "name": "天元术",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Topological module",
+    "wikiEn": "Topological module",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Tor functor",
+    "wikiEn": "Tor functor",
+    "name": "Tor函子",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Toric ideal",
+    "wikiEn": "Toric ideal",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Torsion-free abelian group",
+    "wikiEn": "Torsion-free abelian group",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Total algebra",
+    "wikiEn": "Total algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Touchard polynomials",
+    "wikiEn": "Touchard polynomials",
+    "name": "图沙德多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Transpose",
+    "wikiEn": "Transpose",
+    "name": "转置矩阵",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Triangular decomposition",
+    "wikiEn": "Triangular decomposition",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Trigonometric polynomial",
+    "wikiEn": "Trigonometric polynomial",
+    "name": "三角多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Trinomial",
+    "wikiEn": "Trinomial",
+    "name": "三項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Triple product",
+    "wikiEn": "Triple product",
+    "name": "三重积",
+    "subcat": "Ternary operations"
+  },
+  {
+    "nameEn": "Trivial semigroup",
+    "wikiEn": "Trivial semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Tschirnhaus transformation",
+    "wikiEn": "Tschirnhaus transformation",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Tutte polynomial",
+    "wikiEn": "Tutte polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "U-semigroup",
+    "wikiEn": "U-semigroup",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Umbral calculus",
+    "wikiEn": "Umbral calculus",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Unbounded nondeterminism",
+    "wikiEn": "Unbounded nondeterminism",
+    "name": "",
+    "subcat": "Process calculi"
+  },
+  {
+    "nameEn": "Unimodular polynomial matrix",
+    "wikiEn": "Unimodular polynomial matrix",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Unit (ring theory)",
+    "wikiEn": "Unit (ring theory)",
+    "name": "可逆元",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Unit vector",
+    "wikiEn": "Unit vector",
+    "name": "单位向量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Unitary element",
+    "wikiEn": "Unitary element",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Vandermonde polynomial",
+    "wikiEn": "Vandermonde polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Variety of finite semigroups",
+    "wikiEn": "Variety of finite semigroups",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Vector (mathematics and physics)",
+    "wikiEn": "Vector (mathematics and physics)",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vector area",
+    "wikiEn": "Vector area",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vector notation",
+    "wikiEn": "Vector notation",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vector quantity",
+    "wikiEn": "Vector quantity",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vector space",
+    "wikiEn": "Vector space",
+    "name": "向量空间",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vector triple product",
+    "wikiEn": "Vector triple product",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vector-valued function",
+    "wikiEn": "Vector-valued function",
+    "name": "向量值函数",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vertex normal",
+    "wikiEn": "Vertex normal",
+    "name": "頂點法向量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vieta's formulas",
+    "wikiEn": "Vieta's formulas",
+    "name": "韦达定理",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Viterbi semiring",
+    "wikiEn": "Viterbi semiring",
+    "name": "",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Wall polynomial",
+    "wikiEn": "Wall polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Wheel theory",
+    "wikiEn": "Wheel theory",
+    "name": "輪理論",
+    "subcat": "Fields of abstract algebra"
+  },
+  {
+    "nameEn": "Whitehead's lemma",
+    "wikiEn": "Whitehead's lemma",
+    "name": "",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Wilkinson's polynomial",
+    "wikiEn": "Wilkinson's polynomial",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Word problem (mathematics)",
+    "wikiEn": "Word problem (mathematics)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Wreath product",
+    "wikiEn": "Wreath product",
+    "name": "圈积",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Wu's method of characteristic set",
+    "wikiEn": "Wu's method of characteristic set",
+    "name": "吴消元法",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Yang–Baxter operator",
+    "wikiEn": "Yang–Baxter operator",
+    "name": "",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Yoneda product",
+    "wikiEn": "Yoneda product",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Zero divisor",
+    "wikiEn": "Zero divisor",
+    "name": "零因子",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Zero morphism",
+    "wikiEn": "Zero morphism",
+    "name": "零態射",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Zero-product property",
+    "wikiEn": "Zero-product property",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Zolotarev polynomials",
+    "wikiEn": "Zolotarev polynomials",
+    "name": "",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Π-calculus",
+    "wikiEn": "Π-calculus",
+    "name": "Π演算",
+    "subcat": "Process calculi"
+  }
+]

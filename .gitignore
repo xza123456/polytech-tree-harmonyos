@@ -1,0 +1,26 @@
+# ── 依赖 ──
+node_modules/
+oh_modules/
+
+# ── 构建产物（由 tools/sync_to_app.sh 生成）──
+build/
+app/entry/build/
+app/.hvigor/
+app/oh_modules/
+app/entry/oh_modules/
+
+# ── 图标生成的中间图 ──
+# 最终资源已提交在 app/AppScope/resources/base/media/ 与 app/entry/.../media/ 下，
+# 这里的中间产物可用 tools/appicon/make_icon.py 重新生成
+tools/appicon/*.png
+
+# ── IDE / 本地环境 ──
+.bitfun/
+.idea/
+.vscode/
+*.iml
+local.properties
+.DS_Store
+__pycache__/
+*.pyc
+*.log

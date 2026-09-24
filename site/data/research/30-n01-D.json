@@ -1,0 +1,2473 @@
+[
+  {
+    "id": "kinship_system",
+    "name": "氏族与亲属组织",
+    "nameEn": "Kinship organization",
+    "wikiEn": "Kinship",
+    "aliases": [
+      "亲属制度",
+      "氏族组织",
+      "clan",
+      "lineage"
+    ],
+    "year": -100000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "旧石器时代中期的亲属称谓与社会结构，靠民族学与考古证据推定",
+    "era": "prehistory",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "band_society",
+      "marriage",
+      "exogamy"
+    ],
+    "desc": "以血缘姻亲界定成员身份、互助与责任的最早社会组织，是一切治理规则的起点。"
+  },
+  {
+    "id": "band_society",
+    "name": "游群社会",
+    "nameEn": "Band society",
+    "wikiEn": "Band society",
+    "aliases": [
+      "血族群团",
+      "游婚群体"
+    ],
+    "year": -80000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以数十人流动群体为单位的采集狩猎组织形态",
+    "era": "prehistory",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "kinship_system"
+    ],
+    "related": [
+      "gerontocracy",
+      "consensus_decision_making"
+    ],
+    "desc": "小型流动群体依靠亲缘与互惠维持秩序，是人类长期存在的最原始政治单元。"
+  },
+  {
+    "id": "gerontocracy",
+    "name": "长老议事制",
+    "nameEn": "Gerontocracy",
+    "wikiEn": "Gerontocracy",
+    "aliases": [
+      "长老政治",
+      "长老会议"
+    ],
+    "year": -50000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "依据经验与年龄分配权威的原始治理形式",
+    "era": "prehistory",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "band_society"
+    ],
+    "related": [
+      "consensus_decision_making",
+      "chiefdom"
+    ],
+    "desc": "年长者凭经验与谱系知识主持裁决，形成最早的常设议事权威。"
+  },
+  {
+    "id": "consensus_decision_making",
+    "name": "共识议事",
+    "nameEn": "Consensus decision-making",
+    "wikiEn": "Consensus decision-making",
+    "aliases": [
+      "一致同意制",
+      "原始民主议事"
+    ],
+    "year": -40000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "无强制权力下的集体协商决策传统",
+    "era": "prehistory",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "band_society"
+    ],
+    "related": [
+      "gerontocracy",
+      "athenian_democracy"
+    ],
+    "desc": "群体事务经全员协商取得一致方可执行，是后世民主程序的远古雏形。"
+  },
+  {
+    "id": "blood_feud",
+    "name": "血亲复仇",
+    "nameEn": "Blood feud",
+    "wikiEn": "Feud",
+    "aliases": [
+      "世仇",
+      "族际复仇"
+    ],
+    "year": -30000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "国家法出现前以群体相互报复执行的习惯法",
+    "era": "prehistory",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "kinship_system"
+    ],
+    "related": [
+      "lex_talionis"
+    ],
+    "desc": "侵害由受害方群体对等报复来追究，是公共司法缺位时的执法机制。"
+  },
+  {
+    "id": "exogamy",
+    "name": "外婚制",
+    "nameEn": "Exogamy",
+    "wikiEn": "Exogamy",
+    "aliases": [
+      "族外婚",
+      "禁婚规则"
+    ],
+    "year": -20000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "禁止近亲通婚、强制跨群体联姻的习俗",
+    "era": "prehistory",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "kinship_system"
+    ],
+    "related": [
+      "marriage",
+      "band_society"
+    ],
+    "desc": "强制与本群体之外通婚，把婚姻变成结盟与交换网络的制度工具。"
+  },
+  {
+    "id": "lex_talionis",
+    "name": "同态复仇法则",
+    "nameEn": "Lex talionis",
+    "wikiEn": "Eye for an eye",
+    "aliases": [
+      "同态复仇",
+      "以眼还眼",
+      "talion"
+    ],
+    "year": -1750,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以法典条文限定报复程度，早于成文法已有口头习惯法",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "blood_feud"
+    ],
+    "related": [
+      "code_of_hammurabi"
+    ],
+    "desc": "把报复限制在与损害同等的幅度内，首次给暴力定价并防止仇杀升级。"
+  },
+  {
+    "id": "code_of_hammurabi",
+    "name": "汉谟拉比法典",
+    "nameEn": "Code of Hammurabi",
+    "wikiEn": "Code of Hammurabi",
+    "aliases": [
+      "汉穆拉比法典",
+      "巴比伦法典"
+    ],
+    "year": -1754,
+    "year_basis": "circa",
+    "year_span": [
+      -1792,
+      -1750
+    ],
+    "year_note": "按中年表推定，学界存在年代争议",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "lex_talionis",
+      "twelve_tables",
+      "tang_code"
+    ],
+    "desc": "以石柱公示二百余条判例，确立按情节量刑与举证责任的成文法范式。"
+  },
+  {
+    "id": "chiefdom",
+    "name": "酋邦",
+    "nameEn": "Chiefdom",
+    "wikiEn": "Chiefdom",
+    "aliases": [
+      "酉邦",
+      "部落联盟"
+    ],
+    "year": -6000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "新石器时代村落集约化后出现的等级化政体",
+    "era": "neolithic",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "kinship_system"
+    ],
+    "related": [
+      "monarchy",
+      "gerontocracy"
+    ],
+    "desc": "由世袭首领再分配剩余产品的区域聚落体系，介于平等村落与国家之间。"
+  },
+  {
+    "id": "monarchy",
+    "name": "世袭王权",
+    "nameEn": "Monarchy",
+    "wikiEn": "Monarchy",
+    "aliases": [
+      "王制",
+      "君主制"
+    ],
+    "year": -3100,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以埃及早王朝统一为标志时间点",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "chiefdom"
+    ],
+    "related": [
+      "primogeniture",
+      "city_state"
+    ],
+    "desc": "把军事与祭祀权集中于一家一族并世代继承，成为大规模治理的枢纽。"
+  },
+  {
+    "id": "city_state",
+    "name": "城邦",
+    "nameEn": "City-state",
+    "wikiEn": "City-state",
+    "aliases": [
+      "城市国家",
+      "polis"
+    ],
+    "year": -3100,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "苏美尔城邦起源年代，学界区间较宽",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "medieval_commune",
+      "roman_republic",
+      "athenian_democracy"
+    ],
+    "desc": "以城墙都市统辖周边农村并自主立法征税，是公民政治与地方自治的容器。"
+  },
+  {
+    "id": "slavery",
+    "name": "奴隶制",
+    "nameEn": "Slavery",
+    "wikiEn": "Slavery",
+    "aliases": [
+      "奴役",
+      "蓄奴制度"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "楔形文字中已见战俘与债务奴役记载",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "corvee_labor",
+      "serfdom",
+      "roman_citizenship"
+    ],
+    "desc": "把人作为可买卖财产强制劳动，为早期国家提供了大规模人力组织方式。"
+  },
+  {
+    "id": "corvee_labor",
+    "name": "徭役制",
+    "nameEn": "Corvée labor",
+    "wikiEn": "Corvée",
+    "aliases": [
+      "力役",
+      "劳役地租"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "埃及与两河流域早期国家征发农闲劳力",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "taxation_system",
+      "slavery",
+      "feudalism"
+    ],
+    "desc": "国家按户征发无偿劳力修水利与城池，在货币税收之前动员人力。"
+  },
+  {
+    "id": "marriage",
+    "name": "婚姻制度",
+    "nameEn": "Marriage",
+    "wikiEn": "Marriage",
+    "aliases": [
+      "婚制",
+      "婚娶礼"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "有文献与仪式证据的最早形态，史前已存在",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "kinship_system",
+      "exogamy"
+    ],
+    "related": [
+      "primogeniture",
+      "exogamy",
+      "feudalism"
+    ],
+    "desc": "以公开仪式约定配偶、财产与子嗣归属，把血缘群体联结为稳定社会单元。"
+  },
+  {
+    "id": "primogeniture",
+    "name": "嫡长子继承制",
+    "nameEn": "Primogeniture",
+    "wikiEn": "Primogeniture",
+    "aliases": [
+      "长子继承",
+      "嫡长制"
+    ],
+    "year": -2500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "王位与家产单传规则在早期国家成型",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "monarchy"
+    ],
+    "related": [
+      "marriage",
+      "code_of_hammurabi"
+    ],
+    "desc": "把权力与财产交给单一继承人，减少夺位内争但牺牲其余子嗣的权利。"
+  },
+  {
+    "id": "archive_institution",
+    "name": "档案文书制度",
+    "nameEn": "Archive",
+    "wikiEn": "Archive",
+    "aliases": [
+      "档案库",
+      "文书存档"
+    ],
+    "year": -2400,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以埃勃拉与舒鲁帕克泥板文书库为代表",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "census_system"
+    ],
+    "desc": "系统登记并长期保存契约与账籍，使产权、税收和政令可被追溯核验。"
+  },
+  {
+    "id": "census_system",
+    "name": "户口普查",
+    "nameEn": "Census",
+    "wikiEn": "Census",
+    "aliases": [
+      "户籍",
+      "计账",
+      "人口调查"
+    ],
+    "year": -2500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "埃及与两河为征税征兵而行的人口登记",
+    "era": "bronze_age",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "taxation_system",
+      "corvee_labor",
+      "domesday_book"
+    ],
+    "desc": "定期清点人口与田畜，把治国从经验判断变成可计算的数字管理。"
+  },
+  {
+    "id": "taxation_system",
+    "name": "赋税制度",
+    "nameEn": "Taxation",
+    "wikiEn": "Tax",
+    "aliases": [
+      "税制",
+      "贡赋",
+      "租税"
+    ],
+    "year": -3100,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "埃及早王朝以谷物与劳役纳贡",
+    "era": "bronze_age",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "census_system",
+      "corvee_labor",
+      "single_whip_law"
+    ],
+    "desc": "按田亩人丁定期征收谷物劳力，供养官僚、军队与公共工程。"
+  },
+  {
+    "id": "barter",
+    "name": "以物易物",
+    "nameEn": "Barter",
+    "wikiEn": "Barter",
+    "aliases": [
+      "物物交换",
+      "互易"
+    ],
+    "year": -12000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "黑曜石等远距离交换证据可早至旧石器晚期",
+    "era": "prehistory",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "gift_economy",
+      "commodity_money"
+    ],
+    "desc": "不借助货币直接互换物品，是最原始的分工与远程贸易结算方式。"
+  },
+  {
+    "id": "gift_economy",
+    "name": "礼物经济",
+    "nameEn": "Gift economy",
+    "wikiEn": "Gift economy",
+    "aliases": [
+      "互惠交换",
+      "夸富宴",
+      "potlatch"
+    ],
+    "year": -6000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "新石器村落与首领制下的互惠馈赠体系",
+    "era": "neolithic",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "barter"
+    ],
+    "related": [
+      "chiefdom"
+    ],
+    "desc": "以馈赠和回礼义务维系信用与联盟，在货币之前承担了再分配功能。"
+  },
+  {
+    "id": "athenian_democracy",
+    "name": "雅典民主制",
+    "nameEn": "Athenian democracy",
+    "wikiEn": "Athenian democracy",
+    "aliases": [
+      "公民大会制",
+      "demokratia"
+    ],
+    "year": -508,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "克利斯提尼改革年，学界通行定年",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "city_state",
+      "consensus_decision_making"
+    ],
+    "related": [
+      "roman_republic",
+      "universal_suffrage",
+      "twelve_tables"
+    ],
+    "desc": "公民大会直接立法与抽签任官，第一次把主权在法律上交给全体公民。"
+  },
+  {
+    "id": "roman_republic",
+    "name": "共和制",
+    "nameEn": "Roman Republic",
+    "wikiEn": "Roman Republic",
+    "aliases": [
+      "罗马共和国",
+      "res publica"
+    ],
+    "year": -509,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "传统以推翻王政之年为起点",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "city_state"
+    ],
+    "related": [
+      "roman_senate",
+      "twelve_tables",
+      "censorate"
+    ],
+    "desc": "以任期制官职、院令与权力制衡替代世袭王权，奠定后世共和理论。"
+  },
+  {
+    "id": "roman_senate",
+    "name": "元老院",
+    "nameEn": "Senate",
+    "wikiEn": "Roman Senate",
+    "aliases": [
+      "元老院议事",
+      "senatus"
+    ],
+    "year": -500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "共和初期已成型的贵族咨询与决策机构",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "roman_republic"
+    ],
+    "related": [
+      "parliament",
+      "roman_citizenship",
+      "gerontocracy"
+    ],
+    "desc": "少数资深成员常设议事并主导财政外交，成为上议院的制度原型。"
+  },
+  {
+    "id": "twelve_tables",
+    "name": "十二铜表法",
+    "nameEn": "Twelve Tables",
+    "wikiEn": "Twelve Tables",
+    "aliases": [
+      "十二表法",
+      "leges duodecim tabularum"
+    ],
+    "year": -450,
+    "year_basis": "circa",
+    "year_span": [
+      -451,
+      -450
+    ],
+    "year_note": "传统定为前451—前450年制定",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "code_of_hammurabi"
+    ],
+    "related": [
+      "roman_republic",
+      "justinian_digest",
+      "common_law"
+    ],
+    "desc": "把习惯法明文刻表公布，限制贵族法官任意解释法律的权力。"
+  },
+  {
+    "id": "roman_citizenship",
+    "name": "公民权与身份制度",
+    "nameEn": "Roman citizenship",
+    "wikiEn": "Roman citizenship",
+    "aliases": [
+      "罗马市民权",
+      "civitas"
+    ],
+    "year": -300,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "共和中期扩展；前86年与212年两次大范围授予",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "twelve_tables",
+      "census_system"
+    ],
+    "related": [
+      "slavery",
+      "roman_senate",
+      "nation_state"
+    ],
+    "desc": "以法定身份绑定权利义务与投票征税资格，把被统治者变成共同体成员。"
+  },
+  {
+    "id": "satrapy",
+    "name": "行省制",
+    "nameEn": "Satrapy",
+    "wikiEn": "Satrap",
+    "aliases": [
+      "波斯行省",
+      "总督制"
+    ],
+    "year": -520,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "大流士一世行政重组时期定型",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "monarchy",
+      "taxation_system"
+    ],
+    "related": [
+      "censorate",
+      "civil_service",
+      "international_law"
+    ],
+    "desc": "把广袤疆域划为固定税区遣官治理并互相监查，解决超大政体的管理难题。"
+  },
+  {
+    "id": "censorate",
+    "name": "监察御吏制度",
+    "nameEn": "Censorate",
+    "wikiEn": "Censorate",
+    "aliases": [
+      "御史台",
+      "刺史",
+      "监察制度"
+    ],
+    "year": -221,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "秦置御史大夫，汉代发展为刺史巡郡",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "satrapy",
+      "archive_institution"
+    ],
+    "related": [
+      "civil_service",
+      "tang_code",
+      "imperial_examination"
+    ],
+    "desc": "设独立官署纠察百官、复核刑狱，以制度化监察约束庞大官僚体系。"
+  },
+  {
+    "id": "justinian_digest",
+    "name": "学说汇纂",
+    "nameEn": "Digest of Justinian",
+    "wikiEn": "Digest (Roman law)",
+    "aliases": [
+      "查士丁尼法典",
+      "国法大全",
+      "Corpus Iuris Civilis"
+    ],
+    "year": 533,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "533 年颁行，529—534 年陆续编纂",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "twelve_tables"
+    ],
+    "related": [
+      "common_law",
+      "napoleonic_code",
+      "tang_code"
+    ],
+    "desc": "系统汇编千年法学判说，使罗马法成为欧陆成文法传统的共同底本。"
+  },
+  {
+    "id": "tang_code",
+    "name": "唐律疏议",
+    "nameEn": "Tang Code",
+    "wikiEn": "Tang Code",
+    "aliases": [
+      "唐律",
+      "永徽律疏"
+    ],
+    "year": 653,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "永徽四年颁疏议，现存最早完整东亚法典",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "censorate"
+    ],
+    "related": [
+      "justinian_digest",
+      "imperial_examination",
+      "feudalism"
+    ],
+    "desc": "以律条配疏议统一解释，确立分级量刑与官僚责任，成为东亚法系母本。"
+  },
+  {
+    "id": "serfdom",
+    "name": "农奴制",
+    "nameEn": "Serfdom",
+    "wikiEn": "Serfdom",
+    "aliases": [
+      "依附农",
+      "隶农"
+    ],
+    "year": 950,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "取 10 世纪中叶，西欧庄园依附关系成型期",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "slavery",
+      "corvee_labor"
+    ],
+    "related": [
+      "feudalism",
+      "taxation_system"
+    ],
+    "desc": "农民被束缚于土地并以劳役地租供养领主，是土地本位社会的劳动制度。"
+  },
+  {
+    "id": "feudalism",
+    "name": "封建采邑制",
+    "nameEn": "Feudalism",
+    "wikiEn": "Feudalism",
+    "aliases": [
+      "封君封臣制",
+      "采邑制"
+    ],
+    "year": 1050,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "取 11 世纪中叶，封土—军役关系典型期",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "serfdom"
+    ],
+    "related": [
+      "magna_carta",
+      "guild"
+    ],
+    "desc": "以土地换军役并按等级层层效忠，在王权衰微时代提供了替代性秩序。"
+  },
+  {
+    "id": "medieval_commune",
+    "name": "城市自治公社",
+    "nameEn": "Medieval commune",
+    "wikiEn": "Medieval commune",
+    "aliases": [
+      "自治市",
+      "市民公社"
+    ],
+    "year": 1070,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "11 世纪意大利与佛兰德城市取得自治特许",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "city_state"
+    ],
+    "related": [
+      "guild",
+      "feudalism"
+    ],
+    "desc": "市民以誓盟与特许状脱离领主司法，自设市政、法庭与民兵。"
+  },
+  {
+    "id": "guild",
+    "name": "行会",
+    "nameEn": "Guild",
+    "wikiEn": "Guild",
+    "aliases": [
+      "同业公会",
+      "基尔特",
+      "工匠行帮"
+    ],
+    "year": 1150,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "取 12 世纪中叶，欧洲同业会组织普及期",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "apprenticeship",
+      "medieval_commune"
+    ],
+    "related": [
+      "trade_union",
+      "apprenticeship"
+    ],
+    "desc": "同业者立章定价、限产并监督技艺与学徒，兼具行业管理与互助功能。"
+  },
+  {
+    "id": "magna_carta",
+    "name": "大宪章",
+    "nameEn": "Magna Carta",
+    "wikiEn": "Magna Carta",
+    "aliases": [
+      "自由大宪章"
+    ],
+    "year": 1215,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1215 年 6 月签署",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "feudalism"
+    ],
+    "related": [
+      "parliament",
+      "common_law",
+      "constitution_written"
+    ],
+    "desc": "以书面条款限定王权征税与拘捕之权，确立权力须受法律约束的先例。"
+  },
+  {
+    "id": "parliament",
+    "name": "议会制度",
+    "nameEn": "Parliament",
+    "wikiEn": "Parliament",
+    "aliases": [
+      "等级会议",
+      "模范议会"
+    ],
+    "year": 1295,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以 1295 年模范议会为典型起点",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "magna_carta",
+      "taxation_system"
+    ],
+    "related": [
+      "roman_senate",
+      "universal_suffrage",
+      "common_law"
+    ],
+    "desc": "征税须经到会各等级同意，把协商会议变成常设立法与批准税收的机构。"
+  },
+  {
+    "id": "common_law",
+    "name": "普通法",
+    "nameEn": "Common law",
+    "wikiEn": "Common law",
+    "aliases": [
+      "习惯法体系",
+      "判例法"
+    ],
+    "year": 1185,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "亨利二世巡回审判与令状制度成型期",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "feudalism",
+      "justinian_digest"
+    ],
+    "related": [
+      "magna_carta",
+      "parliament",
+      "napoleonic_code"
+    ],
+    "desc": "王室法院以先例统一各地习惯，形成依判决累积而非立法的法系。"
+  },
+  {
+    "id": "apprenticeship",
+    "name": "学徒制",
+    "nameEn": "Apprenticeship",
+    "wikiEn": "Apprenticeship",
+    "aliases": [
+      "师徒制",
+      "学徒契约"
+    ],
+    "year": 1100,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "取 11 世纪中叶，欧洲手工业师徒契约定型期",
+    "era": "middle_ages",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "guild",
+      "vocational_education"
+    ],
+    "desc": "以契约年限换技艺传授，使工艺经验在缺乏文字教材时得以代际延续。"
+  },
+  {
+    "id": "vocational_education",
+    "name": "职业教育",
+    "nameEn": "Vocational education",
+    "wikiEn": "Vocational education",
+    "aliases": [
+      "实业教育",
+      "技艺学校"
+    ],
+    "year": 1717,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "普鲁士总规约把工艺训练纳入国家学校体系",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "apprenticeship",
+      "compulsory_education"
+    ],
+    "related": [
+      "normal_school",
+      "engineering_education"
+    ],
+    "desc": "把工场所需技艺搬进学校课程，为工业化供应成建制的熟练技工。"
+  },
+  {
+    "id": "engineering_education",
+    "name": "工程教育",
+    "nameEn": "Engineering education",
+    "wikiEn": "Engineering education",
+    "aliases": [
+      "工科教育",
+      "工程技术学校"
+    ],
+    "year": 1747,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以巴黎路桥学校等首批工程学校为起点",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "vocational_education"
+    ],
+    "related": [
+      "technical_drawing",
+      "civil_service"
+    ],
+    "desc": "用数学与画法几何系统培养工程师，使技术从作坊经验转为可教课程。"
+  },
+  {
+    "id": "technical_drawing",
+    "name": "工程制图",
+    "nameEn": "Engineering drawing",
+    "wikiEn": "Engineering drawing",
+    "aliases": [
+      "技术制图",
+      "机械图样"
+    ],
+    "year": 1600,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以军事工程与剧场机械图集的流行为标志",
+    "era": "renaissance",
+    "category": "education_knowledge",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "engineering_education"
+    ],
+    "desc": "用投影、比例与剖面把机器精确记录成图，使设计可复制、可远距交付。"
+  },
+  {
+    "id": "nation_state",
+    "name": "民族国家",
+    "nameEn": "Nation state",
+    "wikiEn": "Nation state",
+    "aliases": [
+      "主权国家体系",
+      "威斯特伐利亚体系"
+    ],
+    "year": 1648,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以威斯特伐利亚和约为约定起点",
+    "era": "renaissance",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "diplomacy"
+    ],
+    "related": [
+      "international_law",
+      "conscription",
+      "roman_citizenship"
+    ],
+    "desc": "以固定疆界与同质认同为主权单位，取代教会与封建的交叉管辖。"
+  },
+  {
+    "id": "diplomacy",
+    "name": "常设外交使节制",
+    "nameEn": "Diplomacy",
+    "wikiEn": "Diplomacy",
+    "aliases": [
+      "常驻使馆",
+      "近代外交"
+    ],
+    "year": 1455,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "意大利城邦首创常驻使节，15—16 世纪扩散",
+    "era": "renaissance",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "archive_institution"
+    ],
+    "related": [
+      "international_law",
+      "nation_state"
+    ],
+    "desc": "互派常驻使节并定期通报，把国家间关系变成可预测的常设沟通机制。"
+  },
+  {
+    "id": "international_law",
+    "name": "国际法",
+    "nameEn": "International law",
+    "wikiEn": "International law",
+    "aliases": [
+      "万国法",
+      "国际公法"
+    ],
+    "year": 1625,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以格劳秀斯《战争与和平法》出版为体系化标志",
+    "era": "renaissance",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "justinian_digest",
+      "diplomacy"
+    ],
+    "related": [
+      "nation_state",
+      "satrapy",
+      "welfare_state"
+    ],
+    "desc": "用条约与惯例约束主权者间的宣战、通商与使节往来，替代纯粹武力。"
+  },
+  {
+    "id": "separation_of_powers",
+    "name": "三权分立",
+    "nameEn": "Separation of powers",
+    "wikiEn": "Separation of powers",
+    "aliases": [
+      "权力制衡",
+      "trias politica"
+    ],
+    "year": 1748,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "孟德斯鸠《论法的精神》系统阐述",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "roman_republic",
+      "censorate"
+    ],
+    "related": [
+      "constitution_written",
+      "civil_service",
+      "universal_suffrage"
+    ],
+    "desc": "把立法、行政、司法分由不同机关执掌并互相制约，防止权力集中滥用。"
+  },
+  {
+    "id": "constitution_written",
+    "name": "成文宪法",
+    "nameEn": "Written constitution",
+    "wikiEn": "Constitution",
+    "aliases": [
+      "宪政",
+      "根本法"
+    ],
+    "year": 1787,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以美国宪法为近代首部成文国家宪法",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "magna_carta"
+    ],
+    "related": [
+      "separation_of_powers",
+      "universal_suffrage",
+      "napoleonic_code"
+    ],
+    "desc": "以一部最高文本规定权力来源与边界，使政府与权利可依宪审查。"
+  },
+  {
+    "id": "conscription",
+    "name": "普遍兵役制",
+    "nameEn": "Conscription",
+    "wikiEn": "Conscription",
+    "aliases": [
+      "征兵制",
+      "全民皆兵"
+    ],
+    "year": 1793,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "法国大革命全民征兵令为现代起点",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "nation_state"
+    ],
+    "related": [
+      "universal_suffrage",
+      "welfare_state"
+    ],
+    "desc": "按公民义务征训全体适龄男性，使军队规模从雇佣兵跳到数十万级。"
+  },
+  {
+    "id": "napoleonic_code",
+    "name": "拿破仑法典",
+    "nameEn": "Napoleonic Code",
+    "wikiEn": "Napoleonic Code",
+    "aliases": [
+      "法国民法典",
+      "Code civil"
+    ],
+    "year": 1804,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1804 年颁行",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "justinian_digest",
+      "constitution_written"
+    ],
+    "related": [
+      "common_law",
+      "tang_code",
+      "copyright"
+    ],
+    "desc": "以通俗统一的条文规定产权与契约，废除封建特权并被多国直接移植。"
+  },
+  {
+    "id": "civil_service",
+    "name": "职业文官制",
+    "nameEn": "Civil service",
+    "wikiEn": "Civil service",
+    "aliases": [
+      "诺斯科特—屈维廉改革",
+      "政务官常任制"
+    ],
+    "year": 1855,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1854 年报告、1855 年设文官委员会试行公开考试",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "imperial_examination"
+    ],
+    "related": [
+      "separation_of_powers",
+      "censorate"
+    ],
+    "desc": "常任官员凭公开考试与绩效晋升任用，不随政党更替而洗牌。"
+  },
+  {
+    "id": "corporate_law",
+    "name": "公司法与有限责任",
+    "nameEn": "Corporate law",
+    "wikiEn": "Corporate law",
+    "aliases": [
+      "有限责任公司",
+      "股份公司法"
+    ],
+    "year": 1856,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "英国合股公司法确立登记设立与有限责任",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "joint_stock_company"
+    ],
+    "related": [
+      "stock_exchange",
+      "trade_union"
+    ],
+    "desc": "公司成为独立法人且股东仅以出资为限担责，使大规模长期融资成为可能。"
+  },
+  {
+    "id": "commodity_money",
+    "name": "商品货币",
+    "nameEn": "Commodity money",
+    "wikiEn": "Commodity money",
+    "aliases": [
+      "实物货币",
+      "金属称量货币"
+    ],
+    "year": -1900,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "两河与埃及以银铜按重量计价，早于铸币",
+    "era": "bronze_age",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "barter"
+    ],
+    "related": [
+      "unit_of_measurement"
+    ],
+    "desc": "以金属等通用商品按重量充当计价与支付手段，克服物物交换的双重巧合难题。"
+  },
+  {
+    "id": "unit_of_measurement",
+    "name": "度量衡标准化",
+    "nameEn": "Standardized weights and measures",
+    "wikiEn": "Unit of measurement",
+    "aliases": [
+      "度量衡",
+      "标准单位",
+      "weights and measures"
+    ],
+    "year": -2100,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "乌尔第三王朝颁行标准砝码与容量单位",
+    "era": "bronze_age",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "commodity_money",
+      "taxation_system",
+      "metric_system"
+    ],
+    "desc": "由政权颁行统一量器与砝码，使税收、贸易与工程计算可以彼此核对。"
+  },
+  {
+    "id": "denarius",
+    "name": "第纳里乌斯银币",
+    "nameEn": "Denarius",
+    "wikiEn": "Denarius",
+    "aliases": [
+      "罗马银币",
+      "第纳尔"
+    ],
+    "year": -211,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "约前 211 年开始大量铸造，通行数百年",
+    "era": "antiquity",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "unit_of_measurement"
+    ],
+    "related": [
+      "solidus",
+      "roman_republic",
+      "taxation_system"
+    ],
+    "desc": "以国家担保的固定成色银币支付军饷与税收，把货币信用与政权绑定。"
+  },
+  {
+    "id": "solidus",
+    "name": "索利都斯金币",
+    "nameEn": "Solidus",
+    "wikiEn": "Solidus",
+    "aliases": [
+      "拜占庭金币",
+      "贝桑"
+    ],
+    "year": 312,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "君士坦丁一世改革币制，约 309—312 年",
+    "era": "antiquity",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "denarius"
+    ],
+    "related": [
+      "kaiyuan_tongbao"
+    ],
+    "desc": "近七百年维持稳定含金量的国际结算金币，支撑地中海长程贸易。"
+  },
+  {
+    "id": "kaiyuan_tongbao",
+    "name": "开元通宝",
+    "nameEn": "Kaiyuan Tongbao",
+    "wikiEn": "Kaiyuan Tongbao",
+    "aliases": [
+      "唐钱",
+      "通宝钱制"
+    ],
+    "year": 621,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "武德四年颁行，结束以铢计重的旧制",
+    "era": "middle_ages",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "solidus",
+      "state_monopoly"
+    ],
+    "desc": "改以“通宝”计枚而非计重的宝文钱制，成为东亚千年铸币范式。"
+  },
+  {
+    "id": "state_monopoly",
+    "name": "盐铁专卖制",
+    "nameEn": "State monopoly",
+    "wikiEn": "Government monopoly",
+    "aliases": [
+      "禁榷",
+      "盐铁官营",
+      "专卖制度"
+    ],
+    "year": -117,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "汉武帝天汉前陆续推行盐铁酒官营",
+    "era": "antiquity",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "taxation_system"
+    ],
+    "related": [
+      "kaiyuan_tongbao",
+      "single_whip_law"
+    ],
+    "desc": "把盐铁等必需品产销收归官府定价，以隐蔽税源支撑战争与大型工程。"
+  },
+  {
+    "id": "single_whip_law",
+    "name": "一条鞭法",
+    "nameEn": "Single whip law",
+    "wikiEn": "Single whip law",
+    "aliases": [
+      "条鞭法",
+      "赋役合并"
+    ],
+    "year": 1581,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "万历九年推行全国清丈并并役入赋",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "taxation_system"
+    ],
+    "related": [
+      "state_monopoly",
+      "census_system",
+      "mercantilism"
+    ],
+    "desc": "把田赋、徭役与杂征合并为按亩折银征收，推动实物财政转向货币财政。"
+  },
+  {
+    "id": "pawnbroker",
+    "name": "典当质押",
+    "nameEn": "Pawnbroking",
+    "wikiEn": "Pawnbroker",
+    "aliases": [
+      "当铺",
+      "质押贷款",
+      "质借"
+    ],
+    "year": -200,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "希腊寺庙与汉代质库均已见质押放贷",
+    "era": "antiquity",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "bank",
+      "negotiable_instrument"
+    ],
+    "desc": "以实物担保换取短期现款，为无信用记录的贫民提供了唯一融资通道。"
+  },
+  {
+    "id": "negotiable_instrument",
+    "name": "汇票与可转让票据",
+    "nameEn": "Negotiable instrument",
+    "wikiEn": "Negotiable instrument",
+    "aliases": [
+      "汇票",
+      "汇兑",
+      "bill of exchange"
+    ],
+    "year": 1200,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "意大利与香槟集市票据网络成型期",
+    "era": "middle_ages",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "pawnbroker"
+    ],
+    "related": [
+      "bank",
+      "insurance"
+    ],
+    "desc": "凭一纸可背书转让的票据异地取付，避免运送铸币的风险与成本。"
+  },
+  {
+    "id": "bank",
+    "name": "近代银行",
+    "nameEn": "Bank",
+    "wikiEn": "Bank",
+    "aliases": [
+      "存款银行",
+      "公共银行"
+    ],
+    "year": 1407,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "巴塞罗那与热那亚公共银行先后设立",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "negotiable_instrument"
+    ],
+    "related": [
+      "insurance",
+      "bank_of_england",
+      "joint_stock_company"
+    ],
+    "desc": "吸收存款、转账记账并按期限放出贷款，把闲散资金转为可投资的资本。"
+  },
+  {
+    "id": "insurance",
+    "name": "保险",
+    "nameEn": "Insurance",
+    "wikiEn": "Insurance",
+    "aliases": [
+      "海上保险",
+      "保单"
+    ],
+    "year": 1347,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "热那亚现存最早的海上保险契约",
+    "era": "middle_ages",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "negotiable_instrument",
+      "guild"
+    ],
+    "related": [
+      "joint_stock_company",
+      "bank"
+    ],
+    "desc": "以多数人的保费分摊少数人的损失，把远航与火灾风险变成可计算成本。"
+  },
+  {
+    "id": "domesday_book",
+    "name": "末日审判册",
+    "nameEn": "Domesday Book",
+    "wikiEn": "Domesday Book",
+    "aliases": [
+      "土地清丈册",
+      "Domesday"
+    ],
+    "year": 1086,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1086 年威廉一世下令全国清丈",
+    "era": "middle_ages",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "census_system",
+      "feudalism"
+    ],
+    "related": [
+      "taxation_system"
+    ],
+    "desc": "一次性查清全国领地、人口与牲畜并定价税基，是中世纪最彻底的财政普查。"
+  },
+  {
+    "id": "joint_stock_company",
+    "name": "股份公司",
+    "nameEn": "Joint-stock company",
+    "wikiEn": "Joint-stock company",
+    "aliases": [
+      "合股公司",
+      "东印度公司"
+    ],
+    "year": 1602,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "荷兰东印度公司设立并向公众募股",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "bank",
+      "insurance"
+    ],
+    "related": [
+      "stock_exchange",
+      "mercantilism",
+      "corporate_law"
+    ],
+    "desc": "把资本切成可自由转让的股份并永久存续，使远洋殖民得以汇集巨款。"
+  },
+  {
+    "id": "stock_exchange",
+    "name": "证券交易所",
+    "nameEn": "Stock exchange",
+    "wikiEn": "Stock exchange",
+    "aliases": [
+      "交易所",
+      "阿姆斯特丹交易所"
+    ],
+    "year": 1612,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "阿姆斯特丹交易所规则于 1612 年成文",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "joint_stock_company"
+    ],
+    "related": [
+      "corporate_law"
+    ],
+    "desc": "集中竞价、每日行情的常设市场，让股权可随时变现从而压低融资成本。"
+  },
+  {
+    "id": "mercantilism",
+    "name": "重商主义",
+    "nameEn": "Mercantilism",
+    "wikiEn": "Mercantilism",
+    "aliases": [
+      "商业主义",
+      "贸易差额论"
+    ],
+    "year": 1500,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "取 16 世纪中叶，西欧各国奉行奖出限入政策",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "bank",
+      "insurance"
+    ],
+    "related": [
+      "enclosure",
+      "joint_stock_company"
+    ],
+    "desc": "把金银积累与贸易顺差当作国力本身，用关税、特许与殖民推动产业。"
+  },
+  {
+    "id": "enclosure",
+    "name": "圈地运动",
+    "nameEn": "Enclosure",
+    "wikiEn": "Enclosure",
+    "aliases": [
+      "圈地",
+      "公地私有化"
+    ],
+    "year": 1550,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "取 16 世纪中叶，羊毛与农场制圈地高峰",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [],
+    "desc": "把敞田与公地合并为围栏私产，既提高地力也造出无地雇佣劳动力。"
+  },
+  {
+    "id": "bank_of_england",
+    "name": "英格兰银行",
+    "nameEn": "Bank of England",
+    "wikiEn": "Bank of England",
+    "aliases": [
+      "央行雏形",
+      "英格兰银行特许"
+    ],
+    "year": 1694,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1694 年特许设立，为政府募债并发行银行券",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "bank"
+    ],
+    "related": [
+      "gold_standard",
+      "fiat_money"
+    ],
+    "desc": "把私人募债银行变成政府账户与发券中心，为中央银行制度提供模板。"
+  },
+  {
+    "id": "gold_standard",
+    "name": "金本位制",
+    "nameEn": "Gold standard",
+    "wikiEn": "Gold standard",
+    "aliases": [
+      "金币本位",
+      "黄金平价"
+    ],
+    "year": 1821,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "英国 1821 年恢复金币自由兑换",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "bank_of_england"
+    ],
+    "related": [
+      "bretton_woods_system",
+      "fiat_money",
+      "metric_system"
+    ],
+    "desc": "货币按固定含金量互通，带来百年低汇率风险与跨境资本流动。"
+  },
+  {
+    "id": "metric_system",
+    "name": "公制",
+    "nameEn": "Metric system",
+    "wikiEn": "Metric system",
+    "aliases": [
+      "米制",
+      "国际单位制"
+    ],
+    "year": 1795,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1795 年法国正式采用十进制米制",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "unit_of_measurement"
+    ],
+    "related": [
+      "gold_standard"
+    ],
+    "desc": "以地球基准与十进位重建全部单位，使计量、贸易与工程彻底互通。"
+  },
+  {
+    "id": "copyright",
+    "name": "版权制度",
+    "nameEn": "Copyright",
+    "wikiEn": "Copyright",
+    "aliases": [
+      "安娜法令",
+      "出版权"
+    ],
+    "year": 1710,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "英国《安娜法令》首次以成文法保护作者",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "encyclopedia"
+    ],
+    "desc": "给作品设定期限的专有复制权，把写作与出版变成可交易的职业。"
+  },
+  {
+    "id": "trade_union",
+    "name": "工会",
+    "nameEn": "Trade union",
+    "wikiEn": "Trade union",
+    "aliases": [
+      "职工会",
+      "同业组合"
+    ],
+    "year": 1824,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "英国废除结社禁令，工会取得合法地位",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "guild"
+    ],
+    "related": [
+      "cooperative",
+      "social_insurance"
+    ],
+    "desc": "工人以集体谈判对抗个体议价劣势，争取工资、工时与劳动条件。"
+  },
+  {
+    "id": "cooperative",
+    "name": "合作社",
+    "nameEn": "Cooperative",
+    "wikiEn": "Cooperative",
+    "aliases": [
+      "公平先锋社",
+      "互助社",
+      "合作运动"
+    ],
+    "year": 1844,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "罗虚代尔公平先锋社确立合作原则",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "trade_union"
+    ],
+    "related": [
+      "guild",
+      "welfare_state"
+    ],
+    "desc": "社员一人一票共同出资经营购销与信用，避开中间盘剥并共担风险。"
+  },
+  {
+    "id": "social_insurance",
+    "name": "社会保险",
+    "nameEn": "Social insurance",
+    "wikiEn": "Social insurance",
+    "aliases": [
+      "俾斯麦社保",
+      "工伤疾病保险"
+    ],
+    "year": 1883,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "德国疾病保险法为首部强制社会保险立法",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "trade_union",
+      "insurance"
+    ],
+    "related": [
+      "welfare_state",
+      "taxation_system",
+      "cooperative"
+    ],
+    "desc": "由雇主雇员与政府三方强制缴费，把伤病年老的风险社会化分担。"
+  },
+  {
+    "id": "bretton_woods_system",
+    "name": "布雷顿森林体系",
+    "nameEn": "Bretton Woods system",
+    "wikiEn": "Bretton Woods system",
+    "aliases": [
+      "美元本位",
+      "固定汇率制"
+    ],
+    "year": 1944,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1944 年会议协定，1945 年起运行",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "gold_standard"
+    ],
+    "related": [
+      "fiat_money",
+      "international_law"
+    ],
+    "desc": "各国货币盯住美元、美元盯住黄金并设国际组织协调结算。"
+  },
+  {
+    "id": "fiat_money",
+    "name": "法定货币",
+    "nameEn": "Fiat money",
+    "wikiEn": "Fiat money",
+    "aliases": [
+      "信用货币",
+      "法币"
+    ],
+    "year": 1971,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1971 年美元停止兑金，主要货币全面转浮动作法币",
+    "era": "information",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "gold_standard"
+    ],
+    "related": [
+      "bretton_woods_system"
+    ],
+    "desc": "货币不再锚定贵金属而只靠法令与央行政策维持价值，弹性与风险同增。"
+  },
+  {
+    "id": "universal_suffrage",
+    "name": "普选权",
+    "nameEn": "Universal suffrage",
+    "wikiEn": "Universal suffrage",
+    "aliases": [
+      "普遍选举权",
+      "一人一票"
+    ],
+    "year": 1893,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "新西兰 1893 年首个给予妇女投票权的自治国家",
+    "era": "second_industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "constitution_written",
+      "parliament"
+    ],
+    "related": [
+      "welfare_state"
+    ],
+    "desc": "投票权不再受财产、出身与性别限制，主权归属在法理上落到全体成人。"
+  },
+  {
+    "id": "welfare_state",
+    "name": "福利国家",
+    "nameEn": "Welfare state",
+    "wikiEn": "Welfare state",
+    "aliases": [
+      "贝弗里奇报告",
+      "社会保障体系"
+    ],
+    "year": 1942,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "贝弗里奇报告设计全民社会保障框架",
+    "era": "second_industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "social_insurance"
+    ],
+    "related": [
+      "universal_suffrage",
+      "taxation_system",
+      "compulsory_education"
+    ],
+    "desc": "由国家以税收统一供给医疗、教育、失业与养老保障，兜住市场风险。"
+  },
+  {
+    "id": "oral_tradition",
+    "name": "口传知识体系",
+    "nameEn": "Oral tradition",
+    "wikiEn": "Oral tradition",
+    "aliases": [
+      "口耳相传",
+      "口头传统"
+    ],
+    "year": -100000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "文字出现前唯一可靠的知识代际传递通道",
+    "era": "prehistory",
+    "category": "education_knowledge",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "kinship_system"
+    ],
+    "desc": "以韵文、歌谣与仪式背诵保存技艺谱系与法度，是文字之前的存储系统。"
+  },
+  {
+    "id": "eduba_scribal_school",
+    "name": "泥板书写学校",
+    "nameEn": "Edubba",
+    "wikiEn": "Eduba",
+    "aliases": [
+      "书吏学校",
+      "埃杜巴"
+    ],
+    "year": -2500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "苏美尔书吏培训机构见于公元前三千纪文书",
+    "era": "bronze_age",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "archive_institution",
+      "apprenticeship"
+    ],
+    "desc": "专设校舍按题板与范本训练书吏，把读写从个人经验变成可复制的专业。"
+  },
+  {
+    "id": "scriptorium",
+    "name": "抄写坊",
+    "nameEn": "Scriptorium",
+    "wikiEn": "Scriptorium",
+    "aliases": [
+      "修道院抄写间",
+      "缮书房"
+    ],
+    "year": 500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "修道院抄写制度于晚古典至6世纪成型",
+    "era": "middle_ages",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "cathedral_school",
+      "bookbinding"
+    ],
+    "desc": "寺院分工校勘抄写并装订旧籍，在战乱中保存了大部分古典文本。"
+  },
+  {
+    "id": "bookbinding",
+    "name": "书籍装帧",
+    "nameEn": "Bookbinding",
+    "wikiEn": "Bookbinding",
+    "aliases": [
+      "装订",
+      "封面装帧"
+    ],
+    "year": 1450,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "手抄本向印本过渡期的装订技艺成熟",
+    "era": "renaissance",
+    "category": "education_knowledge",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "scriptorium"
+    ],
+    "desc": "把散页折帖缝牢并配上硬壳书脊，让厚书经得起反复翻阅与长期上架。"
+  },
+  {
+    "id": "cathedral_school",
+    "name": "主教座堂学校",
+    "nameEn": "Cathedral school",
+    "wikiEn": "Cathedral school",
+    "aliases": [
+      "堂校",
+      "教会学校"
+    ],
+    "year": 600,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "西欧教堂附设学校在中世纪早期普及",
+    "era": "middle_ages",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "scriptorium"
+    ],
+    "related": [
+      "madrasa"
+    ],
+    "desc": "附设于教堂的常教学机构，教授文法与算学并为大学输送生源。"
+  },
+  {
+    "id": "madrasa",
+    "name": "马德拉萨",
+    "nameEn": "Madrasa",
+    "wikiEn": "Madrasa",
+    "aliases": [
+      "伊斯兰学校",
+      "经学院"
+    ],
+    "year": 859,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以卡鲁因学院等早期机构为代表",
+    "era": "middle_ages",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "cathedral_school",
+      "academic_degree"
+    ],
+    "desc": "以瓦克夫基金供养的讲学机构，师生固定席位并授予传习许可。"
+  },
+  {
+    "id": "platonics_academy",
+    "name": "学园",
+    "nameEn": "Platonic Academy",
+    "wikiEn": "Platonic Academy",
+    "aliases": [
+      "柏拉图学园",
+      "亚里士多德吕克昂"
+    ],
+    "year": -385,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "柏拉图约于前 387 年在雅典办学园",
+    "era": "antiquity",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "oral_tradition"
+    ],
+    "related": [
+      "guozijian"
+    ],
+    "desc": "在固定园所围绕几何、辩证与自然哲学长期研讨，是研究院式教学的前身。"
+  },
+  {
+    "id": "imperial_examination",
+    "name": "科举取士",
+    "nameEn": "Imperial examination",
+    "wikiEn": "Imperial examination",
+    "aliases": [
+      "科举",
+      "贡举",
+      "八股取士"
+    ],
+    "year": 605,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "隋炀帝置进士科，学界对起始年代有分歧",
+    "era": "middle_ages",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "censorate"
+    ],
+    "related": [
+      "civil_service",
+      "guozijian"
+    ],
+    "desc": "以分级笔试选拔官员，把门第取士改为可备考、可复核的能力竞争。"
+  },
+  {
+    "id": "guozijian",
+    "name": "官学体系",
+    "nameEn": "Guozijian",
+    "wikiEn": "Guozijian",
+    "aliases": [
+      "国子监",
+      "太学",
+      "官学"
+    ],
+    "year": 1305,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "元代大都国子监建成；上溯汉代太学",
+    "era": "middle_ages",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "imperial_examination",
+      "platonics_academy"
+    ],
+    "desc": "国家设监立学、颁定教材并养廪膳生员，形成与科举衔接的官办教育网。"
+  },
+  {
+    "id": "academic_degree",
+    "name": "学位制度",
+    "nameEn": "Academic degree",
+    "wikiEn": "Academic degree",
+    "aliases": [
+      "学士硕士博士",
+      "/licentia docendi"
+    ],
+    "year": 1200,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "博洛尼亚与巴黎大学的授业许可程序成型",
+    "era": "middle_ages",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "guild"
+    ],
+    "related": [],
+    "desc": "经考试颁授学位作为任教资格凭证，使学术能力可跨地域被承认。"
+  },
+  {
+    "id": "semester_system",
+    "name": "学期与课程表",
+    "nameEn": "Semester",
+    "wikiEn": "Semester",
+    "aliases": [
+      "学期制",
+      "校历"
+    ],
+    "year": 1800,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "取 19 世纪上半叶德美大学学分学时制推广期",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "academic_degree"
+    ],
+    "related": [
+      "laboratory",
+      "engineering_education"
+    ],
+    "desc": "把学年切成学期与课表并按进度升级，使大规模教学可被排程管理。"
+  },
+  {
+    "id": "laboratory",
+    "name": "教学实验室",
+    "nameEn": "Laboratory",
+    "wikiEn": "Laboratory",
+    "aliases": [
+      "实验实训室"
+    ],
+    "year": 1824,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "吉森化学练习室于 1824 年设立",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "semester_system"
+    ],
+    "desc": "让学生亲手操作仪器复现与探索反应，把实验教学从观摩变为训练。"
+  },
+  {
+    "id": "compulsory_education",
+    "name": "义务教育",
+    "nameEn": "Compulsory education",
+    "wikiEn": "Compulsory education",
+    "aliases": [
+      "强制入学",
+      "初等义务教育"
+    ],
+    "year": 1619,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "韦玛公国 1619 年学区令要求入学，普鲁士后来推广",
+    "era": "renaissance",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "cathedral_school"
+    ],
+    "related": [
+      "literacy",
+      "vocational_education"
+    ],
+    "desc": "国家立法强制适龄儿童入学并出资办学，把识字变成全民基础设施。"
+  },
+  {
+    "id": "normal_school",
+    "name": "师范学校",
+    "nameEn": "Normal school",
+    "wikiEn": "Normal school",
+    "aliases": [
+      "师资训练所",
+      "师范学堂"
+    ],
+    "year": 1685,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "德·拉·萨尔在巴黎创办首批师资训练机构",
+    "era": "renaissance",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "compulsory_education"
+    ],
+    "related": [
+      "vocational_education",
+      "engineering_education",
+      "literacy"
+    ],
+    "desc": "专门训练教师并统一教法，使义务教育得以成批获得合格师资。"
+  },
+  {
+    "id": "encyclopedia",
+    "name": "百科全书",
+    "nameEn": "Encyclopedia",
+    "wikiEn": "Encyclopedia",
+    "aliases": [
+      "百科辞书",
+      "综合知识库"
+    ],
+    "year": 1751,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "狄德罗《百科全书》首册 1751 年出版",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "copyright"
+    ],
+    "desc": "按条目汇总全部技艺与学问并配图示，把知识整理成可检索的手册。"
+  },
+  {
+    "id": "public_library",
+    "name": "公共图书馆",
+    "nameEn": "Public library",
+    "wikiEn": "Public library",
+    "aliases": [
+      "市立图书馆",
+      "免费借阅"
+    ],
+    "year": 1850,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "英国公共图书馆法允许以地方税办馆",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "compulsory_education"
+    ],
+    "related": [
+      "literacy",
+      "encyclopedia"
+    ],
+    "desc": "以税收支撑免费开架借阅，使自学不再依赖出身与私人藏书。"
+  },
+  {
+    "id": "literacy",
+    "name": "全民识字",
+    "nameEn": "Literacy",
+    "wikiEn": "Literacy",
+    "aliases": [
+      "识字率",
+      "读写能力普及"
+    ],
+    "year": 1870,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "取 1870 年前后欧美义务教育法集中出台期",
+    "era": "second_industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "compulsory_education",
+      "public_library"
+    ],
+    "related": [
+      "universal_suffrage",
+      "civil_service"
+    ],
+    "desc": "读写在多数成人中普及，使政令、合同与技术手册能被自行阅读。"
+  },
+  {
+    "id": "standard_language_norm",
+    "name": "标准语规范",
+    "nameEn": "Language planning",
+    "wikiEn": "Language planning",
+    "aliases": [
+      "语言规划",
+      "规范语法"
+    ],
+    "year": 1635,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "法兰西学术院成立并着手编纂规范词典",
+    "era": "renaissance",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "literacy",
+      "oxford_english_dictionary"
+    ],
+    "desc": "由权威机构审定读音、词形与句法，把方言分歧统一成可教学的规范语。"
+  },
+  {
+    "id": "oxford_english_dictionary",
+    "name": "历史词典编纂",
+    "nameEn": "Oxford English Dictionary",
+    "wikiEn": "Oxford English Dictionary",
+    "aliases": [
+      "牛津英语词典",
+      "历史主义词典"
+    ],
+    "year": 1884,
+    "year_basis": "exact",
+    "year_span": [
+      1884,
+      1928
+    ],
+    "year_note": "1884 年起分册发行，1928 年出全",
+    "era": "second_industrial",
+    "category": "education_knowledge",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "standard_language_norm"
+    ],
+    "related": [
+      "literacy"
+    ],
+    "desc": "为每词列出引证与历时义项，把词典从正字工具变成语言史数据库。"
+  }
+]

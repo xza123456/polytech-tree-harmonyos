@@ -1,0 +1,17 @@
+[
+  {"id": "wundt_experimental_psychology", "add_prereqs": ["scientific_method"], "add_related": ["freud_psychoanalysis", "pavlov_conditioned_reflex"], "reason": "实验心理学以实验归纳法为方法前置；冯特体系与弗洛伊德、巴甫洛夫是心理学的三条分流"},
+  {"id": "neuron_doctrine", "add_prereqs": ["cell_theory"], "add_related": ["electron_microscope", "eeg"], "reason": "神经元是细胞学说在神经系统的延伸；突触超微结构靠电镜确认，电生理记录承其功能观"},
+  {"id": "solar_water_heating", "add_prereqs": ["glassblowing"], "add_related": ["solar_cell", "seg_solar_thermal"], "reason": "太阳能集热器依赖透明罩/真空管玻璃工艺；与光伏、槽式光热同属太阳能热利用谱系"},
+  {"id": "durkheim_sociology", "add_prereqs": ["scientific_method", "john_snow_epidemiology"], "add_related": ["freud_psychoanalysis"], "reason": "《自杀论》的统计实证方法承实验归纳与斯诺的疾病流行率调查；与精神分析同为 19 世纪末'解释个体行为背后的隐性力量'"},
+  {"id": "freud_psychoanalysis", "add_prereqs": ["wundt_experimental_psychology"], "add_related": ["pavlov_conditioned_reflex"], "reason": "弗洛伊德出自 19 世纪心理学实验传统；与巴甫洛夫的条件反射是同一问题的两种答案"},
+  {"id": "verneuil_process", "add_prereqs": ["glassblowing"], "add_related": ["ruby_laser", "synthetic_rubber"], "reason": "焰熔法即氢氧焰下粉末熔融成球，直接沿用玻璃吹制的焰熔装置；产出合成人造红宝石即激光棒材料，与合成橡胶同属人工宝石/材料浪潮"},
+  {"id": "water_fluoridation", "add_prereqs": ["water_chlorination"], "add_related": ["toothbrush", "public_water_supply"], "reason": "自来水管网加药沿用 1908 年氯化消毒的市政投药体系；对象是龋齿预防"},
+  {"id": "vitamin_b12", "add_prereqs": ["vitamins", "x_ray_crystallography"], "add_related": ["ultracentrifuge"], "reason": "维生素概念的确认在先，B12 结构由 X 射线晶体学解析；分离纯化依赖超速离心"},
+  {"id": "metered_dose_inhaler", "add_prereqs": ["pharmacopoeia"], "add_related": ["cabin_pressurization"], "reason": "定量给药以药典剂量规范为前提；耐压罐与定量阀是密封增压工程的小型化应用"},
+  {"id": "flight_recorder", "add_prereqs": ["wire_recorder", "magnetic_tape_recorder"], "add_related": ["phonograph"], "reason": "黑匣子的声轨记录直接继承钢丝/磁带录音技术，原理可上溯留声机"},
+  {"id": "propranolol", "add_prereqs": ["adrenaline"], "add_related": ["antihistamine"], "reason": "β 受体阻滞剂的靶点是肾上腺素能受体；与受体阻断剂家族（抗组胺药）同期确立药物-受体设计范式"},
+  {"id": "levodopa", "add_prereqs": ["adrenaline", "neuron_doctrine"], "add_related": ["eeg"], "reason": "黑质多巴胺缺失致帕金森的认识来自儿茶酚胺与神经元学说；补充前体药是这一病理链的直接产物"},
+  {"id": "reverse_osmosis_membrane", "add_prereqs": ["electrochemistry", "hemodialysis"], "add_related": ["desalination"], "reason": "半透膜选择性透过是电化学渗透理论的应用；透析器先例给了薄膜复合工艺；聚酰胺复合膜使反渗透海水淡化成本可行"},
+  {"id": "eswl_lithotripsy", "add_prereqs": ["ultrasound_imaging", "x_ray"], "add_related": ["video_endoscope", "laparoscopic_cholecystectomy"], "reason": "碎石机需影像定位（超声/X 光）与冲击波发生装置；与内镜、腹腔镜同属微创化浪潮"},
+  {"id": "omeprazole", "add_prereqs": ["antihistamine"], "add_related": ["propranolol", "statin_drug"], "reason": "H2 受体阻滞剂（西咪替丁）确立了按靶点设计抑酸药的路线，质子泵抑制剂是其后续；与普萘洛尔、他汀同为 1960-80 年代靶点药理学的代表作"}
+]

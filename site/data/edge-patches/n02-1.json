@@ -1,0 +1,575 @@
+[
+ {
+  "id": "cuneiform_writing",
+  "add_prereqs": [],
+  "add_related": [
+   "law_code",
+   "taxation_system"
+  ],
+  "reason": "楔形文字被用来铭刻已知最早的成文法典（乌尔纳姆法典等）并由神庙宫廷用于仓储与征税记账，是这些制度的书写载体"
+ },
+ {
+  "id": "egyptian_hieroglyphs",
+  "add_prereqs": [],
+  "add_related": [
+   "mummification",
+   "egyptian_pyramid"
+  ],
+  "reason": "圣书体铭刻于金字塔墓室与木乃伊棺椁咒语（亡灵书），服务于丧葬仪式与王权来世观念"
+ },
+ {
+  "id": "quipu",
+  "add_prereqs": [],
+  "add_related": [
+   "census_system"
+  ],
+  "reason": "奇普以绳结的方位、颜色与数目编码计数，功能上等同于对人口与贡赋的普查记账系统"
+ },
+ {
+  "id": "chinese_characters",
+  "add_prereqs": [],
+  "add_related": [
+   "imperial_examination"
+  ],
+  "reason": "汉字作为延续的书写系统，是历代官僚文书与科举考试的书写载体"
+ },
+ {
+  "id": "greek_alphabet",
+  "add_prereqs": [],
+  "add_related": [
+   "athenian_democracy"
+  ],
+  "reason": "首个含元音的完整音素字母使文本可被广泛书写传播，支撑了雅典民主的辩论、法律与哲学著述"
+ },
+ {
+  "id": "thales_theorem",
+  "add_prereqs": [],
+  "add_related": [
+   "surveying"
+  ],
+  "reason": "泰勒斯以相似/圆周角定理测海上船距与物高，几何证明源于实地测量（surveying）实践"
+ },
+ {
+  "id": "euclidean_algorithm",
+  "add_prereqs": [],
+  "add_related": [
+   "equal_temperament"
+  ],
+  "reason": "辗转相除/连分式给出对数频率比的最佳有理逼近，是设计律制（如均匀律分音数）的算法工具"
+ },
+ {
+  "id": "archimedean_solids",
+  "add_prereqs": [],
+  "add_related": [
+   "fullerene"
+  ],
+  "reason": "阿基米德体中的截角二十面体正是C60巴克敏斯特富勒烯分子的碳骨架几何"
+ },
+ {
+  "id": "parchment",
+  "add_prereqs": [],
+  "add_related": [
+   "library_alexandria"
+  ],
+  "reason": "相传帕加马与亚历山大图书馆竞争、莎草纸供应受限，催生耐久的羊皮纸书写材料"
+ },
+ {
+  "id": "caesar_cipher",
+  "add_prereqs": [],
+  "add_related": [
+   "roman_legion"
+  ],
+  "reason": "凯撒在高卢战争的军令通信中整字母位移加密，罗马军团的命令传递是其应用载体"
+ },
+ {
+  "id": "codex",
+  "add_prereqs": [],
+  "add_related": [
+   "scriptorium"
+  ],
+  "reason": "册子本取代卷轴便于翻阅与检索，成为中世纪修道院抄写房（scriptorium）的标准书籍形制"
+ },
+ {
+  "id": "nine_chapters",
+  "add_prereqs": [],
+  "add_related": [
+   "surveying",
+   "taxation_system"
+  ],
+  "reason": "《九章算术》勾股章用于测高望远、商功章算土方工程量、均输章处理赋税漕运摊派，直接服务测量与财政"
+ },
+ {
+  "id": "papermaking",
+  "add_prereqs": [],
+  "add_related": [
+   "imperial_examination",
+   "paper_money"
+  ],
+  "reason": "廉价的纸成为科举试卷与公文的大规模载体，并为后世纸币的发行提供物质基础"
+ },
+ {
+  "id": "ptolemy_theorem",
+  "add_prereqs": [],
+  "add_related": [
+   "ptolemaic_astronomy"
+  ],
+  "reason": "托勒密用圆内接四边形对角线定理推演《天文学大成》的弦表，进而建立地心行星模型的三角计算"
+ },
+ {
+  "id": "pappus_hexagon_theorem",
+  "add_prereqs": [],
+  "add_related": [
+   "linear_perspective"
+  ],
+  "reason": "帕普斯定理是射影几何的奠基结果，而射影几何正是线性透视作图法的数学基础"
+ },
+ {
+  "id": "zu_chongzhi_pi",
+  "add_prereqs": [],
+  "add_related": [
+   "armillary_sphere"
+  ],
+  "reason": "祖冲之精算π用于《大明历》回归年与球体积推算，并改制浑仪等天文仪器"
+ },
+ {
+  "id": "algebraic_equation",
+  "add_prereqs": [],
+  "add_related": [
+   "surveying"
+  ],
+  "reason": "花拉子米《代数学》的移项与方程术源于分割遗产、量地与贸易核算等实务，其中土地测量最典型"
+ },
+ {
+  "id": "cryptography",
+  "add_prereqs": [],
+  "add_related": [
+   "diplomacy"
+  ],
+  "reason": "密码学以密钥变换保护信息内容，其核心应用是军事与外交机密通信，近代外交文书加密即赖此"
+ },
+ {
+  "id": "clay_movable_type",
+  "add_prereqs": [],
+  "add_related": [
+   "imperial_examination"
+  ],
+  "reason": "毕昇泥活字批量复制经史与应试文本，扩大了科举用书与官刻文书的流通"
+ },
+ {
+  "id": "movable_type_printing",
+  "add_prereqs": [],
+  "add_related": [
+   "literacy",
+   "encyclopedia"
+  ],
+  "reason": "古腾堡金属活字印刷使书籍廉价批量复制，直接推动近代识字率上升与百科全书式知识传播"
+ },
+ {
+  "id": "hangul",
+  "add_prereqs": [],
+  "add_related": [
+   "literacy"
+  ],
+  "reason": "谚文字母依发音部位创制、拼合规则简单，其设计目的就是降低平民识字门槛、提高读写普及"
+ },
+ {
+  "id": "logarithm",
+  "add_prereqs": [],
+  "add_related": [
+   "spherical_trigonometry"
+  ],
+  "reason": "纳皮尔对数把乘除化为加减，与球面三角表结合，大幅简化天文与航海定位的繁琐计算"
+ },
+ {
+  "id": "analytic_geometry",
+  "add_prereqs": [],
+  "add_related": [
+   "ballistics"
+  ],
+  "reason": "笛卡尔以坐标系用方程刻画圆锥曲线，使抛体弹道等曲线运动可被定量解析"
+ },
+ {
+  "id": "desargues_theorem",
+  "add_prereqs": [],
+  "add_related": [
+   "linear_perspective"
+  ],
+  "reason": "德萨格定理又称\"透视定理\"，直接刻画中心投影下两图形的对应关系，是透视作图的射影基础"
+ },
+ {
+  "id": "combinatorics",
+  "add_prereqs": [],
+  "add_related": [
+   "dice"
+  ],
+  "reason": "帕斯卡-费马由掷骰与赌金分配问题建立组合计数，赌博中的骰子是其直接动机"
+ },
+ {
+  "id": "huygens_de_ratiociniis",
+  "add_prereqs": [],
+  "add_related": [
+   "insurance"
+  ],
+  "reason": "惠更斯以数学期望为核心的概率论，为生命年金与保险精算的风险定价奠定数学基础"
+ },
+ {
+  "id": "fundamental_theorem_of_calculus",
+  "add_prereqs": [],
+  "add_related": [
+   "laplace_celestial_mechanics"
+  ],
+  "reason": "微积分基本定理使微分与积分互逆，天体力学得以由微分方程积分求解行星轨道与摄动"
+ },
+ {
+  "id": "determinant",
+  "add_prereqs": [],
+  "add_related": [
+   "matrix_mechanics"
+  ],
+  "reason": "行列式与由其导出的特征方程，是矩阵力学求解本征值（量子化能级）的核心数学工具"
+ },
+ {
+  "id": "bernoulli_law_large_numbers",
+  "add_prereqs": [],
+  "add_related": [
+   "census_system"
+  ],
+  "reason": "大数定律保证频率随试验收敛于概率，为以人口调查与统计频率推断总体特征提供理论依据"
+ },
+ {
+  "id": "taylor_series",
+  "add_prereqs": [],
+  "add_related": [
+   "pendulum_clock"
+  ],
+  "reason": "单摆周期公式依赖 sinθ≈θ 的小角线性化（泰勒展开首项），这是摆钟等时性的数学前提"
+ },
+ {
+  "id": "demoivre_formula",
+  "add_prereqs": [],
+  "add_related": [
+   "alternating_current"
+  ],
+  "reason": "棣莫弗公式 (cos+isin)^n 是相量法的根基，用于交流电路正弦量的乘幂与倍频分析"
+ },
+ {
+  "id": "gamma_function",
+  "add_prereqs": [],
+  "add_related": [
+   "maxwell_velocity_distribution"
+  ],
+  "reason": "Γ函数给出麦克斯韦分子速率分布的归一化常数（∫v²e^{-av²}dv 含 Γ(3/2)），把阶乘延拓用于物理分布"
+ },
+ {
+  "id": "magazine",
+  "add_prereqs": [],
+  "add_related": [
+   "literacy"
+  ],
+  "reason": "期刊杂志定期汇编多位作者文章，其读者群与广告市场依赖并反过来推动大众识字率的提高"
+ },
+ {
+  "id": "basel_problem",
+  "add_prereqs": [],
+  "add_related": [
+   "stefan_boltzmann_law"
+  ],
+  "reason": "斯特藩-玻尔兹曼定律的黑体辐射积分含 ∫x³/(eˣ-1) 型级数，其值由 ζ(4) 一类∑1/n^k 求和给出，正是巴塞尔问题的推广"
+ },
+ {
+  "id": "seven_bridges_graph_theory",
+  "add_prereqs": [],
+  "add_related": [
+   "subway"
+  ],
+  "reason": "欧拉以顶点-边抽象七桥不可一笔画，开创的图论只研究连接关系，是现代地铁等交通网络拓扑与换乘分析的基础"
+ },
+ {
+  "id": "st_petersburg_paradox",
+  "add_prereqs": [],
+  "add_related": [
+   "keynes_general_theory"
+  ],
+  "reason": "圣彼得堡悖论揭示期望金额不等于决策价值，催生期望效用与不确定决策理论，通向后世风险与投资分析"
+ },
+ {
+  "id": "eulers_identity",
+  "add_prereqs": [],
+  "add_related": [
+   "schrodinger_equation"
+  ],
+  "reason": "欧拉公式 e^{iθ}=cosθ+isinθ 把指数与复平面旋转相联，是波函数与振动 e^{i(kx-ωt)} 复数表示的基础"
+ },
+ {
+  "id": "cramers_rule",
+  "add_prereqs": [],
+  "add_related": [
+   "kirchhoff_circuit_laws"
+  ],
+  "reason": "基尔霍夫电路方程是线性方程组，克莱姆法则以行列式比值给出网孔电流的封闭解析解"
+ },
+ {
+  "id": "euler_polyhedron_formula",
+  "add_prereqs": [],
+  "add_related": [
+   "truss"
+  ],
+  "reason": "欧拉多面体公式 V-E+F=2 在结构力学推广为空间桁架杆件-节点静定判据 m=3j-6"
+ },
+ {
+  "id": "cauchy_riemann_equations",
+  "add_prereqs": [],
+  "add_related": [
+   "bernoulli_principle"
+  ],
+  "reason": "柯西-黎曼方程的共形映射可解不可压缩无旋流动的复势（如茹科夫斯基变换求升力），与伯努利原理合用于绕流分析"
+ },
+ {
+  "id": "minimal_surface",
+  "add_prereqs": [],
+  "add_related": [
+   "soap"
+  ],
+  "reason": "肥皂膜在表面张力下自然收缩成平均曲率为零的极小曲面（Plateau 问题），是极小曲面方程的物理实现"
+ },
+ {
+  "id": "bayes_theorem",
+  "add_prereqs": [],
+  "add_related": [
+   "john_snow_epidemiology"
+  ],
+  "reason": "贝叶斯逆概率由观测证据更新病因的后验概率，正是斯诺据霍乱死亡分布反推宽街水泵源头的因果推断范式"
+ },
+ {
+  "id": "laplace_inverse_probability",
+  "add_prereqs": [],
+  "add_related": [
+   "insurance"
+  ],
+  "reason": "拉普拉斯把逆概率系统用于寿命与出生率等观测推断，为数理精算与保险费率的不确定性估计奠基"
+ },
+ {
+  "id": "gauss_least_squares",
+  "add_prereqs": [],
+  "add_related": [
+   "triangulation_survey"
+  ],
+  "reason": "最小二乘由高斯用于谷神星轨道测定，并把大地测量三角网中多余观测的残差平方和最小化以作平差"
+ },
+ {
+  "id": "gauss_fundamental_theorem_algebra",
+  "add_prereqs": [],
+  "add_related": [
+   "alternating_current"
+  ],
+  "reason": "代数基本定理保证特征多项式在复数域可完全分解，交流电路/系统的极点因此在复平面上决定共振与稳定性"
+ },
+ {
+  "id": "congruence_relation",
+  "add_prereqs": [],
+  "add_related": [
+   "equal_temperament"
+  ],
+  "reason": "十二平均律把一个八度内12个半音归为模12的音级，移调与和声进行本质上是 mod 12 的同余运算"
+ },
+ {
+  "id": "monge_surface_theory",
+  "add_prereqs": [],
+  "add_related": [
+   "cartography"
+  ],
+  "reason": "蒙日可展曲面（柱面/锥面）可无伸缩地展平，正是地图投影与钣金/船壳放样的几何依据"
+ },
+ {
+  "id": "gauss_normal_error_theory",
+  "add_prereqs": [],
+  "add_related": [
+   "radiometric_dating"
+  ],
+  "reason": "高斯把正态分布作为测量误差定律，放射同位素定年报告的±不确定度即按此钟形误差律表述"
+ },
+ {
+  "id": "central_limit_theorem",
+  "add_prereqs": [],
+  "add_related": [
+   "social_insurance"
+  ],
+  "reason": "中心极限定理使大量独立风险的合计近似正态，是社会保险与精算准备金度量聚合不确定性的理论依据"
+ },
+ {
+  "id": "gaussian_elimination",
+  "add_prereqs": [],
+  "add_related": [
+   "finite_element_method"
+  ],
+  "reason": "有限元把结构/场方程离散为大型线性方程组，其求解内核即逐行消元的高斯消元法"
+ },
+ {
+  "id": "laplace_classical_probability",
+  "add_prereqs": [],
+  "add_related": [
+   "gibbs_statistical_ensembles"
+  ],
+  "reason": "拉普拉斯以等可能情形之比定义概率，其等概率公设正是吉布斯统计系综理论的基本假设"
+ },
+ {
+  "id": "gaussian_quadrature",
+  "add_prereqs": [],
+  "add_related": [
+   "finite_element_method"
+  ],
+  "reason": "高斯求积用最少节点精确积分单元刚度矩阵，是有限元数值积分的标准求积方案"
+ },
+ {
+  "id": "fourier_analysis",
+  "add_prereqs": [],
+  "add_related": [
+   "spectroscopy"
+  ],
+  "reason": "傅里叶分析把任意波/信号分解为频率分量，光谱学据此从复合辐射中解析出特征谱线"
+ },
+ {
+  "id": "bolyai_non_euclidean",
+  "add_prereqs": [],
+  "add_related": [
+   "general_relativity"
+  ],
+  "reason": "波尔约否弃平行公设的自洽几何，为非欧/黎曼弯曲时空提供数学框架，广义相对论据此刻画引力"
+ },
+ {
+  "id": "cauchy_integral_theorem",
+  "add_prereqs": [],
+  "add_related": [
+   "schrodinger_equation"
+  ],
+  "reason": "柯西积分定理是围道积分与格林函数方法的基础，薛定谔方程的复平面求解（散射、传播子）赖此"
+ },
+ {
+  "id": "cauchy_residue_theorem",
+  "add_prereqs": [],
+  "add_related": [
+   "hertz_electromagnetic_waves"
+  ],
+  "reason": "柯西留数定理把围道积分化为奇点留数和，是计算电磁波衍射/辐射积分与色散关系的利器"
+ },
+ {
+  "id": "abel_elliptic_functions",
+  "add_prereqs": [],
+  "add_related": [
+   "keplers_laws"
+  ],
+  "reason": "阿贝尔反演椭圆积分所得椭圆函数，源于求椭圆弧长与解开普勒方程，服务于行星椭圆运动分析"
+ },
+ {
+  "id": "greens_theorem",
+  "add_prereqs": [],
+  "add_related": [
+   "coulombs_law"
+  ],
+  "reason": "格林公式与位势恒等式把边界积分与区域积分相联，是静电学由库仑定律求解电势（泊松方程）的核心工具"
+ },
+ {
+  "id": "lobachevsky_non_euclidean",
+  "add_prereqs": [],
+  "add_related": [
+   "special_relativity"
+  ],
+  "reason": "罗氏双曲几何在速度合成（快度）与闵氏时空中实现，狭义相对论的速度空间即为双曲几何"
+ },
+ {
+  "id": "galois_theory",
+  "add_prereqs": [],
+  "add_related": [
+   "crystallographic_restriction_theorem"
+  ],
+  "reason": "伽罗瓦开创的群论刻画对称性，晶体允许的点群与受限的旋转对称（仅1,2,3,4,6重）由有限群的分类决定"
+ },
+ {
+  "id": "poisson_distribution_law",
+  "add_prereqs": [],
+  "add_related": [
+   "becquerel_radioactivity"
+  ],
+  "reason": "泊松分布描述大量稀有独立事件的计数，放射性衰变计数的涨落正服从泊松统计"
+ },
+ {
+  "id": "sturm_liouville_theory",
+  "add_prereqs": [],
+  "add_related": [
+   "schrodinger_equation"
+  ],
+  "reason": "斯图姆-刘维尔的本征值与正交函数展开理论，正是薛定谔方程求解量子化能级的数学结构"
+ },
+ {
+  "id": "postage_stamp",
+  "add_prereqs": [],
+  "add_related": [
+   "literacy"
+  ],
+  "reason": "一便士均一邮资配合预付邮票使大众廉价通信普及，刺激了私人信件往来与读写能力的普及"
+ },
+ {
+  "id": "diophantine_approximation",
+  "add_prereqs": [],
+  "add_related": [
+   "calendar"
+  ],
+  "reason": "丢番图逼近/连分数给出实数的最佳有理逼近，用于确定历法置闰的周期（如以整数月年逼近回归年）"
+ },
+ {
+  "id": "hamilton_quaternions",
+  "add_prereqs": [],
+  "add_related": [
+   "inertial_navigation"
+  ],
+  "reason": "四元数可无万向节死锁地表示三维旋转，惯性导航与飞行器的姿态更新即靠四元数运算"
+ },
+ {
+  "id": "alternating_multilinear_map",
+  "add_prereqs": [],
+  "add_related": [
+   "general_relativity"
+  ],
+  "reason": "格拉斯曼外积与微分形式为广义相对论在弯曲时空上的张量场积分与运算提供了语言"
+ },
+ {
+  "id": "boolean_algebra_structure",
+  "add_prereqs": [],
+  "add_related": [
+   "silicon_transistor"
+  ],
+  "reason": "布尔代数把逻辑命题化为0/1运算，经香农开关理论落实为由晶体管构成的数字逻辑门"
+ },
+ {
+  "id": "listing_topology_naming",
+  "add_prereqs": [],
+  "add_related": [
+   "conveyor_belt"
+  ],
+  "reason": "利斯廷参与发现的莫比乌斯带被用于制造单面环形传送带/砂带，使整圈磨损均匀延长寿命"
+ },
+ {
+  "id": "gauss_bonnet_theorem",
+  "add_prereqs": [],
+  "add_related": [
+   "triangulation_survey"
+  ],
+  "reason": "高斯-博内定理把曲面总曲率与拓扑示性数相联，大地测量三角网的球面角盈改正即据此计算"
+ },
+ {
+  "id": "news_agency",
+  "add_prereqs": [],
+  "add_related": [
+   "telegraph_equation"
+  ],
+  "reason": "通讯社依靠电报线路把消息批发到全球，描述沿线信号衰减与扩散的电报方程是其技术基础的物理刻画"
+ },
+ {
+  "id": "riemann_mapping_theorem",
+  "add_prereqs": [],
+  "add_related": [
+   "cartography"
+  ],
+  "reason": "黎曼映射定理保证单连通区域可共形映上圆盘，其保角性正是墨卡托等保角地图投影的理论根基"
+ }
+]

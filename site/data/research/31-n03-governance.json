@@ -1,0 +1,2122 @@
+[
+  {
+    "id": "taboo_prohibition",
+    "name": "塔布禁忌",
+    "nameEn": "Taboo Prohibition",
+    "wikiEn": "Taboo",
+    "aliases": [
+      "禁忌",
+      "塔布"
+    ],
+    "year": -12000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "旧石器时代晚期约定值，禁忌无成文纪年",
+    "era": "prehistory",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "kinship_system"
+    ],
+    "related": [
+      "exogamy",
+      "blood_feud",
+      "law_code"
+    ],
+    "desc": "以神圣禁令划定不可触碰的行为边界，把秩序内化于信仰而非刑罚，是最早的不成文法。"
+  },
+  {
+    "id": "acephalous_society",
+    "name": "无首领社会",
+    "nameEn": "Acephalous Society",
+    "wikiEn": "Acephalous society",
+    "aliases": [
+      "无头社会",
+      "无国家社会"
+    ],
+    "year": -10000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "指国家出现前的长期形态，年代为约定值",
+    "era": "prehistory",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "band_society",
+      "gerontocracy"
+    ],
+    "related": [
+      "consensus_decision_making",
+      "chiefdom",
+      "big_man_leader"
+    ],
+    "desc": "靠亲属对等与舆论制衡维持秩序而无需首脑，证明集权并非治理的唯一解。"
+  },
+  {
+    "id": "big_man_leader",
+    "name": "能人首领制",
+    "nameEn": "Big Man Leadership",
+    "wikiEn": "Big man (anthropology)",
+    "aliases": [
+      "能人",
+      "大人物"
+    ],
+    "year": -7000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "新石器时代再分配社会约定值",
+    "era": "neolithic",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "acephalous_society",
+      "consensus_decision_making"
+    ],
+    "related": [
+      "chiefdom",
+      "gift_economy",
+      "grain_storage"
+    ],
+    "desc": "以积累余粮并大办宴请换取追随者，权威来自个人经营而非世袭，是权力的可复制配方。"
+  },
+  {
+    "id": "social_stratification",
+    "name": "社会分层",
+    "nameEn": "Social Stratification",
+    "wikiEn": "Social stratification",
+    "aliases": [
+      "等级分化",
+      "阶层"
+    ],
+    "year": -7000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "依墓葬与居址差异判定，无确切纪年",
+    "era": "neolithic",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "kinship_system",
+      "big_man_leader"
+    ],
+    "related": [
+      "slavery",
+      "primogeniture",
+      "law_of_manu",
+      "grain_storage"
+    ],
+    "desc": "剩余产品把人群固化为高低序列，身份从此可继承，成为一切法典要处理的对象。"
+  },
+  {
+    "id": "private_property",
+    "name": "私有产权",
+    "nameEn": "Private Property",
+    "wikiEn": "Private property",
+    "aliases": [
+      "财产私有",
+      "所有权"
+    ],
+    "year": -6500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "定居农业带来排他占有，年代为约定值",
+    "era": "neolithic",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "grain_storage",
+      "kinship_system"
+    ],
+    "related": [
+      "land_tenure",
+      "irrigation",
+      "code_of_hammurabi",
+      "taxation_system"
+    ],
+    "desc": "以排他占有界定物与人的归属，使侵害可计量、可赔偿，契约与诉讼才有立足点。"
+  },
+  {
+    "id": "hydraulic_society",
+    "name": "治水社会",
+    "nameEn": "Hydraulic Society",
+    "wikiEn": "Hydraulic empire",
+    "aliases": [
+      "水利文明",
+      "治水国家"
+    ],
+    "year": -3600,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "两河流域大规模渠系年代学界有争议，取魏特夫假说的通行值",
+    "era": "neolithic",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "irrigation",
+      "social_stratification"
+    ],
+    "related": [
+      "corvee_labor",
+      "canal",
+      "dam",
+      "bureaucracy_ancient"
+    ],
+    "desc": "统一调度渠系与洪水需要常设管理机构，水利协作把分散村落焊成最早的国家机器。"
+  },
+  {
+    "id": "bureaucracy_ancient",
+    "name": "书吏官僚制",
+    "nameEn": "Ancient Bureaucracy",
+    "wikiEn": "Bureaucracy",
+    "aliases": [
+      "官僚制",
+      "文官行政"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "挂词条上位概念：苏美尔与埃及最早出现职级行政",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "proto_writing",
+      "private_property",
+      "city_state"
+    ],
+    "related": [
+      "archive_institution",
+      "corvee_labor",
+      "weber_bureaucracy",
+      "censorate"
+    ],
+    "desc": "以职级、文书和俸禄代替亲族分封来治国，使政令能离开国王本人而持续运转。"
+  },
+  {
+    "id": "land_tenure",
+    "name": "土地保有制",
+    "nameEn": "Land Tenure",
+    "wikiEn": "Land tenure",
+    "aliases": [
+      "田制",
+      "领地保有"
+    ],
+    "year": -2000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "泛指前现代土地权利体系，无单一创立年",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "taxation_system",
+      "primogeniture",
+      "corvee_labor",
+      "surveying"
+    ],
+    "related": [
+      "feudalism",
+      "serfdom",
+      "domesday_book",
+      "iqta_grant"
+    ],
+    "desc": "规定谁以何种义务持有土地，把地权、税负与兵役捆成一套可核查的账。"
+  },
+  {
+    "id": "laws_eshnunna",
+    "name": "埃什嫩那法典",
+    "nameEn": "Laws of Eshnunna",
+    "wikiEn": "Laws of Eshnunna",
+    "aliases": [
+      "埃什嫩那法律"
+    ],
+    "year": -1930,
+    "year_basis": "scholarly_disputed",
+    "year_span": [
+      -1963,
+      -1924
+    ],
+    "year_note": "年代依抄本与王表推定，学界取前20世纪末",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "law_code",
+      "bureaucracy_ancient"
+    ],
+    "related": [
+      "code_of_hammurabi",
+      "lex_talionis",
+      "hittite_laws",
+      "cylinder_seal"
+    ],
+    "desc": "率先公布粮价、工价与人身伤害赔偿标准，用法条给市场定价而非由个案裁断。"
+  },
+  {
+    "id": "hittite_laws",
+    "name": "赫梯法典",
+    "nameEn": "Hittite Laws",
+    "wikiEn": "Hittite laws",
+    "aliases": [
+      "赫梯法律"
+    ],
+    "year": -1500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "现存抄本约前15世纪，条款累经修订",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "code_of_hammurabi",
+      "law_code"
+    ],
+    "related": [
+      "treaty_kadesh",
+      "lex_talionis",
+      "laws_eshnunna",
+      "stamp_seal"
+    ],
+    "desc": "把同态复仇改写为定额赔偿，显示同一法理传统可由刑罚转向补偿。"
+  },
+  {
+    "id": "treaty_kadesh",
+    "name": "埃及赫梯和约",
+    "nameEn": "Egyptian-Hittite Peace Treaty",
+    "wikiEn": "Egyptian–Hittite peace treaty",
+    "aliases": [
+      "卡叠什和约",
+      "银板和约"
+    ],
+    "year": -1259,
+    "year_basis": "scholarly_disputed",
+    "year_span": [
+      -1259,
+      -1257
+    ],
+    "year_note": "订立年依双方纪年互校，通行取前1259",
+    "era": "bronze_age",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "archive_institution",
+      "hittite_laws"
+    ],
+    "related": [
+      "international_law",
+      "peace_of_westphalia",
+      "stamp_seal"
+    ],
+    "desc": "两个帝国把边界、互不侵犯与引渡义务刻成双向对等文本，是留存至今的最早国际条约。"
+  },
+  {
+    "id": "zhou_official_rites",
+    "name": "周官职典",
+    "nameEn": "Rites of Zhou",
+    "wikiEn": "Rites of Zhou",
+    "aliases": [
+      "周礼",
+      "六典"
+    ],
+    "year": -1100,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "成书年代争议大，取西周初建制之约定值",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "code_of_hammurabi",
+      "land_tenure"
+    ],
+    "related": [
+      "tang_code",
+      "censorate",
+      "bureaucracy_ancient",
+      "stamp_seal"
+    ],
+    "desc": "把官职、俸禄、田制与礼仪编为一份可复原的行政设计图，供后世据以立制。"
+  },
+  {
+    "id": "amphictyonic_league",
+    "name": "近邻同盟",
+    "nameEn": "Amphictyonic League",
+    "wikiEn": "Amphictyonic league",
+    "aliases": [
+      "德尔菲同盟"
+    ],
+    "year": -600,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "同盟古史可追溯更早，成制之纪年约前6世纪",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "city_state",
+      "treaty_kadesh"
+    ],
+    "related": [
+      "hanseatic_league",
+      "league_of_nations",
+      "international_law",
+      "greek_alphabet"
+    ],
+    "desc": "诸城邦按席位共掌圣所并约定战时禁区，是最早以投票权组织的跨国机构。"
+  },
+  {
+    "id": "rule_of_law",
+    "name": "法治原则",
+    "nameEn": "Rule of Law",
+    "wikiEn": "Rule of law",
+    "aliases": [
+      "法律至上",
+      "礼法之治"
+    ],
+    "year": -350,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "亚里士多德《政治学》表述成熟期，取约前350",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "原理",
+    "importance": 1,
+    "prereqs": [
+      "twelve_tables",
+      "code_of_hammurabi",
+      "greek_alphabet"
+    ],
+    "related": [
+      "athenian_democracy",
+      "constitution_written",
+      "common_law",
+      "judicial_review"
+    ],
+    "desc": "主张统治应服从既定法律而非统治者情绪，为限权与复审提供了可检验的标准。"
+  },
+  {
+    "id": "roman_province",
+    "name": "罗马行省制",
+    "nameEn": "Roman Province System",
+    "wikiEn": "Roman province",
+    "aliases": [
+      "罗马行省",
+      "元首省与元老省"
+    ],
+    "year": -227,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "常设行省始于前3世纪，取前227",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "roman_republic",
+      "satrapy",
+      "roman_roads"
+    ],
+    "related": [
+      "censorate",
+      "tax_farming",
+      "commandery_county",
+      "bureaucracy_ancient"
+    ],
+    "desc": "把征服地划为按年派遣长官、定额定税的行政区，使帝国扩张转为可管理的常规。"
+  },
+  {
+    "id": "tribune_of_plebs",
+    "name": "平民保民官",
+    "nameEn": "Tribune of the Plebs",
+    "wikiEn": "Tribune of the plebs",
+    "aliases": [
+      "保民官",
+      "否决权"
+    ],
+    "year": -494,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "传统定年前494年第一次撤离运动后设置",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "roman_senate",
+      "roman_republic"
+    ],
+    "related": [
+      "twelve_tables",
+      "universal_suffrage",
+      "parliament",
+      "alphabet"
+    ],
+    "desc": "由被统治者选出专职官员，以人身不可侵犯与否决权实时制衡上层决策。"
+  },
+  {
+    "id": "legalist_administration",
+    "name": "法家吏治术",
+    "nameEn": "Legalist Statecraft",
+    "wikiEn": "Legalism (Chinese philosophy)",
+    "aliases": [
+      "Legalism",
+      "法家",
+      "法术势"
+    ],
+    "year": -250,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "集于韩非子，取约前250",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "code_of_hammurabi",
+      "bureaucracy_ancient",
+      "stamp_seal"
+    ],
+    "related": [
+      "rule_of_law",
+      "commandery_county",
+      "censorate",
+      "zhou_official_rites"
+    ],
+    "desc": "主张以公开法令、考核与刑赏驱动官僚，把治国从德性争论变成可操作的控制工程。"
+  },
+  {
+    "id": "arthashastra_statecraft",
+    "name": "利论治国术",
+    "nameEn": "Arthashastra Statecraft",
+    "wikiEn": "Arthashastra",
+    "aliases": [
+      "实利论",
+      "考底利耶"
+    ],
+    "year": -300,
+    "year_basis": "circa",
+    "year_span": [
+      -321,
+      -300
+    ],
+    "year_note": "层累成书，取孔雀王朝初通行值",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "bureaucracy_ancient",
+      "land_tenure",
+      "touchstone"
+    ],
+    "related": [
+      "taxation_system",
+      "state_monopoly",
+      "censorate",
+      "edicts_ashoka"
+    ],
+    "desc": "系统写出税目、度量、矿监与密探的岗位规程，是最早成体系的政府运营手册。"
+  },
+  {
+    "id": "edicts_ashoka",
+    "name": "阿育王石刻敕令",
+    "nameEn": "Edicts of Ashoka",
+    "wikiEn": "Edicts of Ashoka",
+    "aliases": [
+      "法敕",
+      "石柱诏令"
+    ],
+    "year": -250,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "敕令群刻于前3世纪中叶，取约前250",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "arthashastra_statecraft",
+      "bureaucracy_ancient"
+    ],
+    "related": [
+      "archive_institution",
+      "elizabethan_poor_law",
+      "roman_province",
+      "column"
+    ],
+    "desc": "把政令、医疗与恤民义务刻石公示于道路，让中央意图绕过官吏直达地方。"
+  },
+  {
+    "id": "law_of_manu",
+    "name": "摩奴法论",
+    "nameEn": "Laws of Manu",
+    "wikiEn": "Manusmriti",
+    "aliases": [
+      "曼奴法论",
+      "达摩经"
+    ],
+    "year": -100,
+    "year_basis": "circa",
+    "year_span": [
+      -200,
+      200
+    ],
+    "year_note": "成书区间跨前2世纪至2世纪，取中值附近约定前100",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "code_of_hammurabi",
+      "social_stratification",
+      "stamp_seal"
+    ],
+    "related": [
+      "lex_talionis",
+      "primogeniture",
+      "islamic_sharia_law",
+      "canon_law_of_the_church"
+    ],
+    "desc": "按出身规定各阶层的权利、税赋与刑罚，把社会等级写成可援引的规范文本。"
+  },
+  {
+    "id": "tax_farming",
+    "name": "包税制",
+    "nameEn": "Tax Farming",
+    "wikiEn": "Tax farming",
+    "aliases": [
+      "承包征税",
+      "包税人"
+    ],
+    "year": -200,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "罗马行省包税制成熟期，取约前200",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "roman_province",
+      "taxation_system",
+      "coinage",
+      "touchstone"
+    ],
+    "related": [
+      "public_debt_system",
+      "single_whip_law",
+      "state_monopoly",
+      "joint_stock_company"
+    ],
+    "desc": "政府把征税权拍卖给承包者以锁定现款，用私人资本换掉自建税务机构的成本。"
+  },
+  {
+    "id": "commandery_county",
+    "name": "郡县制",
+    "nameEn": "Commandery and County System",
+    "wikiEn": "Commandery (China)",
+    "aliases": [
+      "郡县",
+      "二级行政区划"
+    ],
+    "year": -221,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "秦并天下推行天下；无独立条目，挂上位词条Commandery (China)",
+    "era": "antiquity",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "bureaucracy_ancient",
+      "satrapy",
+      "legalist_administration",
+      "surveying"
+    ],
+    "related": [
+      "roman_province",
+      "censorate",
+      "tang_code",
+      "imperial_examination"
+    ],
+    "desc": "以流官治理划定的郡县取代世袭封国，政令、赋役与户籍自此按同一边界汇总。"
+  },
+  {
+    "id": "germanic_thing_assembly",
+    "name": "庭大会",
+    "nameEn": "Germanic Thing Assembly",
+    "wikiEn": "Thing (assembly)",
+    "aliases": [
+      "民众庭",
+      "提恩"
+    ],
+    "year": 600,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "日耳曼各部庭会文献化于迁徙时代，取约600",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "gerontocracy",
+      "consensus_decision_making"
+    ],
+    "related": [
+      "parliament",
+      "acephalous_society",
+      "common_law",
+      "codex"
+    ],
+    "desc": "定期在指定地点由自由民到场作证与表决，习惯法靠集会而非官吏得以执行。"
+  },
+  {
+    "id": "byzantine_theme_system",
+    "name": "拜占庭军区制",
+    "nameEn": "Byzantine Theme System",
+    "wikiEn": "Theme (Byzantine district)",
+    "aliases": [
+      "色雷斯西亚军区",
+      "军政合一区划"
+    ],
+    "year": 650,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "军区制成型于7世纪，取约650",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "satrapy",
+      "corvee_labor"
+    ],
+    "related": [
+      "feudalism",
+      "land_tenure",
+      "city_wall",
+      "commandery_county"
+    ],
+    "desc": "把辖区军政合于一人、以份地养兵，用本地兵源替帝国省下远征驻军的开支。"
+  },
+  {
+    "id": "taiho_code",
+    "name": "大宝律令",
+    "nameEn": "Taiho Code",
+    "wikiEn": "Taihō Code",
+    "aliases": [
+      "律令制",
+      "大宝令"
+    ],
+    "year": 701,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "日本天平令前成文，701年颁行",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "tang_code",
+      "zhou_official_rites"
+    ],
+    "related": [
+      "islamic_sharia_law",
+      "commandery_county",
+      "justinian_digest",
+      "papermaking"
+    ],
+    "desc": "整搬唐制为本国官位、户籍与田赋法，示范了一整套治理制度如何跨文明移植。"
+  },
+  {
+    "id": "islamic_sharia_law",
+    "name": "伊斯兰教法",
+    "nameEn": "Sharia Law",
+    "wikiEn": "Sharia",
+    "aliases": [
+      "沙里亚",
+      "伊斯兰法"
+    ],
+    "year": 700,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "法学派形成于7—8世纪，取约700",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "law_of_manu",
+      "justinian_digest",
+      "papermaking"
+    ],
+    "related": [
+      "canon_law_of_the_church",
+      "taiho_code",
+      "waqf_endowment",
+      "iqta_grant"
+    ],
+    "desc": "由法学家从经训推导义务与契约细则，形成独立于君主意志并可跨王朝沿用的法统。"
+  },
+  {
+    "id": "waqf_endowment",
+    "name": "瓦克夫基金",
+    "nameEn": "Waqf Endowment",
+    "wikiEn": "Waqf",
+    "aliases": [
+      "宗教公产",
+      "永佃基金"
+    ],
+    "year": 850,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "制度化于9世纪，取约850",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "islamic_sharia_law",
+      "private_property"
+    ],
+    "related": [
+      "elizabethan_poor_law",
+      "medieval_university",
+      "guild",
+      "public_water_supply"
+    ],
+    "desc": "把不动产永久拨给指定用途并由管理人执行，让学校、医院与水井脱离财政周期运转。"
+  },
+  {
+    "id": "iqta_grant",
+    "name": "伊克塔食邑",
+    "nameEn": "Iqta Grant",
+    "wikiEn": "Iqta",
+    "aliases": [
+      "伊克塔",
+      "军粮采邑"
+    ],
+    "year": 900,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "阿拔斯时期俸禄地制，取约900",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "land_tenure",
+      "taxation_system",
+      "cylinder_seal"
+    ],
+    "related": [
+      "feudalism",
+      "tax_farming",
+      "serfdom",
+      "mamluk_soldier_slavery"
+    ],
+    "desc": "以指定地区的税收权换取服役而不转授土地本身，把官僚薪酬变成可回收的记账单位。"
+  },
+  {
+    "id": "baojia_mutual_responsibility",
+    "name": "保甲连坐法",
+    "nameEn": "Baojia System",
+    "wikiEn": "Baojia system",
+    "aliases": [
+      "保甲法",
+      "十家为保"
+    ],
+    "year": 1070,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "熙宁年间王安石推行，取约1070",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "census_system",
+      "commandery_county",
+      "tang_code"
+    ],
+    "related": [
+      "serfdom",
+      "single_whip_law",
+      "taxation_system",
+      "woodblock_printing"
+    ],
+    "desc": "按十进户组编名互查互举，以民代警，把治安与信息收集的成本压到官府之外。"
+  },
+  {
+    "id": "assize_of_clarendon",
+    "name": "克拉伦登诏令",
+    "nameEn": "Assize of Clarendon",
+    "wikiEn": "Assize of Clarendon",
+    "aliases": [
+      "克拉伦登巡回审判法"
+    ],
+    "year": 1166,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1166年亨利二世颁行",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "justinian_digest",
+      "roman_province",
+      "codex"
+    ],
+    "related": [
+      "common_law",
+      "trial_by_jury",
+      "censorate",
+      "parliament"
+    ],
+    "desc": "由巡回法官召本地出庭指控重案，把国王法院的管辖权插进每一个郡。"
+  },
+  {
+    "id": "canon_law_of_the_church",
+    "name": "教会法",
+    "nameEn": "Canon Law",
+    "wikiEn": "Canon law of the Catholic Church",
+    "aliases": [
+      "教会法令汇编",
+      "格拉提安教令集"
+    ],
+    "year": 1140,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "格拉提安《歧异律条之调和》约成于1140",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "justinian_digest",
+      "law_of_manu",
+      "codex"
+    ],
+    "related": [
+      "islamic_sharia_law",
+      "common_law",
+      "notary_institution",
+      "medieval_university"
+    ],
+    "desc": "把互相矛盾的宗教决议整理成有层级与解释规则的法学体系，支撑起跨国的教会法院。"
+  },
+  {
+    "id": "notary_institution",
+    "name": "公证人制度",
+    "nameEn": "Notary Institution",
+    "wikiEn": "Notary",
+    "aliases": [
+      "公证",
+      "公证书吏"
+    ],
+    "year": 1200,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "拉丁公证术复兴于12世纪末，取约1200",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "archive_institution",
+      "codex"
+    ],
+    "related": [
+      "justinian_digest",
+      "domesday_book",
+      "canon_law_of_the_church",
+      "civil_registration"
+    ],
+    "desc": "由授权书吏制作带签章的原本并存档，使文件在当事人亡故后仍能自证其真。"
+  },
+  {
+    "id": "trial_by_jury",
+    "name": "陪审审判",
+    "nameEn": "Trial by Jury",
+    "wikiEn": "Trial by jury",
+    "aliases": [
+      "陪审团",
+      "同侪裁判"
+    ],
+    "year": 1215,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "大宪章第39条确立同侪裁判，1215",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "assize_of_clarendon",
+      "common_law",
+      "codex"
+    ],
+    "related": [
+      "magna_carta",
+      "athenian_democracy",
+      "judicial_review",
+      "canon_law_of_the_church"
+    ],
+    "desc": "由本地邻人而非神判或酷刑认定事实，把裁决的可信度建立在人数与公开之上。"
+  },
+  {
+    "id": "hanseatic_league",
+    "name": "汉萨同盟",
+    "nameEn": "Hanseatic League",
+    "wikiEn": "Hanseatic League",
+    "aliases": [
+      "汉萨",
+      "商人联合体"
+    ],
+    "year": 1250,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "城市联合成型于13世纪中叶，取约1250",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "guild",
+      "medieval_commune"
+    ],
+    "related": [
+      "amphictyonic_league",
+      "diplomacy",
+      "silk_road",
+      "trade_union"
+    ],
+    "desc": "诸城与商会长期开会、共派使节并以断供施压，形成无领土的跨国执法机制。"
+  },
+  {
+    "id": "mongol_yam_relay",
+    "name": "站赤驿传",
+    "nameEn": "Mongol Post Road Relay (Yam)",
+    "wikiEn": "Post road",
+    "aliases": [
+      "驿站制",
+      "牌符驿传"
+    ],
+    "year": 1240,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "驿站道路体系无独立条目，挂上位条目 Post road；站赤制约1240年制度化",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "royal_road",
+      "postal_service"
+    ],
+    "related": [
+      "pax_mongolica",
+      "standard_time_zones",
+      "universal_postal_union",
+      "road"
+    ],
+    "desc": "以固定站距、换马牌符与专项供给把消息传递速度变成可规划的行政参数。"
+  },
+  {
+    "id": "mongol_yasa",
+    "name": "大札撒",
+    "nameEn": "Mongol Yasa",
+    "wikiEn": "Yasa",
+    "aliases": [
+      "成吉思法典",
+      "劄撒"
+    ],
+    "year": 1206,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1206年忽里台大会后颁行",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "lex_talionis",
+      "blood_feud",
+      "papermaking"
+    ],
+    "related": [
+      "islamic_sharia_law",
+      "mongol_yam_relay",
+      "pax_mongolica",
+      "trial_by_jury"
+    ],
+    "desc": "把游牧习惯写成对全军全民通用的禁令册，使部落忠诚被法条取代而可跨族群征调。"
+  },
+  {
+    "id": "mamluk_soldier_slavery",
+    "name": "马穆鲁克兵奴制",
+    "nameEn": "Mamluk Soldier Slavery",
+    "wikiEn": "Mamluk",
+    "aliases": [
+      "马穆鲁克",
+      "奴隶军团"
+    ],
+    "year": 1250,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "作为统治集团始于13世纪中叶，取约1250",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "slavery",
+      "iqta_grant"
+    ],
+    "related": [
+      "serfdom",
+      "conscription",
+      "feudalism",
+      "pax_mongolica"
+    ],
+    "desc": "购入无本土根基的奴隶集中训练为职业军人，以切断宗族依附来换取忠诚的军队。"
+  },
+  {
+    "id": "pax_mongolica",
+    "name": "蒙古和平",
+    "nameEn": "Pax Mongolica",
+    "wikiEn": "Pax Mongolica",
+    "aliases": [
+      "蒙古治世"
+    ],
+    "year": 1275,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "欧亚商路统一安保期约13—14世纪，取约1275",
+    "era": "middle_ages",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "mongol_yasa",
+      "mongol_yam_relay"
+    ],
+    "related": [
+      "silk_road",
+      "hanseatic_league",
+      "diplomacy",
+      "quarantine"
+    ],
+    "desc": "以单一强权担保跨境商道与使节通行，使洲际人员、货物与疫病第一次同步流动。"
+  },
+  {
+    "id": "encomienda_grant",
+    "name": "委托监护制",
+    "nameEn": "Encomienda Grant",
+    "wikiEn": "Encomienda",
+    "aliases": [
+      "委托征收制",
+      "监护区"
+    ],
+    "year": 1503,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "加勒比与美洲殖民地推行期，取约1503",
+    "era": "renaissance",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "iqta_grant",
+      "serfdom",
+      "land_tenure",
+      "movable_type_printing"
+    ],
+    "related": [
+      "corvee_labor",
+      "slavery",
+      "single_whip_law",
+      "taxation_system"
+    ],
+    "desc": "把原住民的劳役征发权连同教化名义授予个人，为远方殖民地提供一套低成本榨取装置。"
+  },
+  {
+    "id": "sovereignty_principle",
+    "name": "主权原则",
+    "nameEn": "Sovereignty",
+    "wikiEn": "Sovereignty",
+    "aliases": [
+      "主权",
+      "最高治权"
+    ],
+    "year": 1576,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "博丹《国家六论》1576年提出，取该年",
+    "era": "renaissance",
+    "category": "governance",
+    "kind": "原理",
+    "importance": 1,
+    "prereqs": [
+      "justinian_digest",
+      "roman_citizenship"
+    ],
+    "related": [
+      "nation_state",
+      "peace_of_westphalia",
+      "international_law",
+      "movable_type_printing"
+    ],
+    "desc": "认定国内只有一个不受外来指令约束的最高决断点，为国家与条约给出可识别的单位。"
+  },
+  {
+    "id": "elizabethan_poor_law",
+    "name": "伊丽莎白济贫法",
+    "nameEn": "Elizabethan Poor Law",
+    "wikiEn": "Poor Law",
+    "aliases": [
+      "救贫法",
+      "教区救济"
+    ],
+    "year": 1601,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1601年议会立法",
+    "era": "renaissance",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "waqf_endowment",
+      "edicts_ashoka",
+      "guild",
+      "movable_type_printing"
+    ],
+    "related": [
+      "welfare_state",
+      "social_insurance",
+      "factory_acts_regulation",
+      "trade_union"
+    ],
+    "desc": "按教区向地产课征济贫捐并强制安置贫民，首次把救济写成地方的法定义务与预算。"
+  },
+  {
+    "id": "peace_of_westphalia",
+    "name": "威斯特伐利亚和约",
+    "nameEn": "Peace of Westphalia",
+    "wikiEn": "Peace of Westphalia",
+    "aliases": [
+      "奥斯纳布吕克与明斯特和约"
+    ],
+    "year": 1648,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1648年缔结",
+    "era": "renaissance",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "diplomacy",
+      "international_law",
+      "treaty_kadesh"
+    ],
+    "related": [
+      "nation_state",
+      "league_of_nations",
+      "sovereignty_principle",
+      "newspaper"
+    ],
+    "desc": "众多邦国同时签字并互相担保疆界与信仰安排，把停战做成有常使监督的可持续机制。"
+  },
+  {
+    "id": "political_arithmetic",
+    "name": "政治算术",
+    "nameEn": "Political Arithmetic",
+    "wikiEn": "Political arithmetic",
+    "aliases": [
+      "威廉·配第统计方法",
+      "格朗特人口观察"
+    ],
+    "year": 1662,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "格朗特《自然与政治观察》1662年出版",
+    "era": "renaissance",
+    "category": "governance",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "census_system",
+      "domesday_book",
+      "double_entry_bookkeeping"
+    ],
+    "related": [
+      "probability_theory",
+      "kiaer_representative_sampling",
+      "international_statistical_institute",
+      "kuznets_national_income"
+    ],
+    "desc": "仅用死亡率与贸易数字推理国力，把治国从个案禀议转为对总量和趋势的测量。"
+  },
+  {
+    "id": "public_debt_system",
+    "name": "公共国债制度",
+    "nameEn": "Public Debt System",
+    "wikiEn": "Public debt",
+    "aliases": [
+      "国债",
+      "议会担保债务"
+    ],
+    "year": 1693,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "英格兰以议会信用长期借款始于1690年代，取1693",
+    "era": "renaissance",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "joint_stock_company",
+      "tax_farming",
+      "double_entry_bookkeeping",
+      "paper_mill"
+    ],
+    "related": [
+      "bank_of_england",
+      "gold_standard",
+      "taxation_system"
+    ],
+    "desc": "由议会以指定税入担保可转让的长期借款，使国家第一次能按市场利率预支未来税收。"
+  },
+  {
+    "id": "corps_des_ponts",
+    "name": "桥梁公路工程师团",
+    "nameEn": "Corps des Ponts et Chaussées",
+    "wikiEn": "Corps des Ponts et Chaussées",
+    "aliases": [
+      "法国路桥总署",
+      "公共工程官团"
+    ],
+    "year": 1747,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1747年设校并纳入国家工程师序列",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "canal",
+      "roman_roads",
+      "grand_canal"
+    ],
+    "related": [
+      "engineering_education",
+      "public_water_supply",
+      "sewage_treatment",
+      "aqueduct"
+    ],
+    "desc": "国家供养经考试任用的职业工程师统管道路桥闸，公共工程改按图纸与预算而非包工验收。"
+  },
+  {
+    "id": "civil_registration",
+    "name": "民事登记制",
+    "nameEn": "Civil Registration",
+    "wikiEn": "Civil registration",
+    "aliases": [
+      "户籍登记",
+      "人口事件登记"
+    ],
+    "year": 1792,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "法国1792年将出生婚葬改为世俗登记",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "notary_institution",
+      "archive_institution",
+      "census_system"
+    ],
+    "related": [
+      "napoleonic_code",
+      "universal_declaration_human_rights",
+      "social_stratification",
+      "photography"
+    ],
+    "desc": "出生、婚姻与死亡改由世俗官员登记存档，个人身份第一次有了可查询的国家底账。"
+  },
+  {
+    "id": "judicial_review",
+    "name": "司法审查制",
+    "nameEn": "Judicial Review",
+    "wikiEn": "Judicial review",
+    "aliases": [
+      "违宪审查",
+      "马伯里诉麦迪逊"
+    ],
+    "year": 1803,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1803年马伯里案确立美国联邦司法审查",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "constitution_written",
+      "separation_of_powers",
+      "rule_of_law",
+      "movable_type_printing"
+    ],
+    "related": [
+      "common_law",
+      "magna_carta",
+      "ombudsman_institution",
+      "trial_by_jury"
+    ],
+    "desc": "法院可在个案中拒绝适用抵触宪法的立法，使最高规范由普通诉讼而非上层宣言来触发。"
+  },
+  {
+    "id": "ombudsman_institution",
+    "name": "议会监察使",
+    "nameEn": "Ombudsman Institution",
+    "wikiEn": "Ombudsman",
+    "aliases": [
+      "监察使",
+      "行政申诉专员"
+    ],
+    "year": 1809,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "瑞典1809年宪法设正义监察使",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "constitution_written",
+      "censorate",
+      "parliament"
+    ],
+    "related": [
+      "civil_service",
+      "weber_bureaucracy",
+      "judicial_review",
+      "newspaper"
+    ],
+    "desc": "由议会派出独立官员受理对行政的申诉并公开调查，把系统性官僚失误拆成可追责的个案。"
+  },
+  {
+    "id": "abolition_legislation",
+    "name": "废奴立法",
+    "nameEn": "Abolition Legislation",
+    "wikiEn": "Abolitionism",
+    "aliases": [
+      "废奴运动",
+      "奴隶解放法"
+    ],
+    "year": 1833,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "英属殖民地废奴法1833年通过；挂上位词条Abolitionism",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "slavery",
+      "edicts_ashoka",
+      "encomienda_grant",
+      "movable_type_printing"
+    ],
+    "related": [
+      "serfdom",
+      "universal_suffrage",
+      "corvee_labor",
+      "geneva_conventions_1949"
+    ],
+    "desc": "以成文法废止人身所有权并向业主支付补偿，把劳动力从财产改写为受合同法约束的主体。"
+  },
+  {
+    "id": "metropolitan_police",
+    "name": "职业警察制度",
+    "nameEn": "Metropolitan Police",
+    "wikiEn": "Metropolitan Police",
+    "aliases": [
+      "大都会警察",
+      "巡逻警力"
+    ],
+    "year": 1829,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1829年《大都会警察法》",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "civil_registration",
+      "rule_of_law",
+      "parliament"
+    ],
+    "related": [
+      "baojia_mutual_responsibility",
+      "factory_acts_regulation",
+      "judicial_review",
+      "conscription"
+    ],
+    "desc": "以税收供养、着制服分段巡逻的常设警力，使治安从案发缉捕变为可预测的持续在场。"
+  },
+  {
+    "id": "factory_acts_regulation",
+    "name": "工厂法与劳动监察",
+    "nameEn": "Factory Acts",
+    "wikiEn": "Factory Acts",
+    "aliases": [
+      "工厂条例",
+      "劳动监察"
+    ],
+    "year": 1833,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1833年工厂法首次设专职监察员",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "elizabethan_poor_law",
+      "trade_union",
+      "steam_railway"
+    ],
+    "related": [
+      "compulsory_education",
+      "social_insurance",
+      "welfare_state",
+      "metropolitan_police"
+    ],
+    "desc": "限定童工工时并派专员入厂核查账册，国家视察权第一次穿透私人作坊的大门。"
+  },
+  {
+    "id": "secret_ballot",
+    "name": "无记名投票",
+    "nameEn": "Secret Ballot",
+    "wikiEn": "Secret ballot",
+    "aliases": [
+      "秘密投票",
+      "澳洲式投票"
+    ],
+    "year": 1856,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "英1872、澳洲1856年前后推行，取1856",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "parliament",
+      "constitution_written",
+      "magna_carta",
+      "rotary_printing_press"
+    ],
+    "related": [
+      "universal_suffrage",
+      "athenian_democracy",
+      "arrow_impossibility_theorem",
+      "roman_senate"
+    ],
+    "desc": "统一印票、入帘独写、当场封箱，切断贿选与报复所依赖的可见性，使偏好能真实聚合。"
+  },
+  {
+    "id": "red_cross_movement",
+    "name": "红十字运动",
+    "nameEn": "International Red Cross Movement",
+    "wikiEn": "International Red Cross and Red Crescent Movement",
+    "aliases": [
+      "红十字",
+      "中立救护组织"
+    ],
+    "year": 1863,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1863年伤兵救护国际委员会成立",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "quarantine",
+      "waqf_endowment",
+      "canon_law_of_the_church"
+    ],
+    "related": [
+      "geneva_conventions_1949",
+      "welfare_state",
+      "diplomacy",
+      "un_convention_on_the_law_of_the_sea"
+    ],
+    "desc": "以中立标志、志愿救护与常设国际委员会三条规则，把战场伤者从战利品变为受保护对象。"
+  },
+  {
+    "id": "international_telegraph_union",
+    "name": "国际电报联盟",
+    "nameEn": "International Telegraph Union",
+    "wikiEn": "International Telecommunication Union",
+    "aliases": [
+      "国际电报同盟",
+      "ITU前身"
+    ],
+    "year": 1865,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1865年德意志各邦缔约，为最古老的国际技术组织",
+    "era": "industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "telegraph",
+      "optical_telegraph",
+      "submarine_telegraph_cable"
+    ],
+    "related": [
+      "universal_postal_union",
+      "metre_convention",
+      "radio",
+      "world_wide_web_consortium"
+    ],
+    "desc": "各国统一电报费率、线路规则并设常设事务局，第一次为跨国基础设施制定共同技术法规。"
+  },
+  {
+    "id": "universal_postal_union",
+    "name": "万国邮政联盟",
+    "nameEn": "Universal Postal Union",
+    "wikiEn": "Universal Postal Union",
+    "aliases": [
+      "邮政总联盟",
+      "UPU"
+    ],
+    "year": 1874,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1874年伯尔尼条约",
+    "era": "second_industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "postage_stamp",
+      "postal_service",
+      "mongol_yam_relay"
+    ],
+    "related": [
+      "international_telegraph_union",
+      "metre_convention",
+      "silk_road",
+      "internet"
+    ],
+    "desc": "把全球划为单一邮区、统一资费并按重量分配收入，信件无须逐国谈判即可跨境投递。"
+  },
+  {
+    "id": "metre_convention",
+    "name": "米制公约",
+    "nameEn": "Metre Convention",
+    "wikiEn": "Metre Convention",
+    "aliases": [
+      "米突公约",
+      "国际计量局设立条约"
+    ],
+    "year": 1875,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1875年巴黎签署，设国际计量局",
+    "era": "second_industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "metric_system",
+      "unit_of_measurement",
+      "surveying"
+    ],
+    "related": [
+      "whitworth_thread_standard",
+      "industrial_property_convention",
+      "iso_standardization",
+      "standard_time_zones"
+    ],
+    "desc": "缔约国共设国际计量局与基准原器并定期互校，使量值第一次可跨国回溯到同一源头。"
+  },
+  {
+    "id": "standard_time_zones",
+    "name": "标准时区制",
+    "nameEn": "Standard Time Zones",
+    "wikiEn": "Standard time",
+    "aliases": [
+      "时区",
+      "铁路标准时"
+    ],
+    "year": 1883,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "北美铁路1883年统一标准时，1884年国际会议定本初子午线",
+    "era": "second_industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "railway_signalling",
+      "telegraph",
+      "astronomical_clock"
+    ],
+    "related": [
+      "metre_convention",
+      "international_telegraph_union",
+      "telephone",
+      "mongol_yam_relay"
+    ],
+    "desc": "铁路公司同日改用分区标准时并以电报播时，把各地太阳时压成一条可调度的行政时间轴。"
+  },
+  {
+    "id": "industrial_property_convention",
+    "name": "工业产权巴黎公约",
+    "nameEn": "Paris Convention for Industrial Property",
+    "wikiEn": "Paris Convention for the Protection of Industrial Property",
+    "aliases": [
+      "巴黎公约",
+      "专利国际优先权"
+    ],
+    "year": 1883,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1883年缔约，设优先权与国民待遇",
+    "era": "second_industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "patent_system",
+      "whitworth_thread_standard",
+      "metre_convention"
+    ],
+    "related": [
+      "copyright",
+      "creative_commons",
+      "corporate_law",
+      "iso_standardization"
+    ],
+    "desc": "用国民待遇与申请优先期让专利商标跨越国界，发明第一次可在多国同时布局。"
+  },
+  {
+    "id": "international_statistical_institute",
+    "name": "国际统计学会",
+    "nameEn": "International Statistical Institute",
+    "wikiEn": "International Statistical Institute",
+    "aliases": [
+      "ISI",
+      "统计口径协调"
+    ],
+    "year": 1885,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1885年海牙成立",
+    "era": "second_industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "political_arithmetic",
+      "probability_theory",
+      "census_system"
+    ],
+    "related": [
+      "kiaer_representative_sampling",
+      "kuznets_national_income",
+      "pearson_standard_deviation",
+      "standard_time_zones"
+    ],
+    "desc": "各国统计官与学者定期统一口径、分类与表格，使死亡率、物价与产量在国与国之间可比。"
+  },
+  {
+    "id": "league_of_nations",
+    "name": "国际联盟",
+    "nameEn": "League of Nations",
+    "wikiEn": "League of Nations",
+    "aliases": [
+      "国联",
+      "凡尔赛体系"
+    ],
+    "year": 1920,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1920年 Covenant 生效；挂词条League of Nations",
+    "era": "second_industrial",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "treaty_kadesh",
+      "amphictyonic_league",
+      "peace_of_westphalia",
+      "hanseatic_league"
+    ],
+    "related": [
+      "united_nations",
+      "universal_suffrage",
+      "social_insurance",
+      "broadcasting"
+    ],
+    "desc": "设常任秘书处与大会表决程序，并以国际文书托管领土，使协调成为常态行政。"
+  },
+  {
+    "id": "united_nations",
+    "name": "联合国",
+    "nameEn": "United Nations",
+    "wikiEn": "United Nations",
+    "aliases": [
+      "UN",
+      "国际组织宪章体系"
+    ],
+    "year": 1945,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1945年宪章生效",
+    "era": "atomic_electronic",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "league_of_nations",
+      "peace_of_westphalia",
+      "treaty_kadesh",
+      "broadcasting"
+    ],
+    "related": [
+      "universal_declaration_human_rights",
+      "iso_standardization",
+      "un_convention_on_the_law_of_the_sea",
+      "convention_on_refugees_1951"
+    ],
+    "desc": "以多数表决加否决权的机关分工统率常设专门机构，使国际协调有预算与人事连续性。"
+  },
+  {
+    "id": "iso_standardization",
+    "name": "国际标准化组织",
+    "nameEn": "International Organization for Standardization",
+    "wikiEn": "International Organization for Standardization",
+    "aliases": [
+      "ISO",
+      "国际标准协商机制"
+    ],
+    "year": 1947,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1947年成立，挂词条ISO",
+    "era": "atomic_electronic",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "metre_convention",
+      "whitworth_thread_standard",
+      "international_statistical_institute"
+    ],
+    "related": [
+      "matter_standard",
+      "world_wide_web_consortium",
+      "industrial_property_convention"
+    ],
+    "desc": "由各国标准机构一票协商发布自愿规范，使接口与公差在没有强制力的条件下全球趋同。"
+  },
+  {
+    "id": "universal_declaration_human_rights",
+    "name": "世界人权宣言",
+    "nameEn": "Universal Declaration of Human Rights",
+    "wikiEn": "Universal Declaration of Human Rights",
+    "aliases": [
+      "人权宣言",
+      "基本权利清单"
+    ],
+    "year": 1948,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1948年12月联大通过",
+    "era": "atomic_electronic",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "constitution_written",
+      "magna_carta",
+      "united_nations",
+      "news_agency"
+    ],
+    "related": [
+      "geneva_conventions_1949",
+      "roman_citizenship",
+      "abolition_legislation",
+      "civil_registration"
+    ],
+    "desc": "把权利主体直接定为个人并由国际文书宣示，一国内部如何待民从此成为可被评判的对象。"
+  },
+  {
+    "id": "geneva_conventions_1949",
+    "name": "日内瓦四公约",
+    "nameEn": "Geneva Conventions",
+    "wikiEn": "Geneva Conventions",
+    "aliases": [
+      "战时人道法",
+      "保护战俘公约"
+    ],
+    "year": 1949,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1949年修订并扩充为四约",
+    "era": "atomic_electronic",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "red_cross_movement",
+      "international_law",
+      "united_nations"
+    ],
+    "related": [
+      "universal_declaration_human_rights",
+      "slavery",
+      "rome_statute_international_criminal_court",
+      "blood_bank"
+    ],
+    "desc": "为伤者、船难者、战俘与平民分设保护条款并规定追诉义务，使战争成为受监管行为。"
+  },
+  {
+    "id": "convention_on_refugees_1951",
+    "name": "难民地位公约",
+    "nameEn": "Refugee Convention",
+    "wikiEn": "Convention Relating to the Status of Refugees",
+    "aliases": [
+      "难民公约",
+      "不推回原则"
+    ],
+    "year": 1951,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1951年日内瓦公约",
+    "era": "atomic_electronic",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "universal_declaration_human_rights",
+      "civil_registration",
+      "united_nations",
+      "photography"
+    ],
+    "related": [
+      "nation_state",
+      "roman_citizenship",
+      "red_cross_movement",
+      "universal_postal_union"
+    ],
+    "desc": "确立不得遣返受迫害者并发给国际通行证件，使身份不再完全由单一国籍授予。"
+  },
+  {
+    "id": "un_convention_on_the_law_of_the_sea",
+    "name": "联合国海洋法公约",
+    "nameEn": "UN Convention on the Law of the Sea",
+    "wikiEn": "United Nations Convention on the Law of the Sea",
+    "aliases": [
+      "海洋法公约",
+      "专属经济区制度"
+    ],
+    "year": 1982,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1982年蒙特哥贝开放签署",
+    "era": "information",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "united_nations",
+      "international_law",
+      "submarine_telegraph_cable"
+    ],
+    "related": [
+      "gps",
+      "suez_canal",
+      "red_cross_movement",
+      "paris_agreement_climate"
+    ],
+    "desc": "以领海、专属经济区与国际海底分层划权并设法庭，把海洋写成可主张可仲裁的图层。"
+  },
+  {
+    "id": "world_wide_web_consortium",
+    "name": "万维网联盟",
+    "nameEn": "World Wide Web Consortium",
+    "wikiEn": "World Wide Web Consortium",
+    "aliases": [
+      "W3C",
+      "Web标准推荐书"
+    ],
+    "year": 1994,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1994年成立并以推荐书机制发布标准",
+    "era": "information",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "world_wide_web",
+      "internet",
+      "iso_standardization"
+    ],
+    "related": [
+      "http",
+      "matter_standard",
+      "electric_vehicle",
+      "icann"
+    ],
+    "desc": "以专利免费的推荐书统一标记与协议接口，让浏览器互通由一份文档而非厂商协议决定。"
+  },
+  {
+    "id": "rome_statute_international_criminal_court",
+    "name": "国际刑事法院罗马规约",
+    "nameEn": "Rome Statute",
+    "wikiEn": "Rome Statute",
+    "aliases": [
+      "罗马规约",
+      "常设国际刑事法院"
+    ],
+    "year": 1998,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1998年通过，2002年生效",
+    "era": "information",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "geneva_conventions_1949",
+      "universal_declaration_human_rights",
+      "league_of_nations"
+    ],
+    "related": [
+      "trial_by_jury",
+      "common_law",
+      "peace_of_westphalia",
+      "photography"
+    ],
+    "desc": "常设法院以补充管辖直接追诉个人罪责，国家元首身份不再是免于起诉的屏障。"
+  },
+  {
+    "id": "e_government_initiative",
+    "name": "电子政务",
+    "nameEn": "E-government",
+    "wikiEn": "E-government",
+    "aliases": [
+      "在线政务",
+      "政府服务数字化"
+    ],
+    "year": 2003,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "各国2000年前后集中上线，取2003",
+    "era": "intelligent",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "world_wide_web",
+      "internet",
+      "civil_registration"
+    ],
+    "related": [
+      "digital_identity",
+      "smartphone",
+      "health_qr_code",
+      "general_data_protection_regulation"
+    ],
+    "desc": "把申报、许可与支付迁到在线窗口并公开流程，行政从排队盖章变为可计量的工单。"
+  },
+  {
+    "id": "paris_agreement_climate",
+    "name": "巴黎协定",
+    "nameEn": "Paris Agreement",
+    "wikiEn": "Paris Agreement",
+    "aliases": [
+      "气候协定",
+      "国家自主贡献"
+    ],
+    "year": 2015,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2015年通过，2016年生效",
+    "era": "intelligent",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "united_nations",
+      "greenhouse_effect",
+      "tiros_satellite"
+    ],
+    "related": [
+      "un_convention_on_the_law_of_the_sea",
+      "carbon_capture_and_storage",
+      "electricity_generation",
+      "electrical_grid"
+    ],
+    "desc": "各国自报减排贡献并按统一规则定期盘点，把全球公地问题拆成可核查的国家账本。"
+  },
+  {
+    "id": "general_data_protection_regulation",
+    "name": "通用数据保护条例",
+    "nameEn": "General Data Protection Regulation",
+    "wikiEn": "General Data Protection Regulation",
+    "aliases": [
+      "GDPR",
+      "个人数据域外规"
+    ],
+    "year": 2016,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2016年通过、2018年适用",
+    "era": "intelligent",
+    "category": "governance",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "internet",
+      "world_wide_web",
+      "universal_declaration_human_rights"
+    ],
+    "related": [
+      "e_government_initiative",
+      "health_qr_code",
+      "digital_identity",
+      "pgp"
+    ],
+    "desc": "对可识别个人的数据设目的限制、同意与域外效力，违规成本按全球营业额比例计罚。"
+  }
+]

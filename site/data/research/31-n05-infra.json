@@ -1,0 +1,1746 @@
+[
+  {
+    "id": "pit_house",
+    "name": "半地穴房屋",
+    "nameEn": "Pit-house",
+    "wikiEn": "Pit-house",
+    "aliases": [
+      "半地穴式房屋",
+      "穴居"
+    ],
+    "year": -20000,
+    "year_basis": "range_midpoint",
+    "year_span": [
+      -21000,
+      -19000
+    ],
+    "year_note": "以东欧草原洞穴遗址的圆形凹穴屋为代表，碳测年区间取中值",
+    "era": "prehistory",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "woodworking",
+      "rope"
+    ],
+    "related": [
+      "megalith",
+      "masonry"
+    ],
+    "desc": "下挖浅穴立木柱覆顶，以地温御寒，是最早的定型住所。"
+  },
+  {
+    "id": "lime_mortar",
+    "name": "石灰胶结砂浆",
+    "nameEn": "Lime mortar",
+    "wikiEn": "Mortar (masonry)",
+    "aliases": [
+      "砂浆",
+      "石灰浆"
+    ],
+    "year": -7000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "近东与中国新石器时代晚期的石灰砂浆与抹灰遗存，年代取约值",
+    "era": "neolithic",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "masonry",
+      "mudbrick"
+    ],
+    "related": [
+      "ashlar",
+      "fired_brick",
+      "roman_concrete",
+      "concrete"
+    ],
+    "desc": "胶料填砌块缝隙以传力防渗，砌体才成为整体。"
+  },
+  {
+    "id": "dry_stone",
+    "name": "干砌石垒砌",
+    "nameEn": "Dry stone",
+    "wikiEn": "Dry stone",
+    "aliases": [
+      "干垒石",
+      "乱石干砌"
+    ],
+    "year": -4000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "新石器晚期至青铜时代地中海与黄河沿岸的干砌石墙，取约值",
+    "era": "neolithic",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "masonry",
+      "mudbrick"
+    ],
+    "related": [
+      "megalith",
+      "ashlar",
+      "city_wall",
+      "terrace_farming"
+    ],
+    "desc": "石块错缝干垒不用胶料，靠摩擦与自重站稳且易排水。"
+  },
+  {
+    "id": "rammed_earth",
+    "name": "夯土筑墙",
+    "nameEn": "Rammed earth",
+    "wikiEn": "Rammed earth",
+    "aliases": [
+      "板筑",
+      "夯筑"
+    ],
+    "year": -3000,
+    "year_basis": "range_midpoint",
+    "year_span": [
+      -3500,
+      -2500
+    ],
+    "year_note": "中国新石器晚期至青铜早期版筑夯土遗存，区间取中值",
+    "era": "bronze_age",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "mudbrick",
+      "woodworking"
+    ],
+    "related": [
+      "masonry",
+      "city_wall",
+      "great_wall"
+    ],
+    "desc": "分层填土以版筑夯实成墙，可筑高台与城墙。"
+  },
+  {
+    "id": "embankment_dam",
+    "name": "填土坝",
+    "nameEn": "Embankment dam",
+    "wikiEn": "Embankment dam",
+    "aliases": [
+      "土石坝",
+      "填筑坝"
+    ],
+    "year": -2900,
+    "year_basis": "range_midpoint",
+    "year_span": [
+      -3000,
+      -2800
+    ],
+    "year_note": "约旦 Jawa 填土坝的测年区间，学界有分歧，取中值",
+    "era": "bronze_age",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "dam",
+      "pile_foundation"
+    ],
+    "related": [
+      "arch_dam",
+      "three_gorges_dam",
+      "terrace_farming"
+    ],
+    "desc": "土料分层压实成堤，靠自重挡水，对地基变形最宽容。"
+  },
+  {
+    "id": "corbel_arch",
+    "name": "叠涩拱",
+    "nameEn": "Corbel arch",
+    "wikiEn": "Corbel arch",
+    "aliases": [
+      "叠涩顶",
+      "假拱"
+    ],
+    "year": -2500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "两河与埃及早期叠涩墓室与暗渠，取约值",
+    "era": "bronze_age",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "masonry",
+      "ashlar"
+    ],
+    "related": [
+      "arch",
+      "vault_construction",
+      "egyptian_pyramid"
+    ],
+    "desc": "石块逐层内挑合拢成跨，不需拱架，真拱之前的跨顶法。"
+  },
+  {
+    "id": "breakwater",
+    "name": "防波堤",
+    "nameEn": "Breakwater",
+    "wikiEn": "Breakwater (structure)",
+    "aliases": [
+      "防波坝",
+      "消浪堤"
+    ],
+    "year": -1900,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "埃及红海岸港口遗址的砌石防波设施，取约值",
+    "era": "bronze_age",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "masonry",
+      "ashlar",
+      "woodworking"
+    ],
+    "related": [
+      "seawall",
+      "maritime_dock",
+      "dry_dock"
+    ],
+    "desc": "港外筑堤消减浪能，使泊稳水，土石量极大的海事构造。"
+  },
+  {
+    "id": "beam_bridge",
+    "name": "简支梁桥",
+    "nameEn": "Beam bridge",
+    "wikiEn": "Beam bridge",
+    "aliases": [
+      "梁桥",
+      "平桥"
+    ],
+    "year": -1500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "最早的木石梁桥难确考，取文献所记早期年代",
+    "era": "bronze_age",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "timber_framing",
+      "saw",
+      "woodworking"
+    ],
+    "related": [
+      "truss",
+      "arkadiko_bridge",
+      "anji_bridge"
+    ],
+    "desc": "木石横架两岸墩台即成桥，最直接也最限跨。"
+  },
+  {
+    "id": "cyclopean_masonry",
+    "name": "巨石垒砌城防",
+    "nameEn": "Cyclopean masonry",
+    "wikiEn": "Cyclopean masonry",
+    "aliases": [
+      "独目石砌体",
+      "巨石墙"
+    ],
+    "year": -1250,
+    "year_basis": "range_midpoint",
+    "year_span": [
+      -1350,
+      -1150
+    ],
+    "year_note": "迈锡尼山堡城墙的建造期，区间取中值",
+    "era": "bronze_age",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "masonry",
+      "ashlar"
+    ],
+    "related": [
+      "city_wall",
+      "megalith",
+      "arch"
+    ],
+    "desc": "巨砾错缝干垒成壁，靠块体自重抗冲击与攀爬。"
+  },
+  {
+    "id": "floating_bridge",
+    "name": "浮桥",
+    "nameEn": "Floating bridge",
+    "wikiEn": "Pontoon bridge",
+    "aliases": [
+      "Floating bridge",
+      "浮梁",
+      "舟桥"
+    ],
+    "year": -280,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "文献所载战国时期跨渭水浮梁，年代取约值",
+    "era": "antiquity",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "rope",
+      "timber_framing",
+      "woodworking"
+    ],
+    "related": [
+      "simple_suspension_bridge",
+      "grand_canal",
+      "canal_lock"
+    ],
+    "desc": "舟筏并列铺面成桥，可拆装迁移，涨水即解。"
+  },
+  {
+    "id": "gravity_dam",
+    "name": "重力坝",
+    "nameEn": "Gravity dam",
+    "wikiEn": "Gravity dam",
+    "aliases": [
+      "混凝土重力坝"
+    ],
+    "year": 100,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以罗马时期伊比利亚重力坝遗迹为最早确证一类，取约值",
+    "era": "antiquity",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "masonry",
+      "roman_concrete",
+      "arch_dam"
+    ],
+    "related": [
+      "three_gorges_dam",
+      "aqueduct",
+      "dam"
+    ],
+    "desc": "以三角形坝体自重抵抗水推，砌石与混凝土皆宜。"
+  },
+  {
+    "id": "pendentive",
+    "name": "帆拱",
+    "nameEn": "Pendentive",
+    "wikiEn": "Pendentive",
+    "aliases": [
+      "三角穹隅",
+      "穹隅"
+    ],
+    "year": 556,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以弗所与君士坦丁堡早期实例的建成年代，非收建筑本身",
+    "era": "middle_ages",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "dome",
+      "vault_construction",
+      "arch"
+    ],
+    "related": [
+      "gothic_architecture",
+      "column"
+    ],
+    "desc": "球面三角拱承托圆顶，把圆形穹落到方形平面上。"
+  },
+  {
+    "id": "pointed_arch",
+    "name": "尖拱",
+    "nameEn": "Pointed arch",
+    "wikiEn": "Pointed arch",
+    "aliases": [
+      "尖券",
+      "折角拱"
+    ],
+    "year": 800,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "萨珊至早期伊斯兰建筑已见尖券，取约值",
+    "era": "middle_ages",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "arch",
+      "masonry"
+    ],
+    "related": [
+      "gothic_architecture",
+      "anji_bridge",
+      "vault_construction"
+    ],
+    "desc": "两心错开的尖券把推力更竖直下传，跨度与矢高可调。"
+  },
+  {
+    "id": "rib_vault",
+    "name": "肋架拱顶",
+    "nameEn": "Rib vault",
+    "wikiEn": "Rib vault",
+    "aliases": [
+      "十字肋拱",
+      "肋拱"
+    ],
+    "year": 1104,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以最早成片肋拱的教堂拱顶年代为准，取其约值",
+    "era": "middle_ages",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "vault_construction",
+      "arch",
+      "masonry"
+    ],
+    "related": [
+      "gothic_architecture",
+      "dome",
+      "archimedes_statics"
+    ],
+    "desc": "先架石肋成骨架再填轻腹，分跨定型，受力与施工都可控。"
+  },
+  {
+    "id": "flying_buttress",
+    "name": "飞扶壁",
+    "nameEn": "Flying buttress",
+    "wikiEn": "Flying buttress",
+    "aliases": [
+      "扶壁拱",
+      "外链扶壁"
+    ],
+    "year": 1175,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "12 世纪后期巴黎圣母院等工程定型，取约值",
+    "era": "middle_ages",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "gothic_architecture",
+      "arch",
+      "column"
+    ],
+    "related": [
+      "vault_construction",
+      "archimedes_statics",
+      "youngs_modulus"
+    ],
+    "desc": "离墙独立的半拱把高顶侧推传到外墩，墙体可开大窗。"
+  },
+  {
+    "id": "falsework",
+    "name": "拱架临时支撑",
+    "nameEn": "Falsework",
+    "wikiEn": "Falsework",
+    "aliases": [
+      "模板支架",
+      "盔架"
+    ],
+    "year": 1200,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以中世纪石桥与拱顶施工的木支架为据，取约值",
+    "era": "middle_ages",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "timber_framing",
+      "crane",
+      "saw"
+    ],
+    "related": [
+      "arch",
+      "segmental_arch_bridge",
+      "vault_construction"
+    ],
+    "desc": "木架临时托住未合龙的拱与梁，卸架后结构自成承载。"
+  },
+  {
+    "id": "scaffolding",
+    "name": "脚手架",
+    "nameEn": "Scaffolding",
+    "wikiEn": "Scaffolding",
+    "aliases": [
+      "脚手架工程",
+      "把杆架"
+    ],
+    "year": 1250,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "13 世纪欧洲教堂施工图中的插杆式外挑架，取世纪中值",
+    "era": "middle_ages",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "timber_framing",
+      "rope",
+      "woodworking"
+    ],
+    "related": [
+      "crane",
+      "gothic_architecture",
+      "treadwheel_crane"
+    ],
+    "desc": "杆件组合的可拆高空作业面，以拉索与挑梁定高。"
+  },
+  {
+    "id": "building_code",
+    "name": "建筑法规",
+    "nameEn": "Building code",
+    "wikiEn": "Building code",
+    "aliases": [
+      "建筑条例",
+      "营建法典"
+    ],
+    "year": 1667,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "伦敦大火后重建条例强制砖石结构与墙厚，为该制度里程碑",
+    "era": "renaissance",
+    "category": "construction",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "fired_brick",
+      "planned_city",
+      "surveying"
+    ],
+    "related": [
+      "law_code",
+      "code_of_hammurabi",
+      "metric_system"
+    ],
+    "desc": "以法定材料、厚度与间距约束民居防火，城市形态的底线。"
+  },
+  {
+    "id": "euler_bernoulli_beam_theory",
+    "name": "梁弯曲理论",
+    "nameEn": "Euler–Bernoulli beam theory",
+    "wikiEn": "Euler–Bernoulli beam theory",
+    "aliases": [
+      "欧拉梁理论",
+      "经典梁理论"
+    ],
+    "year": 1750,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "欧拉与伯努利家族 18 世纪中叶建立梁弯曲理论，取年代中值",
+    "era": "industrial",
+    "category": "construction",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "calculus",
+      "calculus_of_variations",
+      "newtonian_mechanics"
+    ],
+    "related": [
+      "youngs_modulus",
+      "linear_elasticity_math",
+      "truss",
+      "archimedes_statics"
+    ],
+    "desc": "把梁视为细长线元，用曲率与弯矩关系算挠度和承载。"
+  },
+  {
+    "id": "central_heating_modern",
+    "name": "集中供暖系统",
+    "nameEn": "Central heating",
+    "wikiEn": "Central heating",
+    "aliases": [
+      "暖气系统",
+      "蒸汽供暖"
+    ],
+    "year": 1790,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以 18 世纪末蒸汽盘管供暖的早期工程实践为锚，取约值",
+    "era": "industrial",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "chimney",
+      "hypocaust",
+      "steam_engine"
+    ],
+    "related": [
+      "fourier_law",
+      "gas_works",
+      "yakhchal"
+    ],
+    "desc": "一源多端送热，整栋建筑温度均匀可控且烟与火分离。"
+  },
+  {
+    "id": "buttress_dam",
+    "name": "扶壁坝",
+    "nameEn": "Buttress dam",
+    "wikiEn": "Buttress dam",
+    "aliases": [
+      "支墩坝",
+      "空心坝"
+    ],
+    "year": 1803,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以 19 世纪初南亚殖民工程的早期扶壁坝为据，取约值",
+    "era": "industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "masonry",
+      "arch",
+      "column"
+    ],
+    "related": [
+      "arch_dam",
+      "three_gorges_dam",
+      "aqueduct",
+      "qanat"
+    ],
+    "desc": "上游整面挡水板由下游一排支墩撑住，省料而坝体轻。"
+  },
+  {
+    "id": "truss_bridge",
+    "name": "桁架桥",
+    "nameEn": "Truss bridge",
+    "wikiEn": "Truss bridge",
+    "aliases": [
+      "桁梁桥",
+      "格构桁架桥"
+    ],
+    "year": 1820,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以 1820 年格构桁架桥专利为定型节点",
+    "era": "industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "truss",
+      "timber_framing",
+      "saw"
+    ],
+    "related": [
+      "iron_bridge",
+      "railway_locomotive",
+      "anji_bridge",
+      "arkadiko_bridge"
+    ],
+    "desc": "三角形杆系把桥面弯矩化为杆件拉压，跨径随之大增。"
+  },
+  {
+    "id": "fire_brick",
+    "name": "耐火砖",
+    "nameEn": "Fire brick",
+    "wikiEn": "Fire brick",
+    "aliases": [
+      "耐火材料砌体",
+      "高铝砖"
+    ],
+    "year": 1825,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "硅铝质耐火砖随高温工业炉在 19 世纪前期定型，取年代中值",
+    "era": "industrial",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "fired_brick",
+      "blast_furnace",
+      "iron_smelting"
+    ],
+    "related": [
+      "rotary_kiln",
+      "portland_cement",
+      "open_hearth_furnace",
+      "cementation_process"
+    ],
+    "desc": "高铝硅料成型高温烧成，砌炉衬而不软化坍落。"
+  },
+  {
+    "id": "steam_shovel",
+    "name": "蒸汽铲",
+    "nameEn": "Steam shovel",
+    "wikiEn": "Steam shovel",
+    "aliases": [
+      "蒸汽挖掘机",
+      "机械铲"
+    ],
+    "year": 1836,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以北美早期蒸汽铲专利与铁路土方应用为据，取约值",
+    "era": "industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "steam_engine",
+      "crane",
+      "cast_iron"
+    ],
+    "related": [
+      "suez_canal",
+      "panama_canal",
+      "tunnel_boring_machine",
+      "grand_canal"
+    ],
+    "desc": "蒸汽驱动铲斗挖装土石，把开挖速率放大一个量级。"
+  },
+  {
+    "id": "caisson_foundation",
+    "name": "气压沉箱基础",
+    "nameEn": "Pneumatic caisson",
+    "wikiEn": "Caisson (engineering)",
+    "aliases": [
+      "沉井",
+      "气压沉箱"
+    ],
+    "year": 1839,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "特吕热 1839 年为井下施工引入压缩空气沉箱",
+    "era": "industrial",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "pile_foundation",
+      "force_pump",
+      "steam_engine"
+    ],
+    "related": [
+      "cantilever_bridge",
+      "suspension_bridge",
+      "tunnelling_shield",
+      "dry_dock"
+    ],
+    "desc": "在压缩空气箱内排水开挖，使深水与软土可筑基础。"
+  },
+  {
+    "id": "howe_truss",
+    "name": "豪式桁架",
+    "nameEn": "Howe truss",
+    "wikiEn": "Howe truss",
+    "aliases": [
+      "豪型桁架",
+      "木铁组合桁架"
+    ],
+    "year": 1840,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "豪 1840 年获专利，与 1820 年的格构桁架分属两代",
+    "era": "industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "truss",
+      "timber_framing",
+      "iron_smelting",
+      "saw"
+    ],
+    "related": [
+      "railway_locomotive",
+      "iron_bridge",
+      "bessemer_steel",
+      "anji_bridge"
+    ],
+    "desc": "木杆受压、铁杆受拉并用螺栓张紧，可预制又抗弯。"
+  },
+  {
+    "id": "retaining_wall_design",
+    "name": "挡土墙设计",
+    "nameEn": "Retaining wall",
+    "wikiEn": "Retaining wall",
+    "aliases": [
+      "土压力墙",
+      "护坡墙"
+    ],
+    "year": 1857,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以 19 世纪中叶土压力理论用于墙身定厚的节点为准",
+    "era": "industrial",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "masonry",
+      "newtonian_mechanics",
+      "archimedes_statics"
+    ],
+    "related": [
+      "city_wall",
+      "canal_lock",
+      "land_reclamation",
+      "three_gorges_dam"
+    ],
+    "desc": "以墙身断面与自重抵抗土侧压力，尺寸由计算确定。"
+  },
+  {
+    "id": "district_heating",
+    "name": "区域供热管网",
+    "nameEn": "District heating",
+    "wikiEn": "District heating",
+    "aliases": [
+      "集中供热",
+      "热网"
+    ],
+    "year": 1875,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "法国肖德塞格引温泉供暖一般视为最早区域供热，年代取约值",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "steam_engine",
+      "fourier_law",
+      "gas_works"
+    ],
+    "related": [
+      "natural_gas_distribution",
+      "chimney",
+      "hypocaust",
+      "electricity_generation"
+    ],
+    "desc": "由一厂经管网向全城送热水，把锅炉烟囱移出建筑群。"
+  },
+  {
+    "id": "fire_sprinkler",
+    "name": "闭式自动喷淋",
+    "nameEn": "Fire sprinkler",
+    "wikiEn": "Fire sprinkler",
+    "aliases": [
+      "自动喷水灭火",
+      "喷淋系统"
+    ],
+    "year": 1881,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "焊封易熔闭式喷头于 19 世纪 80 年代专利化，取约值",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "force_pump",
+      "piston_pump",
+      "public_water_supply"
+    ],
+    "related": [
+      "safety_elevator",
+      "cast_iron_building",
+      "sewerage_system"
+    ],
+    "desc": "管网常压配热敏感喷头，起火即就地洒水控火。"
+  },
+  {
+    "id": "water_tower",
+    "name": "高架水塔",
+    "nameEn": "Water tower",
+    "wikiEn": "Water tower",
+    "aliases": [
+      "高位水池",
+      "水塔"
+    ],
+    "year": 1885,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "19 世纪 80 年代水厂普遍采用高位钢水塔稳压，取年代中值",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "public_water_supply",
+      "cast_iron",
+      "masonry"
+    ],
+    "related": [
+      "aqueduct",
+      "sewerage_system",
+      "plumbing",
+      "stepwell"
+    ],
+    "desc": "高位储水以位能稳定管网压力，兼作高峰与事故调蓄。"
+  },
+  {
+    "id": "trickling_filter",
+    "name": "滴滤床污水处理",
+    "nameEn": "Trickling filter",
+    "wikiEn": "Trickling filter",
+    "aliases": [
+      "生物滤池",
+      "洒滤池"
+    ],
+    "year": 1887,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "英国 19 世纪 80 年代碎石滤床试验，取约值",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "public_water_supply",
+      "sewerage_system",
+      "cloaca_maxima"
+    ],
+    "related": [
+      "slow_sand_filter",
+      "sewage_treatment",
+      "water_chlorination",
+      "desalination"
+    ],
+    "desc": "污水喷淋碎石滤床，靠表面生物膜氧化分解有机物。"
+  },
+  {
+    "id": "tuned_mass_damper",
+    "name": "调谐质量阻尼器",
+    "nameEn": "Tuned mass damper",
+    "wikiEn": "Tuned mass damper",
+    "aliases": [
+      "TMD",
+      "质量阻尼器"
+    ],
+    "year": 1909,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "福普尔 1909 年为减振装置申请专利，建筑应用晚至 20 世纪后期",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "steel_frame_construction",
+      "safety_elevator",
+      "skyscraper"
+    ],
+    "related": [
+      "wind_tunnel",
+      "arch",
+      "truss"
+    ],
+    "desc": "顶部大质量块反向摆动，把强风与地震引起的晃动调走。"
+  },
+  {
+    "id": "slip_forming",
+    "name": "滑模施工",
+    "nameEn": "Slip forming",
+    "wikiEn": "Slip forming",
+    "aliases": [
+      "滑升模板",
+      "连续提模"
+    ],
+    "year": 1909,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以 20 世纪初北美滑模筒仓施工记录为据，取约值",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "concrete",
+      "portland_cement",
+      "reinforced_concrete"
+    ],
+    "related": [
+      "crane",
+      "skyscraper",
+      "safety_elevator",
+      "three_gorges_dam"
+    ],
+    "desc": "模板随浇筑连续上滑，筒壁与芯墙不分层留冷缝。"
+  },
+  {
+    "id": "zoning_regulation",
+    "name": "城市分区制",
+    "nameEn": "Zoning",
+    "wikiEn": "Zoning",
+    "aliases": [
+      "用途分区",
+      "土地分区管制"
+    ],
+    "year": 1916,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以 1916 年纽约强制性分区决议为现代制度起点",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "planned_city",
+      "grid_plan",
+      "surveying"
+    ],
+    "related": [
+      "skyscraper",
+      "metric_system",
+      "planned_city"
+    ],
+    "desc": "按用途、容积与退线分区管制地块，塑造天际线与日照。"
+  },
+  {
+    "id": "asphalt_concrete_pavement",
+    "name": "沥青混凝土路面",
+    "nameEn": "Asphalt concrete",
+    "wikiEn": "Asphalt concrete",
+    "aliases": [
+      "沥青砼面层",
+      "热拌沥青"
+    ],
+    "year": 1920,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "热拌沥青面层随公路网在 20 世纪 20 年代普及，取年代中值",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "macadam",
+      "tarmacadam",
+      "bitumen"
+    ],
+    "related": [
+      "motor_truck",
+      "autobahn",
+      "roman_roads"
+    ],
+    "desc": "矿料与热沥青拌和压实成连续柔性面层，平整耐磨。"
+  },
+  {
+    "id": "soil_mechanics",
+    "name": "土力学",
+    "nameEn": "Soil mechanics",
+    "wikiEn": "Soil mechanics",
+    "aliases": [
+      "土壤力学",
+      "有效应力原理"
+    ],
+    "year": 1925,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "太沙基 1925 年出版奠基著作，把土体计算系统化",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "newtonian_mechanics",
+      "archimedes_statics",
+      "archimedes_buoyancy"
+    ],
+    "related": [
+      "pile_foundation",
+      "qanat",
+      "three_gorges_dam",
+      "youngs_modulus"
+    ],
+    "desc": "把土视为三相散体按有效应力计算，沉降与稳定可预测。"
+  },
+  {
+    "id": "concrete_pump",
+    "name": "混凝土泵送施工",
+    "nameEn": "Concrete pump",
+    "wikiEn": "Concrete pump",
+    "aliases": [
+      "泵送混凝土",
+      "混凝土输送泵"
+    ],
+    "year": 1927,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "泵送混凝土管线于 1920 年代在欧洲出现，取年代中值",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "portland_cement",
+      "reinforced_concrete",
+      "force_pump"
+    ],
+    "related": [
+      "crane",
+      "tunnelling_shield",
+      "panama_canal",
+      "three_gorges_dam"
+    ],
+    "desc": "管路压送混凝土到高处与远处，免去吊斗接力浇筑。"
+  },
+  {
+    "id": "moment_distribution_method",
+    "name": "弯矩分配法",
+    "nameEn": "Moment distribution method",
+    "wikiEn": "Moment distribution method",
+    "aliases": [
+      "力矩分配法",
+      "交叉法"
+    ],
+    "year": 1930,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1930 年发表于美国土木工程师学会期刊",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "calculus",
+      "newtonian_mechanics",
+      "linear_elasticity_math"
+    ],
+    "related": [
+      "steel_frame_construction",
+      "skyscraper",
+      "finite_element_method",
+      "archimedes_statics"
+    ],
+    "desc": "逐节点分配不平衡弯矩并迭代逼近，手算刚架内力。"
+  },
+  {
+    "id": "insulated_glazing",
+    "name": "中空玻璃",
+    "nameEn": "Insulated glazing",
+    "wikiEn": "Insulated glazing",
+    "aliases": [
+      "双层玻璃",
+      "中空门窗"
+    ],
+    "year": 1934,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1934 年美国专利并产业化；更早的双层玻璃民俗用法见 19 世纪",
+    "era": "second_industrial",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "plate_glass",
+      "glassmaking",
+      "fourier_law"
+    ],
+    "related": [
+      "air_conditioning",
+      "laminated_glass",
+      "float_glass",
+      "skyscraper"
+    ],
+    "desc": "两玻封边夹干燥空气，传热大减且内表面不再结露。"
+  },
+  {
+    "id": "space_frame",
+    "name": "空间桁架",
+    "nameEn": "Space frame",
+    "wikiEn": "Space frame",
+    "aliases": [
+      "网架结构",
+      "空间杆系"
+    ],
+    "year": 1950,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1950 年前后欧美把双向杆系用于大跨屋盖，取约值",
+    "era": "atomic_electronic",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "truss",
+      "steel_frame_construction",
+      "iron_bridge"
+    ],
+    "related": [
+      "dome",
+      "crane",
+      "skyscraper"
+    ],
+    "desc": "双向杆系连成整体薄壳式屋盖，以轻杆跨越大空间。"
+  },
+  {
+    "id": "curtain_wall",
+    "name": "玻璃幕墙",
+    "nameEn": "Glass curtain wall",
+    "wikiEn": "Curtain wall (architecture)",
+    "aliases": [
+      "悬挂外墙",
+      "幕墙体系"
+    ],
+    "year": 1952,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以 1952 年首例金属框玻璃幕墙高层为定型节点，非收该建筑",
+    "era": "atomic_electronic",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "steel_frame_construction",
+      "plate_glass",
+      "glassmaking"
+    ],
+    "related": [
+      "skyscraper",
+      "cast_iron_building",
+      "safety_elevator",
+      "laminated_glass"
+    ],
+    "desc": "外墙只挂自重，荷载全归框架，界面连续而透光。"
+  },
+  {
+    "id": "geodesic_dome",
+    "name": "测地线穹顶",
+    "nameEn": "Geodesic dome",
+    "wikiEn": "Geodesic dome",
+    "aliases": [
+      "短程线穹顶",
+      "球形网架"
+    ],
+    "year": 1954,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "富勒 1954 年获该项结构专利",
+    "era": "atomic_electronic",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "dome",
+      "concrete",
+      "steel_frame_construction"
+    ],
+    "related": [
+      "truss",
+      "vault_construction",
+      "archimedes_statics"
+    ],
+    "desc": "把球面剖为三角杆件拼装，用料极省而跨度极大。"
+  },
+  {
+    "id": "limit_state_design",
+    "name": "极限状态设计法",
+    "nameEn": "Limit state design",
+    "wikiEn": "Limit state design",
+    "aliases": [
+      "分项系数设计法",
+      "半概率设计法"
+    ],
+    "year": 1955,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1955 年苏联规范首用极限状态，此后为各国规范采纳",
+    "era": "atomic_electronic",
+    "category": "construction",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "reinforced_concrete",
+      "prestressed_concrete",
+      "linear_elasticity_math"
+    ],
+    "related": [
+      "probability_theory",
+      "kolmogorov_probability_axioms",
+      "skyscraper",
+      "three_gorges_dam"
+    ],
+    "desc": "按荷载与抗力的概率分项系数校核承载与正常使用极限。"
+  },
+  {
+    "id": "lift_slab_construction",
+    "name": "升板法施工",
+    "nameEn": "Lift slab construction",
+    "wikiEn": "Lift slab construction",
+    "aliases": [
+      "提升板法",
+      "无梁楼盖提升"
+    ],
+    "year": 1955,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "该工艺在 1950 年代于北美定型并推广，取年代中值",
+    "era": "atomic_electronic",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "reinforced_concrete",
+      "prestressed_concrete",
+      "force_pump"
+    ],
+    "related": [
+      "prefabrication",
+      "crane",
+      "skyscraper"
+    ],
+    "desc": "楼板就地叠浇后用千斤顶整体提升就位，省大量支架。"
+  },
+  {
+    "id": "new_austrian_tunneling_method",
+    "name": "新奥法隧道",
+    "nameEn": "New Austrian tunnelling method",
+    "wikiEn": "New Austrian tunneling method",
+    "aliases": [
+      "钻爆喷锚法",
+      "岩石承载法"
+    ],
+    "year": 1958,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1950 年代后期由奥地利学者系统化并命名，取约值",
+    "era": "atomic_electronic",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "dynamite",
+      "reinforced_concrete",
+      "tunnelling_shield",
+      "surveying"
+    ],
+    "related": [
+      "tunnel_boring_machine",
+      "channel_tunnel",
+      "arch"
+    ],
+    "desc": "让围岩自身参与承载，随挖随喷锚并以量测控制收敛。"
+  },
+  {
+    "id": "tube_structure",
+    "name": "筒体结构",
+    "nameEn": "Tubular structural system",
+    "wikiEn": "Tube (structure)",
+    "aliases": [
+      "框筒体系",
+      "束筒"
+    ],
+    "year": 1963,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1960 年代初密柱深梁外筒用于高层，取约值",
+    "era": "atomic_electronic",
+    "category": "construction",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "steel_frame_construction",
+      "linear_elasticity_math",
+      "bessemer_steel"
+    ],
+    "related": [
+      "skyscraper",
+      "safety_elevator",
+      "concrete",
+      "wind_tunnel"
+    ],
+    "desc": "密柱深梁外筒与内芯共同抗侧向力，把高层推向三百米。"
+  },
+  {
+    "id": "superplasticizer",
+    "name": "高效减水剂",
+    "nameEn": "Superplasticizer",
+    "wikiEn": "Superplasticizer",
+    "aliases": [
+      "分散剂",
+      "高效塑化剂"
+    ],
+    "year": 1965,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "1960 年代日德先后推出萘系与三聚氰胺系产品，取年代中值",
+    "era": "atomic_electronic",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "portland_cement",
+      "concrete",
+      "reinforced_concrete"
+    ],
+    "related": [
+      "prestressed_concrete",
+      "fiberglass",
+      "polyurethane",
+      "recycling"
+    ],
+    "desc": "微量掺入即可大幅减水，强度与流动性同时提高。"
+  },
+  {
+    "id": "seismic_base_isolation",
+    "name": "建筑隔震",
+    "nameEn": "Seismic base isolation",
+    "wikiEn": "Seismic base isolation",
+    "aliases": [
+      "基础隔震",
+      "层隔震"
+    ],
+    "year": 1965,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "1960 年代美日将隔震装置用于建筑与核设施，取年代中值",
+    "era": "atomic_electronic",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "reinforced_concrete",
+      "newtonian_mechanics",
+      "pile_foundation"
+    ],
+    "related": [
+      "wind_tunnel",
+      "skyscraper",
+      "three_gorges_dam"
+    ],
+    "desc": "在基础与上部之间置柔性层，滤掉地震加速度大半。"
+  },
+  {
+    "id": "tensile_structure",
+    "name": "张拉膜结构",
+    "nameEn": "Tensile structure",
+    "wikiEn": "Tensile structure",
+    "aliases": [
+      "索膜结构",
+      "张拉整体"
+    ],
+    "year": 1967,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1960 年代后期以预张力索与膜成型的大跨屋盖确立，取约值",
+    "era": "atomic_electronic",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "prestressed_concrete",
+      "polyester_fiber",
+      "cable_stayed_bridge"
+    ],
+    "related": [
+      "simple_suspension_bridge",
+      "rope",
+      "truss"
+    ],
+    "desc": "以索与膜的预张力成形，只受压稳不受弯，屋面轻到极限。"
+  },
+  {
+    "id": "dynamic_compaction",
+    "name": "动力固结法",
+    "nameEn": "Dynamic compaction",
+    "wikiEn": "Dynamic compaction",
+    "aliases": [
+      "强夯法",
+      "重锤夯实地基"
+    ],
+    "year": 1970,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "法国 1960 年代末提出、1970 年前后工程化，取约值",
+    "era": "information",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "pile_foundation",
+      "crane",
+      "dynamite"
+    ],
+    "related": [
+      "qanat",
+      "three_gorges_dam",
+      "land_reclamation",
+      "aqueduct"
+    ],
+    "desc": "重锤自高处反复夯击地基，使松土致密并提高承载力。"
+  },
+  {
+    "id": "green_roof",
+    "name": "种植屋面",
+    "nameEn": "Green roof",
+    "wikiEn": "Green roof",
+    "aliases": [
+      "屋顶绿化",
+      "植被屋面"
+    ],
+    "year": 1970,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1960 年代末起德国把种植屋面做法标准化，取约值",
+    "era": "information",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "bitumen",
+      "concrete",
+      "masonry"
+    ],
+    "related": [
+      "hypocaust",
+      "yakhchal",
+      "dome"
+    ],
+    "desc": "屋面覆土植栽并设隔根排水层，削减径流又降低室温。"
+  },
+  {
+    "id": "retractable_roof",
+    "name": "可开启屋盖",
+    "nameEn": "Retractable roof",
+    "wikiEn": "Retractable roof",
+    "aliases": [
+      "开合屋盖",
+      "移动屋面"
+    ],
+    "year": 1971,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1970 年代初北美大场馆首用推拉开合屋盖，取约值",
+    "era": "information",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "steel_frame_construction",
+      "crane",
+      "suspension_bridge"
+    ],
+    "related": [
+      "bessemer_steel",
+      "dome",
+      "vault_construction"
+    ],
+    "desc": "屋盖沿轨道推拉开合，大跨度场馆可随天气切换形态。"
+  },
+  {
+    "id": "microtunneling",
+    "name": "机械顶管",
+    "nameEn": "Microtunneling",
+    "wikiEn": "Microtunneling",
+    "aliases": [
+      "遥控顶管",
+      "微型盾构"
+    ],
+    "year": 1975,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "遥控掘进头与顶进系统在 1970 年代日德定型，取年代中值",
+    "era": "information",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "tunnel_boring_machine",
+      "aqueduct",
+      "force_pump"
+    ],
+    "related": [
+      "public_water_supply",
+      "sewage_treatment",
+      "canal_lock"
+    ],
+    "desc": "遥控掘进头边挖边顶管，不开槽即可铺市政管线。"
+  },
+  {
+    "id": "building_information_modeling",
+    "name": "建筑信息模型",
+    "nameEn": "Building information modeling",
+    "wikiEn": "Building information modeling",
+    "aliases": [
+      "BIM",
+      "建筑信息建模"
+    ],
+    "year": 1975,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "1970 年代建筑描述系统为其源头，取年代中值；2000 年后成为标准",
+    "era": "information",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "electronic_computer",
+      "numerical_control",
+      "software_engineering",
+      "finite_element_method"
+    ],
+    "related": [
+      "internet",
+      "cross_laminated_timber",
+      "metric_system",
+      "three_gorges_dam"
+    ],
+    "desc": "把几何、构件与工程量并入同一模型，各方共用并可追溯。"
+  },
+  {
+    "id": "self_consolidating_concrete",
+    "name": "自密实混凝土",
+    "nameEn": "Self-consolidating concrete",
+    "wikiEn": "Self-consolidating concrete",
+    "aliases": [
+      "自充填混凝土",
+      "SCC"
+    ],
+    "year": 1986,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "日本 1980 年代后期为免振捣密配筋构件研发，取约值",
+    "era": "information",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "portland_cement",
+      "concrete",
+      "reinforced_concrete"
+    ],
+    "related": [
+      "prestressed_concrete",
+      "recycling",
+      "three_gorges_dam"
+    ],
+    "desc": "高流动而不自离析，靠自重填满密筋模板免振捣。"
+  },
+  {
+    "id": "passive_house_standard",
+    "name": "低能耗被动房标准",
+    "nameEn": "Passive house",
+    "wikiEn": "Passive house",
+    "aliases": [
+      "被动式房屋",
+      "低能耗建筑标准"
+    ],
+    "year": 1991,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1991 年首个按该能耗指标建成并实测的示范住宅",
+    "era": "information",
+    "category": "construction",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "air_conditioning",
+      "fourier_law",
+      "plate_glass"
+    ],
+    "related": [
+      "yakhchal",
+      "windcatcher",
+      "chimney",
+      "hypocaust"
+    ],
+    "desc": "以高气密、厚保温与排风热回收把采暖需求压到极低。"
+  },
+  {
+    "id": "extradosed_bridge",
+    "name": "矮塔斜拉桥",
+    "nameEn": "Extradosed bridge",
+    "wikiEn": "Extradosed bridge",
+    "aliases": [
+      "部分斜拉桥",
+      "低塔斜拉桥"
+    ],
+    "year": 1992,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1990 年代初欧洲与日本建成首批该体系桥，取约值",
+    "era": "information",
+    "category": "construction",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cable_stayed_bridge",
+      "reinforced_concrete",
+      "bessemer_steel"
+    ],
+    "related": [
+      "suspension_bridge",
+      "cantilever_bridge",
+      "arch",
+      "crane"
+    ],
+    "desc": "低塔外置索与连续梁共同受力，填补中等跨径空档。"
+  },
+  {
+    "id": "contour_crafting",
+    "name": "轮廓建造",
+    "nameEn": "Contour crafting",
+    "wikiEn": "Contour crafting",
+    "aliases": [
+      "建筑 3D 打印",
+      "挤出成型建造"
+    ],
+    "year": 2005,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "21 世纪初该工艺方案成形，取年代中值",
+    "era": "intelligent",
+    "category": "construction",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "additive_manufacturing",
+      "numerical_control",
+      "concrete",
+      "reinforced_concrete"
+    ],
+    "related": [
+      "prefabrication",
+      "industrial_robot",
+      "cross_laminated_timber"
+    ],
+    "desc": "喷嘴按层堆叠墙体成形，把模板与大部分人力撤出工地。"
+  },
+  {
+    "id": "parametric_design",
+    "name": "参数化设计",
+    "nameEn": "Parametric design",
+    "wikiEn": "Parametric design",
+    "aliases": [
+      "参数化主义",
+      "算法形体生成"
+    ],
+    "year": 2008,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2008 年被理论化为建筑范式，其数字方法始于 1990 年代",
+    "era": "intelligent",
+    "category": "construction",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "numerical_control",
+      "computational_geometry",
+      "internet"
+    ],
+    "related": [
+      "additive_manufacturing",
+      "cross_laminated_timber",
+      "skyscraper",
+      "steel_frame_construction"
+    ],
+    "desc": "以参数与规则驱动形体，改一处即重算整套几何与下料。"
+  }
+]

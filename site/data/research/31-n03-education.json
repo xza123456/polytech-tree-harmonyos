@@ -1,0 +1,969 @@
+[
+  {
+    "id": "socratic_method",
+    "name": "苏格拉底问答法",
+    "nameEn": "Socratic method",
+    "wikiEn": "Socratic method",
+    "aliases": [
+      "产婆术",
+      "Elenchus"
+    ],
+    "year": -400,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "公元前五世纪末柏拉图所记对话",
+    "era": "antiquity",
+    "category": "education_knowledge",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "oral_tradition"
+    ],
+    "related": [
+      "platonics_academy"
+    ],
+    "desc": "以连环诘难引人自知的对话教学法，西方思辨训练之源"
+  },
+  {
+    "id": "lyceum_athens",
+    "name": "吕克昂学园",
+    "nameEn": "Lyceum",
+    "wikiEn": "Lyceum (classical)",
+    "aliases": [
+      "亚里士多德学园",
+      "逍遥学派"
+    ],
+    "year": -335,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "亚里士多德约前335年建校",
+    "era": "antiquity",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "platonics_academy"
+    ],
+    "related": [
+      "library_alexandria"
+    ],
+    "desc": "亚里士多德在雅典创办的讲学园，分科研究的摇篮"
+  },
+  {
+    "id": "jixia_academy",
+    "name": "稷下学宫",
+    "nameEn": "Jixia Academy",
+    "wikiEn": "Jixia Academy",
+    "aliases": [
+      "稷下"
+    ],
+    "year": -350,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "战国齐威宣王时期，约前四世纪",
+    "era": "antiquity",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "oral_tradition"
+    ],
+    "related": [
+      "platonics_academy"
+    ],
+    "desc": "战国齐都养士讲学的官办学宫，百家争鸣的制度温床"
+  },
+  {
+    "id": "gurukula",
+    "name": "林住师承制",
+    "nameEn": "Gurukula",
+    "wikiEn": "Gurukula",
+    "aliases": [
+      "古鲁库拉",
+      "师徒住读制"
+    ],
+    "year": -500,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "吠陀时代成型，年代存争议",
+    "era": "antiquity",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "oral_tradition"
+    ],
+    "related": [
+      "apprenticeship"
+    ],
+    "desc": "古印度弟子寄居师家口耳相传经典的住读教育"
+  },
+  {
+    "id": "institutio_oratoria",
+    "name": "雄辩家教育原理",
+    "nameEn": "Institutio Oratoria",
+    "wikiEn": "Institutio Oratoria",
+    "aliases": [
+      "昆体良《雄辩术原理》"
+    ],
+    "year": 95,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "昆体良约公元95年成书",
+    "era": "antiquity",
+    "category": "education_knowledge",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "latin_grammar"
+    ],
+    "related": [
+      "trivium"
+    ],
+    "desc": "昆体良总结罗马修辞训练的教本，西方课程论先驱"
+  },
+  {
+    "id": "taixue_han",
+    "name": "太学",
+    "nameEn": "Taixue",
+    "wikiEn": "Taixue",
+    "aliases": [
+      "汉代太学"
+    ],
+    "year": -124,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "汉武帝元朔五年立",
+    "era": "antiquity",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "jixia_academy"
+    ],
+    "related": [
+      "guozijian",
+      "imperial_examination"
+    ],
+    "desc": "汉武帝设五经博士置弟子的中央官学，儒学入仕开端"
+  },
+  {
+    "id": "trivium",
+    "name": "三艺课纲",
+    "nameEn": "Trivium",
+    "wikiEn": "Trivium",
+    "aliases": [
+      "文法修辞辩证法",
+      "七艺上半"
+    ],
+    "year": 530,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "卡西奥多鲁斯《制度》体系化",
+    "era": "middle_ages",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "institutio_oratoria"
+    ],
+    "related": [
+      "cathedral_school",
+      "medieval_university"
+    ],
+    "desc": "文法修辞逻辑构成的基础课纲，中世纪七艺之上半"
+  },
+  {
+    "id": "nalanda",
+    "name": "那烂陀僧院学府",
+    "nameEn": "Nalanda",
+    "wikiEn": "Nalanda mahavihara",
+    "aliases": [
+      "那烂陀寺",
+      "摩诃毗诃罗"
+    ],
+    "year": 427,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "笈多王朝时期创建，年代有争议",
+    "era": "antiquity",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "gurukula"
+    ],
+    "related": [
+      "madrasa"
+    ],
+    "desc": "印度僧院兼讲学的佛教学府，住读与辩论制度完备"
+  },
+  {
+    "id": "academy_chinese",
+    "name": "书院",
+    "nameEn": "Academy",
+    "wikiEn": "Academies of Classical Learning",
+    "aliases": [
+      "书院讲学",
+      "精舍"
+    ],
+    "year": 976,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "岳麓书院约建于北宋开宝九年",
+    "era": "middle_ages",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "taixue_han"
+    ],
+    "related": [
+      "guozijian",
+      "medieval_university"
+    ],
+    "desc": "民间聚徒讲学的书院，自成学规与会讲辨难之制"
+  },
+  {
+    "id": "disputation",
+    "name": "经院辩难",
+    "nameEn": "Disputation",
+    "wikiEn": "Disputation",
+    "aliases": [
+      "论辩术",
+      "答辩制前身"
+    ],
+    "year": 1250,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "十三世纪经院方法成熟",
+    "era": "middle_ages",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "medieval_university"
+    ],
+    "related": [
+      "academic_degree",
+      "scientific_method"
+    ],
+    "desc": "以正反论辩授业考课的讲学程序，答辩制之先声"
+  },
+  {
+    "id": "collegiate_university",
+    "name": "学院制大学",
+    "nameEn": "Collegiate university",
+    "wikiEn": "Collegiate university",
+    "aliases": [
+      "书院制",
+      "牛津剑桥学院"
+    ],
+    "year": 1300,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "十三世纪末学院制成型",
+    "era": "middle_ages",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "medieval_university"
+    ],
+    "related": [
+      "academic_degree"
+    ],
+    "desc": "食宿教学合一的书院式大学单元，牛剑之骨干"
+  },
+  {
+    "id": "studia_humanitatis",
+    "name": "人文学科课程",
+    "nameEn": "Studia humanitatis",
+    "wikiEn": "Studia Humanitatis",
+    "aliases": [
+      "人文学",
+      "人文教育"
+    ],
+    "year": 1400,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "十四世纪意大利人文主义兴起",
+    "era": "renaissance",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "trivium"
+    ],
+    "related": [
+      "gymnasium_school",
+      "medieval_university"
+    ],
+    "desc": "文艺复兴以语法诗文史与道德哲学为核心的课纲"
+  },
+  {
+    "id": "gymnasium_school",
+    "name": "文科中学",
+    "nameEn": "Gymnasium",
+    "wikiEn": "Gymnasium (school)",
+    "aliases": [
+      "拉丁学校",
+      "人文中学"
+    ],
+    "year": 1538,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "施特谟斯1538年创办斯特拉斯堡文科中学",
+    "era": "renaissance",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "medieval_university"
+    ],
+    "related": [
+      "ratio_studiorum",
+      "compulsory_education"
+    ],
+    "desc": "施特谟斯办拉丁人文课程分级授课的近代中学原型"
+  },
+  {
+    "id": "ratio_studiorum",
+    "name": "耶稣会教学计划",
+    "nameEn": "Ratio Studiorum",
+    "wikiEn": "Ratio Studiorum",
+    "aliases": [
+      "《学习计划》"
+    ],
+    "year": 1599,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1599年正式颁行",
+    "era": "renaissance",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "medieval_university",
+      "trivium"
+    ],
+    "related": [
+      "gymnasium_school",
+      "semester_system"
+    ],
+    "desc": "耶稣会统一课程分年分班的办学章程，班级授课范本"
+  },
+  {
+    "id": "didactica_magna",
+    "name": "大教学论",
+    "nameEn": "Didactica Magna",
+    "wikiEn": "Great Didactic",
+    "aliases": [
+      "夸美纽斯《大教学论》",
+      "班级授课制理论"
+    ],
+    "year": 1632,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "成稿年代约1627至1632",
+    "era": "renaissance",
+    "category": "education_knowledge",
+    "kind": "原理",
+    "importance": 1,
+    "prereqs": [
+      "ratio_studiorum",
+      "movable_type_printing"
+    ],
+    "related": [
+      "new_england_primer",
+      "normal_school"
+    ],
+    "desc": "夸美纽斯主张循自然分级班级授课的教育学奠基作"
+  },
+  {
+    "id": "new_england_primer",
+    "name": "新英格兰启蒙读本",
+    "nameEn": "The New England Primer",
+    "wikiEn": "The New England Primer",
+    "aliases": [
+      "新英格兰primer"
+    ],
+    "year": 1642,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "约1642年刊行",
+    "era": "renaissance",
+    "category": "education_knowledge",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "movable_type_printing",
+      "didactica_magna"
+    ],
+    "related": [
+      "encyclopedia",
+      "literacy"
+    ],
+    "desc": "北美广泛使用的启蒙识字课本，标准教科书早期范本"
+  },
+  {
+    "id": "peer_review",
+    "name": "同行评议制度",
+    "nameEn": "Peer review",
+    "wikiEn": "Peer review",
+    "aliases": [
+      "审稿制",
+      "评审制"
+    ],
+    "year": 1752,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "《哲学会刊》1752年起委专家审稿",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "scientific_journal",
+      "scientific_academies"
+    ],
+    "related": [
+      "encyclopedia"
+    ],
+    "desc": "期刊请专家审定论文取舍的把关制度，知识公信之基"
+  },
+  {
+    "id": "british_museum_public",
+    "name": "公共博物馆",
+    "nameEn": "Public museum",
+    "wikiEn": "British Museum",
+    "aliases": [
+      "不列颠博物馆",
+      "国家藏馆"
+    ],
+    "year": 1759,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1759年向公众开放",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "encyclopedia",
+      "library"
+    ],
+    "related": [
+      "public_library",
+      "royal_institution"
+    ],
+    "desc": "面向公众开放的国家藏馆，实物陈列兼具教化功能"
+  },
+  {
+    "id": "royal_institution",
+    "name": "皇家科学讲座机构",
+    "nameEn": "Royal Institution",
+    "wikiEn": "Royal Institution",
+    "aliases": [
+      "英国皇家研究院",
+      "圣诞讲座"
+    ],
+    "year": 1799,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1799年创立",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "scientific_academies"
+    ],
+    "related": [
+      "scientific_journal",
+      "laboratory"
+    ],
+    "desc": "以公开讲座与圣诞讲习向大众普及科学的伦敦机构"
+  },
+  {
+    "id": "mechanics_institute",
+    "name": "机械讲习所",
+    "nameEn": "Mechanics institute",
+    "wikiEn": "Mechanics' institute",
+    "aliases": [
+      "技工讲习所",
+      "工人夜校"
+    ],
+    "year": 1799,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1799年格拉斯哥首创",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "apprenticeship",
+      "scientific_academies"
+    ],
+    "related": [
+      "vocational_education",
+      "royal_institution"
+    ],
+    "desc": "为技工开设科学技艺讲座的成人夜校，工人教育之始"
+  },
+  {
+    "id": "monitorial_system",
+    "name": "导生制教学",
+    "nameEn": "Monitorial system",
+    "wikiEn": "Monitorial system",
+    "aliases": [
+      "贝尔兰开斯特制",
+      "互教制度"
+    ],
+    "year": 1800,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "约1800年兰开斯特推行",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "compulsory_education",
+      "didactica_magna"
+    ],
+    "related": [
+      "common_school",
+      "kindergarten"
+    ],
+    "desc": "高年级生助教批量授课的廉价学制，大班教学之先声"
+  },
+  {
+    "id": "research_university",
+    "name": "研究型大学",
+    "nameEn": "Research university",
+    "wikiEn": "Research university",
+    "aliases": [
+      "洪堡式大学",
+      "教学科研一体"
+    ],
+    "year": 1810,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1810年柏林大学创建",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "medieval_university",
+      "scientific_method"
+    ],
+    "related": [
+      "laboratory",
+      "academic_degree"
+    ],
+    "desc": "洪堡式教学与科研并重的大学，现代博士养成的制度"
+  },
+  {
+    "id": "kindergarten",
+    "name": "幼儿园",
+    "nameEn": "Kindergarten",
+    "wikiEn": "Kindergarten",
+    "aliases": [
+      "幼儿学校",
+      "福禄贝尔幼儿园"
+    ],
+    "year": 1837,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1837年福禄贝尔创办",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "didactica_magna",
+      "compulsory_education"
+    ],
+    "related": [
+      "montessori_education",
+      "progressive_education"
+    ],
+    "desc": "福禄贝尔以游戏与活动培育幼儿的首所学前教育机构"
+  },
+  {
+    "id": "distance_education",
+    "name": "函授教育",
+    "nameEn": "Distance education",
+    "wikiEn": "Distance education",
+    "aliases": [
+      "通信教育",
+      "远程教育"
+    ],
+    "year": 1840,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "皮特曼约1840年前后开办速记函授",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "movable_type_printing",
+      "postal_service"
+    ],
+    "related": [
+      "newspaper",
+      "open_university"
+    ],
+    "desc": "借邮政寄送讲义自学的远程教学，远程教育之起源"
+  },
+  {
+    "id": "common_school",
+    "name": "公立初等学校",
+    "nameEn": "Common school",
+    "wikiEn": "Common school",
+    "aliases": [
+      "公共学校运动",
+      "曼恩改革"
+    ],
+    "year": 1852,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1852年马萨诸塞州义务教育法",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "monitorial_system",
+      "compulsory_education"
+    ],
+    "related": [
+      "normal_school",
+      "literacy"
+    ],
+    "desc": "美国以税收兴办面向全体儿童的免费初等公立学校"
+  },
+  {
+    "id": "higher_education_for_women",
+    "name": "女子高等教育",
+    "nameEn": "Higher education for women",
+    "wikiEn": "Female education",
+    "aliases": [
+      "女子学院",
+      "女性大学教育"
+    ],
+    "year": 1869,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1869年剑桥格顿学院成立",
+    "era": "industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "research_university",
+      "medieval_university"
+    ],
+    "related": [
+      "compulsory_education",
+      "literacy"
+    ],
+    "desc": "格顿等女子学院开启女性入读与授学位的高等教育"
+  },
+  {
+    "id": "dewey_decimal",
+    "name": "十进图书分类法",
+    "nameEn": "Dewey Decimal Classification",
+    "wikiEn": "Dewey Decimal Classification",
+    "aliases": [
+      "杜威十进分类",
+      "DDC"
+    ],
+    "year": 1876,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1876年首次出版",
+    "era": "second_industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "public_library",
+      "library"
+    ],
+    "related": [
+      "oxford_english_dictionary",
+      "encyclopedia"
+    ],
+    "desc": "以十进数字统分人类知识的图书馆编目体系"
+  },
+  {
+    "id": "educational_psychology",
+    "name": "教育心理学",
+    "nameEn": "Educational psychology",
+    "wikiEn": "Educational psychology",
+    "aliases": [
+      "学习心理学"
+    ],
+    "year": 1903,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "桑代克1903年出版《教育心理学》",
+    "era": "second_industrial",
+    "category": "education_knowledge",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "wundt_experimental_psychology"
+    ],
+    "related": [
+      "standardized_test",
+      "progressive_education"
+    ],
+    "desc": "以实验研究学习与儿童心理来指导教学的学科"
+  },
+  {
+    "id": "progressive_education",
+    "name": "进步主义教育",
+    "nameEn": "Progressive education",
+    "wikiEn": "Progressive education",
+    "aliases": [
+      "杜威教育思想",
+      "从做中学"
+    ],
+    "year": 1902,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "杜威1896年实验学校，1902年体系化",
+    "era": "second_industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "kindergarten",
+      "research_university"
+    ],
+    "related": [
+      "common_school",
+      "educational_psychology"
+    ],
+    "desc": "杜威主张从做中学、以儿童经验为中心的教育改革"
+  },
+  {
+    "id": "montessori_education",
+    "name": "蒙特梭利教学法",
+    "nameEn": "Montessori education",
+    "wikiEn": "Montessori education",
+    "aliases": [
+      "蒙氏教育",
+      "幼儿之家"
+    ],
+    "year": 1907,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1907年罗马幼儿之家创办",
+    "era": "second_industrial",
+    "category": "education_knowledge",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "kindergarten"
+    ],
+    "related": [
+      "educational_psychology",
+      "progressive_education"
+    ],
+    "desc": "让儿童以教具自主操作的感官教学法，始于罗马"
+  },
+  {
+    "id": "standardized_test",
+    "name": "标准化测验",
+    "nameEn": "Standardized test",
+    "wikiEn": "Standardized test",
+    "aliases": [
+      "智力测验",
+      "常模参照测试"
+    ],
+    "year": 1905,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "比奈量表1905年，测验方法随后普及",
+    "era": "second_industrial",
+    "category": "education_knowledge",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "educational_psychology",
+      "literacy"
+    ],
+    "related": [
+      "imperial_examination",
+      "disputation"
+    ],
+    "desc": "以统一题目与常模量化比较学业水平的测评手段"
+  },
+  {
+    "id": "likbez",
+    "name": "苏维埃扫盲运动",
+    "nameEn": "Likbez",
+    "wikiEn": "Likbez",
+    "aliases": [
+      "扫盲运动",
+      "消灭文盲"
+    ],
+    "year": 1919,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1919年苏俄扫盲法令",
+    "era": "second_industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "compulsory_education",
+      "literacy"
+    ],
+    "related": [
+      "adult_education",
+      "common_school"
+    ],
+    "desc": "苏俄大规模消灭文盲的国家识字运动与短训体系"
+  },
+  {
+    "id": "adult_education",
+    "name": "成人教育",
+    "nameEn": "Adult education",
+    "wikiEn": "Adult education",
+    "aliases": [
+      "继续教育",
+      "社会教育"
+    ],
+    "year": 1920,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "1920年代作为独立领域确立",
+    "era": "second_industrial",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "mechanics_institute",
+      "literacy"
+    ],
+    "related": [
+      "open_university",
+      "likbez"
+    ],
+    "desc": "面向已就业成年人延续学校教育的制度化教学领域"
+  },
+  {
+    "id": "open_university",
+    "name": "开放大学",
+    "nameEn": "Open University",
+    "wikiEn": "Open University",
+    "aliases": [
+      "英国开放大学",
+      "广播电视大学"
+    ],
+    "year": 1969,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1969年获特许状创立",
+    "era": "atomic_electronic",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "distance_education",
+      "radio"
+    ],
+    "related": [
+      "mooc",
+      "adult_education"
+    ],
+    "desc": "英国以广播电视与函授开展学位教育的开放大学"
+  },
+  {
+    "id": "intelligent_tutoring_system",
+    "name": "智能辅导系统",
+    "nameEn": "Intelligent tutoring system",
+    "wikiEn": "Intelligent tutoring system",
+    "aliases": [
+      "ITS",
+      "计算机辅助教学"
+    ],
+    "year": 1977,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "1970年代中程序化教学软件成熟",
+    "era": "information",
+    "category": "education_knowledge",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "skinner_operant_conditioning",
+      "educational_psychology"
+    ],
+    "related": [
+      "adaptive_learning",
+      "internet"
+    ],
+    "desc": "依学习者反应动态调整教学步骤的计算机辅导程序"
+  },
+  {
+    "id": "mooc",
+    "name": "大规模开放在线课程",
+    "nameEn": "MOOC",
+    "wikiEn": "Massive open online course",
+    "aliases": [
+      "慕课"
+    ],
+    "year": 2008,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2008年CCK08首倡",
+    "era": "intelligent",
+    "category": "education_knowledge",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "world_wide_web",
+      "internet"
+    ],
+    "related": [
+      "open_university",
+      "adaptive_learning"
+    ],
+    "desc": "面向全球免费开放的网络课程，打破学位教育边界"
+  },
+  {
+    "id": "adaptive_learning",
+    "name": "自适应学习",
+    "nameEn": "Adaptive learning",
+    "wikiEn": "Adaptive learning",
+    "aliases": [
+      "个性化学习系统"
+    ],
+    "year": 2014,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "2010年代随学习分析普及",
+    "era": "intelligent",
+    "category": "education_knowledge",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "intelligent_tutoring_system",
+      "world_wide_web"
+    ],
+    "related": [
+      "mooc",
+      "internet"
+    ],
+    "desc": "以算法实时诊断学情并个性化推送内容的学习系统"
+  }
+]

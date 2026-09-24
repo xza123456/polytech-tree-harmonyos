@@ -1,0 +1,860 @@
+[
+  {
+    "nameEn": "15 and 290 theorems",
+    "wikiEn": "15 and 290 theorems",
+    "name": "15-定理",
+    "subcat": "Theorems in number theory"
+  },
+  {
+    "nameEn": "3D projection",
+    "wikiEn": "3D projection",
+    "name": "三维投影",
+    "subcat": "Linear algebra"
+  },
+  {
+    "nameEn": "3x + 1 semigroup",
+    "wikiEn": "3x + 1 semigroup",
+    "name": "3x + 1半群",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Abc conjecture",
+    "wikiEn": "Abc conjecture",
+    "name": "Abc猜想",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Abel polynomials",
+    "wikiEn": "Abel polynomials",
+    "name": "阿貝爾多項式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Abel's summation formula",
+    "wikiEn": "Abel's summation formula",
+    "name": "阿贝尔求和公式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Absolute value (algebra)",
+    "wikiEn": "Absolute value (algebra)",
+    "name": "绝对赋值",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Absolutely convex set",
+    "wikiEn": "Absolutely convex set",
+    "name": "绝对凸集",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Absorption law",
+    "wikiEn": "Absorption law",
+    "name": "吸收律",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Abstract algebra",
+    "wikiEn": "Abstract algebra",
+    "name": "抽象代数",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Abstract analytic number theory",
+    "wikiEn": "Abstract analytic number theory",
+    "name": "抽象解析数论",
+    "subcat": "Algebraic number theory"
+  },
+  {
+    "nameEn": "Abundant number",
+    "wikiEn": "Abundant number",
+    "name": "过剩数",
+    "subcat": "Arithmetic dynamics"
+  },
+  {
+    "nameEn": "Achilles number",
+    "wikiEn": "Achilles number",
+    "name": "阿喀琉斯數",
+    "subcat": "Integer sequences"
+  },
+  {
+    "nameEn": "Ackermann function",
+    "wikiEn": "Ackermann function",
+    "name": "阿克曼函數",
+    "subcat": "Arithmetic"
+  },
+  {
+    "nameEn": "Action algebra",
+    "wikiEn": "Action algebra",
+    "name": "作用代数",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Additive function",
+    "wikiEn": "Additive function",
+    "name": "加性函數",
+    "subcat": "Arithmetic functions"
+  },
+  {
+    "nameEn": "Additive group",
+    "wikiEn": "Additive group",
+    "name": "加法群",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Additive identity",
+    "wikiEn": "Additive identity",
+    "name": "加法單位元",
+    "subcat": "Abstract algebra"
+  },
+  {
+    "nameEn": "Adele ring",
+    "wikiEn": "Adele ring",
+    "name": "賦值向量環",
+    "subcat": "Algebraic number theory"
+  },
+  {
+    "nameEn": "Adjacency algebra",
+    "wikiEn": "Adjacency algebra",
+    "name": "邻接代数",
+    "subcat": "Algebraic graph theory"
+  },
+  {
+    "nameEn": "Agoh–Giuga conjecture",
+    "wikiEn": "Agoh–Giuga conjecture",
+    "name": "吾鄉-朱加猜想",
+    "subcat": "Unsolved problems in number theory"
+  },
+  {
+    "nameEn": "Algebraic equation",
+    "wikiEn": "Algebraic equation",
+    "name": "代数方程",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Algebraic expression",
+    "wikiEn": "Algebraic expression",
+    "name": "代數式",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Algebraic fraction",
+    "wikiEn": "Algebraic fraction",
+    "name": "代數分式",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Algebraic function",
+    "wikiEn": "Algebraic function",
+    "name": "代數函數",
+    "subcat": "Algebraic number theory"
+  },
+  {
+    "nameEn": "Algebraic number field",
+    "wikiEn": "Algebraic number field",
+    "name": "代数数域",
+    "subcat": "Algebraic number theory"
+  },
+  {
+    "nameEn": "Algebraic number theory",
+    "wikiEn": "Algebraic number theory",
+    "name": "代數數論",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Algebraic Riccati equation",
+    "wikiEn": "Algebraic Riccati equation",
+    "name": "代數Riccati方程",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Alternating multilinear map",
+    "wikiEn": "Alternating multilinear map",
+    "name": "交替多线性映射",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Alternating polynomial",
+    "wikiEn": "Alternating polynomial",
+    "name": "交错多项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Analytic function of a matrix",
+    "wikiEn": "Analytic function of a matrix",
+    "name": "矩阵函数",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Analytic number theory",
+    "wikiEn": "Analytic number theory",
+    "name": "解析数论",
+    "subcat": "Analytic number theory"
+  },
+  {
+    "nameEn": "Antieigenvalue theory",
+    "wikiEn": "Antieigenvalue theory",
+    "name": "反特征值理论",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Appell sequence",
+    "wikiEn": "Appell sequence",
+    "name": "阿佩爾序列",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Apéry's constant",
+    "wikiEn": "Apéry's constant",
+    "name": "阿培里常数",
+    "subcat": "Analytic number theory"
+  },
+  {
+    "nameEn": "Arithmetic function",
+    "wikiEn": "Arithmetic function",
+    "name": "算術函數",
+    "subcat": "Arithmetic functions"
+  },
+  {
+    "nameEn": "Arithmetic geometry",
+    "wikiEn": "Arithmetic geometry",
+    "name": "算术几何",
+    "subcat": "Arithmetic geometry"
+  },
+  {
+    "nameEn": "Arithmetic group",
+    "wikiEn": "Arithmetic group",
+    "name": "算术群",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Arithmetic topology",
+    "wikiEn": "Arithmetic topology",
+    "name": "算术拓扑",
+    "subcat": "Algebraic number theory"
+  },
+  {
+    "nameEn": "Artin's conjecture on primitive roots",
+    "wikiEn": "Artin's conjecture on primitive roots",
+    "name": "阿廷猜想",
+    "subcat": "Algebraic number theory"
+  },
+  {
+    "nameEn": "Artinian module",
+    "wikiEn": "Artinian module",
+    "name": "阿廷模",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Associative property",
+    "wikiEn": "Associative property",
+    "name": "结合律",
+    "subcat": "Elementary algebra"
+  },
+  {
+    "nameEn": "Augmented matrix",
+    "wikiEn": "Augmented matrix",
+    "name": "增广矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Automorphic number",
+    "wikiEn": "Automorphic number",
+    "name": "自守数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Auxiliary function",
+    "wikiEn": "Auxiliary function",
+    "name": "輔助函數",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Banach–Alaoglu theorem",
+    "wikiEn": "Banach–Alaoglu theorem",
+    "name": "巴拿赫-阿勞格魯定理",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Barnes G-function",
+    "wikiEn": "Barnes G-function",
+    "name": "巴尼斯G函数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Barrel shifter",
+    "wikiEn": "Barrel shifter",
+    "name": "桶式移位器",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Basic Linear Algebra Subprograms",
+    "wikiEn": "Basic Linear Algebra Subprograms",
+    "name": "BLAS",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Beatty sequence",
+    "wikiEn": "Beatty sequence",
+    "name": "贝亚蒂定理",
+    "subcat": "Theorems in number theory"
+  },
+  {
+    "nameEn": "Bicomplex number",
+    "wikiEn": "Bicomplex number",
+    "name": "雙複數",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Biconjugate gradient stabilized method",
+    "wikiEn": "Biconjugate gradient stabilized method",
+    "name": "稳定双共轭梯度法",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Bilinear map",
+    "wikiEn": "Bilinear map",
+    "name": "双线性映射",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Bimodule",
+    "wikiEn": "Bimodule",
+    "name": "双模",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Binary operation",
+    "wikiEn": "Binary operation",
+    "name": "二元运算",
+    "subcat": "Binary operations"
+  },
+  {
+    "nameEn": "Binomial (polynomial)",
+    "wikiEn": "Binomial (polynomial)",
+    "name": "二项式",
+    "subcat": "Polynomials"
+  },
+  {
+    "nameEn": "Blichfeldt's theorem",
+    "wikiEn": "Blichfeldt's theorem",
+    "name": "",
+    "subcat": "Geometry of numbers"
+  },
+  {
+    "nameEn": "Blind signal separation",
+    "wikiEn": "Blind signal separation",
+    "name": "盲信号分离",
+    "subcat": "Singular value decomposition"
+  },
+  {
+    "nameEn": "Block matrix",
+    "wikiEn": "Block matrix",
+    "name": "分塊矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "BLOSUM",
+    "wikiEn": "BLOSUM",
+    "name": "BLOSUM打分矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Bochner identity",
+    "wikiEn": "Bochner identity",
+    "name": "博赫纳恒等式",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Bochner–Kodaira–Nakano identity",
+    "wikiEn": "Bochner–Kodaira–Nakano identity",
+    "name": "博赫纳–小平–中野恒等式",
+    "subcat": "Mathematical identities"
+  },
+  {
+    "nameEn": "Boolean algebra (structure)",
+    "wikiEn": "Boolean algebra (structure)",
+    "name": "布尔代数",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Bounded operator",
+    "wikiEn": "Bounded operator",
+    "name": "有界算子",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Bragg plane",
+    "wikiEn": "Bragg plane",
+    "name": "布拉格平面",
+    "subcat": "Lattice points"
+  },
+  {
+    "nameEn": "Brocard's problem",
+    "wikiEn": "Brocard's problem",
+    "name": "布羅卡問題",
+    "subcat": "Abc conjecture"
+  },
+  {
+    "nameEn": "Brun's constant",
+    "wikiEn": "Brun's constant",
+    "name": "布朗常数",
+    "subcat": "Analytic number theory"
+  },
+  {
+    "nameEn": "Burgers vector",
+    "wikiEn": "Burgers vector",
+    "name": "伯格斯矢量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Bézout's identity",
+    "wikiEn": "Bézout's identity",
+    "name": "貝祖等式",
+    "subcat": "Diophantine equations"
+  },
+  {
+    "nameEn": "Carmichael function",
+    "wikiEn": "Carmichael function",
+    "name": "卡邁克爾函數",
+    "subcat": "Modular arithmetic"
+  },
+  {
+    "nameEn": "Catalan's conjecture",
+    "wikiEn": "Catalan's conjecture",
+    "name": "卡塔蘭猜想",
+    "subcat": "Theorems in number theory"
+  },
+  {
+    "nameEn": "Category (mathematics)",
+    "wikiEn": "Category (mathematics)",
+    "name": "範疇 (數學)",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Cauchy–Binet formula",
+    "wikiEn": "Cauchy–Binet formula",
+    "name": "柯西-比内公式",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Cayley–Hamilton theorem",
+    "wikiEn": "Cayley–Hamilton theorem",
+    "name": "凱萊–哈密頓定理",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Chebotarev theorem on roots of unity",
+    "wikiEn": "Chebotarev theorem on roots of unity",
+    "name": "",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Chebyshev's bias",
+    "wikiEn": "Chebyshev's bias",
+    "name": "切比雪夫偏差",
+    "subcat": "Prime numbers"
+  },
+  {
+    "nameEn": "Circulant matrix",
+    "wikiEn": "Circulant matrix",
+    "name": "循环矩阵",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Class number formula",
+    "wikiEn": "Class number formula",
+    "name": "类数公式",
+    "subcat": "Algebraic number theory"
+  },
+  {
+    "nameEn": "Classification of finite simple groups",
+    "wikiEn": "Classification of finite simple groups",
+    "name": "有限單群分類",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Clifford algebra",
+    "wikiEn": "Clifford algebra",
+    "name": "克利福德代数",
+    "subcat": "Quadratic forms"
+  },
+  {
+    "nameEn": "Commutative ring",
+    "wikiEn": "Commutative ring",
+    "name": "交换环",
+    "subcat": "Algebraic structures"
+  },
+  {
+    "nameEn": "Complexification",
+    "wikiEn": "Complexification",
+    "name": "複化",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "Composition series",
+    "wikiEn": "Composition series",
+    "name": "合成列",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Computer algebra",
+    "wikiEn": "Computer algebra",
+    "name": "計算機代數",
+    "subcat": "Computer algebra"
+  },
+  {
+    "nameEn": "Congruence of squares",
+    "wikiEn": "Congruence of squares",
+    "name": "平方同餘",
+    "subcat": "Modular arithmetic"
+  },
+  {
+    "nameEn": "Congruence relation",
+    "wikiEn": "Congruence relation",
+    "name": "同餘關係",
+    "subcat": "Modular arithmetic"
+  },
+  {
+    "nameEn": "Continuous linear operator",
+    "wikiEn": "Continuous linear operator",
+    "name": "连续线性算子",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Control variable",
+    "wikiEn": "Control variable",
+    "name": "控制變數",
+    "subcat": "Variables (mathematics)"
+  },
+  {
+    "nameEn": "Convex combination",
+    "wikiEn": "Convex combination",
+    "name": "凸组合",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Copeland–Erdős constant",
+    "wikiEn": "Copeland–Erdős constant",
+    "name": "科普兰-埃尔德什常数",
+    "subcat": "Prime numbers"
+  },
+  {
+    "nameEn": "Cramer's rule",
+    "wikiEn": "Cramer's rule",
+    "name": "克萊姆法則",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Cramér's conjecture",
+    "wikiEn": "Cramér's conjecture",
+    "name": "克拉梅爾猜想",
+    "subcat": "Analytic number theory"
+  },
+  {
+    "nameEn": "Crouzeix's conjecture",
+    "wikiEn": "Crouzeix's conjecture",
+    "name": "Crouzeix猜想",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Crystallographic restriction theorem",
+    "wikiEn": "Crystallographic restriction theorem",
+    "name": "晶体学限制定理",
+    "subcat": "Theorems in algebra"
+  },
+  {
+    "nameEn": "Cubic reciprocity",
+    "wikiEn": "Cubic reciprocity",
+    "name": "三次互反律",
+    "subcat": "Theorems in number theory"
+  },
+  {
+    "nameEn": "De Bruijn–Newman constant",
+    "wikiEn": "De Bruijn–Newman constant",
+    "name": "德布鲁因-纽曼常数",
+    "subcat": "Analytic number theory"
+  },
+  {
+    "nameEn": "Dedekind eta function",
+    "wikiEn": "Dedekind eta function",
+    "name": "戴德金η函數",
+    "subcat": "Modular forms"
+  },
+  {
+    "nameEn": "Definite quadratic form",
+    "wikiEn": "Definite quadratic form",
+    "name": "确定双线性形式",
+    "subcat": "Quadratic forms"
+  },
+  {
+    "nameEn": "Dimension theorem for vector spaces",
+    "wikiEn": "Dimension theorem for vector spaces",
+    "name": "向量空间的维数定理",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Diophantine approximation",
+    "wikiEn": "Diophantine approximation",
+    "name": "丟番圖逼近",
+    "subcat": "Diophantine approximation"
+  },
+  {
+    "nameEn": "Diophantine set",
+    "wikiEn": "Diophantine set",
+    "name": "丟番圖集",
+    "subcat": "Diophantine equations"
+  },
+  {
+    "nameEn": "Dirichlet character",
+    "wikiEn": "Dirichlet character",
+    "name": "狄利克雷特徵",
+    "subcat": "Analytic number theory"
+  },
+  {
+    "nameEn": "Dirichlet's approximation theorem",
+    "wikiEn": "Dirichlet's approximation theorem",
+    "name": "狄利克雷逼近定理",
+    "subcat": "Theorems in number theory"
+  },
+  {
+    "nameEn": "Divisibility rule",
+    "wikiEn": "Divisibility rule",
+    "name": "整除规则",
+    "subcat": "Elementary number theory"
+  },
+  {
+    "nameEn": "Divisor",
+    "wikiEn": "Divisor",
+    "name": "因數",
+    "subcat": "Elementary number theory"
+  },
+  {
+    "nameEn": "Duffin–Schaeffer theorem",
+    "wikiEn": "Duffin–Schaeffer theorem",
+    "name": "达芬-谢弗猜想",
+    "subcat": "Diophantine approximation"
+  },
+  {
+    "nameEn": "Eisenstein triple",
+    "wikiEn": "Eisenstein triple",
+    "name": "艾森斯坦三元数",
+    "subcat": "Diophantine equations"
+  },
+  {
+    "nameEn": "Endomorphism",
+    "wikiEn": "Endomorphism",
+    "name": "自同态",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Engel expansion",
+    "wikiEn": "Engel expansion",
+    "name": "恩格尔展开式",
+    "subcat": "Continued fractions"
+  },
+  {
+    "nameEn": "Euclid–Euler theorem",
+    "wikiEn": "Euclid–Euler theorem",
+    "name": "歐幾里得-歐拉定理",
+    "subcat": "Theorems in number theory"
+  },
+  {
+    "nameEn": "Fast Library for Number Theory",
+    "wikiEn": "Fast Library for Number Theory",
+    "name": "快速數論函數庫",
+    "subcat": "Computational number theory"
+  },
+  {
+    "nameEn": "Formula for primes",
+    "wikiEn": "Formula for primes",
+    "name": "素数公式",
+    "subcat": "Prime numbers"
+  },
+  {
+    "nameEn": "Freshman's dream",
+    "wikiEn": "Freshman's dream",
+    "name": "中一新生之夢",
+    "subcat": "Prime numbers"
+  },
+  {
+    "nameEn": "Geometric Langlands correspondence",
+    "wikiEn": "Geometric Langlands correspondence",
+    "name": "几何朗兰兹纲领",
+    "subcat": "Langlands program"
+  },
+  {
+    "nameEn": "Geometry of numbers",
+    "wikiEn": "Geometry of numbers",
+    "name": "几何数论",
+    "subcat": "Geometry of numbers"
+  },
+  {
+    "nameEn": "Graph homomorphism",
+    "wikiEn": "Graph homomorphism",
+    "name": "圖同態",
+    "subcat": "Morphisms"
+  },
+  {
+    "nameEn": "Greatest common divisor",
+    "wikiEn": "Greatest common divisor",
+    "name": "最大公因數",
+    "subcat": "Multiplicative functions"
+  },
+  {
+    "nameEn": "Hearing the shape of a drum",
+    "wikiEn": "Hearing the shape of a drum",
+    "name": "聽出鼓的形狀",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Heat kernel",
+    "wikiEn": "Heat kernel",
+    "name": "热核",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Hilbert–Schmidt operator",
+    "wikiEn": "Hilbert–Schmidt operator",
+    "name": "希尔伯特-施密特算子",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Idempotence",
+    "wikiEn": "Idempotence",
+    "name": "冪等",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Identity element",
+    "wikiEn": "Identity element",
+    "name": "單位元",
+    "subcat": "Algebraic properties of elements"
+  },
+  {
+    "nameEn": "Incomplete gamma function",
+    "wikiEn": "Incomplete gamma function",
+    "name": "不完全Γ函數",
+    "subcat": "Continued fractions"
+  },
+  {
+    "nameEn": "Industrial-grade prime",
+    "wikiEn": "Industrial-grade prime",
+    "name": "產業等級質數",
+    "subcat": "Prime numbers"
+  },
+  {
+    "nameEn": "Integer partition",
+    "wikiEn": "Integer partition",
+    "name": "整數分拆",
+    "subcat": "Integer partitions"
+  },
+  {
+    "nameEn": "Invariant subspace problem",
+    "wikiEn": "Invariant subspace problem",
+    "name": "不变子空间问题",
+    "subcat": "Invariant subspaces"
+  },
+  {
+    "nameEn": "Langlands program",
+    "wikiEn": "Langlands program",
+    "name": "朗蘭茲綱領",
+    "subcat": "Langlands program"
+  },
+  {
+    "nameEn": "Lehmer's totient problem",
+    "wikiEn": "Lehmer's totient problem",
+    "name": "萊默的歐拉函數問題",
+    "subcat": "Multiplicative functions"
+  },
+  {
+    "nameEn": "Maclaurin's inequality",
+    "wikiEn": "Maclaurin's inequality",
+    "name": "麦克劳林不等式",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Modular curve",
+    "wikiEn": "Modular curve",
+    "name": "模曲線",
+    "subcat": "Modular forms"
+  },
+  {
+    "nameEn": "Modular equation",
+    "wikiEn": "Modular equation",
+    "name": "模方程",
+    "subcat": "Modular forms"
+  },
+  {
+    "nameEn": "Modular lambda function",
+    "wikiEn": "Modular lambda function",
+    "name": "模λ函數",
+    "subcat": "Modular forms"
+  },
+  {
+    "nameEn": "Moy–Prasad filtration",
+    "wikiEn": "Moy–Prasad filtration",
+    "name": "",
+    "subcat": "P-adic numbers"
+  },
+  {
+    "nameEn": "Newton's inequalities",
+    "wikiEn": "Newton's inequalities",
+    "name": "牛頓不等式",
+    "subcat": "Symmetric functions"
+  },
+  {
+    "nameEn": "Normal mode",
+    "wikiEn": "Normal mode",
+    "name": "简正模",
+    "subcat": "Singular value decomposition"
+  },
+  {
+    "nameEn": "Ordered vector space",
+    "wikiEn": "Ordered vector space",
+    "name": "有序向量空间",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "P-adic exponential function",
+    "wikiEn": "P-adic exponential function",
+    "name": "",
+    "subcat": "P-adic numbers"
+  },
+  {
+    "nameEn": "Primitive element theorem",
+    "wikiEn": "Primitive element theorem",
+    "name": "本原元定理",
+    "subcat": "Theorems in abstract algebra"
+  },
+  {
+    "nameEn": "Rank–nullity theorem",
+    "wikiEn": "Rank–nullity theorem",
+    "name": "秩—零化度定理",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Real-valued function",
+    "wikiEn": "Real-valued function",
+    "name": "實值函數",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "Spectral geometry",
+    "wikiEn": "Spectral geometry",
+    "name": "谱几何",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Wheel theory",
+    "wikiEn": "Wheel theory",
+    "name": "輪理論",
+    "subcat": "Fields of abstract algebra"
+  },
+  {
+    "nameEn": "Young tableau",
+    "wikiEn": "Young tableau",
+    "name": "杨表",
+    "subcat": "Integer partitions"
+  }
+]

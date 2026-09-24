@@ -1,0 +1,81 @@
+/* 手机窄屏适配
+ *
+ * 上游这套 UI 是按宽屏写的：所有面板都是 position: fixed 各自定位、尺寸写死、
+ * 没有一条 media query。实测 390×844（手机竖屏）下会挤成这样：
+ *
+ *   #legend   166,16   208x812   ← 高 812 ≈ 满屏，占掉 53% 屏宽，还默认展开
+ *   #title     16,16   244x59    ← 宽 244 溢出，右半边被 legend 压住
+ *   #toolbar   98,760  195x66    ← 底沿 826
+ *   #hint      18,796  372x28    ← 与 toolbar、credit 三方叠在一起
+ *   #credit    14,797  360x33    ← 同上
+ *
+ * 这里只做重排，不改上游 style.css 的任何规则：
+ *   竖向重新分带 —— 顶部标题 / 底部按钮 / 按钮下方一行提示 / 最底一行署名，
+ *   图例改成默认折叠、展开时从底部弹起的限高覆盖层。
+ */
+
+@media (max-width: 639px) {
+  /* ── 标题：缩字号，给右上角的图例按钮让位 ── */
+  #title { top: 10px; left: 10px; padding: 7px 12px; }
+  #title h1 { font-size: 14px; letter-spacing: 2px; }
+  #title small { font-size: 10px; letter-spacing: 0; }
+
+  /* ── 图例：折叠态缩成右上角一个按钮，展开态是全宽限高的覆盖层。
+     底边要落在工具栏（bottom 46 + 高约 58）之上，否则两者会叠在一起。 ── */
+  #legend {
+    top: auto; left: 10px; right: 10px; bottom: 106px;
+    width: auto;              /* 覆盖上游写死的 208px */
+    max-height: 46vh;
+    padding: 10px 12px;
+  }
+  #legend.collapsed { left: auto; right: 10px; width: auto; }
+  #legend .lg-group { margin: 6px 0 2px; }
+  #legend .lg-item { font-size: 12px; margin: 4px 0; }
+  #legend .lg-limit input[type="range"] { width: 100%; flex: 1; }
+
+  /* ── 操作按钮：居中，压在提示之上。
+     窄屏下按钮变窄会把「漫游动画」折成两行，故禁止换行 ── */
+  #toolbar { bottom: 48px; padding: 6px 8px; gap: 6px; }
+  #toolbar button {
+    font-size: 12px; padding: 6px 12px; letter-spacing: 0;
+    white-space: nowrap;
+  }
+
+  /* ── 操作提示：压成一行居中，文案由 mobile.ts 按输入方式改写 ── */
+  #hint {
+    left: 10px; right: 10px; bottom: 30px;
+    font-size: 10px; letter-spacing: 0; text-align: center;
+    opacity: 0.42;
+  }
+
+  /* ── 署名：CC BY / CC BY-SA 要求出处可见，所以既不隐藏也不省略号截断，
+     而是折成两行小字贴底（截断会切掉「按 CC BY-SA 4.0 提供」） ── */
+  #credit {
+    left: 8px; right: 8px; bottom: 4px;
+    max-width: none; text-align: center; font-size: 8.5px; line-height: 1.35;
+    white-space: normal;
+  }
+
+  /* ── 时代字幕：38px 在 390px 宽的屏上会横向溢出 ── */
+  #eraCaption { font-size: 23px; letter-spacing: 5px; bottom: 32%; }
+  #eraCaption .sub { font-size: 11px; letter-spacing: 2px; }
+
+  /* ── 悬停卡：触摸屏没有"光标跟随"可言，手指还会挡住卡片，
+     且上游是 white-space: nowrap，长摘要会横向拉出屏幕。
+     这里钉到顶部、允许换行。main.ts 会写内联 left/top，故需要 !important。 ── */
+  #tooltip {
+    left: 10px !important; right: 10px;
+    top: 62px !important;
+    max-width: none; white-space: normal;
+    max-height: 46vh; overflow-y: auto;
+  }
+  #tooltip .tt-desc, #tooltip .tt-src { max-width: none; }
+}
+
+/* 手机横屏：垂直空间比竖屏更紧张，图例限高收得更狠一些 */
+@media (max-height: 480px) and (orientation: landscape) {
+  #legend { max-height: 62vh; bottom: 76px; }
+  #title { top: 8px; left: 8px; padding: 5px 10px; }
+  #title h1 { font-size: 13px; }
+  #eraCaption { font-size: 20px; bottom: 40%; }
+}

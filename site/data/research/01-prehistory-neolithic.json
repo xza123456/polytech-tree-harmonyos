@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "fire",
+    "name": "火",
+    "nameEn": "Fire",
+    "wikiEn": "Control of fire by early humans",
+    "aliases": [
+      "用火",
+      "控制火",
+      "Control of fire"
+    ],
+    "year": -300000,
+    "era": "prehistory",
+    "category": "energy_power",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "hearth",
+      "cooking",
+      "fire_drill"
+    ],
+    "desc": "人类主动控制并使用火，取暖、照明、熟食与防御的文明基石。"
+  },
+  {
+    "id": "stone_tools",
+    "name": "打制石器",
+    "nameEn": "Stone tools",
+    "wikiEn": "Stone tool",
+    "aliases": [
+      "旧石器",
+      "Oldowan",
+      "奥杜威石器"
+    ],
+    "year": -300000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "hand_axe",
+      "levallois_technique",
+      "ground_stone"
+    ],
+    "desc": "以敲击打制石片制成的最早工具，人类物质技术的开端。"
+  },
+  {
+    "id": "spear",
+    "name": "长矛",
+    "nameEn": "Spear",
+    "wikiEn": "Spear",
+    "aliases": [
+      "Schöningen spears",
+      "木矛"
+    ],
+    "year": -300000,
+    "era": "prehistory",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "hafting",
+      "bow_and_arrow",
+      "spear_thrower"
+    ],
+    "desc": "削尖或加石镞的长柄刺击武器，最古老的狩猎兵器之一。"
+  },
+  {
+    "id": "hafting",
+    "name": "",
+    "nameEn": "Hafting",
+    "wikiEn": "Hafting",
+    "aliases": [
+      "装柄",
+      "复合工具",
+      "安柄"
+    ],
+    "year": -280000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "adhesive",
+      "spear"
+    ],
+    "desc": "将石尖石刃固定到木柄上的装柄技术，造出复合工具。"
+  },
+  {
+    "id": "woodworking",
+    "name": "木工",
+    "nameEn": "Woodworking",
+    "wikiEn": "Woodworking",
+    "aliases": [
+      "木材加工"
+    ],
+    "year": -280000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "adze",
+      "axe",
+      "boat_canoe"
+    ],
+    "desc": "加工木材以制造器具、矛杆与建筑构件的工艺。"
+  },
+  {
+    "id": "cooking",
+    "name": "烹饪",
+    "nameEn": "Cooking",
+    "wikiEn": "Cooking",
+    "aliases": [
+      "熟食",
+      "火烤"
+    ],
+    "year": -260000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "fire"
+    ],
+    "related": [
+      "bread",
+      "earth_oven"
+    ],
+    "desc": "用火加热熟食，提升营养吸收与食物安全。"
+  },
+  {
+    "id": "hand_axe",
+    "name": "手斧",
+    "nameEn": "Hand axe",
+    "wikiEn": "Hand axe",
+    "aliases": [
+      "阿舍利手斧",
+      "Acheulean",
+      "Biface",
+      "两面器"
+    ],
+    "year": -250000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "levallois_technique"
+    ],
+    "desc": "阿舍利文化两面打制的泪滴状手斧，沿用逾百万年。"
+  },
+  {
+    "id": "levallois_technique",
+    "name": "勒瓦娄哇技法",
+    "nameEn": "Levallois technique",
+    "wikiEn": "Levallois technique",
+    "aliases": [
+      "预制石核技术",
+      "Prepared-core technique"
+    ],
+    "year": -250000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "stone_blade"
+    ],
+    "desc": "预制石核以打出预定形状石片的莫斯特打片技法。"
+  },
+  {
+    "id": "hearth",
+    "name": "火塘",
+    "nameEn": "Hearth",
+    "wikiEn": "Hearth",
+    "aliases": [
+      "壁炉",
+      "灶坑"
+    ],
+    "year": -250000,
+    "era": "prehistory",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "fire"
+    ],
+    "related": [
+      "cooking",
+      "oven"
+    ],
+    "desc": "固定生火的火塘，控制用火与群居生活的中心。"
+  },
+  {
+    "id": "scraper",
+    "name": "刮削器",
+    "nameEn": "Scraper",
+    "wikiEn": "Scraper (archaeology)",
+    "aliases": [
+      "石刮削器"
+    ],
+    "year": -200000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "leather",
+      "bone_tool"
+    ],
+    "desc": "用于刮削兽皮、木材的石制刮削器。"
+  },
+  {
+    "id": "bedding",
+    "name": "寝具",
+    "nameEn": "Bedding",
+    "wikiEn": "Bed",
+    "aliases": [
+      "草席床铺",
+      "Bed",
+      "草垫"
+    ],
+    "year": -200000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "hut"
+    ],
+    "desc": "以灰烬草类铺设的寝具，改善睡眠与居住卫生。"
+  },
+  {
+    "id": "adhesive",
+    "name": "胶黏剂",
+    "nameEn": "Adhesive",
+    "wikiEn": "Adhesive",
+    "aliases": [
+      "Birch tar",
+      "桦树焦油",
+      "胶水"
+    ],
+    "year": -200000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "hafting",
+      "bitumen"
+    ],
+    "desc": "蒸馏桦树皮制取焦油以黏合工具，已知最早胶黏剂。"
+  },
+  {
+    "id": "food_storage",
+    "name": "食物储存",
+    "nameEn": "Food storage",
+    "wikiEn": "Food storage",
+    "aliases": [
+      "储粮",
+      "食物贮藏"
+    ],
+    "year": -200000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "basket",
+      "grain_storage",
+      "food_preservation"
+    ],
+    "desc": "窖藏、埋藏或容器封存余粮，应对饥荒的生存技术。"
+  },
+  {
+    "id": "leather",
+    "name": "皮革",
+    "nameEn": "Leather",
+    "wikiEn": "Leather",
+    "aliases": [
+      "Hide",
+      "鞣制皮革",
+      "History of hide materials"
+    ],
+    "year": -120000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "scraper"
+    ],
+    "related": [
+      "clothing",
+      "tent",
+      "shoe"
+    ],
+    "desc": "经刮制鞣制的兽皮，制衣搭棚的重要材料。"
+  },
+  {
+    "id": "bone_tool",
+    "name": "骨器",
+    "nameEn": "Bone tool",
+    "wikiEn": "Bone tool",
+    "aliases": [
+      "骨制工具",
+      "角器"
+    ],
+    "year": -120000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "sewing_needle",
+      "awl",
+      "harpoon",
+      "flute"
+    ],
+    "desc": "以动物骨角制作的锥、针、鱼叉等器具。"
+  },
+  {
+    "id": "clothing",
+    "name": "缝制衣物",
+    "nameEn": "Clothing",
+    "wikiEn": "Clothing",
+    "aliases": [
+      "衣服",
+      "衣物",
+      "History of clothing and textiles"
+    ],
+    "year": -100000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 1,
+    "prereqs": [
+      "leather"
+    ],
+    "related": [
+      "sewing_needle",
+      "shoe"
+    ],
+    "desc": "以皮革毛皮缝制衣物，助人类进入寒冷地带。"
+  },
+  {
+    "id": "beads",
+    "name": "串珠",
+    "nameEn": "Beads",
+    "wikiEn": "Bead",
+    "aliases": [
+      "珠子",
+      "贝壳珠",
+      "Nassarius beads"
+    ],
+    "year": -100000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "ochre",
+      "rock_art"
+    ],
+    "desc": "贝壳兽牙制成的串珠，最早的装饰与身份符号。"
+  },
+  {
+    "id": "ochre",
+    "name": "赭石颜料",
+    "nameEn": "Ochre",
+    "wikiEn": "Ochre",
+    "aliases": [
+      "赭石",
+      "红赭石",
+      "Red ochre",
+      "颜料"
+    ],
+    "year": -100000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "rock_art",
+      "dyeing",
+      "cosmetics"
+    ],
+    "desc": "研磨赭石制成红色颜料，用于绘画与身体装饰。"
+  },
+  {
+    "id": "language",
+    "name": "语言",
+    "nameEn": "Language",
+    "wikiEn": "Language",
+    "aliases": [
+      "Origin of language",
+      "言语",
+      "有声语言"
+    ],
+    "year": -100000,
+    "era": "prehistory",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "rock_art",
+      "tally_stick"
+    ],
+    "desc": "有声语言形成，知识与文化得以代际传承。"
+  },
+  {
+    "id": "harpoon",
+    "name": "鱼叉",
+    "nameEn": "Harpoon",
+    "wikiEn": "Harpoon",
+    "aliases": [
+      "骨鱼叉",
+      "倒刺鱼叉"
+    ],
+    "year": -90000,
+    "era": "prehistory",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "bone_tool"
+    ],
+    "related": [
+      "fish_hook",
+      "fishing_net",
+      "boat_canoe"
+    ],
+    "desc": "带倒刺的骨制鱼叉，用于刺捕大鱼与水生动物。"
+  },
+  {
+    "id": "raft",
+    "name": "木筏",
+    "nameEn": "Raft",
+    "wikiEn": "Raft",
+    "aliases": [
+      "筏",
+      "筏子"
+    ],
+    "year": -80000,
+    "era": "prehistory",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "woodworking"
+    ],
+    "related": [
+      "boat_canoe",
+      "reed_boat"
+    ],
+    "desc": "捆扎原木而成的木筏，最早的水上运载工具之一。"
+  },
+  {
+    "id": "stone_blade",
+    "name": "石叶",
+    "nameEn": "Blade",
+    "wikiEn": "Blade (archaeology)",
+    "aliases": [
+      "石刃",
+      "bladelet"
+    ],
+    "year": -70000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "microlith",
+      "burin"
+    ],
+    "desc": "细长规则的石叶，一石核可产出多件刃具。"
+  },
+  {
+    "id": "microlith",
+    "name": "细石器",
+    "nameEn": "Microlith",
+    "wikiEn": "Microlith",
+    "aliases": [
+      "细石叶",
+      "几何细石器"
+    ],
+    "year": -65000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "stone_blade"
+    ],
+    "related": [
+      "sickle",
+      "bow_and_arrow"
+    ],
+    "desc": "细小几何形石刃，嵌于木骨作箭镞与镰刃。"
+  },
+  {
+    "id": "bow_and_arrow",
+    "name": "弓箭",
+    "nameEn": "Bow and arrow",
+    "wikiEn": "Bow and arrow",
+    "aliases": [
+      "Bow",
+      "Arrow",
+      "弓矢"
+    ],
+    "year": -64000,
+    "era": "prehistory",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "woodworking"
+    ],
+    "related": [
+      "spear",
+      "sling_weapon",
+      "domestic_dog"
+    ],
+    "desc": "以弓蓄能发射箭矢的远程武器，革新狩猎与战争。"
+  },
+  {
+    "id": "rock_art",
+    "name": "岩画",
+    "nameEn": "Rock art",
+    "wikiEn": "Rock art",
+    "aliases": [
+      "洞穴壁画",
+      "Cave painting",
+      "岩刻",
+      "Petroglyph"
+    ],
+    "year": -62000,
+    "era": "prehistory",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "ochre"
+    ],
+    "related": [
+      "venus_figurine",
+      "star_chart",
+      "language"
+    ],
+    "desc": "绘刻于岩壁的图像，人类最早的符号表达之一。"
+  },
+  {
+    "id": "sewing_needle",
+    "name": "缝衣针",
+    "nameEn": "Sewing needle",
+    "wikiEn": "Sewing needle",
+    "aliases": [
+      "骨针",
+      "Needle"
+    ],
+    "year": -60000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "bone_tool"
+    ],
+    "related": [
+      "clothing",
+      "leather"
+    ],
+    "desc": "带针眼的骨针，可缝制合身的保暖衣物。"
+  },
+  {
+    "id": "dentistry",
+    "name": "牙科",
+    "nameEn": "Dentistry",
+    "wikiEn": "Dentistry",
+    "aliases": [
+      "钻牙",
+      "牙病治疗"
+    ],
+    "year": -55000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "trepanation",
+      "prehistoric_medicine"
+    ],
+    "desc": "旧石器时代已见牙病处理，新石器时代出现钻牙。"
+  },
+  {
+    "id": "awl",
+    "name": "锥子",
+    "nameEn": "Awl",
+    "wikiEn": "Stitching awl",
+    "aliases": [
+      "Awl",
+      "尖锥",
+      "骨锥"
+    ],
+    "year": -50000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "bone_tool"
+    ],
+    "related": [
+      "sewing_needle",
+      "leather"
+    ],
+    "desc": "在皮革、木骨上钻孔的锥状工具。",
+    "year_note": "通用 Awl 词条是消歧页，挂到具体工具条目"
+  },
+  {
+    "id": "ground_stone",
+    "name": "磨制石器",
+    "nameEn": "Ground stone",
+    "wikiEn": "Ground stone",
+    "aliases": [
+      "磨制石器技术",
+      "polished stone tools"
+    ],
+    "year": -45000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "axe",
+      "quern_stones",
+      "megalith"
+    ],
+    "desc": "以研磨成型的石器，新石器时代的标志性工艺。"
+  },
+  {
+    "id": "tally_stick",
+    "name": "刻痕计数棒",
+    "nameEn": "Tally stick",
+    "wikiEn": "Tally stick",
+    "aliases": [
+      "计数棒",
+      "Lebombo bone",
+      "Ishango bone"
+    ],
+    "year": -44000,
+    "era": "prehistory",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "proto_writing",
+      "calendar"
+    ],
+    "desc": "在骨木上刻痕记数，最早的计数与记账方式。"
+  },
+  {
+    "id": "mining",
+    "name": "采矿",
+    "nameEn": "Mining",
+    "wikiEn": "Mining",
+    "aliases": [
+      "史前采矿",
+      "燧石矿",
+      "Lion Cavern"
+    ],
+    "year": -43000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "ochre",
+      "ground_stone"
+    ],
+    "desc": "开挖矿坑获取赭石、燧石等矿物的开采活动。"
+  },
+  {
+    "id": "flute",
+    "name": "笛子",
+    "nameEn": "Flute",
+    "wikiEn": "Flute",
+    "aliases": [
+      "骨笛",
+      "Paleolithic flutes"
+    ],
+    "year": -42000,
+    "era": "prehistory",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "bone_tool"
+    ],
+    "related": [
+      "bullroarer",
+      "drum"
+    ],
+    "desc": "鸟骨或象牙制成的骨笛，现存最早可演奏乐器。"
+  },
+  {
+    "id": "fire_drill",
+    "name": "钻木取火",
+    "nameEn": "Fire drill",
+    "wikiEn": "Fire drill",
+    "aliases": [
+      "摩擦取火",
+      "火钻",
+      "Fire plough",
+      "Fire saw",
+      "Bow drill",
+      "弓钻"
+    ],
+    "year": -40000,
+    "era": "prehistory",
+    "category": "energy_power",
+    "importance": 2,
+    "prereqs": [
+      "fire"
+    ],
+    "related": [
+      "hearth",
+      "torch"
+    ],
+    "desc": "以摩擦生热人工取火的技术，含钻木、弓钻等法。"
+  },
+  {
+    "id": "burin",
+    "name": "雕刻器",
+    "nameEn": "Burin",
+    "wikiEn": "Burin (lithic flake)",
+    "aliases": [
+      "Burin",
+      "刻刀"
+    ],
+    "year": -40000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "stone_blade"
+    ],
+    "related": [
+      "rock_art",
+      "bone_tool"
+    ],
+    "desc": "带凿形刃口的石器，用于雕刻骨角与木器。"
+  },
+  {
+    "id": "torch",
+    "name": "火把",
+    "nameEn": "Torch",
+    "wikiEn": "Torch",
+    "aliases": [
+      "火炬"
+    ],
+    "year": -40000,
+    "era": "prehistory",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [
+      "fire"
+    ],
+    "related": [
+      "oil_lamp",
+      "hearth"
+    ],
+    "desc": "蘸有油脂的燃木火把，便携照明工具。"
+  },
+  {
+    "id": "mortar_pestle",
+    "name": "臼与杵",
+    "nameEn": "Mortar and pestle",
+    "wikiEn": "Mortar and pestle",
+    "aliases": [
+      "研钵研杵",
+      "石臼"
+    ],
+    "year": -37000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "ground_stone"
+    ],
+    "related": [
+      "quern_stones",
+      "bread"
+    ],
+    "desc": "以杵在臼中舂捣，研磨谷物、颜料与药物。"
+  },
+  {
+    "id": "textile",
+    "name": "纺织品",
+    "nameEn": "Textile",
+    "wikiEn": "Textile",
+    "aliases": [
+      "织物",
+      "亚麻纤维",
+      "Dyed flax"
+    ],
+    "year": -34000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "weaving",
+      "sewing_needle",
+      "dyeing"
+    ],
+    "desc": "将天然纤维捻织成布，最早织物距今三万余年。"
+  },
+  {
+    "id": "dyeing",
+    "name": "染色",
+    "nameEn": "Dyeing",
+    "wikiEn": "Dyeing",
+    "aliases": [
+      "染色工艺",
+      "染料"
+    ],
+    "year": -34000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "ochre"
+    ],
+    "related": [
+      "textile",
+      "cosmetics"
+    ],
+    "desc": "用天然矿物与植物染料为纤维着色。"
+  },
+  {
+    "id": "rope",
+    "name": "绳索",
+    "nameEn": "Rope",
+    "wikiEn": "Rope",
+    "aliases": [
+      "绳",
+      "Cord",
+      "String",
+      "twine"
+    ],
+    "year": -32000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "knot",
+      "textile",
+      "bow_and_arrow"
+    ],
+    "desc": "捻搓植物纤维而成的绳索，捆扎牵引的基础。"
+  },
+  {
+    "id": "amputation",
+    "name": "截肢术",
+    "nameEn": "Amputation",
+    "wikiEn": "Amputation",
+    "aliases": [
+      "外科截肢",
+      "史前外科手术"
+    ],
+    "year": -31000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "trepanation",
+      "prehistoric_medicine"
+    ],
+    "desc": "旧石器晚期已施行截肢且患者存活，最早外科手术。"
+  },
+  {
+    "id": "knot",
+    "name": "绳结",
+    "nameEn": "Knot",
+    "wikiEn": "Knot",
+    "aliases": [
+      "打结",
+      "结绳"
+    ],
+    "year": -30000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "rope"
+    ],
+    "related": [
+      "basket",
+      "fishing_net",
+      "textile"
+    ],
+    "desc": "以绳打结连接固定，结绳还曾用于记事。"
+  },
+  {
+    "id": "tent",
+    "name": "帐篷",
+    "nameEn": "Tent",
+    "wikiEn": "Tent",
+    "aliases": [
+      "帐棚",
+      "兽皮帐篷"
+    ],
+    "year": -30000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "leather",
+      "woodworking"
+    ],
+    "related": [
+      "hut"
+    ],
+    "desc": "木骨撑张皮革的可移动居所，适合游猎迁徙。"
+  },
+  {
+    "id": "quern_stones",
+    "name": "石磨盘",
+    "nameEn": "Quern-stones",
+    "wikiEn": "Quern-stones",
+    "aliases": [
+      "Quern",
+      "Saddle quern",
+      "磨石"
+    ],
+    "year": -30000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "ground_stone"
+    ],
+    "related": [
+      "mortar_pestle",
+      "agriculture"
+    ],
+    "desc": "两块磨石相搓碾磨谷物的鞍形磨盘。"
+  },
+  {
+    "id": "earth_oven",
+    "name": "地灶",
+    "nameEn": "Earth oven",
+    "wikiEn": "Earth oven",
+    "aliases": [
+      "坑烤",
+      "土窑",
+      "Pit oven"
+    ],
+    "year": -30000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "cooking",
+      "fire"
+    ],
+    "related": [
+      "oven"
+    ],
+    "desc": "掘坑埋入热石焖烤食物的地灶。"
+  },
+  {
+    "id": "prehistoric_medicine",
+    "name": "史前医学",
+    "nameEn": "Prehistoric medicine",
+    "wikiEn": "Prehistoric medicine",
+    "aliases": [
+      "草药",
+      "Herbal medicine",
+      "原始医学"
+    ],
+    "year": -30000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "amputation",
+      "trepanation",
+      "dentistry"
+    ],
+    "desc": "以草药与简单外科处理伤病的史前医疗实践。"
+  },
+  {
+    "id": "kiln",
+    "name": "窑",
+    "nameEn": "Kiln",
+    "wikiEn": "Kiln",
+    "aliases": [
+      "陶窑",
+      "窑炉"
+    ],
+    "year": -29000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "fire"
+    ],
+    "related": [
+      "pottery",
+      "fired_brick",
+      "smelting"
+    ],
+    "desc": "可获可控高温的窑炉，用于烧陶、烧砖与冶金。"
+  },
+  {
+    "id": "weaving",
+    "name": "织造",
+    "nameEn": "Weaving",
+    "wikiEn": "Weaving",
+    "aliases": [
+      "织布",
+      "机织",
+      "编织"
+    ],
+    "year": -28000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "textile",
+      "rope"
+    ],
+    "related": [
+      "weaving_loom",
+      "basket"
+    ],
+    "desc": "经纬交织成布的织造工艺，先于织机出现。"
+  },
+  {
+    "id": "basket",
+    "name": "篮子",
+    "nameEn": "Basket",
+    "wikiEn": "Basket",
+    "aliases": [
+      "筐",
+      "编织篮",
+      "Basketry"
+    ],
+    "year": -25000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "weaving"
+    ],
+    "related": [
+      "rope",
+      "pottery",
+      "food_storage"
+    ],
+    "desc": "以枝条纤维编织的篮筐，轻便盛储器具。"
+  },
+  {
+    "id": "venus_figurine",
+    "name": "维纳斯小像",
+    "nameEn": "Venus figurine",
+    "wikiEn": "Venus figurines",
+    "aliases": [
+      "母神小像",
+      "陶塑小像",
+      "Dolní Věstonice"
+    ],
+    "year": -24000,
+    "era": "prehistory",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "rock_art",
+      "pottery"
+    ],
+    "desc": "旧石器晚期女性小雕像，现存最早的陶塑艺术品。"
+  },
+  {
+    "id": "domestic_dog",
+    "name": "家犬",
+    "nameEn": "Domestication of the dog",
+    "wikiEn": "Domestication of the dog",
+    "aliases": [
+      "狗",
+      "Dog",
+      "家养狗",
+      "驯犬"
+    ],
+    "year": -23000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "animal_husbandry",
+      "bow_and_arrow",
+      "sled"
+    ],
+    "desc": "人类最早驯化的动物狗，协助狩猎、警戒与运输。"
+  },
+  {
+    "id": "boomerang",
+    "name": "回力镖",
+    "nameEn": "Boomerang",
+    "wikiEn": "Boomerang",
+    "aliases": [
+      "飞去来器",
+      "回旋镖",
+      "飞旋镖"
+    ],
+    "year": -23000,
+    "era": "prehistory",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "woodworking"
+    ],
+    "related": [
+      "spear_thrower"
+    ],
+    "desc": "可旋回的投掷木器，最早的飞行狩猎器具之一。"
+  },
+  {
+    "id": "fish_hook",
+    "name": "鱼钩",
+    "nameEn": "Fish hook",
+    "wikiEn": "Fish hook",
+    "aliases": [
+      "贝钩",
+      "骨鱼钩"
+    ],
+    "year": -22000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "bone_tool"
+    ],
+    "related": [
+      "harpoon",
+      "fishing_net"
+    ],
+    "desc": "以贝壳骨制成的鱼钩，使钓鱼成为稳定食源。"
+  },
+  {
+    "id": "bullroarer",
+    "name": "牛吼器",
+    "nameEn": "Bullroarer",
+    "wikiEn": "Bullroarer",
+    "aliases": [
+      "吼板",
+      "Bull-roarer"
+    ],
+    "year": -20000,
+    "era": "prehistory",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "woodworking",
+      "rope"
+    ],
+    "related": [
+      "flute",
+      "drum"
+    ],
+    "desc": "挥绳旋动鸣响的骨木板，古老的仪式发声器。"
+  },
+  {
+    "id": "sickle",
+    "name": "镰刀",
+    "nameEn": "Sickle",
+    "wikiEn": "Sickle",
+    "aliases": [
+      "石镰",
+      "收割镰"
+    ],
+    "year": -19000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "microlith",
+      "woodworking"
+    ],
+    "related": [
+      "agriculture",
+      "bread"
+    ],
+    "desc": "嵌细石刃的木镰，用于收割野生与栽培谷物。"
+  },
+  {
+    "id": "spear_thrower",
+    "name": "投矛器",
+    "nameEn": "Spear-thrower",
+    "wikiEn": "Spear-thrower",
+    "aliases": [
+      "Atlatl",
+      "Woomera",
+      "梭镖投射器"
+    ],
+    "year": -17500,
+    "era": "prehistory",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "spear",
+      "woodworking"
+    ],
+    "related": [
+      "bow_and_arrow"
+    ],
+    "desc": "杠杆式投矛器，显著提升长矛射程与穿透力。"
+  },
+  {
+    "id": "oil_lamp",
+    "name": "油灯",
+    "nameEn": "Oil lamp",
+    "wikiEn": "Oil lamp",
+    "aliases": [
+      "石灯",
+      "Lascaux lamp"
+    ],
+    "year": -17000,
+    "era": "prehistory",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "fire"
+    ],
+    "related": [
+      "torch",
+      "hearth"
+    ],
+    "desc": "盛油脂燃灯芯的石灯，洞穴中的稳定照明。"
+  },
+  {
+    "id": "star_chart",
+    "name": "星图",
+    "nameEn": "Star chart",
+    "wikiEn": "Star chart",
+    "aliases": [
+      "星象图",
+      "星点壁画"
+    ],
+    "year": -17000,
+    "era": "prehistory",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "rock_art"
+    ],
+    "related": [
+      "calendar"
+    ],
+    "desc": "洞穴壁画中的星点标记，最早的天文观测记录。"
+  },
+  {
+    "id": "hut",
+    "name": "棚屋",
+    "nameEn": "Hut",
+    "wikiEn": "Hut",
+    "aliases": [
+      "茅屋",
+      "猛犸骨棚屋",
+      "Mezhirich hut"
+    ],
+    "year": -15000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "woodworking",
+      "rope"
+    ],
+    "related": [
+      "tent",
+      "village"
+    ],
+    "desc": "以木骨、兽皮或猛犸骨搭建的棚屋，最早人工居所。"
+  },
+  {
+    "id": "bolas",
+    "name": "",
+    "nameEn": "Bolas",
+    "wikiEn": "Bolas",
+    "aliases": [
+      "流星索",
+      "绊兽索"
+    ],
+    "year": -15000,
+    "era": "prehistory",
+    "category": "transport_exploration",
+    "importance": 5,
+    "prereqs": [
+      "rope"
+    ],
+    "related": [
+      "sling_weapon",
+      "spear"
+    ],
+    "desc": "系重球的绳索，掷出缠绕以绊捕猎物。"
+  },
+  {
+    "id": "fishing_net",
+    "name": "渔网",
+    "nameEn": "Fishing net",
+    "wikiEn": "Fishing net",
+    "aliases": [
+      "Net",
+      "鱼网"
+    ],
+    "year": -15000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "weaving",
+      "rope"
+    ],
+    "related": [
+      "fish_hook",
+      "harpoon"
+    ],
+    "desc": "编织而成的渔网，大幅提高捕鱼效率。"
+  },
+  {
+    "id": "bread",
+    "name": "面包",
+    "nameEn": "Bread",
+    "wikiEn": "Bread",
+    "aliases": [
+      "面饼",
+      "Flatbread",
+      "Shubayqa bread"
+    ],
+    "year": -14500,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "cooking"
+    ],
+    "related": [
+      "agriculture",
+      "beer",
+      "quern_stones"
+    ],
+    "desc": "约旦遗址出土的无酵面饼，比农业还早数千年。"
+  },
+  {
+    "id": "food_preservation",
+    "name": "食物保存",
+    "nameEn": "Food preservation",
+    "wikiEn": "Food preservation",
+    "aliases": [
+      "风干",
+      "烟熏",
+      "Smoking",
+      "Drying"
+    ],
+    "year": -12000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "food_storage",
+      "fire"
+    ],
+    "related": [
+      "bread",
+      "salt_production"
+    ],
+    "desc": "以风干、烟熏等方法延长食物的存放时间。"
+  },
+  {
+    "id": "village",
+    "name": "定居村落",
+    "nameEn": "Village",
+    "wikiEn": "Village",
+    "aliases": [
+      "定居点",
+      "Sedentism",
+      "Ain Mallaha"
+    ],
+    "year": -12000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [
+      "hut"
+    ],
+    "related": [
+      "agriculture",
+      "grain_storage",
+      "mudbrick"
+    ],
+    "desc": "纳图夫人营建的常年定居村落，先于农业出现。"
+  },
+  {
+    "id": "digging_stick",
+    "name": "掘土棒",
+    "nameEn": "Digging stick",
+    "wikiEn": "Digging stick",
+    "aliases": [
+      "掘棒",
+      "尖木棍"
+    ],
+    "year": -12000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "woodworking"
+    ],
+    "related": [
+      "hoe",
+      "agriculture"
+    ],
+    "desc": "尖头木棒，用于挖取块根与点种的原始农具。"
+  },
+  {
+    "id": "sling_weapon",
+    "name": "投石索",
+    "nameEn": "Sling",
+    "wikiEn": "Sling (weapon)",
+    "aliases": [
+      "Sling",
+      "投石器",
+      "甩石索"
+    ],
+    "year": -10000,
+    "era": "prehistory",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "textile",
+      "rope"
+    ],
+    "related": [
+      "bow_and_arrow",
+      "bolas"
+    ],
+    "desc": "以索带甩掷石弹的远程武器。"
+  },
+  {
+    "id": "trepanation",
+    "name": "环钻术",
+    "nameEn": "Trepanning",
+    "wikiEn": "Trepanning",
+    "aliases": [
+      "穿颅术",
+      "开颅术"
+    ],
+    "year": -10000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "stone_tools"
+    ],
+    "related": [
+      "prehistoric_medicine",
+      "amputation"
+    ],
+    "desc": "在颅骨上钻孔的古老外科手术，多地史前遗址可见。"
+  },
+  {
+    "id": "spindle_whorl",
+    "name": "纺轮",
+    "nameEn": "Spindle whorl",
+    "wikiEn": "Spindle whorl",
+    "aliases": [
+      "纺坠",
+      "Spindle",
+      "纺锤轮"
+    ],
+    "year": -10000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "textile"
+    ],
+    "related": [
+      "weaving_loom",
+      "wool"
+    ],
+    "desc": "纺锤上的重轮，借重力捻纺毛线，最早轮状工具。"
+  },
+  {
+    "id": "grain_storage",
+    "name": "粮仓",
+    "nameEn": "Granary",
+    "wikiEn": "Granary",
+    "aliases": [
+      "谷物储存",
+      "Grain storage",
+      "Dhra granary"
+    ],
+    "year": -9500,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "food_storage",
+      "village"
+    ],
+    "related": [
+      "agriculture",
+      "pottery"
+    ],
+    "desc": "专门囤积谷物的仓廪设施，定居社会的保障。"
+  },
+  {
+    "id": "megalith",
+    "name": "巨石建筑",
+    "nameEn": "Megalith",
+    "wikiEn": "Megalith",
+    "aliases": [
+      "巨石纪念物",
+      "Göbekli Tepe",
+      "巨石结构"
+    ],
+    "year": -9500,
+    "era": "prehistory",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "ground_stone"
+    ],
+    "related": [
+      "stone_circle",
+      "village"
+    ],
+    "desc": "搬运巨型石料营建的纪念性建筑，如哥贝克力石阵。"
+  },
+  {
+    "id": "mudbrick",
+    "name": "土坯",
+    "nameEn": "Mudbrick",
+    "wikiEn": "Mudbrick",
+    "aliases": [
+      "泥砖",
+      "日晒砖",
+      "Adobe"
+    ],
+    "year": -9000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "fired_brick",
+      "village",
+      "plaster"
+    ],
+    "desc": "泥草脱模晒干的土坯砖，早期聚落主要建材。"
+  },
+  {
+    "id": "plaster",
+    "name": "灰泥",
+    "nameEn": "Plaster",
+    "wikiEn": "Plaster",
+    "aliases": [
+      "石灰灰泥",
+      "白灰面",
+      "Lime plaster"
+    ],
+    "year": -9000,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "kiln"
+    ],
+    "related": [
+      "mudbrick"
+    ],
+    "desc": "烧制石灰调成灰泥，涂抹墙面与地面。"
+  },
+  {
+    "id": "adze",
+    "name": "锛",
+    "nameEn": "Adze",
+    "wikiEn": "Adze",
+    "aliases": [
+      "石锛",
+      "横刃斧"
+    ],
+    "year": -9000,
+    "era": "prehistory",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "ground_stone",
+      "woodworking"
+    ],
+    "related": [
+      "axe"
+    ],
+    "desc": "横向装刃的锛，用于刨削木材、造船建房。"
+  },
+  {
+    "id": "shoe",
+    "name": "鞋履",
+    "nameEn": "Shoe",
+    "wikiEn": "Shoe",
+    "aliases": [
+      "鞋",
+      "Sandal",
+      "草鞋",
+      "Fort Rock sandal"
+    ],
+    "year": -8500,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "leather"
+    ],
+    "related": [
+      "clothing"
+    ],
+    "desc": "最早的草鞋与皮鞋，保护足部便于长途奔走。"
+  },
+  {
+    "id": "paddle",
+    "name": "独木桨",
+    "nameEn": "Oar",
+    "wikiEn": "Oar",
+    "aliases": [
+      "桨",
+      "Paddle",
+      "木桨",
+      "Star Carr paddle"
+    ],
+    "year": -8500,
+    "era": "prehistory",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "woodworking"
+    ],
+    "related": [
+      "boat_canoe"
+    ],
+    "desc": "划水推进的木桨，与独木舟配套使用。"
+  },
+  {
+    "id": "well",
+    "name": "水井",
+    "nameEn": "Well",
+    "wikiEn": "Well",
+    "aliases": [
+      "Water well",
+      "古井"
+    ],
+    "year": -8400,
+    "era": "prehistory",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "irrigation",
+      "village"
+    ],
+    "desc": "人工开挖的水井，提供稳定洁净的饮用水。"
+  },
+  {
+    "id": "boat_canoe",
+    "name": "独木舟",
+    "nameEn": "Canoe",
+    "wikiEn": "Canoe",
+    "aliases": [
+      "Dugout canoe",
+      "独木船",
+      "Pesse canoe"
+    ],
+    "year": -8200,
+    "era": "prehistory",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "woodworking",
+      "fire"
+    ],
+    "related": [
+      "paddle",
+      "raft",
+      "sail"
+    ],
+    "desc": "整木挖空制成的独木舟，现存最早的船。"
+  },
+  {
+    "id": "agriculture",
+    "name": "农业",
+    "nameEn": "Agriculture",
+    "wikiEn": "Agriculture",
+    "aliases": [
+      "农耕",
+      "作物栽培",
+      "Neolithic Revolution"
+    ],
+    "year": -8000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 1,
+    "prereqs": [
+      "village",
+      "sickle"
+    ],
+    "related": [
+      "irrigation",
+      "animal_husbandry",
+      "grain_storage"
+    ],
+    "desc": "驯化栽培作物、定居耕作的农业革命，文明根基。"
+  },
+  {
+    "id": "animal_husbandry",
+    "name": "畜牧",
+    "nameEn": "Animal husbandry",
+    "wikiEn": "Animal husbandry",
+    "aliases": [
+      "家畜饲养",
+      "驯化动物",
+      "Domestication"
+    ],
+    "year": -8000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [
+      "domestic_dog",
+      "village"
+    ],
+    "related": [
+      "dairy",
+      "wool",
+      "working_animal",
+      "agriculture"
+    ],
+    "desc": "驯化饲养羊、猪、牛等家畜，提供肉奶毛皮。"
+  },
+  {
+    "id": "pottery",
+    "name": "陶器",
+    "nameEn": "Pottery",
+    "wikiEn": "Pottery",
+    "aliases": [
+      "陶",
+      "Ceramics",
+      "制陶"
+    ],
+    "year": -8000,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "kiln"
+    ],
+    "related": [
+      "pottery_wheel",
+      "fermentation",
+      "food_storage"
+    ],
+    "desc": "黏土塑形烧制的陶器，用于炊煮、储存与酿造。"
+  },
+  {
+    "id": "native_copper",
+    "name": "自然铜器",
+    "nameEn": "Native copper",
+    "wikiEn": "Native copper",
+    "aliases": [
+      "天然铜",
+      "冷锻铜器",
+      "Old Copper Complex"
+    ],
+    "year": -8000,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "smelting",
+      "goldworking"
+    ],
+    "desc": "不经冶炼直接锻打自然铜制成的小件铜器。"
+  },
+  {
+    "id": "slash_and_burn",
+    "name": "刀耕火种",
+    "nameEn": "Slash-and-burn",
+    "wikiEn": "Slash-and-burn",
+    "aliases": [
+      "火耕",
+      "游耕",
+      "Swidden"
+    ],
+    "year": -8000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "fire"
+    ],
+    "related": [
+      "agriculture"
+    ],
+    "desc": "烧荒开辟农田的火耕法，早期农作方式之一。"
+  },
+  {
+    "id": "fermentation",
+    "name": "发酵酿造",
+    "nameEn": "Fermentation",
+    "wikiEn": "Fermentation",
+    "aliases": [
+      "Alcoholic fermentation",
+      "Ethanol fermentation",
+      "酿造"
+    ],
+    "year": -8000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "wine",
+      "beer",
+      "bread",
+      "pottery"
+    ],
+    "desc": "利用微生物发酵酿酒、制面食与加工乳品。"
+  },
+  {
+    "id": "calendar",
+    "name": "历法",
+    "nameEn": "Calendar",
+    "wikiEn": "Calendar",
+    "aliases": [
+      "太阴历",
+      "Lunar calendar",
+      "Warren Field"
+    ],
+    "year": -8000,
+    "era": "neolithic",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "tally_stick",
+      "star_chart"
+    ],
+    "related": [
+      "proto_writing"
+    ],
+    "desc": "依据月相天象纪时的早期历法，用以安排农时。"
+  },
+  {
+    "id": "clay_token",
+    "name": "陶筹",
+    "nameEn": "Clay token",
+    "wikiEn": "History of ancient numeral systems",
+    "aliases": [
+      "Clay token",
+      "Bulla (seal)",
+      "Bullae",
+      "计数陶筹"
+    ],
+    "year": -8000,
+    "era": "neolithic",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "tally_stick"
+    ],
+    "related": [
+      "proto_writing",
+      "stamp_seal"
+    ],
+    "desc": "不同形状的小陶筹用于记数记账，是文字的先声。"
+  },
+  {
+    "id": "dairy",
+    "name": "乳制品",
+    "nameEn": "Dairy",
+    "wikiEn": "Dairy",
+    "aliases": [
+      "奶类",
+      "Milk",
+      "挤奶"
+    ],
+    "year": -7000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "animal_husbandry"
+    ],
+    "related": [
+      "cheese"
+    ],
+    "desc": "饮用利用家畜奶，人群随之演化出乳糖耐受。"
+  },
+  {
+    "id": "bitumen",
+    "name": "沥青",
+    "nameEn": "Bitumen",
+    "wikiEn": "Bitumen",
+    "aliases": [
+      "天然沥青",
+      "地沥青"
+    ],
+    "year": -7000,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "adhesive",
+      "reed_boat"
+    ],
+    "desc": "天然沥青用作胶黏剂、防水涂料与嵌缝材料。"
+  },
+  {
+    "id": "wattle_and_daub",
+    "name": "木骨泥墙",
+    "nameEn": "Wattle and daub",
+    "wikiEn": "Wattle and daub",
+    "aliases": [
+      "抹灰篱笆墙",
+      "泥笆墙"
+    ],
+    "year": -7000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "woodworking",
+      "mudbrick"
+    ],
+    "related": [
+      "longhouse"
+    ],
+    "desc": "枝条编墙再涂泥的建房工艺，新石器农舍常见。"
+  },
+  {
+    "id": "sled",
+    "name": "雪橇",
+    "nameEn": "Sled",
+    "wikiEn": "Sled",
+    "aliases": [
+      "Sledge",
+      "狗拉雪橇",
+      "Dog sled"
+    ],
+    "year": -7000,
+    "era": "neolithic",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "woodworking",
+      "domestic_dog"
+    ],
+    "related": [
+      "ski"
+    ],
+    "desc": "冰面雪地滑行的载具，后以犬只牵引。"
+  },
+  {
+    "id": "charcoal",
+    "name": "木炭",
+    "nameEn": "Charcoal",
+    "wikiEn": "Charcoal",
+    "aliases": [
+      "烧炭",
+      "硬木炭"
+    ],
+    "year": -7000,
+    "era": "neolithic",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "fire",
+      "kiln"
+    ],
+    "related": [
+      "smelting",
+      "pottery"
+    ],
+    "desc": "缺氧烧制成的高温燃料，用于冶金与制陶。"
+  },
+  {
+    "id": "proto_writing",
+    "name": "原始文字",
+    "nameEn": "Proto-writing",
+    "wikiEn": "Proto-writing",
+    "aliases": [
+      "前文字",
+      "Jiahu symbols",
+      "Vinča symbols",
+      "贾湖符号"
+    ],
+    "year": -6600,
+    "era": "neolithic",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "tally_stick"
+    ],
+    "related": [
+      "clay_token",
+      "rock_art"
+    ],
+    "desc": "表意符号系统（贾湖、温查符号），文字的雏形。"
+  },
+  {
+    "id": "smelting",
+    "name": "金属冶炼",
+    "nameEn": "Smelting",
+    "wikiEn": "Smelting",
+    "aliases": [
+      "Lead smelting",
+      "Copper smelting",
+      "炼铅",
+      "炼铜"
+    ],
+    "year": -6500,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "kiln",
+      "charcoal"
+    ],
+    "related": [
+      "native_copper",
+      "lost_wax_casting",
+      "goldworking"
+    ],
+    "desc": "从矿石中熔出金属，始于炼铅，继以炼铜。"
+  },
+  {
+    "id": "map",
+    "name": "地图",
+    "nameEn": "Map",
+    "wikiEn": "Map",
+    "aliases": [
+      "Çatalhöyük map",
+      "地图绘制"
+    ],
+    "year": -6200,
+    "era": "neolithic",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "rock_art",
+      "proto_writing"
+    ],
+    "related": [
+      "calendar"
+    ],
+    "desc": "在壁画上描绘聚落与火山地理，最早的地图。"
+  },
+  {
+    "id": "weaving_loom",
+    "name": "织机",
+    "nameEn": "Loom",
+    "wikiEn": "Loom",
+    "aliases": [
+      "织布机",
+      "Loom weights",
+      "腰机"
+    ],
+    "year": -6000,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "weaving"
+    ],
+    "related": [
+      "spindle_whorl",
+      "sericulture"
+    ],
+    "desc": "以框架张经线织造的织机，提高布匹产量。"
+  },
+  {
+    "id": "oven",
+    "name": "烤炉",
+    "nameEn": "Oven",
+    "wikiEn": "Oven",
+    "aliases": [
+      "陶炉",
+      "Tannur",
+      "面包炉"
+    ],
+    "year": -6000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "earth_oven",
+      "fire"
+    ],
+    "related": [
+      "bread",
+      "pottery"
+    ],
+    "desc": "封闭式烘烤炉具，用于烤面包与炊爨。"
+  },
+  {
+    "id": "irrigation",
+    "name": "灌溉",
+    "nameEn": "Irrigation",
+    "wikiEn": "Irrigation",
+    "aliases": [
+      "渠灌",
+      "灌溉渠"
+    ],
+    "year": -6000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [
+      "agriculture",
+      "well"
+    ],
+    "related": [
+      "terrace_farming"
+    ],
+    "desc": "开渠引水浇灌农田，突破旱作产量限制。"
+  },
+  {
+    "id": "wine",
+    "name": "葡萄酒",
+    "nameEn": "Wine",
+    "wikiEn": "Wine",
+    "aliases": [
+      "果酒",
+      "Winemaking"
+    ],
+    "year": -6000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "fermentation",
+      "pottery"
+    ],
+    "related": [
+      "beer"
+    ],
+    "desc": "以葡萄发酵酿酒，高加索地区酿造历史最久。"
+  },
+  {
+    "id": "manure",
+    "name": "粪肥",
+    "nameEn": "Manure",
+    "wikiEn": "Manure",
+    "aliases": [
+      "施肥",
+      "厩肥"
+    ],
+    "year": -6000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "animal_husbandry",
+      "agriculture"
+    ],
+    "related": [
+      "irrigation"
+    ],
+    "desc": "以家畜粪肥肥田，维持耕地的持续产出。"
+  },
+  {
+    "id": "mirror",
+    "name": "镜子",
+    "nameEn": "Mirror",
+    "wikiEn": "Mirror",
+    "aliases": [
+      "黑曜石镜",
+      "Obsidian mirror"
+    ],
+    "year": -6000,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "ground_stone"
+    ],
+    "related": [
+      "cosmetics"
+    ],
+    "desc": "打磨黑曜石制成的镜子，最早的照容用具。"
+  },
+  {
+    "id": "jade_working",
+    "name": "玉器",
+    "nameEn": "Jade",
+    "wikiEn": "Jade",
+    "aliases": [
+      "玉",
+      "玉雕",
+      "Jade carving"
+    ],
+    "year": -6000,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "ground_stone"
+    ],
+    "related": [
+      "axe"
+    ],
+    "desc": "琢碾玉石制作礼器饰品，中国新石器文化尤盛。"
+  },
+  {
+    "id": "beekeeping",
+    "name": "养蜂",
+    "nameEn": "Beekeeping",
+    "wikiEn": "Beekeeping",
+    "aliases": [
+      "蜜蜂饲养",
+      "Apiculture",
+      "采蜜"
+    ],
+    "year": -6000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "agriculture"
+    ],
+    "related": [
+      "pottery"
+    ],
+    "desc": "饲养蜜蜂采蜜取蜡，史前岩画已见相关场景。"
+  },
+  {
+    "id": "chisel",
+    "name": "凿子",
+    "nameEn": "Chisel",
+    "wikiEn": "Chisel",
+    "aliases": [
+      "石凿",
+      "木工凿"
+    ],
+    "year": -6000,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "ground_stone",
+      "woodworking"
+    ],
+    "related": [
+      "adze",
+      "saw"
+    ],
+    "desc": "刃口平直的凿，用于木工、骨器与建筑。"
+  },
+  {
+    "id": "axe",
+    "name": "石斧",
+    "nameEn": "Axe",
+    "wikiEn": "Axe",
+    "aliases": [
+      "磨制石斧",
+      "Polished stone axe",
+      "Celt"
+    ],
+    "year": -6000,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "ground_stone",
+      "woodworking"
+    ],
+    "related": [
+      "adze",
+      "stilt_house"
+    ],
+    "desc": "磨制石斧装柄使用，伐林垦田与木工的重器。"
+  },
+  {
+    "id": "stamp_seal",
+    "name": "印章",
+    "nameEn": "Stamp seal",
+    "wikiEn": "Stamp seal",
+    "aliases": [
+      "戳印",
+      "哈拉夫印章"
+    ],
+    "year": -6000,
+    "era": "neolithic",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "clay_token"
+    ],
+    "related": [
+      "proto_writing",
+      "pottery"
+    ],
+    "desc": "刻纹石质戳印，在黏土上压印标记以标识所有。"
+  },
+  {
+    "id": "salt_production",
+    "name": "制盐",
+    "nameEn": "Salt production",
+    "wikiEn": "Salt production",
+    "aliases": [
+      "Salt",
+      "煮盐",
+      "岩盐"
+    ],
+    "year": -5700,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "pottery",
+      "fire"
+    ],
+    "related": [
+      "food_preservation"
+    ],
+    "desc": "煮卤或开采岩盐制盐，调味兼腌制食物。"
+  },
+  {
+    "id": "sail",
+    "name": "帆",
+    "nameEn": "Sail",
+    "wikiEn": "Sail",
+    "aliases": [
+      "Sailing",
+      "船帆",
+      "风帆"
+    ],
+    "year": -5500,
+    "era": "neolithic",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "weaving",
+      "boat_canoe"
+    ],
+    "related": [
+      "reed_boat"
+    ],
+    "desc": "借助风力推进的帆，开启风帆航行时代。"
+  },
+  {
+    "id": "cheese",
+    "name": "奶酪",
+    "nameEn": "Cheese",
+    "wikiEn": "Cheese",
+    "aliases": [
+      "干酪",
+      "乳酪"
+    ],
+    "year": -5500,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "dairy",
+      "pottery"
+    ],
+    "related": [
+      "fermentation"
+    ],
+    "desc": "以凝乳过滤制成奶酪，易消化且耐储存。"
+  },
+  {
+    "id": "longhouse",
+    "name": "长屋",
+    "nameEn": "Longhouse",
+    "wikiEn": "Longhouse",
+    "aliases": [
+      "长屋建筑",
+      "LBK longhouse"
+    ],
+    "year": -5500,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "woodworking",
+      "wattle_and_daub"
+    ],
+    "related": [
+      "stilt_house"
+    ],
+    "desc": "多户共居的长条木构房屋，早期农耕社群居所。"
+  },
+  {
+    "id": "reed_boat",
+    "name": "芦苇船",
+    "nameEn": "Reed boat",
+    "wikiEn": "Reed boat",
+    "aliases": [
+      "苇舟",
+      "Reed raft",
+      "纸莎草船"
+    ],
+    "year": -5500,
+    "era": "neolithic",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "basket",
+      "weaving"
+    ],
+    "related": [
+      "raft",
+      "sail"
+    ],
+    "desc": "捆束芦苇成船，两河流域与尼罗河广泛使用。"
+  },
+  {
+    "id": "terrace_farming",
+    "name": "梯田",
+    "nameEn": "Terrace",
+    "wikiEn": "Terrace (earthworks)",
+    "aliases": [
+      "Terracing",
+      "梯田农业"
+    ],
+    "year": -5000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "irrigation",
+      "agriculture"
+    ],
+    "related": [],
+    "desc": "坡地修成阶台，保水保土以种植作物。"
+  },
+  {
+    "id": "cotton",
+    "name": "棉花",
+    "nameEn": "Cotton",
+    "wikiEn": "Cotton",
+    "aliases": [
+      "棉线",
+      "草棉"
+    ],
+    "year": -5000,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "agriculture",
+      "weaving_loom"
+    ],
+    "related": [
+      "wool"
+    ],
+    "desc": "梅赫尔格尔出土棉线，是最早的棉花利用。"
+  },
+  {
+    "id": "lacquer",
+    "name": "漆器",
+    "nameEn": "Lacquer",
+    "wikiEn": "Lacquer",
+    "aliases": [
+      "漆",
+      "大漆",
+      "Lacquerware"
+    ],
+    "year": -5000,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "pottery"
+    ],
+    "desc": "割漆树取天然大漆髹涂器物，中国特有工艺。"
+  },
+  {
+    "id": "seawall",
+    "name": "海堤",
+    "nameEn": "Seawall",
+    "wikiEn": "Seawall",
+    "aliases": [
+      "海塘",
+      "防波堤"
+    ],
+    "year": -5000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "ground_stone"
+    ],
+    "related": [
+      "village"
+    ],
+    "desc": "沿岸砌筑海堤，保护聚落免受海潮侵袭。"
+  },
+  {
+    "id": "drum",
+    "name": "鼓",
+    "nameEn": "Drum",
+    "wikiEn": "Drum",
+    "aliases": [
+      "陶鼓",
+      "土鼓"
+    ],
+    "year": -5000,
+    "era": "neolithic",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "pottery"
+    ],
+    "related": [
+      "flute",
+      "bullroarer"
+    ],
+    "desc": "陶框蒙皮的鼓，用于仪典、信号与乐舞。"
+  },
+  {
+    "id": "stilt_house",
+    "name": "干栏屋",
+    "nameEn": "Stilt house",
+    "wikiEn": "Stilt house",
+    "aliases": [
+      "干栏式建筑",
+      "桩上屋",
+      "Pile dwelling",
+      "湖居"
+    ],
+    "year": -5000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "woodworking",
+      "axe"
+    ],
+    "related": [
+      "longhouse"
+    ],
+    "desc": "木桩架高的干栏建筑，滨湖湿地防潮防虫。"
+  },
+  {
+    "id": "ski",
+    "name": "滑雪板",
+    "nameEn": "Ski",
+    "wikiEn": "Ski",
+    "aliases": [
+      "Skiing",
+      "木滑雪板"
+    ],
+    "year": -5000,
+    "era": "neolithic",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "woodworking"
+    ],
+    "related": [
+      "sled"
+    ],
+    "desc": "缚于足下的木滑雪板，雪地狩猎与通行工具。"
+  },
+  {
+    "id": "saw",
+    "name": "锯子",
+    "nameEn": "Saw",
+    "wikiEn": "Saw",
+    "aliases": [
+      "石锯",
+      "Flint saw"
+    ],
+    "year": -5000,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "stone_tools",
+      "woodworking"
+    ],
+    "related": [
+      "chisel"
+    ],
+    "desc": "带齿切割的石锯，用于加工木材与骨料。"
+  },
+  {
+    "id": "hoe",
+    "name": "锄",
+    "nameEn": "Hoe",
+    "wikiEn": "Hoe (tool)",
+    "aliases": [
+      "石锄",
+      "锄具"
+    ],
+    "year": -5000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "woodworking",
+      "ground_stone"
+    ],
+    "related": [
+      "ard",
+      "digging_stick"
+    ],
+    "desc": "松土除草的锄，由掘土棒发展而来。"
+  },
+  {
+    "id": "comb",
+    "name": "梳子",
+    "nameEn": "Comb",
+    "wikiEn": "Comb",
+    "aliases": [
+      "骨梳",
+      "木梳"
+    ],
+    "year": -5000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 5,
+    "prereqs": [
+      "bone_tool"
+    ],
+    "related": [
+      "cosmetics"
+    ],
+    "desc": "梳理毛发的骨木梳，兼具除虱与妆饰功能。"
+  },
+  {
+    "id": "stone_circle",
+    "name": "石圈",
+    "nameEn": "Stone circle",
+    "wikiEn": "Stone circle",
+    "aliases": [
+      "环状列石",
+      "Nabta Playa",
+      "巨石环"
+    ],
+    "year": -4800,
+    "era": "neolithic",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "megalith"
+    ],
+    "related": [
+      "calendar"
+    ],
+    "desc": "环形排布立石的巨石纪念建筑，兼具天文意义。"
+  },
+  {
+    "id": "goldworking",
+    "name": "金器",
+    "nameEn": "Gold",
+    "wikiEn": "Gold",
+    "aliases": [
+      "黄金加工",
+      "Varna gold",
+      "金饰"
+    ],
+    "year": -4600,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "native_copper",
+      "smelting"
+    ],
+    "desc": "锤揲天然黄金制作饰物，瓦尔纳墓葬金器最古。"
+  },
+  {
+    "id": "lost_wax_casting",
+    "name": "失蜡法",
+    "nameEn": "Lost-wax casting",
+    "wikiEn": "Lost-wax casting",
+    "aliases": [
+      "失蜡铸造",
+      "Cire perdue",
+      "熔模铸造"
+    ],
+    "year": -4500,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "smelting",
+      "pottery"
+    ],
+    "related": [],
+    "desc": "以蜡模翻铸复杂金属器的失蜡铸造法。"
+  },
+  {
+    "id": "ard",
+    "name": "刮犁",
+    "nameEn": "Ard",
+    "wikiEn": "Ard (plough)",
+    "aliases": [
+      "简易犁",
+      "Scratch plough"
+    ],
+    "year": -4500,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "woodworking",
+      "agriculture"
+    ],
+    "related": [
+      "plow",
+      "working_animal"
+    ],
+    "desc": "划破地表的简易木犁，犁耕农业的最初形态。"
+  },
+  {
+    "id": "faience",
+    "name": "釉砂",
+    "nameEn": "Egyptian faience",
+    "wikiEn": "Egyptian faience",
+    "aliases": [
+      "费昂斯",
+      "Faience",
+      "釉陶珠"
+    ],
+    "year": -4500,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "kiln",
+      "pottery"
+    ],
+    "related": [],
+    "desc": "石英砂胎施釉烧成的釉砂饰品，玻璃工艺前身。"
+  },
+  {
+    "id": "fired_brick",
+    "name": "烧结砖",
+    "nameEn": "Fired brick",
+    "wikiEn": "Brick",
+    "aliases": [
+      "烧砖",
+      "窑砖",
+      "Fired brick"
+    ],
+    "year": -4400,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "mudbrick",
+      "kiln"
+    ],
+    "related": [
+      "plaster"
+    ],
+    "desc": "入窑高温烧成的砖，坚固耐水的建材革新。"
+  },
+  {
+    "id": "wool",
+    "name": "羊毛",
+    "nameEn": "Wool",
+    "wikiEn": "Wool",
+    "aliases": [
+      "毛线",
+      "毛纺"
+    ],
+    "year": -4000,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "animal_husbandry",
+      "spindle_whorl"
+    ],
+    "related": [
+      "textile",
+      "weaving_loom"
+    ],
+    "desc": "选育毛用羊取毛纺线，毛织衣料逐渐普及。"
+  },
+  {
+    "id": "cosmetics",
+    "name": "化妆品",
+    "nameEn": "Cosmetics",
+    "wikiEn": "Cosmetics",
+    "aliases": [
+      "妆粉",
+      "眼妆",
+      "Eye paint"
+    ],
+    "year": -4000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "ochre"
+    ],
+    "related": [
+      "mirror"
+    ],
+    "desc": "以矿物颜料修饰面容身体，前王朝埃及已盛行。"
+  },
+  {
+    "id": "road",
+    "name": "道路",
+    "nameEn": "Road",
+    "wikiEn": "Road",
+    "aliases": [
+      "Roads",
+      "铺砌道路",
+      "Paved road"
+    ],
+    "year": -4000,
+    "era": "neolithic",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "ground_stone"
+    ],
+    "related": [
+      "village"
+    ],
+    "desc": "人工铺筑的道路，连接聚落、便利运输。"
+  },
+  {
+    "id": "plumbing",
+    "name": "给排水管道",
+    "nameEn": "Plumbing",
+    "wikiEn": "Plumbing",
+    "aliases": [
+      "陶管",
+      "Clay pipes",
+      "输水管道"
+    ],
+    "year": -4000,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "pottery",
+      "kiln"
+    ],
+    "related": [
+      "well",
+      "irrigation"
+    ],
+    "desc": "烧制陶管并铺设给排水管道系统。"
+  },
+  {
+    "id": "working_animal",
+    "name": "役畜",
+    "nameEn": "Working animal",
+    "wikiEn": "Working animal",
+    "aliases": [
+      "畜力",
+      "Draft animal",
+      "役用动物"
+    ],
+    "year": -4000,
+    "era": "neolithic",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "animal_husbandry",
+      "rope"
+    ],
+    "related": [
+      "ard",
+      "plow",
+      "sled"
+    ],
+    "desc": "以牛等家畜挽曳犁橇，将畜力转化为动力。"
+  },
+  {
+    "id": "sericulture",
+    "name": "养蚕",
+    "nameEn": "Sericulture",
+    "wikiEn": "Sericulture",
+    "aliases": [
+      "蚕丝业",
+      "蚕丝",
+      "Silk",
+      "养蚕缫丝"
+    ],
+    "year": -3630,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "agriculture",
+      "weaving_loom"
+    ],
+    "related": [
+      "textile"
+    ],
+    "desc": "中国最早养蚕缫丝织绸，约公元前三千六百年。"
+  },
+  {
+    "id": "plow",
+    "name": "犁",
+    "nameEn": "Plough",
+    "wikiEn": "Plough",
+    "aliases": [
+      "犁耕",
+      "Plow",
+      "Ploughing"
+    ],
+    "year": -3500,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [
+      "ard",
+      "working_animal"
+    ],
+    "related": [
+      "agriculture",
+      "irrigation"
+    ],
+    "desc": "畜力牵引、翻土成垄的犁，深耕农业的关键。"
+  },
+  {
+    "id": "pottery_wheel",
+    "name": "陶轮",
+    "nameEn": "Potter's wheel",
+    "wikiEn": "Potter's wheel",
+    "aliases": [
+      "辘轳",
+      "制陶轮盘",
+      "Slow wheel"
+    ],
+    "year": -3500,
+    "era": "neolithic",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "pottery"
+    ],
+    "related": [
+      "wheel_axle"
+    ],
+    "desc": "旋转成形的陶轮，大幅提高制陶效率，车轮前身。"
+  },
+  {
+    "id": "beer",
+    "name": "啤酒",
+    "nameEn": "Beer",
+    "wikiEn": "Beer",
+    "aliases": [
+      "麦酒",
+      "大麦啤酒"
+    ],
+    "year": -3500,
+    "era": "neolithic",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "fermentation",
+      "pottery",
+      "bread"
+    ],
+    "related": [
+      "wine"
+    ],
+    "desc": "以发芽谷物发酵酿造啤酒，两河早期重要饮品。"
+  }
+]

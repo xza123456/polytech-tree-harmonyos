@@ -1,0 +1,3224 @@
+[
+  {
+    "id": "iron_smelting",
+    "name": "铁器冶炼",
+    "nameEn": "Iron smelting",
+    "wikiEn": "Ferrous metallurgy",
+    "aliases": [
+      "赫梯冶铁",
+      "Hittite iron"
+    ],
+    "year": -1200,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 1,
+    "prereqs": [
+      "bronze_metallurgy"
+    ],
+    "related": [
+      "cast_iron",
+      "wootz_steel"
+    ],
+    "desc": "赫梯人始炼块炼铁，铁器时代由此开启。"
+  },
+  {
+    "id": "alphabet",
+    "name": "字母文字",
+    "nameEn": "Alphabet",
+    "wikiEn": "Alphabet",
+    "aliases": [
+      "腓尼基字母",
+      "希腊字母",
+      "拉丁字母"
+    ],
+    "year": -1050,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "latin_grammar"
+    ],
+    "desc": "腓尼基人创辅音—音素字母，希腊人补元音。"
+  },
+  {
+    "id": "babylonian_star_catalogue",
+    "name": "巴比伦星表",
+    "nameEn": "Babylonian star catalogues",
+    "wikiEn": "Babylonian star catalogues",
+    "aliases": [
+      "MUL.APIN",
+      "Three Stars Each"
+    ],
+    "year": -1100,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "cuneiform_writing"
+    ],
+    "related": [
+      "julian_calendar",
+      "ptolemaic_astronomy"
+    ],
+    "desc": "系统记录恒星与星座，最早的星表传统。"
+  },
+  {
+    "id": "saddle",
+    "name": "马鞍",
+    "nameEn": "Saddle",
+    "wikiEn": "Saddle",
+    "aliases": [
+      "亚述鞍垫"
+    ],
+    "year": -700,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "stirrup"
+    ],
+    "desc": "亚述骑兵使用鞍垫，提升骑乘稳定。"
+  },
+  {
+    "id": "trireme",
+    "name": "三列桨战舰",
+    "nameEn": "Trireme",
+    "wikiEn": "Trireme",
+    "aliases": [
+      "三桡战船"
+    ],
+    "year": -700,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "sail"
+    ],
+    "related": [],
+    "desc": "三层桨座战舰，希腊城邦海军主力。"
+  },
+  {
+    "id": "qanat",
+    "name": "坎儿井",
+    "nameEn": "Qanat",
+    "wikiEn": "Qanat",
+    "aliases": [
+      "Karez",
+      "暗渠",
+      "Kariz"
+    ],
+    "year": -700,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "aqueduct",
+      "dujiangyan"
+    ],
+    "desc": "波斯地下暗渠引水系统，跨流域输水。"
+  },
+  {
+    "id": "windcatcher",
+    "name": "风塔",
+    "nameEn": "Windcatcher",
+    "wikiEn": "Windcatcher",
+    "aliases": [
+      "Badgir",
+      "捕风塔"
+    ],
+    "year": -500,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "yakhchal"
+    ],
+    "desc": "波斯捕风塔，自然通风降温建筑装置。"
+  },
+  {
+    "id": "library_ashurbanipal",
+    "name": "亚述巴尼拔图书馆",
+    "nameEn": "Library of Ashurbanipal",
+    "wikiEn": "Library of Ashurbanipal",
+    "aliases": [
+      "尼尼微图书馆"
+    ],
+    "year": -650,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "library_alexandria"
+    ],
+    "desc": "三万块泥板按形制分类，最早的图书馆目录。"
+  },
+  {
+    "id": "crossbow",
+    "name": "弩",
+    "nameEn": "Crossbow",
+    "wikiEn": "Crossbow",
+    "aliases": [
+      "弩机",
+      "Chinese crossbow"
+    ],
+    "year": -650,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "repeating_crossbow",
+      "ballista"
+    ],
+    "desc": "中国春秋时期出现，靠扳机机构延时发射。"
+  },
+  {
+    "id": "coinage",
+    "name": "钱币",
+    "nameEn": "Coin",
+    "wikiEn": "Coin",
+    "aliases": [
+      "铸币",
+      "吕底亚钱币",
+      "Lydian coin"
+    ],
+    "year": -600,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [],
+    "related": [],
+    "desc": "吕底亚/腓尼基发行标准金属铸币。"
+  },
+  {
+    "id": "wootz_steel",
+    "name": "乌兹钢",
+    "nameEn": "Wootz steel",
+    "wikiEn": "Wootz steel",
+    "aliases": [
+      "坩埚钢",
+      "Crucible steel",
+      "印度钢"
+    ],
+    "year": -600,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "iron_smelting"
+    ],
+    "related": [
+      "cast_iron",
+      "iron_pillar_delhi"
+    ],
+    "desc": "南印度闭坩埚炼出高碳钢，早期钢的代表。"
+  },
+  {
+    "id": "sushruta_samhita",
+    "name": "《妙闻本集》",
+    "nameEn": "Sushruta Samhita",
+    "wikiEn": "Sushruta Samhita",
+    "aliases": [
+      "苏斯鲁多本集",
+      "印度外科学"
+    ],
+    "year": -600,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "hippocratic_medicine"
+    ],
+    "desc": "印度医典，系统记载外科与白内障拨障术。"
+  },
+  {
+    "id": "diolkos",
+    "name": "轨道陆路",
+    "nameEn": "Diolkos",
+    "wikiEn": "Diolkos",
+    "aliases": [
+      "科林斯地峡轨道",
+      "wagonway"
+    ],
+    "year": -600,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "roman_roads"
+    ],
+    "desc": "科林斯地峡上的石轨拖船道，铁路雏形。"
+  },
+  {
+    "id": "rotary_quern",
+    "name": "旋转磨盘",
+    "nameEn": "Rotary quern",
+    "wikiEn": "Quern-stone",
+    "aliases": [
+      "曲柄手磨",
+      "rotary hand mill"
+    ],
+    "year": -600,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "watermill"
+    ],
+    "desc": "迦太基出现曲柄驱动的旋转谷物磨。"
+  },
+  {
+    "id": "arch",
+    "name": "拱券",
+    "nameEn": "Arch",
+    "wikiEn": "Arch",
+    "aliases": [
+      "真拱",
+      "石拱",
+      "True arch"
+    ],
+    "year": -600,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "dome",
+      "segmental_arch_bridge",
+      "aqueduct"
+    ],
+    "desc": "楔形石与拱心石承重，古罗马建筑核心结构。"
+  },
+  {
+    "id": "cloaca_maxima",
+    "name": "马克西姆下水道",
+    "nameEn": "Cloaca Maxima",
+    "wikiEn": "Cloaca Maxima",
+    "aliases": [
+      "罗马大下水道"
+    ],
+    "year": -500,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "arch"
+    ],
+    "related": [],
+    "desc": "罗马巨型排水渠，城市排污工程先驱。"
+  },
+  {
+    "id": "crane",
+    "name": "起重机",
+    "nameEn": "Crane (machine)",
+    "wikiEn": "Crane (machine)",
+    "aliases": [
+      "希腊起重机"
+    ],
+    "year": -515,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "treadwheel_crane",
+      "winch"
+    ],
+    "desc": "希腊人用滑轮绞车起重，节省劳力。"
+  },
+  {
+    "id": "royal_road",
+    "name": "波斯御道",
+    "nameEn": "Royal Road",
+    "wikiEn": "Royal Road",
+    "aliases": [
+      "御道",
+      "Angarium"
+    ],
+    "year": -500,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "silk_road",
+      "roman_roads"
+    ],
+    "desc": "大流士一世修建，配驿站接力邮传。"
+  },
+  {
+    "id": "canal",
+    "name": "运河",
+    "nameEn": "Canal",
+    "wikiEn": "Canal",
+    "aliases": [
+      "古苏伊士运河",
+      "灵渠",
+      "Lingqu"
+    ],
+    "year": -500,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "canal_lock"
+    ],
+    "desc": "法老至托勒密王朝开凿连通水系的运河。"
+  },
+  {
+    "id": "cartography",
+    "name": "地图学",
+    "nameEn": "Cartography",
+    "wikiEn": "Cartography",
+    "aliases": [
+      "Anaximander map"
+    ],
+    "year": -600,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "pei_xiu_grid",
+      "earth_circumference"
+    ],
+    "desc": "阿那克西曼德绘制首幅按比例的世界地图。"
+  },
+  {
+    "id": "sundial",
+    "name": "日晷",
+    "nameEn": "Sundial",
+    "wikiEn": "Sundial",
+    "aliases": [
+      "日规",
+      "影钟"
+    ],
+    "year": -500,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "water_clock",
+      "clock_tower"
+    ],
+    "desc": "希腊人发展日影计时，后配纬度刻度。"
+  },
+  {
+    "id": "water_clock",
+    "name": "漏刻",
+    "nameEn": "Water clock",
+    "wikiEn": "Water clock",
+    "aliases": [
+      "水钟",
+      "Clepsydra",
+      "铜壶滴漏"
+    ],
+    "year": -500,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "sundial",
+      "escapement",
+      "alarm_clock"
+    ],
+    "desc": "中国周代与希腊均用受控水流计量时间。"
+  },
+  {
+    "id": "shulba_sutras",
+    "name": "《绳法经》",
+    "nameEn": "Shulba Sutras",
+    "wikiEn": "Shulba Sutras",
+    "aliases": [
+      "吠陀几何"
+    ],
+    "year": -500,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "mathematics_early"
+    ],
+    "related": [
+      "geometry_deductive"
+    ],
+    "desc": "印度祭坛几何，含勾股数与面积变换。"
+  },
+  {
+    "id": "winch",
+    "name": "绞车",
+    "nameEn": "Winch",
+    "wikiEn": "Winch",
+    "aliases": [
+      "绞盘"
+    ],
+    "year": -480,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "crane"
+    ],
+    "desc": "希罗多德记其用于张紧浮桥缆索。"
+  },
+  {
+    "id": "calipers",
+    "name": "卡尺",
+    "nameEn": "Calipers",
+    "wikiEn": "Calipers",
+    "aliases": [
+      "青铜卡尺",
+      "滑动卡尺"
+    ],
+    "year": -500,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [],
+    "desc": "沉船出土固定爪与活动爪木卡尺。"
+  },
+  {
+    "id": "yakhchal",
+    "name": "亚赫恰尔冰窖",
+    "nameEn": "Yakhchāl",
+    "wikiEn": "Yakhchāl",
+    "aliases": [
+      "波斯冰窖"
+    ],
+    "year": -400,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "windcatcher"
+    ],
+    "desc": "波斯穹顶冰库，隔热储冰实现冷藏。"
+  },
+  {
+    "id": "zero",
+    "name": "数字零",
+    "nameEn": "Zero",
+    "wikiEn": "0",
+    "aliases": [
+      "零的概念",
+      "巴比伦零",
+      "玛雅零"
+    ],
+    "year": -350,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [
+      "mathematics_early"
+    ],
+    "related": [
+      "hindu_numerals"
+    ],
+    "desc": "巴比伦以空位符表示零，玛雅独立发明。"
+  },
+  {
+    "id": "atomism",
+    "name": "原子论",
+    "nameEn": "Atomism",
+    "wikiEn": "Atomism",
+    "aliases": [
+      "德谟克利特原子论"
+    ],
+    "year": -450,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "alchemy"
+    ],
+    "desc": "留基伯与德谟克利特提出万物由原子构成。"
+  },
+  {
+    "id": "classical_elements",
+    "name": "四元素说",
+    "nameEn": "Classical element",
+    "wikiEn": "Classical element",
+    "aliases": [
+      "四元素",
+      "Empedocles"
+    ],
+    "year": -450,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "alchemy"
+    ],
+    "desc": "恩培多克勒提出水火土气四元素学说。"
+  },
+  {
+    "id": "grid_plan",
+    "name": "方格城市规划",
+    "nameEn": "Grid plan",
+    "wikiEn": "Grid plan",
+    "aliases": [
+      "希波丹姆规划",
+      "Hippodamian plan"
+    ],
+    "year": -450,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "roman_roads"
+    ],
+    "desc": "希波丹姆确立棋盘式城市布局。"
+  },
+  {
+    "id": "hippocratic_medicine",
+    "name": "希波克拉底医学",
+    "nameEn": "Hippocratic medicine",
+    "wikiEn": "Hippocrates",
+    "aliases": [
+      "希波克拉底",
+      "Hippocratic Oath"
+    ],
+    "year": -400,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "galen_medicine",
+      "herophilos_anatomy"
+    ],
+    "desc": "以体液与自然病因观建立理性医学传统。"
+  },
+  {
+    "id": "camera_obscura",
+    "name": "小孔成像",
+    "nameEn": "Camera obscura",
+    "wikiEn": "Camera obscura",
+    "aliases": [
+      "暗箱",
+      "墨子光学"
+    ],
+    "year": -400,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "《墨子》记载光沿直线穿过小孔成倒像。"
+  },
+  {
+    "id": "panini_grammar",
+    "name": "波你尼语法",
+    "nameEn": "Pāṇini",
+    "wikiEn": "Pāṇini",
+    "aliases": [
+      "八章书",
+      "Aṣṭādhyāyī"
+    ],
+    "year": -400,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "latin_grammar"
+    ],
+    "desc": "波你尼以形式化规则描写梵语语法。"
+  },
+  {
+    "id": "pin_tumbler_lock",
+    "name": "弹子锁",
+    "nameEn": "Pin tumbler lock",
+    "wikiEn": "Pin tumbler lock",
+    "aliases": [
+      "希腊锁",
+      "Ballanos lock"
+    ],
+    "year": -450,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [],
+    "desc": "希腊出现靠插销弹子开启的木锁。"
+  },
+  {
+    "id": "gear",
+    "name": "齿轮",
+    "nameEn": "Gear",
+    "wikiEn": "Gear",
+    "aliases": [
+      "齿轮机构"
+    ],
+    "year": -400,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "chain_drive",
+      "antikythera_mechanism"
+    ],
+    "desc": "中国与希腊独立发展出传动齿轮。"
+  },
+  {
+    "id": "aristotle_biology",
+    "name": "亚里士多德生物学",
+    "nameEn": "Aristotle's biology",
+    "wikiEn": "Aristotle's biology",
+    "aliases": [
+      "动物志",
+      "亚氏博物学"
+    ],
+    "year": -350,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "herophilos_anatomy"
+    ],
+    "desc": "系统观察分类动物，奠定比较生物学。"
+  },
+  {
+    "id": "aristotelian_logic",
+    "name": "亚里士多德逻辑学",
+    "nameEn": "Aristotelian logic",
+    "wikiEn": "Term logic",
+    "aliases": [
+      "三段论",
+      "Organon"
+    ],
+    "year": -350,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "geometry_deductive"
+    ],
+    "desc": "建立三段论与形式逻辑体系。"
+  },
+  {
+    "id": "method_of_exhaustion",
+    "name": "穷竭法",
+    "nameEn": "Method of exhaustion",
+    "wikiEn": "Method of exhaustion",
+    "aliases": [
+      "欧多克索斯"
+    ],
+    "year": -370,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "mathematics_early"
+    ],
+    "related": [
+      "geometry_deductive"
+    ],
+    "desc": "欧多克索斯创立，用极限思想求面积体积。"
+  },
+  {
+    "id": "geometry_deductive",
+    "name": "演绎几何",
+    "nameEn": "Euclid's Elements",
+    "wikiEn": "Euclid's Elements",
+    "aliases": [
+      "欧几里得几何",
+      "几何原本"
+    ],
+    "year": -300,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "mathematics_early"
+    ],
+    "related": [
+      "aristotelian_logic",
+      "conic_sections",
+      "archimedes_statics"
+    ],
+    "desc": "欧几里得《几何原本》以公理演绎证明几何定理。"
+  },
+  {
+    "id": "screw",
+    "name": "螺旋机构",
+    "nameEn": "Screw",
+    "wikiEn": "Screw",
+    "aliases": [
+      "阿基塔斯螺旋",
+      "screw mechanism"
+    ],
+    "year": -350,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "screw_press",
+      "archimedes_screw"
+    ],
+    "desc": "阿基塔斯最早描述螺旋这一简单机械。"
+  },
+  {
+    "id": "ballista",
+    "name": "弩炮",
+    "nameEn": "Ballista",
+    "wikiEn": "Ballista",
+    "aliases": [
+      "扭力弩炮",
+      "扭力投石机"
+    ],
+    "year": -400,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "traction_trebuchet",
+      "crossbow"
+    ],
+    "desc": "希腊扭力发射器，射矢或石弹。"
+  },
+  {
+    "id": "traction_trebuchet",
+    "name": "牵引投石机",
+    "nameEn": "Traction trebuchet",
+    "wikiEn": "Mangonel",
+    "aliases": [
+      "砲",
+      "人力拽索投石机"
+    ],
+    "year": -350,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "ballista"
+    ],
+    "desc": "中国战国出现，众人拽索端抛掷石弹。"
+  },
+  {
+    "id": "chain_mail",
+    "name": "锁子甲",
+    "nameEn": "Chain mail",
+    "wikiEn": "Chain mail",
+    "aliases": [
+      "环锁铠",
+      "Mail armour"
+    ],
+    "year": -300,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "iron_smelting"
+    ],
+    "related": [],
+    "desc": "凯尔特人以铁环相扣编成柔性铠甲。"
+  },
+  {
+    "id": "breaststrap_harness",
+    "name": "胸带式马具",
+    "nameEn": "Breaststrap harness",
+    "wikiEn": "Horse harness",
+    "aliases": [
+      "胸挽具",
+      "软胸带"
+    ],
+    "year": -350,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "saddle"
+    ],
+    "desc": "楚国以胸带承力，减轻马颈压迫。"
+  },
+  {
+    "id": "counting_rods",
+    "name": "算筹",
+    "nameEn": "Counting rods",
+    "wikiEn": "Counting rods",
+    "aliases": [
+      "筹算",
+      "rod calculus"
+    ],
+    "year": -350,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "mathematics_early"
+    ],
+    "related": [
+      "nine_chapters"
+    ],
+    "desc": "以小棍摆位进行十进位值制运算。"
+  },
+  {
+    "id": "zinc_smelting",
+    "name": "炼锌",
+    "nameEn": "Zinc production",
+    "wikiEn": "Zinc",
+    "aliases": [
+      "Zawar 炼锌"
+    ],
+    "year": -300,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "brass"
+    ],
+    "desc": "印度佐瓦尔最早规模冶炼金属锌。"
+  },
+  {
+    "id": "cam_mechanism",
+    "name": "凸轮",
+    "nameEn": "Cam (mechanism)",
+    "wikiEn": "Cam (mechanism)",
+    "aliases": [
+      "凸轮机构"
+    ],
+    "year": -300,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "water_clock"
+    ],
+    "desc": "希腊化时期以凸轮驱动水力自动装置。"
+  },
+  {
+    "id": "blast_furnace_china",
+    "name": "高炉雏形",
+    "nameEn": "Blast furnace (early China)",
+    "wikiEn": "Blast furnace",
+    "aliases": [
+      "中国古代高炉",
+      "汉代高炉"
+    ],
+    "year": -250,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "iron_smelting"
+    ],
+    "related": [
+      "cast_iron",
+      "waterpowered_bellows"
+    ],
+    "desc": "中国战国末至汉代高炉连续炼出生铁。"
+  },
+  {
+    "id": "cast_iron",
+    "name": "生铁铸造",
+    "nameEn": "Cast iron",
+    "wikiEn": "Cast iron",
+    "aliases": [
+      "铸铁",
+      "中国铸铁"
+    ],
+    "year": -450,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "iron_smelting"
+    ],
+    "related": [
+      "blast_furnace_china",
+      "finery_forge"
+    ],
+    "desc": "中国春秋末掌握铸铁，批量铸造农具。"
+  },
+  {
+    "id": "dujiangyan",
+    "name": "都江堰",
+    "nameEn": "Dujiangyan",
+    "wikiEn": "Dujiangyan",
+    "aliases": [
+      "都江堰水利工程"
+    ],
+    "year": -256,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "irrigation"
+    ],
+    "related": [
+      "canal",
+      "qanat"
+    ],
+    "desc": "李冰父子无坝分水，灌溉成都平原。"
+  },
+  {
+    "id": "great_wall",
+    "name": "长城",
+    "nameEn": "Great Wall of China",
+    "wikiEn": "Great Wall of China",
+    "aliases": [
+      "秦长城",
+      "万里长城"
+    ],
+    "year": -210,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "秦连缀列国夯土边墙，宏大防御工程。"
+  },
+  {
+    "id": "seal_script_standard",
+    "name": "小篆",
+    "nameEn": "Small seal script",
+    "wikiEn": "Small seal script",
+    "aliases": [
+      "书同文",
+      "秦篆"
+    ],
+    "year": -220,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "shuowen_jiezi"
+    ],
+    "desc": "秦统一文字，以小篆规范六国异文。"
+  },
+  {
+    "id": "lacquerware",
+    "name": "漆器",
+    "nameEn": "Lacquerware",
+    "wikiEn": "Lacquerware",
+    "aliases": [
+      "中国漆器",
+      "大漆"
+    ],
+    "year": -300,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "proto_porcelain"
+    ],
+    "desc": "战国汉代漆器工艺鼎盛，耐蚀华美。"
+  },
+  {
+    "id": "ink_brush",
+    "name": "毛笔",
+    "nameEn": "Ink brush",
+    "wikiEn": "Ink brush",
+    "aliases": [
+      "中国毛笔"
+    ],
+    "year": -300,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "papermaking"
+    ],
+    "desc": "战国毛笔普及，适应简帛书写。"
+  },
+  {
+    "id": "erya_dictionary",
+    "name": "《尔雅》",
+    "nameEn": "Erya",
+    "wikiEn": "Erya",
+    "aliases": [
+      "尔雅"
+    ],
+    "year": -250,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "shuowen_jiezi"
+    ],
+    "desc": "中国最早按词义分类的词典。"
+  },
+  {
+    "id": "alarm_clock",
+    "name": "水钟报时器",
+    "nameEn": "Alarm clock",
+    "wikiEn": "Alarm clock",
+    "aliases": [
+      "克特西比乌斯闹钟"
+    ],
+    "year": -270,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "water_clock"
+    ],
+    "related": [],
+    "desc": "克特西比乌斯水钟到点抛石鸣锣。"
+  },
+  {
+    "id": "archimedes_screw",
+    "name": "阿基米德螺旋泵",
+    "nameEn": "Archimedes' screw",
+    "wikiEn": "Archimedes' screw",
+    "aliases": [
+      "螺旋提水器"
+    ],
+    "year": -250,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "screw"
+    ],
+    "related": [
+      "force_pump",
+      "noria"
+    ],
+    "desc": "螺旋叶片旋转提水灌溉排水。"
+  },
+  {
+    "id": "water_wheel",
+    "name": "水车",
+    "nameEn": "Water wheel",
+    "wikiEn": "Water wheel",
+    "aliases": [
+      "水轮",
+      "立式水轮"
+    ],
+    "year": -300,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "watermill",
+      "noria",
+      "trip_hammer"
+    ],
+    "desc": "斐洛记述以水力驱动轮轴的机械。"
+  },
+  {
+    "id": "watermill",
+    "name": "水磨",
+    "nameEn": "Watermill",
+    "wikiEn": "Watermill",
+    "aliases": [
+      "水力磨坊",
+      "水磨坊"
+    ],
+    "year": -100,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "water_wheel",
+      "gear"
+    ],
+    "related": [
+      "noria",
+      "trip_hammer",
+      "hierapolis_sawmill"
+    ],
+    "desc": "以水流驱动水轮、齿轮带动磨盘的水力磨坊。"
+  },
+  {
+    "id": "gimbal",
+    "name": "常平架",
+    "nameEn": "Gimbal",
+    "wikiEn": "Gimbal",
+    "aliases": [
+      "平衡环",
+      "万向支架",
+      "被中香炉"
+    ],
+    "year": -250,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "同心环使中央物体任意转动仍保持水平。"
+  },
+  {
+    "id": "escapement",
+    "name": "擒纵机构",
+    "nameEn": "Escapement",
+    "wikiEn": "Escapement",
+    "aliases": [
+      "擒纵器"
+    ],
+    "year": -250,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "water_clock"
+    ],
+    "related": [],
+    "desc": "斐洛水钟中节制转动的擒纵装置。"
+  },
+  {
+    "id": "chain_drive",
+    "name": "链传动",
+    "nameEn": "Chain drive",
+    "wikiEn": "Chain drive",
+    "aliases": [
+      "链条传动"
+    ],
+    "year": -250,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "gear"
+    ],
+    "related": [
+      "repeating_crossbow",
+      "chain_pump"
+    ],
+    "desc": "斐洛以链条与链轮传递动力。"
+  },
+  {
+    "id": "repeating_crossbow",
+    "name": "连弩",
+    "nameEn": "Repeating crossbow",
+    "wikiEn": "Repeating crossbow",
+    "aliases": [
+      "诸葛弩",
+      "polybolos"
+    ],
+    "year": -200,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "crossbow",
+      "chain_drive"
+    ],
+    "related": [],
+    "desc": "一次上弦可连续发射的弩。"
+  },
+  {
+    "id": "force_pump",
+    "name": "压力泵",
+    "nameEn": "Force pump",
+    "wikiEn": "Piston pump",
+    "aliases": [
+      "克特西比乌斯泵",
+      "活塞泵"
+    ],
+    "year": -250,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "screw"
+    ],
+    "related": [
+      "archimedes_screw",
+      "water_organ"
+    ],
+    "desc": "双动活塞泵压送水或空气。"
+  },
+  {
+    "id": "water_organ",
+    "name": "水力管风琴",
+    "nameEn": "Water organ",
+    "wikiEn": "Water organ",
+    "aliases": [
+      "Hydraulis",
+      "水风琴"
+    ],
+    "year": -230,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "force_pump"
+    ],
+    "related": [],
+    "desc": "克特西比乌斯以恒压水流供风的键盘乐器。"
+  },
+  {
+    "id": "odometer",
+    "name": "里程计",
+    "nameEn": "Odometer",
+    "wikiEn": "Odometer",
+    "aliases": [
+      "记里鼓车",
+      "hodometer"
+    ],
+    "year": -250,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "gear"
+    ],
+    "related": [
+      "roman_roads"
+    ],
+    "desc": "车行带齿轮计数，自动报里程。"
+  },
+  {
+    "id": "herophilos_anatomy",
+    "name": "希罗菲卢斯解剖学",
+    "nameEn": "Herophilos",
+    "wikiEn": "Herophilos",
+    "aliases": [
+      "赫罗菲卢斯"
+    ],
+    "year": -300,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "aristotle_biology",
+      "hippocratic_medicine"
+    ],
+    "related": [
+      "galen_medicine"
+    ],
+    "desc": "亚历山大城解剖人体，奠定解剖学。"
+  },
+  {
+    "id": "aristarchus_heliocentrism",
+    "name": "阿利斯塔克日心说",
+    "nameEn": "Aristarchus's heliocentrism",
+    "wikiEn": "Heliocentrism",
+    "aliases": [
+      "日心地动说"
+    ],
+    "year": -280,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "ptolemaic_astronomy"
+    ],
+    "desc": "提出地球绕太阳运行的最早日心模型。"
+  },
+  {
+    "id": "library_alexandria",
+    "name": "亚历山大图书馆",
+    "nameEn": "Library of Alexandria",
+    "wikiEn": "Library of Alexandria",
+    "aliases": [
+      "缪斯宫图书馆"
+    ],
+    "year": -280,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "library_ashurbanipal"
+    ],
+    "desc": "托勒密王朝国家学术图书馆，藏卷宏富。"
+  },
+  {
+    "id": "lighthouse",
+    "name": "灯塔",
+    "nameEn": "Lighthouse",
+    "wikiEn": "Lighthouse",
+    "aliases": [
+      "法罗斯灯塔",
+      "Pharos of Alexandria"
+    ],
+    "year": -280,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "亚历山大港法罗斯灯塔，古代七大奇观之一。"
+  },
+  {
+    "id": "canal_lock",
+    "name": "船闸",
+    "nameEn": "Canal lock",
+    "wikiEn": "Lock (water navigation)",
+    "aliases": [
+      "古船闸"
+    ],
+    "year": -280,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "canal"
+    ],
+    "related": [],
+    "desc": "托勒密二世运河上调节水位的闸室。"
+  },
+  {
+    "id": "three_masted_ship",
+    "name": "三桅商船",
+    "nameEn": "Three-masted ship",
+    "wikiEn": "Syracusia",
+    "aliases": [
+      "叙拉古号"
+    ],
+    "year": -240,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "sail"
+    ],
+    "related": [
+      "junk_ship"
+    ],
+    "desc": "叙拉古号最早记载三桅远洋商船。"
+  },
+  {
+    "id": "earth_circumference",
+    "name": "地球周长测量",
+    "nameEn": "Earth's circumference (Eratosthenes)",
+    "wikiEn": "Eratosthenes",
+    "aliases": [
+      "埃拉托色尼测地"
+    ],
+    "year": -240,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "cartography",
+      "geometry_deductive"
+    ],
+    "related": [],
+    "desc": "埃拉托色尼用日影角差算出地球周长。"
+  },
+  {
+    "id": "sieve_eratosthenes",
+    "name": "埃拉托色尼筛法",
+    "nameEn": "Sieve of Eratosthenes",
+    "wikiEn": "Sieve of Eratosthenes",
+    "aliases": [
+      "质数筛法"
+    ],
+    "year": -240,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "mathematics_early"
+    ],
+    "related": [],
+    "desc": "用倍数剔除系统化求取素数。"
+  },
+  {
+    "id": "astrolabe",
+    "name": "星盘",
+    "nameEn": "Astrolabe",
+    "wikiEn": "Astrolabe",
+    "aliases": [
+      "平面星盘"
+    ],
+    "year": -200,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "geometry_deductive"
+    ],
+    "related": [
+      "armillary_sphere",
+      "antikythera_mechanism"
+    ],
+    "desc": "阿波罗尼乌斯发明，测天体高度与方位。"
+  },
+  {
+    "id": "noria",
+    "name": "筒车",
+    "nameEn": "Noria",
+    "wikiEn": "Noria",
+    "aliases": [
+      "戽水车轮",
+      "bucket wheel"
+    ],
+    "year": -200,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "water_wheel"
+    ],
+    "related": [
+      "saqiyah",
+      "archimedes_screw"
+    ],
+    "desc": "水冲带罐大轮自动提水入渠。"
+  },
+  {
+    "id": "saqiyah",
+    "name": "畜力提水轮",
+    "nameEn": "Saqiyah",
+    "wikiEn": "Saqiyah",
+    "aliases": [
+      "萨基耶",
+      "animal-driven wheel"
+    ],
+    "year": -200,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [
+      "gear"
+    ],
+    "related": [
+      "noria"
+    ],
+    "desc": "希腊化埃及畜力齿轮提水装置。"
+  },
+  {
+    "id": "parchment",
+    "name": "羊皮纸",
+    "nameEn": "Parchment",
+    "wikiEn": "Parchment",
+    "aliases": [
+      "vellum",
+      "犊皮纸"
+    ],
+    "year": -200,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "codex"
+    ],
+    "desc": "帕加马以兽皮制书写材料，耐久可双面写。"
+  },
+  {
+    "id": "huangdi_neijing",
+    "name": "《黄帝内经》",
+    "nameEn": "Huangdi Neijing",
+    "wikiEn": "Huangdi Neijing",
+    "aliases": [
+      "内经"
+    ],
+    "year": -200,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "acupuncture",
+      "huatuo_anesthesia",
+      "zhang_zhongjing"
+    ],
+    "desc": "中医奠基经典，论阴阳五行经络藏象。"
+  },
+  {
+    "id": "pingala_binary",
+    "name": "平伽拉二元编码",
+    "nameEn": "Pingala",
+    "wikiEn": "Pingala",
+    "aliases": [
+      "二进制雏形"
+    ],
+    "year": -200,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "mathematics_early"
+    ],
+    "related": [],
+    "desc": "以长短音节组合编码，含二进制思想。"
+  },
+  {
+    "id": "dry_dock",
+    "name": "干船坞",
+    "nameEn": "Dry dock",
+    "wikiEn": "Dry dock",
+    "aliases": [
+      "托勒密干船坞"
+    ],
+    "year": -210,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [],
+    "related": [],
+    "desc": "托勒密四世抽干水池修船的干坞。"
+  },
+  {
+    "id": "conic_sections",
+    "name": "圆锥曲线论",
+    "nameEn": "Conic sections",
+    "wikiEn": "Conic section",
+    "aliases": [
+      "阿波罗尼乌斯圆锥曲线"
+    ],
+    "year": -200,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "geometry_deductive"
+    ],
+    "related": [],
+    "desc": "阿波罗尼乌斯系统研究椭圆抛物双曲线。"
+  },
+  {
+    "id": "sinan",
+    "name": "司南",
+    "nameEn": "Sinan",
+    "wikiEn": "History of the compass",
+    "aliases": [
+      "指南针前身",
+      "south pointer"
+    ],
+    "year": -200,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [],
+    "desc": "汉代以天然磁石雕勺指示南北的器具。"
+  },
+  {
+    "id": "maya_script",
+    "name": "玛雅文字",
+    "nameEn": "Maya script",
+    "wikiEn": "Maya script",
+    "aliases": [
+      "玛雅象形文字"
+    ],
+    "year": -250,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "maya_calendar"
+    ],
+    "desc": "美洲成熟的意音—音节混合文字。"
+  },
+  {
+    "id": "antikythera_mechanism",
+    "name": "安提基特拉机械",
+    "nameEn": "Antikythera mechanism",
+    "wikiEn": "Antikythera mechanism",
+    "aliases": [
+      "安提凯希拉装置"
+    ],
+    "year": -150,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "gear"
+    ],
+    "related": [
+      "astrolabe"
+    ],
+    "desc": "青铜齿轮模拟计算机，可预测日月食。"
+  },
+  {
+    "id": "finery_forge",
+    "name": "炒钢法",
+    "nameEn": "Finery forge",
+    "wikiEn": "Finery forge",
+    "aliases": [
+      "百炼钢",
+      "puddling"
+    ],
+    "year": -150,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "cast_iron"
+    ],
+    "related": [
+      "wootz_steel"
+    ],
+    "desc": "汉代将生铁炒炼脱碳成熟铁与钢。"
+  },
+  {
+    "id": "seed_drill",
+    "name": "耧车",
+    "nameEn": "Seed drill",
+    "wikiEn": "Seed drill",
+    "aliases": [
+      "多管条播机",
+      "三脚耧"
+    ],
+    "year": -150,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "plow"
+    ],
+    "related": [
+      "moldboard_plow"
+    ],
+    "desc": "赵过推广三脚铁耧，按行精量播种。"
+  },
+  {
+    "id": "aqueduct",
+    "name": "输水道",
+    "nameEn": "Aqueduct",
+    "wikiEn": "Aqueduct (water supply)",
+    "aliases": [
+      "罗马输水道",
+      "渡槽"
+    ],
+    "year": -312,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "arch"
+    ],
+    "related": [
+      "qanat",
+      "cloaca_maxima"
+    ],
+    "desc": "罗马重力长距离输水渠系，辅以拱架。"
+  },
+  {
+    "id": "roman_roads",
+    "name": "罗马大道",
+    "nameEn": "Roman roads",
+    "wikiEn": "Roman roads",
+    "aliases": [
+      "罗马道路网",
+      "viae"
+    ],
+    "year": -312,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "diolkos",
+      "odometer"
+    ],
+    "desc": "多层结构石铺大道，配里程碑驿站。"
+  },
+  {
+    "id": "roman_concrete",
+    "name": "罗马混凝土",
+    "nameEn": "Roman concrete",
+    "wikiEn": "Roman concrete",
+    "aliases": [
+      "Opus caementicium",
+      "火山灰混凝土"
+    ],
+    "year": -150,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "dome",
+      "arch"
+    ],
+    "desc": "火山灰砂浆可水中凝结，坚固耐久。"
+  },
+  {
+    "id": "moldboard_plow",
+    "name": "犁壁",
+    "nameEn": "Moldboard plow",
+    "wikiEn": "",
+    "aliases": [
+      "犁镜",
+      "翻土犁壁",
+      "mouldboard"
+    ],
+    "year": -100,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "plow",
+      "iron_smelting"
+    ],
+    "related": [
+      "seed_drill"
+    ],
+    "desc": "汉代铁犁壁翻土成垄，深耕增产。"
+  },
+  {
+    "id": "wheelbarrow",
+    "name": "独轮车",
+    "nameEn": "Wheelbarrow",
+    "wikiEn": "Wheelbarrow",
+    "aliases": [
+      "木牛流马",
+      "单轮车"
+    ],
+    "year": -100,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "中国出现单轮手推车，省力运货。"
+  },
+  {
+    "id": "natural_gas_salt",
+    "name": "天然气煮盐",
+    "nameEn": "Natural gas used for salt wells",
+    "wikiEn": "Natural gas",
+    "aliases": [
+      "临邛火井",
+      "竹笕输气"
+    ],
+    "year": -100,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "oil_well"
+    ],
+    "desc": "四川以竹管引天然气熬煮卤水制盐。"
+  },
+  {
+    "id": "silk_road",
+    "name": "丝绸之路",
+    "nameEn": "Silk Road",
+    "wikiEn": "Silk Road",
+    "aliases": [
+      "丝路"
+    ],
+    "year": -130,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "royal_road"
+    ],
+    "desc": "张骞通西域后形成的欧亚贸易通道。"
+  },
+  {
+    "id": "armillary_sphere",
+    "name": "浑仪",
+    "nameEn": "Armillary sphere",
+    "wikiEn": "Armillary sphere",
+    "aliases": [
+      "浑天仪"
+    ],
+    "year": -100,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "astrolabe"
+    ],
+    "related": [
+      "seismoscope"
+    ],
+    "desc": "多重金属环组成的天体坐标观测仪。"
+  },
+  {
+    "id": "acta_diurna",
+    "name": "每日纪闻",
+    "nameEn": "Acta Diurna",
+    "wikiEn": "Acta Diurna",
+    "aliases": [
+      "罗马官报"
+    ],
+    "year": -59,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "alphabet"
+    ],
+    "related": [],
+    "desc": "恺撒时期元老院与民众事务公告。"
+  },
+  {
+    "id": "tironian_notes",
+    "name": "泰罗速记",
+    "nameEn": "Tironian notes",
+    "wikiEn": "Tironian notes",
+    "aliases": [
+      "拉丁文速记"
+    ],
+    "year": -63,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "latin_grammar"
+    ],
+    "desc": "西塞罗释奴泰罗创制的拉丁文速记符号。"
+  },
+  {
+    "id": "julian_calendar",
+    "name": "儒略历",
+    "nameEn": "Julian calendar",
+    "wikiEn": "Julian calendar",
+    "aliases": [
+      "恺撒历"
+    ],
+    "year": -46,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "babylonian_star_catalogue"
+    ],
+    "related": [
+      "sundial"
+    ],
+    "desc": "恺撒推行365.25日太阳历。"
+  },
+  {
+    "id": "latin_grammar",
+    "name": "拉丁语语法",
+    "nameEn": "Latin grammar and dictionary",
+    "wikiEn": "Latin grammar",
+    "aliases": [
+      "瓦罗《论拉丁语》"
+    ],
+    "year": -45,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "alphabet"
+    ],
+    "related": [
+      "tironian_notes"
+    ],
+    "desc": "瓦罗系统描写拉丁语，奠定语法研究。"
+  },
+  {
+    "id": "groma",
+    "name": "格罗马测量仪",
+    "nameEn": "Groma",
+    "wikiEn": "Groma (surveying)",
+    "aliases": [
+      "罗马测绘十字仪"
+    ],
+    "year": -100,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [],
+    "related": [],
+    "desc": "罗马土地丈量与道路定线的十字标尺。"
+  },
+  {
+    "id": "glassblowing",
+    "name": "玻璃吹制",
+    "nameEn": "Glassblowing",
+    "wikiEn": "Glassblowing",
+    "aliases": [
+      "吹玻璃"
+    ],
+    "year": -37,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "glassmaking"
+    ],
+    "related": [
+      "dichroic_glass"
+    ],
+    "desc": "耶路撒冷一带发明吹管吹制玻璃器。"
+  },
+  {
+    "id": "hypocaust",
+    "name": "火炕式供暖",
+    "nameEn": "Hypocaust",
+    "wikiEn": "Hypocaust",
+    "aliases": [
+      "罗马地暖",
+      "热空气供暖"
+    ],
+    "year": -100,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "地板下热气道循环为浴室豪宅供暖。"
+  },
+  {
+    "id": "segmental_arch_bridge",
+    "name": "坦拱石桥",
+    "nameEn": "Segmental arch bridge",
+    "wikiEn": "Segmental bridge",
+    "aliases": [
+      "分段拱桥"
+    ],
+    "year": -50,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "arch",
+      "roman_concrete"
+    ],
+    "related": [],
+    "desc": "罗马人以小于半圆的坦拱造石桥。"
+  },
+  {
+    "id": "treadwheel_crane",
+    "name": "踏轮起重机",
+    "nameEn": "Treadwheel crane",
+    "wikiEn": "Treadwheel crane",
+    "aliases": [
+      "踏车起重机"
+    ],
+    "year": -25,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "crane"
+    ],
+    "related": [],
+    "desc": "人踩大木轮驱动巨型起重绞车。"
+  },
+  {
+    "id": "arch_dam",
+    "name": "拱坝",
+    "nameEn": "Arch dam",
+    "wikiEn": "Arch dam",
+    "aliases": [
+      "格拉努姆拱坝"
+    ],
+    "year": -20,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "arch"
+    ],
+    "related": [
+      "aqueduct"
+    ],
+    "desc": "高卢格拉努姆最早的拱形挡水坝。"
+  },
+  {
+    "id": "trip_hammer",
+    "name": "杵锤",
+    "nameEn": "Trip hammer",
+    "wikiEn": "Trip hammer",
+    "aliases": [
+      "水碓",
+      "水力杵锤"
+    ],
+    "year": -40,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "water_wheel"
+    ],
+    "related": [
+      "waterpowered_bellows"
+    ],
+    "desc": "水力带动重锤舂谷捣矿锻铁。"
+  },
+  {
+    "id": "brass",
+    "name": "黄铜",
+    "nameEn": "Brass",
+    "wikiEn": "Brass",
+    "aliases": [
+      "锌黄铜",
+      "sestertius"
+    ],
+    "year": -20,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "zinc_smelting"
+    ],
+    "related": [],
+    "desc": "罗马以炉甘石渗碳法批量制黄铜。"
+  },
+  {
+    "id": "belt_drive",
+    "name": "皮带传动",
+    "nameEn": "Belt drive",
+    "wikiEn": "Belt (mechanical)",
+    "aliases": [
+      "丝绕绳传动"
+    ],
+    "year": -15,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "chain_drive"
+    ],
+    "desc": "中国汉代以皮带在轴轮间传递动力。"
+  },
+  {
+    "id": "weather_vane",
+    "name": "风向标",
+    "nameEn": "Weather vane",
+    "wikiEn": "Weather vane",
+    "aliases": [
+      "风信标"
+    ],
+    "year": -50,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "clock_tower"
+    ],
+    "desc": "雅典风之塔顶青铜海神指示风向。"
+  },
+  {
+    "id": "clock_tower",
+    "name": "钟楼",
+    "nameEn": "Clock tower",
+    "wikiEn": "Clock tower",
+    "aliases": [
+      "风之塔"
+    ],
+    "year": -50,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "water_clock",
+      "sundial"
+    ],
+    "related": [
+      "weather_vane"
+    ],
+    "desc": "风之塔集日晷水钟风向标于一身。"
+  },
+  {
+    "id": "raised_relief_map",
+    "name": "立体地图",
+    "nameEn": "Raised-relief map",
+    "wikiEn": "Raised-relief map",
+    "aliases": [
+      "浮雕地图"
+    ],
+    "year": -14,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "cartography"
+    ],
+    "related": [
+      "pei_xiu_grid"
+    ],
+    "desc": "马援以糯米堆塑地形立体模型。"
+  },
+  {
+    "id": "sunspot_observation",
+    "name": "太阳黑子观测",
+    "nameEn": "Sunspot observation",
+    "wikiEn": "Sunspot",
+    "aliases": [
+      "甘石星经黑子"
+    ],
+    "year": -28,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "babylonian_star_catalogue"
+    ],
+    "related": [],
+    "desc": "甘德最早将黑子视为太阳自身现象。"
+  },
+  {
+    "id": "maya_calendar",
+    "name": "玛雅历法",
+    "nameEn": "Maya calendar",
+    "wikiEn": "Maya calendar",
+    "aliases": [
+      "长纪历"
+    ],
+    "year": -100,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "maya_script"
+    ],
+    "desc": "玛雅多轨循环与长纪历精确纪日。"
+  },
+  {
+    "id": "roller_bearing",
+    "name": "滚柱轴承",
+    "nameEn": "Roller bearing",
+    "wikiEn": "Bearing (mechanical)",
+    "aliases": [
+      "尼米湖船轴承"
+    ],
+    "year": 40,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 5,
+    "prereqs": [],
+    "related": [],
+    "desc": "罗马尼米湖船使用圆柱形滚柱轴承。"
+  },
+  {
+    "id": "aeolipile",
+    "name": "汽转球",
+    "nameEn": "Aeolipile",
+    "wikiEn": "Aeolipile",
+    "aliases": [
+      "希罗蒸汽机"
+    ],
+    "year": 50,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "windmill_proto"
+    ],
+    "desc": "希罗记载蒸汽喷流驱动旋转球。"
+  },
+  {
+    "id": "screw_press",
+    "name": "螺旋压榨机",
+    "nameEn": "Screw press",
+    "wikiEn": "Screw press",
+    "aliases": [
+      "葡萄压榨机",
+      "橄榄压榨机"
+    ],
+    "year": 50,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "screw"
+    ],
+    "related": [],
+    "desc": "罗马以螺旋重压榨葡萄与橄榄。"
+  },
+  {
+    "id": "soap",
+    "name": "肥皂",
+    "nameEn": "Soap",
+    "wikiEn": "Soap",
+    "aliases": [
+      "硬肥皂",
+      "高卢肥皂"
+    ],
+    "year": 50,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "凯尔特与罗马以油脂碱灰制皂洗涤。"
+  },
+  {
+    "id": "vending_machine",
+    "name": "自动售货机雏形",
+    "nameEn": "Vending machine",
+    "wikiEn": "Vending machine",
+    "aliases": [
+      "希罗圣水机"
+    ],
+    "year": 50,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 5,
+    "prereqs": [],
+    "related": [],
+    "desc": "投币重量开启阀门定量放圣水的装置。"
+  },
+  {
+    "id": "pantograph",
+    "name": "缩放仪",
+    "nameEn": "Pantograph",
+    "wikiEn": "Pantograph",
+    "aliases": [
+      "比例缩放尺"
+    ],
+    "year": 50,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [],
+    "related": [],
+    "desc": "希罗描述按比例复制图形的连杆仪。"
+  },
+  {
+    "id": "hushing",
+    "name": "水力冲矿",
+    "nameEn": "Hushing",
+    "wikiEn": "Hushing",
+    "aliases": [
+      "水力采矿"
+    ],
+    "year": 50,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "aqueduct"
+    ],
+    "related": [],
+    "desc": "引水冲刷表土暴露金矿脉。"
+  },
+  {
+    "id": "waterpowered_bellows",
+    "name": "水排",
+    "nameEn": "Water-powered bellows",
+    "wikiEn": "Bellows",
+    "aliases": [
+      "水力鼓风",
+      "杜诗水排"
+    ],
+    "year": 31,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "water_wheel",
+      "blast_furnace_china"
+    ],
+    "related": [
+      "trip_hammer"
+    ],
+    "desc": "杜诗以水轮往复鼓风冶铁，省人力。"
+  },
+  {
+    "id": "chain_pump",
+    "name": "翻车",
+    "nameEn": "Chain pump",
+    "wikiEn": "Chain pump",
+    "aliases": [
+      "龙骨水车",
+      "dragon backbone"
+    ],
+    "year": 50,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "chain_drive"
+    ],
+    "related": [
+      "archimedes_screw"
+    ],
+    "desc": "链带刮板连续提水灌高地。"
+  },
+  {
+    "id": "junk_ship",
+    "name": "中国帆船",
+    "nameEn": "Junk",
+    "wikiEn": "Junk (ship)",
+    "aliases": [
+      "戎克船",
+      "jun"
+    ],
+    "year": 50,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "sail"
+    ],
+    "related": [
+      "stern_rudder",
+      "watertight_bulkhead"
+    ],
+    "desc": "汉代平底多层水密隔舱的远洋帆船。"
+  },
+  {
+    "id": "nine_chapters",
+    "name": "《九章算术》",
+    "nameEn": "The Nine Chapters on the Mathematical Art",
+    "wikiEn": "The Nine Chapters on the Mathematical Art",
+    "aliases": [
+      "九章算经"
+    ],
+    "year": 50,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "counting_rods"
+    ],
+    "related": [
+      "zero"
+    ],
+    "desc": "中国算学经典，含负数与线性方程术。"
+  },
+  {
+    "id": "codex",
+    "name": "册子本",
+    "nameEn": "Codex",
+    "wikiEn": "Codex",
+    "aliases": [
+      "册页书",
+      "羊皮书"
+    ],
+    "year": 50,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "parchment"
+    ],
+    "related": [],
+    "desc": "罗马以页册装订取代卷轴，便于翻阅。"
+  },
+  {
+    "id": "galloroman_reaper",
+    "name": "罗马收割机",
+    "nameEn": "Gallo-Roman reaper",
+    "wikiEn": "Reaper",
+    "aliases": [
+      "vallus",
+      "推割机"
+    ],
+    "year": 50,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [],
+    "desc": "高卢畜力推割机具，机械收割谷物。"
+  },
+  {
+    "id": "de_materia_medica",
+    "name": "《药物论》",
+    "nameEn": "De Materia Medica",
+    "wikiEn": "De materia medica",
+    "aliases": [
+      "迪奥斯科里德斯药物论"
+    ],
+    "year": 60,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "hippocratic_medicine"
+    ],
+    "related": [
+      "galen_medicine"
+    ],
+    "desc": "迪奥斯科里德斯药典，详述六百种药草。"
+  },
+  {
+    "id": "pliny_natural_history",
+    "name": "《博物志》",
+    "nameEn": "Natural History (Pliny)",
+    "wikiEn": "Natural History (Pliny)",
+    "aliases": [
+      "自然史"
+    ],
+    "year": 77,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "alchemy"
+    ],
+    "desc": "老普林尼百科全书，总汇古代自然知识。"
+  },
+  {
+    "id": "dome",
+    "name": "穹顶",
+    "nameEn": "Dome",
+    "wikiEn": "Dome",
+    "aliases": [
+      "万神殿穹顶",
+      "monumental dome"
+    ],
+    "year": 126,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "arch",
+      "roman_concrete"
+    ],
+    "related": [],
+    "desc": "罗马以混凝土浇筑万神殿巨型穹顶。"
+  },
+  {
+    "id": "papermaking",
+    "name": "造纸术",
+    "nameEn": "Papermaking",
+    "wikiEn": "Papermaking",
+    "aliases": [
+      "蔡伦纸",
+      "侯官纸"
+    ],
+    "year": 105,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "ink_brush",
+      "codex"
+    ],
+    "desc": "蔡伦以树皮麻头破布改进造纸工艺。"
+  },
+  {
+    "id": "crank_handle",
+    "name": "曲柄",
+    "nameEn": "Crank handle",
+    "wikiEn": "Crank (mechanism)",
+    "aliases": [
+      "手摇曲柄"
+    ],
+    "year": 100,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "rotary_winnower",
+      "crank_connecting_rod"
+    ],
+    "desc": "汉代陶塑与罗马铁器出现手摇曲柄。"
+  },
+  {
+    "id": "rotary_winnower",
+    "name": "风扇车",
+    "nameEn": "Rotary winnowing fan",
+    "wikiEn": "Winnowing",
+    "aliases": [
+      "扬谷扇车",
+      "飏车"
+    ],
+    "year": 150,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "crank_handle"
+    ],
+    "related": [],
+    "desc": "手摇风轮鼓风分离谷粒与糠秕。"
+  },
+  {
+    "id": "drawloom",
+    "name": "提花织机",
+    "nameEn": "Drawloom",
+    "wikiEn": "",
+    "aliases": [
+      "花机",
+      "花本提花机"
+    ],
+    "year": 100,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "weaving_loom"
+    ],
+    "related": [
+      "lacquerware"
+    ],
+    "desc": "汉代以花本控制经线织出复杂纹样。"
+  },
+  {
+    "id": "proto_porcelain",
+    "name": "原始瓷器",
+    "nameEn": "Proto-porcelain",
+    "wikiEn": "Porcelain",
+    "aliases": [
+      "原始青瓷",
+      "东汉青瓷"
+    ],
+    "year": 100,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "pottery"
+    ],
+    "related": [
+      "lacquerware"
+    ],
+    "desc": "东汉高温烧出胎质致密的原始青瓷。"
+  },
+  {
+    "id": "coal_fuel",
+    "name": "煤炭作燃料",
+    "nameEn": "Coal as fuel",
+    "wikiEn": "Coal",
+    "aliases": [
+      "煤饼",
+      "石炭"
+    ],
+    "year": 100,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "natural_gas_salt"
+    ],
+    "desc": "汉代以煤粉掺黏土制饼入炉作燃料。"
+  },
+  {
+    "id": "stern_rudder",
+    "name": "船尾舵",
+    "nameEn": "Stern-mounted rudder",
+    "wikiEn": "Rudder",
+    "aliases": [
+      "尾舵",
+      "轴向舵"
+    ],
+    "year": 100,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "junk_ship"
+    ],
+    "desc": "船尾竖舵取代尾桨，大幅提升操纵性。"
+  },
+  {
+    "id": "shuowen_jiezi",
+    "name": "《说文解字》",
+    "nameEn": "Shuowen Jiezi",
+    "wikiEn": "Shuowen Jiezi",
+    "aliases": [
+      "说文"
+    ],
+    "year": 100,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "seal_script_standard"
+    ],
+    "related": [
+      "erya_dictionary"
+    ],
+    "desc": "许慎首部按部首编排的汉字字典。"
+  },
+  {
+    "id": "seismoscope",
+    "name": "地动仪",
+    "nameEn": "Zhang Heng's seismoscope",
+    "wikiEn": "Seismometer",
+    "aliases": [
+      "候风地动仪"
+    ],
+    "year": 132,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "armillary_sphere"
+    ],
+    "related": [],
+    "desc": "张衡以倒立摆触发龙口吐珠报震向。"
+  },
+  {
+    "id": "archimedes_statics",
+    "name": "阿基米德静力学",
+    "nameEn": "Archimedean statics",
+    "wikiEn": "Archimedes",
+    "aliases": [
+      "浮力定律",
+      "杠杆原理"
+    ],
+    "year": -250,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "geometry_deductive"
+    ],
+    "related": [
+      "hydrometer"
+    ],
+    "desc": "确立浮力原理与杠杆力矩定律。"
+  },
+  {
+    "id": "ptolemaic_astronomy",
+    "name": "托勒密天文学",
+    "nameEn": "Ptolemaic astronomy",
+    "wikiEn": "Almagest",
+    "aliases": [
+      "天文学大成",
+      "地心体系"
+    ],
+    "year": 150,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "babylonian_star_catalogue",
+      "geometry_deductive"
+    ],
+    "related": [
+      "astrolabe"
+    ],
+    "desc": "本轮均轮地心模型与星表，沿用千年。"
+  },
+  {
+    "id": "galen_medicine",
+    "name": "盖伦医学",
+    "nameEn": "Galenic medicine",
+    "wikiEn": "Galen",
+    "aliases": [
+      "盖伦"
+    ],
+    "year": 180,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "hippocratic_medicine",
+      "herophilos_anatomy"
+    ],
+    "related": [
+      "de_materia_medica"
+    ],
+    "desc": "盖伦集古代医学大成，影响至近代。"
+  },
+  {
+    "id": "huatuo_anesthesia",
+    "name": "麻沸散",
+    "nameEn": "Hua Tuo's anesthesia",
+    "wikiEn": "Hua Tuo",
+    "aliases": [
+      "华佗麻醉"
+    ],
+    "year": 200,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "huangdi_neijing"
+    ],
+    "related": [],
+    "desc": "华佗以麻沸散施行外科手术麻醉。"
+  },
+  {
+    "id": "lateen_sail",
+    "name": "三角拉丁帆",
+    "nameEn": "Lateen sail",
+    "wikiEn": "Lateen",
+    "aliases": [
+      "斜桁三角帆"
+    ],
+    "year": 200,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "sail"
+    ],
+    "related": [
+      "junk_ship"
+    ],
+    "desc": "地中海出现纵帆式三角帆，可逆风航行。"
+  },
+  {
+    "id": "zhang_zhongjing",
+    "name": "《伤寒杂病论》",
+    "nameEn": "Shanghan Lun",
+    "wikiEn": "Zhang Zhongjing",
+    "aliases": [
+      "伤寒论",
+      "金匮要略"
+    ],
+    "year": 219,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "huangdi_neijing"
+    ],
+    "related": [],
+    "desc": "张仲景辨证论治体系，后世方书之祖。"
+  },
+  {
+    "id": "crank_connecting_rod",
+    "name": "曲柄连杆机构",
+    "nameEn": "Crank and connecting rod",
+    "wikiEn": "Connecting rod",
+    "aliases": [
+      "连杆机构"
+    ],
+    "year": 240,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "crank_handle",
+      "water_wheel"
+    ],
+    "related": [
+      "hierapolis_sawmill"
+    ],
+    "desc": "把旋转运动转为往复直线运动。"
+  },
+  {
+    "id": "hierapolis_sawmill",
+    "name": "水力锯木厂",
+    "nameEn": "Hierapolis sawmill",
+    "wikiEn": "Hierapolis sawmill",
+    "aliases": [
+      "罗马水力锯"
+    ],
+    "year": 270,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "water_wheel",
+      "crank_connecting_rod"
+    ],
+    "related": [],
+    "desc": "已知最早以曲柄连杆水轮锯石木的工厂。"
+  },
+  {
+    "id": "south_pointing_chariot",
+    "name": "指南车",
+    "nameEn": "South-pointing chariot",
+    "wikiEn": "South-pointing chariot",
+    "aliases": [
+      "差速指南车",
+      "马钧"
+    ],
+    "year": 250,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "gear"
+    ],
+    "related": [
+      "sinan"
+    ],
+    "desc": "以差速齿轮使木人恒指南，不涉磁性。"
+  },
+  {
+    "id": "sugar_crystallization",
+    "name": "结晶糖",
+    "nameEn": "Crystallized sugar",
+    "wikiEn": "Sugar",
+    "aliases": [
+      "蔗糖结晶",
+      "gur"
+    ],
+    "year": 250,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [],
+    "desc": "印度笈多时期掌握蔗糖结晶造粒技术。"
+  },
+  {
+    "id": "pei_xiu_grid",
+    "name": "制图六体",
+    "nameEn": "Pei Xiu's grid cartography",
+    "wikiEn": "Pei Xiu",
+    "aliases": [
+      "计里画方"
+    ],
+    "year": 267,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "cartography"
+    ],
+    "related": [
+      "raised_relief_map"
+    ],
+    "desc": "裴秀提出比例尺与方格网制图六原则。"
+  },
+  {
+    "id": "water_turbine",
+    "name": "水轮机雏形",
+    "nameEn": "Roman water turbine",
+    "wikiEn": "Water turbine",
+    "aliases": [
+      "突尼斯水轮"
+    ],
+    "year": 280,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [
+      "water_wheel"
+    ],
+    "related": [
+      "watermill"
+    ],
+    "desc": "罗马北非出现轴流式水力涡轮磨。"
+  },
+  {
+    "id": "stepwell",
+    "name": "阶梯井",
+    "nameEn": "Stepwell",
+    "wikiEn": "Stepwell",
+    "aliases": [
+      "印度阶井"
+    ],
+    "year": 200,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 5,
+    "prereqs": [],
+    "related": [
+      "qanat"
+    ],
+    "desc": "印度下掘多级台阶直达水位的取水建筑。"
+  },
+  {
+    "id": "acupuncture",
+    "name": "针灸",
+    "nameEn": "Acupuncture",
+    "wikiEn": "Acupuncture",
+    "aliases": [
+      "针刺疗法"
+    ],
+    "year": -100,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "huangdi_neijing"
+    ],
+    "related": [],
+    "desc": "以经络穴位针刺调治疾病的疗法。"
+  },
+  {
+    "id": "dichroic_glass",
+    "name": "二色性玻璃",
+    "nameEn": "Dichroic glass",
+    "wikiEn": "Dichroic glass",
+    "aliases": [
+      "莱克格斯杯",
+      "Lycurgus Cup"
+    ],
+    "year": 300,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 5,
+    "prereqs": [
+      "glassblowing"
+    ],
+    "related": [],
+    "desc": "含纳米金银微粒，透光变色的罗马玻璃。"
+  },
+  {
+    "id": "stirrup",
+    "name": "马镫",
+    "nameEn": "Stirrup",
+    "wikiEn": "Stirrup",
+    "aliases": [
+      "双马镫"
+    ],
+    "year": 300,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "saddle"
+    ],
+    "related": [
+      "breaststrap_harness"
+    ],
+    "desc": "中国西晋出现成对铁马镫，骑手借力。"
+  },
+  {
+    "id": "fishing_reel",
+    "name": "渔线轮",
+    "nameEn": "Fishing reel",
+    "wikiEn": "Fishing reel",
+    "aliases": [
+      "钓车"
+    ],
+    "year": 350,
+    "era": "antiquity",
+    "category": "life_medicine",
+    "importance": 5,
+    "prereqs": [],
+    "related": [],
+    "desc": "中国晋代文献最早记载手摇收线渔轮。"
+  },
+  {
+    "id": "simple_suspension_bridge",
+    "name": "简易悬索桥",
+    "nameEn": "Simple suspension bridge",
+    "wikiEn": "Simple suspension bridge",
+    "aliases": [
+      "藤索桥",
+      "绳索桥"
+    ],
+    "year": 350,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [],
+    "related": [],
+    "desc": "以多股藤竹绳索悬垂跨越峡谷的桥。"
+  },
+  {
+    "id": "hydrometer",
+    "name": "比重计",
+    "nameEn": "Hydrometer",
+    "wikiEn": "Hydrometer",
+    "aliases": [
+      "液体比重计"
+    ],
+    "year": 400,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [
+      "archimedes_statics"
+    ],
+    "related": [],
+    "desc": "叙涅修斯信中描述测液体密度的浮计。"
+  },
+  {
+    "id": "oil_well",
+    "name": "油井",
+    "nameEn": "Oil well",
+    "wikiEn": "Oil well",
+    "aliases": [
+      "深井钻探",
+      "火井"
+    ],
+    "year": 347,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "natural_gas_salt"
+    ],
+    "related": [],
+    "desc": "中国钻凿深达二百余米的石油天然气井。"
+  },
+  {
+    "id": "paddle_wheel_boat",
+    "name": "明轮船雏形",
+    "nameEn": "Paddle-wheel boat",
+    "wikiEn": "Paddle wheel",
+    "aliases": [
+      "牛转明轮船"
+    ],
+    "year": 400,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 5,
+    "prereqs": [],
+    "related": [],
+    "desc": "《论军事》设想畜力带动两侧明轮的船。"
+  },
+  {
+    "id": "watertight_bulkhead",
+    "name": "水密隔舱",
+    "nameEn": "Watertight bulkhead",
+    "wikiEn": "Compartment (ship)",
+    "aliases": [
+      "分舱防水"
+    ],
+    "year": 400,
+    "era": "antiquity",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "junk_ship"
+    ],
+    "related": [
+      "stern_rudder"
+    ],
+    "desc": "船舱横隔为互不透水舱区，沉船避险。"
+  },
+  {
+    "id": "hindu_numerals",
+    "name": "印度位置制数字",
+    "nameEn": "Hindu numerals",
+    "wikiEn": "Hindu–Arabic numeral system",
+    "aliases": [
+      "印度数字",
+      "十进位值数字"
+    ],
+    "year": 400,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "zero"
+    ],
+    "related": [
+      "aryabhata_astronomy"
+    ],
+    "desc": "印度形成含零的十进位值记数数字。"
+  },
+  {
+    "id": "iron_pillar_delhi",
+    "name": "德里铁柱",
+    "nameEn": "Iron pillar of Delhi",
+    "wikiEn": "Iron pillar of Delhi",
+    "aliases": [
+      "防锈铁柱"
+    ],
+    "year": 400,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "iron_smelting"
+    ],
+    "related": [
+      "wootz_steel"
+    ],
+    "desc": "笈多王朝铸造千年不锈的高纯铁柱。"
+  },
+  {
+    "id": "windmill_proto",
+    "name": "风动轮雏形",
+    "nameEn": "Wind-powered wheel (proto)",
+    "wikiEn": "Windmill",
+    "aliases": [
+      "希罗风动风琴"
+    ],
+    "year": 50,
+    "era": "antiquity",
+    "category": "energy_power",
+    "importance": 5,
+    "prereqs": [],
+    "related": [
+      "aeolipile"
+    ],
+    "desc": "希罗描述风力驱动风琴的设想装置。"
+  },
+  {
+    "id": "chaturanga",
+    "name": "恰图兰加",
+    "nameEn": "Chaturanga",
+    "wikiEn": "Chaturanga",
+    "aliases": [
+      "印度象棋",
+      "国际象棋前身"
+    ],
+    "year": 450,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [],
+    "related": [],
+    "desc": "笈多印度四军棋，国际象棋的前身。"
+  },
+  {
+    "id": "alchemy",
+    "name": "炼金术",
+    "nameEn": "Alchemy",
+    "wikiEn": "Alchemy",
+    "aliases": [
+      "赫尔墨斯炼金术"
+    ],
+    "year": 100,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "distillation",
+      "classical_elements"
+    ],
+    "desc": "希腊化埃及兴起，近代化学的前身。"
+  },
+  {
+    "id": "distillation",
+    "name": "蒸馏术",
+    "nameEn": "Distillation",
+    "wikiEn": "Distillation",
+    "aliases": [
+      "亚历山大蒸馏"
+    ],
+    "year": 100,
+    "era": "antiquity",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "alchemy"
+    ],
+    "desc": "希腊化炼金家以蒸馏器提纯物质。"
+  },
+  {
+    "id": "aryabhata_astronomy",
+    "name": "阿耶波多历算",
+    "nameEn": "Aryabhata",
+    "wikiEn": "Aryabhata",
+    "aliases": [
+      "阿耶波多",
+      "Āryabhaṭīya"
+    ],
+    "year": 499,
+    "era": "antiquity",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "hindu_numerals",
+      "zero"
+    ],
+    "related": [
+      "ptolemaic_astronomy"
+    ],
+    "desc": "阿耶波多论圆周率、正弦与地转解释。"
+  }
+]

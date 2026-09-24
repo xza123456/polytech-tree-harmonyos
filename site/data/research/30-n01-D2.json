@@ -1,0 +1,3011 @@
+[
+  {
+    "id": "pillow",
+    "name": "枕",
+    "nameEn": "Pillow",
+    "wikiEn": "Pillow",
+    "aliases": [
+      "枕头",
+      "枕具"
+    ],
+    "year": -7000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "新石器时代以石枕、木枕垫头，填充软枕出现较晚",
+    "era": "neolithic",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "bedding"
+    ],
+    "related": [
+      "carpet",
+      "bedding",
+      "longhouse"
+    ],
+    "desc": "睡眠时垫承头颈的软具，与席、褥共同构成卧具组合。"
+  },
+  {
+    "id": "drinking_vessel",
+    "name": "饮器",
+    "nameEn": "Drinking vessel",
+    "wikiEn": "Drinking vessel",
+    "aliases": [
+      "酒器",
+      "杯盏"
+    ],
+    "year": -4000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "新石器晚期彩陶杯为初型，礼制化饮酒器随后出现",
+    "era": "neolithic",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "pottery",
+      "fermentation"
+    ],
+    "related": [
+      "teapot",
+      "glassmaking",
+      "spoon"
+    ],
+    "desc": "承装饮液的容器，从陶杯到礼器构成宴饮与身份秩序的载体。"
+  },
+  {
+    "id": "chair",
+    "name": "椅",
+    "nameEn": "Chair",
+    "wikiEn": "Chair",
+    "aliases": [
+      "椅子",
+      "seat"
+    ],
+    "year": -3100,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "早王朝埃及出现带靠背座椅，此前人以席、箱为座",
+    "era": "bronze_age",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "table_furniture",
+      "bedding",
+      "wardrobe"
+    ],
+    "desc": "带靠背的单人坐具，长期作为身份与礼仪秩序的标识物。"
+  },
+  {
+    "id": "cookware_and_bakeware",
+    "name": "炊具与烤具",
+    "nameEn": "Cookware and bakeware",
+    "wikiEn": "Cookware and bakeware",
+    "aliases": [
+      "锅具",
+      "烹饪器皿"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "陶炊器更早，金属铜炊具约公元前第三千纪普及",
+    "era": "bronze_age",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "pottery",
+      "oven"
+    ],
+    "related": [
+      "cooking",
+      "stove",
+      "waffle_iron"
+    ],
+    "desc": "在火上承载、传热并完成烹调的容器群，由陶范走向金属铸造。"
+  },
+  {
+    "id": "dress",
+    "name": "连衣裙",
+    "nameEn": "Dress",
+    "wikiEn": "Dress",
+    "aliases": [
+      "裙装",
+      "长袍式服装"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "埃及与两河的整幅缠绕式长衣为最早形态",
+    "era": "bronze_age",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "clothing",
+      "weaving"
+    ],
+    "related": [
+      "brassiere",
+      "jeans",
+      "thimble"
+    ],
+    "desc": "以整片织物覆体的连身衣裳，其剪裁与裙长长期承担礼俗与身份信号。"
+  },
+  {
+    "id": "key",
+    "name": "钥匙",
+    "nameEn": "Key",
+    "wikiEn": "Key (lock)",
+    "aliases": [
+      "钥",
+      "锁钥"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "埃及木栓锁与两河大型木钥匙为最早实物",
+    "era": "bronze_age",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "pin_tumbler_lock",
+      "warded_lock",
+      "padlock"
+    ],
+    "desc": "与锁配合的可携式开启凭证，把财产占有权浓缩为一件随身小器。"
+  },
+  {
+    "id": "spoon",
+    "name": "匙",
+    "nameEn": "Spoon",
+    "wikiEn": "Spoon",
+    "aliases": [
+      "勺子",
+      "调羹"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "新石器蚌壳与骨勺更早，金属匙随青铜铸造普及",
+    "era": "bronze_age",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cooking"
+    ],
+    "related": [
+      "chopsticks",
+      "fork",
+      "drinking_vessel"
+    ],
+    "desc": "带凹头柄器的取食工具，专司流质与颗粒食物，是餐具谱系的基础件。"
+  },
+  {
+    "id": "table_furniture",
+    "name": "桌",
+    "nameEn": "Table",
+    "wikiEn": "Table (furniture)",
+    "aliases": [
+      "桌子",
+      "案几"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "埃及与两河早期桌案，多为可拆装的板面加足",
+    "era": "bronze_age",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "chair",
+      "cookware_and_bakeware",
+      "spoon"
+    ],
+    "desc": "抬离地面的水平工作面，支撑进食、书写与手工等桌面活动。"
+  },
+  {
+    "id": "toy",
+    "name": "玩具",
+    "nameEn": "Toy",
+    "wikiEn": "Toy",
+    "aliases": [
+      "儿戏之具",
+      "游戏器具"
+    ],
+    "year": -3000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "埃及与印度河出土小型人偶、车马模型为最早成批玩具",
+    "era": "bronze_age",
+    "category": "culture_media",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "kite",
+      "teddy_bear",
+      "lego_brick"
+    ],
+    "desc": "以游戏而非实用为目的制造的器物，构成训练、娱乐与教化的入口。"
+  },
+  {
+    "id": "bathtub",
+    "name": "浴缸",
+    "nameEn": "Bathtub",
+    "wikiEn": "Bathtub",
+    "aliases": [
+      "浴盆",
+      "澡盆"
+    ],
+    "year": -1500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "克诺索斯王宫已有陶制浴盆与给排水配套",
+    "era": "bronze_age",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "pottery"
+    ],
+    "related": [
+      "great_bath",
+      "indus_sanitation",
+      "towel"
+    ],
+    "desc": "可供人浸入的盛水浴器，与上下水设施共同构成室内洗浴条件。"
+  },
+  {
+    "id": "broom",
+    "name": "扫帚",
+    "nameEn": "Broom",
+    "wikiEn": "Broom (tool)",
+    "aliases": [
+      "扫把",
+      "笤帚"
+    ],
+    "year": -1500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "捆扎植物茎秆的帚具在多个早期农耕社会独立出现",
+    "era": "bronze_age",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "rope"
+    ],
+    "related": [
+      "mop",
+      "bucket",
+      "bathtub"
+    ],
+    "desc": "以束状纤维刷扫地面的清洁工具，把除尘从手捡变成刷扫。"
+  },
+  {
+    "id": "bucket",
+    "name": "水桶",
+    "nameEn": "Bucket",
+    "wikiEn": "Bucket",
+    "aliases": [
+      "桶",
+      "吊桶"
+    ],
+    "year": -1500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "埃及墓葬木桶与提梁取水器为早期实物",
+    "era": "bronze_age",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "rope",
+      "pottery"
+    ],
+    "related": [
+      "well",
+      "bathtub",
+      "broom"
+    ],
+    "desc": "带提梁的取水与盛装容器，把人力搬运液体从抱持变为提吊。"
+  },
+  {
+    "id": "carpet",
+    "name": "地毯",
+    "nameEn": "Carpet",
+    "wikiEn": "Carpet",
+    "aliases": [
+      "绒毯",
+      "结绒毯"
+    ],
+    "year": -1500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "游牧织结传统为源头，巴泽雷克实物属公元前五千纪末",
+    "era": "bronze_age",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "weaving",
+      "wool"
+    ],
+    "related": [
+      "bedding",
+      "pillow",
+      "tent"
+    ],
+    "desc": "以结绒或织植构成的铺地织物，兼顾保暖、隔潮与空间界定。"
+  },
+  {
+    "id": "team_sport",
+    "name": "团队运动",
+    "nameEn": "Team sport",
+    "wikiEn": "Team sport",
+    "aliases": [
+      "集体竞技项目",
+      "球类对抗运动"
+    ],
+    "year": -1500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以固定人数与规则对抗为界，古代球戏与军阵演练为其雏形",
+    "era": "bronze_age",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "ancient_olympic_games",
+      "history_of_football",
+      "mesoamerican_rubber"
+    ],
+    "desc": "两队按成文规则对抗竞技的组织形式，是现代职业体育的母题。"
+  },
+  {
+    "id": "fresco",
+    "name": "湿壁画",
+    "nameEn": "Fresco",
+    "wikiEn": "Fresco",
+    "aliases": [
+      "壁画",
+      "fresco painting"
+    ],
+    "year": -1450,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以克里特米诺斯宫殿壁画为最早成熟实例",
+    "era": "bronze_age",
+    "category": "culture_media",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "ochre"
+    ],
+    "related": [
+      "tempera_painting",
+      "oil_painting",
+      "mosaic"
+    ],
+    "desc": "在湿灰泥上以矿物颜料作画、色料随石灰结晶固着的墙面绘画工艺。"
+  },
+  {
+    "id": "backgammon",
+    "name": "西洋双陆棋",
+    "nameEn": "Backgammon",
+    "wikiEn": "Backgammon",
+    "aliases": [
+      "双陆",
+      "十五子棋"
+    ],
+    "year": -1000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "伊朗沙赫里索克特棋盘与罗马十五子戏为其谱系",
+    "era": "antiquity",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "dice"
+    ],
+    "related": [
+      "senet",
+      "chess",
+      "go_game"
+    ],
+    "desc": "掷骰驱动棋子沿路行进的赛跑类棋戏，运气与算路并重。"
+  },
+  {
+    "id": "calligraphy",
+    "name": "书法",
+    "nameEn": "Calligraphy",
+    "wikiEn": "Calligraphy",
+    "aliases": [
+      "书道",
+      "writing as art"
+    ],
+    "year": -1000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以甲骨、金文为源头，汉末魏晋独立为一门艺术",
+    "era": "antiquity",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 1,
+    "prereqs": [
+      "cuneiform_writing",
+      "ink"
+    ],
+    "related": [
+      "ink_wash_painting",
+      "illuminated_manuscript",
+      "ink_brush"
+    ],
+    "desc": "把书写符号的线条、结构与节奏提升为独立视觉艺术的技艺传统。"
+  },
+  {
+    "id": "thimble",
+    "name": "顶针",
+    "nameEn": "Thimble",
+    "wikiEn": "Thimble",
+    "aliases": [
+      "顶指",
+      "针箍"
+    ],
+    "year": -1000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "中国西周青铜顶针为已知早期金属实例",
+    "era": "antiquity",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "sewing_needle"
+    ],
+    "related": [
+      "sewing_machine",
+      "button",
+      "scissors"
+    ],
+    "desc": "套指护具，用来顶推缝针穿透厚密织物，是针线活的基本随身器。"
+  },
+  {
+    "id": "umbrella",
+    "name": "伞",
+    "nameEn": "Umbrella",
+    "wikiEn": "Umbrella",
+    "aliases": [
+      "雨伞",
+      "华盖"
+    ],
+    "year": -1000,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "中国、埃及与亚述的遮阳伞盖几乎同期出现",
+    "era": "antiquity",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "weaving"
+    ],
+    "related": [
+      "hat",
+      "clothing"
+    ],
+    "desc": "可开合的撑架覆面器具，最初蔽日示贵，后来才防水蔽雨。"
+  },
+  {
+    "id": "chopsticks",
+    "name": "筷子",
+    "nameEn": "Chopsticks",
+    "wikiEn": "Chopsticks",
+    "aliases": [
+      "箸",
+      "筷"
+    ],
+    "year": -900,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "商周青铜箸与漆箸为早期实物，汉代东亚通行",
+    "era": "antiquity",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cooking"
+    ],
+    "related": [
+      "spoon",
+      "cookware_and_bakeware",
+      "teapot"
+    ],
+    "desc": "以两根细杆夹取食物的餐具，与分食、热食烹调习惯相互塑造。"
+  },
+  {
+    "id": "ancient_olympic_games",
+    "name": "古代奥林匹克竞技会",
+    "nameEn": "Ancient Olympic Games",
+    "wikiEn": "Ancient Olympic Games",
+    "aliases": [
+      "古希腊奥运会",
+      "奥林匹亚赛会"
+    ],
+    "year": -776,
+    "year_basis": "scholarly_disputed",
+    "year_span": null,
+    "year_note": "传统定年为前 776 年，考古显示赛会实际更早",
+    "era": "antiquity",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "team_sport"
+    ],
+    "related": [
+      "modern_olympic_games",
+      "history_of_swimming",
+      "history_of_boxing"
+    ],
+    "desc": "希腊城邦周期性宗教竞技集会，第一次把体育纳入固定赛制。"
+  },
+  {
+    "id": "epic_poetry",
+    "name": "史诗",
+    "nameEn": "Epic poem",
+    "wikiEn": "Epic poem",
+    "aliases": [
+      "叙事史诗",
+      "英雄长诗"
+    ],
+    "year": -750,
+    "year_basis": "range_midpoint",
+    "year_span": [
+      -800,
+      -700
+    ],
+    "year_note": "荷马诗篇成文年代通行取前八世纪",
+    "era": "antiquity",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "language"
+    ],
+    "related": [
+      "greek_theatre",
+      "fairy_tale",
+      "don_quixote"
+    ],
+    "desc": "以韵文吟诵英雄与族群记忆的长篇叙事体裁，小说兴起前的最高叙事形式。"
+  },
+  {
+    "id": "greek_theatre",
+    "name": "古希腊戏剧",
+    "nameEn": "Theatre of ancient Greece",
+    "wikiEn": "Theatre of ancient Greece",
+    "aliases": [
+      "希腊悲剧与喜剧",
+      "古典戏剧"
+    ],
+    "year": -534,
+    "year_basis": "scholarly_disputed",
+    "year_span": null,
+    "year_note": "以公元前 534 年雅典首次悲剧竞赛为通行起点",
+    "era": "antiquity",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 1,
+    "prereqs": [
+      "epic_poetry"
+    ],
+    "related": [
+      "opera",
+      "puppet_theatre",
+      "commedia_dell_arte"
+    ],
+    "desc": "由酒神祭祀合唱演化出的演员、舞台与竞赛体制，西方戏剧的母体。"
+  },
+  {
+    "id": "cradle",
+    "name": "摇篮",
+    "nameEn": "Cradle",
+    "wikiEn": "Cradle (bed)",
+    "aliases": [
+      "Cradle",
+      "rocking cradle",
+      "婴儿摇篮"
+    ],
+    "year": -500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "希腊罗马文献与墓葬模型见其早期形制",
+    "era": "antiquity",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "bedding"
+    ],
+    "related": [
+      "toy",
+      "pillow",
+      "tent"
+    ],
+    "desc": "可摇摆的婴儿睡具，以摆动哄睡并便于看护与夜间迁移。"
+  },
+  {
+    "id": "go_game",
+    "name": "围棋",
+    "nameEn": "Go",
+    "wikiEn": "Go (game)",
+    "aliases": [
+      "弈",
+      "weiqi",
+      "baduk"
+    ],
+    "year": -500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "春秋战国文献已见弈语，规则在汉代定型",
+    "era": "antiquity",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "chess",
+      "chaturanga",
+      "backgammon"
+    ],
+    "desc": "以围地多寡决胜负的完全信息棋类，成为后世机器博弈研究的试金石。"
+  },
+  {
+    "id": "kite",
+    "name": "风筝",
+    "nameEn": "Kite",
+    "wikiEn": "Kite",
+    "aliases": [
+      "纸鸢",
+      "风鸢"
+    ],
+    "year": -400,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "墨翟木鸢传说之后的竹纸风筝约成于战国至汉",
+    "era": "antiquity",
+    "category": "culture_media",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "weaving",
+      "rope"
+    ],
+    "related": [
+      "toy",
+      "balloon_flight",
+      "puppet_theatre"
+    ],
+    "desc": "借风力升空并以线牵引的轻结构器，兼作游乐、通信与测量工具。"
+  },
+  {
+    "id": "puppet_theatre",
+    "name": "傀儡戏",
+    "nameEn": "Puppetry",
+    "wikiEn": "Puppet",
+    "aliases": [
+      "木偶戏",
+      "提线傀儡"
+    ],
+    "year": -400,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "希腊文献与中国周代傀儡记载均属早期证据",
+    "era": "antiquity",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "greek_theatre"
+    ],
+    "related": [
+      "commedia_dell_arte",
+      "animation",
+      "toy"
+    ],
+    "desc": "以线、杆或手操纵偶人表演的叙事形式，是动画与定格影像的观念前身。"
+  },
+  {
+    "id": "warded_lock",
+    "name": "",
+    "nameEn": "Warded lock",
+    "wikiEn": "Warded lock",
+    "aliases": [
+      "障片锁",
+      "旧式弹子锁前身"
+    ],
+    "year": -400,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "埃及与罗马的障片式木锁，中世纪铁锁沿用其理",
+    "era": "antiquity",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "key"
+    ],
+    "related": [
+      "pin_tumbler_lock",
+      "padlock",
+      "safe"
+    ],
+    "desc": "靠固定障片筛除错误钥匙的早期锁式，结构简单而极易被撬。"
+  },
+  {
+    "id": "padlock",
+    "name": "挂锁",
+    "nameEn": "Padlock",
+    "wikiEn": "Padlock",
+    "aliases": [
+      "锁头",
+      "吊锁"
+    ],
+    "year": -100,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "罗马军营与民居的悬挂式锁具，可脱离门体使用",
+    "era": "antiquity",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "warded_lock",
+      "iron_smelting"
+    ],
+    "related": [
+      "key",
+      "safe",
+      "suitcase"
+    ],
+    "desc": "自带锁体、可随身挪移的独立锁具，把防护从建筑扩展到器物。"
+  },
+  {
+    "id": "towel",
+    "name": "毛巾",
+    "nameEn": "Towel",
+    "wikiEn": "Towel",
+    "aliases": [
+      "巾",
+      "浴巾"
+    ],
+    "year": -100,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "罗马浴场用亚麻擦身巾，棉制起圈毛巾后世普及",
+    "era": "antiquity",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "weaving",
+      "cotton"
+    ],
+    "related": [
+      "bathtub",
+      "shampoo",
+      "cosmetics"
+    ],
+    "desc": "以高吸水织物拭干身体的日用品，起圈结构大幅提升吸水力。"
+  },
+  {
+    "id": "lantern",
+    "name": "灯笼",
+    "nameEn": "Lantern",
+    "wikiEn": "Lantern",
+    "aliases": [
+      "灯彩",
+      "纸灯笼"
+    ],
+    "year": 200,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "纸与纱料糊制的可提移灯具约成于东汉至魏晋",
+    "era": "antiquity",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "papermaking",
+      "oil_lamp"
+    ],
+    "related": [
+      "candle",
+      "argand_lamp",
+      "oil_lamp"
+    ],
+    "desc": "以透光罩保护火焰、可提移照明的便携式灯具，兼作节庆装饰。"
+  },
+  {
+    "id": "bible_translation",
+    "name": "圣经翻译",
+    "nameEn": "Bible translation",
+    "wikiEn": "Bible translation",
+    "aliases": [
+      "七十士译本",
+      "武加大译本"
+    ],
+    "year": 405,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以哲罗姆拉丁文武加大译本完成年为锚",
+    "era": "antiquity",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "alphabet"
+    ],
+    "related": [
+      "illuminated_manuscript",
+      "movable_type_printing",
+      "bookbinding"
+    ],
+    "desc": "反复把经典转写为各民族语言的大规模翻译实践，塑造了书面语与印刷需求。"
+  },
+  {
+    "id": "chess",
+    "name": "国际象棋",
+    "nameEn": "Chess",
+    "wikiEn": "Chess",
+    "aliases": [
+      "西洋棋",
+      "shatranj"
+    ],
+    "year": 600,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "由恰图兰卡经波斯象棋演化，十五世纪定型后走法",
+    "era": "middle_ages",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "chaturanga"
+    ],
+    "related": [
+      "go_game",
+      "backgammon",
+      "game_theory"
+    ],
+    "desc": "由印度棋戏经波斯定型的双人对弈制度，是现代棋类与博弈研究的原型。"
+  },
+  {
+    "id": "illuminated_manuscript",
+    "name": "泥金写本",
+    "nameEn": "Illuminated manuscript",
+    "wikiEn": "Illuminated manuscript",
+    "aliases": [
+      "手抄本彩绘",
+      "泥金装饰手抄本"
+    ],
+    "year": 800,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "凯尔经等岛国写本为鼎盛代表，晚期罗马已开其端",
+    "era": "middle_ages",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "calligraphy"
+    ],
+    "related": [
+      "bookbinding",
+      "library",
+      "woodblock_printing"
+    ],
+    "desc": "以金箔与矿物彩装饰手写书的综合工艺，中世纪知识与图像的主要载体。"
+  },
+  {
+    "id": "ink_wash_painting",
+    "name": "水墨画",
+    "nameEn": "Ink wash painting",
+    "wikiEn": "Ink wash painting",
+    "aliases": [
+      "文人画",
+      "南画",
+      "墨画"
+    ],
+    "year": 800,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "唐代水墨肇兴，宋代文人画使其成为主流",
+    "era": "middle_ages",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "ink",
+      "ink_brush"
+    ],
+    "related": [
+      "calligraphy",
+      "oil_painting",
+      "sericulture"
+    ],
+    "desc": "以水墨浓淡与笔势造型的绘画体系，重意趣甚于再现光影。"
+  },
+  {
+    "id": "playing_cards",
+    "name": "纸牌",
+    "nameEn": "Playing card",
+    "wikiEn": "Playing card",
+    "aliases": [
+      "扑克牌",
+      "叶子戏"
+    ],
+    "year": 900,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "唐宋纸牌为源，十四世纪经贸易传入欧洲",
+    "era": "middle_ages",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 1,
+    "prereqs": [
+      "papermaking",
+      "woodblock_printing"
+    ],
+    "related": [
+      "tarot_card_game",
+      "dominoes",
+      "mahjong"
+    ],
+    "desc": "以有限张图案牌承载随机与策略的便携游戏媒介，兼作占卜与教化工具。"
+  },
+  {
+    "id": "tale_of_genji",
+    "name": "源氏物语",
+    "nameEn": "The Tale of Genji",
+    "wikiEn": "The Tale of Genji",
+    "aliases": [
+      "Genji monogatari",
+      "枕草子时代长篇"
+    ],
+    "year": 1008,
+    "year_basis": "scholarly_disputed",
+    "year_span": null,
+    "year_note": "成书年代通行取 1008 年前后，学界仍有争议",
+    "era": "middle_ages",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "epic_poetry"
+    ],
+    "related": [
+      "don_quixote",
+      "ink_wash_painting",
+      "sericulture"
+    ],
+    "desc": "平安朝女官写成的心理化长篇叙事，被视为世界最早的成熟小说之一。"
+  },
+  {
+    "id": "dominoes",
+    "name": "骨牌",
+    "nameEn": "Dominoes",
+    "wikiEn": "Dominoes",
+    "aliases": [
+      "多米诺",
+      "骨牌戏"
+    ],
+    "year": 1120,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "宋代宣和骨牌为源，十八世纪传入欧洲并定型玩法",
+    "era": "middle_ages",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "playing_cards"
+    ],
+    "related": [
+      "mahjong",
+      "dice",
+      "playing_cards"
+    ],
+    "desc": "以点数矩牌相接布局的博弈器具，其连锁倒塌亦成演示级联反应的模型。"
+  },
+  {
+    "id": "sonnet",
+    "name": "十四行诗",
+    "nameEn": "Sonnet",
+    "wikiEn": "Sonnet",
+    "aliases": [
+      "商籁体",
+      "彼特拉克体"
+    ],
+    "year": 1230,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "西西里诗派彼得罗·达·文纳首创，十四世纪经彼特拉克定型",
+    "era": "middle_ages",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "epic_poetry"
+    ],
+    "related": [
+      "haiku",
+      "don_quixote",
+      "fairy_tale"
+    ],
+    "desc": "以十四行固定韵式组织论辩与抒情的诗体，把格律约束变成表达装置。"
+  },
+  {
+    "id": "tempera_painting",
+    "name": "蛋彩画",
+    "nameEn": "Tempera",
+    "wikiEn": "Tempera",
+    "aliases": [
+      "胶彩画",
+      "蛋乳剂绘画"
+    ],
+    "year": 1250,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "取该世纪中叶；蛋乳剂圣像画在十三世纪已成主流",
+    "era": "middle_ages",
+    "category": "culture_media",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "ochre",
+      "fresco"
+    ],
+    "related": [
+      "oil_painting",
+      "illuminated_manuscript"
+    ],
+    "desc": "以蛋黄等乳剂调色的板面绘画法，色层稳定明丽，是油画普及前的主流技法。"
+  },
+  {
+    "id": "waffle_iron",
+    "name": "华夫饼铁模",
+    "nameEn": "Waffle iron",
+    "wikiEn": "Waffle iron",
+    "aliases": [
+      "松饼夹",
+      "蜂窝烙铁"
+    ],
+    "year": 1350,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "取该世纪中叶；中世纪欧洲圣饼铁夹为其前身",
+    "era": "middle_ages",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cast_iron",
+      "cookware_and_bakeware"
+    ],
+    "related": [
+      "stove",
+      "oven",
+      "cooking"
+    ],
+    "desc": "双面合模带蜂窝凹槽的烙具，是型铸金属炊具进入日常饮食的代表。"
+  },
+  {
+    "id": "engraving",
+    "name": "金属版雕刻",
+    "nameEn": "Engraving",
+    "wikiEn": "Engraving",
+    "aliases": [
+      "铜版画",
+      "雕版"
+    ],
+    "year": 1450,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "金匠以雕刀刻金属版印刷，十五世纪中叶于德意志成型",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "metal_casting"
+    ],
+    "related": [
+      "woodblock_printing",
+      "etching",
+      "movable_type_printing"
+    ],
+    "desc": "以雕刀在铜版上刻线再压印的工艺，使图像可高精度复制并广泛流通。"
+  },
+  {
+    "id": "golf",
+    "name": "高尔夫球",
+    "nameEn": "Golf",
+    "wikiEn": "History of golf",
+    "aliases": [
+      "高尔夫球",
+      "林克斯球戏"
+    ],
+    "year": 1450,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "苏格兰林地 Links 球戏成型，1457 年曾被议令禁止",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "team_sport",
+      "history_of_football",
+      "match"
+    ],
+    "desc": "在开阔场地以最少杆数击球入洞的竞赛，其俱乐部规则成为体育章程范本。"
+  },
+  {
+    "id": "tarot_card_game",
+    "name": "塔罗牌戏",
+    "nameEn": "Tarot card game",
+    "wikiEn": "Tarot card games",
+    "aliases": [
+      "tarocchi",
+      "塔罗"
+    ],
+    "year": 1450,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "米兰费拉拉公国的取牌戏为最早记录，占卜用途更晚",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "playing_cards",
+      "woodblock_printing"
+    ],
+    "related": [
+      "dominoes",
+      "engraving"
+    ],
+    "desc": "在四花色外加常驻王牌的国际牌戏体系，其图像牌面反过来成为版画题材。"
+  },
+  {
+    "id": "almanac",
+    "name": "历书",
+    "nameEn": "Almanac",
+    "wikiEn": "Almanac",
+    "aliases": [
+      "通书",
+      "年鉴历书"
+    ],
+    "year": 1475,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "取该十年代中值；印刷历书自十五世纪七十年代大量发行",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "movable_type_printing",
+      "calendar"
+    ],
+    "related": [
+      "calendar",
+      "newspaper",
+      "gregorian_calendar"
+    ],
+    "desc": "按年份编排天文、农事与历忌的实用出版物，是早期大众印刷品销量之最。"
+  },
+  {
+    "id": "guitar",
+    "name": "吉他",
+    "nameEn": "Guitar",
+    "wikiEn": "Guitar",
+    "aliases": [
+      "六弦琴",
+      "古典吉他"
+    ],
+    "year": 1500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "四组双弦比维拉与吉他形制在十五至十六世纪西班牙定型",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "lyre"
+    ],
+    "related": [
+      "violin",
+      "rock_and_roll",
+      "blues"
+    ],
+    "desc": "品与弦决定音高的拨弦乐器，便携易制，成为大众音乐的基础配置。"
+  },
+  {
+    "id": "wardrobe",
+    "name": "衣柜",
+    "nameEn": "Wardrobe",
+    "wikiEn": "Wardrobe",
+    "aliases": [
+      "衣橱",
+      "立柜"
+    ],
+    "year": 1500,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "由可搬移的箱柜演变为立式挂衣大柜，十六世纪北欧普及",
+    "era": "renaissance",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "nail"
+    ],
+    "related": [
+      "dress",
+      "suitcase",
+      "handbag"
+    ],
+    "desc": "带挂杆与门板的立式储衣家具，把成衣收藏从箱笼转向悬挂保养。"
+  },
+  {
+    "id": "etching",
+    "name": "腐蚀铜版",
+    "nameEn": "Etching",
+    "wikiEn": "Etching",
+    "aliases": [
+      "蚀刻版画",
+      "酸蚀制版"
+    ],
+    "year": 1515,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "取该十年代中值；霍普弗以酸蚀法制版印刷",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "engraving"
+    ],
+    "related": [
+      "poster",
+      "woodblock_printing",
+      "lithography"
+    ],
+    "desc": "以酸液咬穿防腐涂层成像的制版法，比手刻省力且能保留笔触的自由。"
+  },
+  {
+    "id": "commedia_dell_arte",
+    "name": "即兴喜剧",
+    "nameEn": "Commedia dell'arte",
+    "wikiEn": "Commedia dell'arte",
+    "aliases": [
+      "假面喜剧",
+      "行会喜剧"
+    ],
+    "year": 1550,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "意大利流浪艺人剧团成型于十六世纪中叶",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "greek_theatre"
+    ],
+    "related": [
+      "puppet_theatre",
+      "opera",
+      "film_genre"
+    ],
+    "desc": "以定型角色、假面与提纲即兴演出的流动戏剧，是现代喜剧程式的源头。"
+  },
+  {
+    "id": "cricket",
+    "name": "板球",
+    "nameEn": "Cricket",
+    "wikiEn": "History of cricket",
+    "aliases": [
+      "板球运动",
+      "英式板球"
+    ],
+    "year": 1550,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "十六世纪萨里郡教区记录为最早明确证据",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "team_sport"
+    ],
+    "related": [
+      "history_of_football",
+      "ancient_olympic_games",
+      "modern_olympic_games"
+    ],
+    "desc": "以三柱门与投击回合为核心的对抗赛制，随不列颠贸易扩散至全球。"
+  },
+  {
+    "id": "violin",
+    "name": "小提琴",
+    "nameEn": "Violin",
+    "wikiEn": "Violin",
+    "aliases": [
+      "梵哑铃",
+      "弦乐四重奏声部"
+    ],
+    "year": 1550,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "布雷西亚与克雷莫纳早期形制，十六世纪中叶成型",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "lyre"
+    ],
+    "related": [
+      "guitar",
+      "piano",
+      "opera"
+    ],
+    "desc": "弓擦弦的家族化高音乐器，其共鸣箱设计奠定近代弦乐与交响编制。"
+  },
+  {
+    "id": "picaresque_novel",
+    "name": "流浪汉小说",
+    "nameEn": "Picaresque novel",
+    "wikiEn": "Picaresque novel",
+    "aliases": [
+      "托梅拉露小说",
+      "小人物语"
+    ],
+    "year": 1554,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "《小癞子》1554 年前后刊行，确立第一人称流浪叙事",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "epic_poetry"
+    ],
+    "related": [
+      "don_quixote",
+      "detective_fiction",
+      "gothic_novel"
+    ],
+    "desc": "以下层主角串联游历见闻的散文叙事，把小说视角从英雄转向平民。"
+  },
+  {
+    "id": "wig",
+    "name": "假发",
+    "nameEn": "Wig",
+    "wikiEn": "Wig",
+    "aliases": [
+      "假髻",
+      "扑粉假发"
+    ],
+    "year": 1560,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "近代欧洲假发风尚自十六世纪后期兴起，路易十四时鼎盛",
+    "era": "renaissance",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "comb"
+    ],
+    "related": [
+      "hat",
+      "cosmetics",
+      "dress"
+    ],
+    "desc": "以人发或兽毛制成的头部饰件，兼顾遮秃、卫生与等级身份的表达。"
+  },
+  {
+    "id": "opera",
+    "name": "歌剧",
+    "nameEn": "Opera",
+    "wikiEn": "Opera",
+    "aliases": [
+      "乐剧",
+      "operatic drama"
+    ],
+    "year": 1600,
+    "year_basis": "scholarly_disputed",
+    "year_span": null,
+    "year_note": "1598 年里努奇《达芙妮》与 1600 年《尤丽狄茜》孰先争议",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 1,
+    "prereqs": [
+      "greek_theatre",
+      "equal_temperament"
+    ],
+    "related": [
+      "symphony",
+      "commedia_dell_arte",
+      "violin"
+    ],
+    "desc": "以歌唱与管弦乐贯穿戏剧的综合体裁，把音乐推向独立叙事媒介。"
+  },
+  {
+    "id": "don_quixote",
+    "name": "堂吉诃德",
+    "nameEn": "Don Quixote",
+    "wikiEn": "Don Quixote",
+    "aliases": [
+      "吉诃德",
+      "曼查骑士"
+    ],
+    "year": 1605,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "第一部 1605 年刊行，第二部 1615 年",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 1,
+    "prereqs": [
+      "picaresque_novel",
+      "movable_type_printing"
+    ],
+    "related": [
+      "tale_of_genji",
+      "science_fiction",
+      "fairy_tale"
+    ],
+    "desc": "以讽刺骑士传奇确立现代长篇叙事的小说，被视为近代小说体裁的起点。"
+  },
+  {
+    "id": "haiku",
+    "name": "俳句",
+    "nameEn": "Haiku",
+    "wikiEn": "Haiku",
+    "aliases": [
+      "俳谐",
+      "发句"
+    ],
+    "year": 1680,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "松永贞德、芭蕉一系于十七世纪确立十七音格式",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "calligraphy"
+    ],
+    "related": [
+      "sonnet",
+      "ink_wash_painting",
+      "epic_poetry"
+    ],
+    "desc": "以十七音与季语截取瞬间意象的极简诗体，把留白当作主要表达手段。"
+  },
+  {
+    "id": "museum",
+    "name": "博物馆",
+    "nameEn": "Museum",
+    "wikiEn": "Museum",
+    "aliases": [
+      "博物院",
+      "公共收藏机构"
+    ],
+    "year": 1683,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以牛津阿什莫林博物馆对公众开放为最早公共博物馆",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "library"
+    ],
+    "related": [
+      "illuminated_manuscript",
+      "bookbinding"
+    ],
+    "desc": "以公开方式收藏、编目并陈列人造物的机构，把观看变成受教育制度。"
+  },
+  {
+    "id": "fairy_tale",
+    "name": "童话故事",
+    "nameEn": "Fairy tale",
+    "wikiEn": "Fairy tale",
+    "aliases": [
+      "民间故事",
+      "传说故事"
+    ],
+    "year": 1697,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "贝洛《鹅妈妈故事集》1697 年刊行，使口头故事成文体裁",
+    "era": "renaissance",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "epic_poetry",
+      "movable_type_printing"
+    ],
+    "related": [
+      "sonnet",
+      "puppet_theatre",
+      "comic_book"
+    ],
+    "desc": "把口头民间传说改写为固定文本的儿童叙事体裁，成为后世故事产业的素材库。"
+  },
+  {
+    "id": "piano",
+    "name": "钢琴",
+    "nameEn": "Piano",
+    "wikiEn": "Piano",
+    "aliases": [
+      "击弦键盘乐器",
+      "pianoforte"
+    ],
+    "year": 1700,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "克里斯托菲里制得首批可强弱变化的击弦键盘琴",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "equal_temperament"
+    ],
+    "related": [
+      "violin",
+      "music_box",
+      "synthesizer"
+    ],
+    "desc": "以键盘驱动击弦并能控制强弱的乐器，成为近代作曲与家庭音乐的中枢。"
+  },
+  {
+    "id": "history_of_boxing",
+    "name": "拳击竞技",
+    "nameEn": "History of boxing",
+    "wikiEn": "History of boxing",
+    "aliases": [
+      "现代拳击",
+      "Prize fighting"
+    ],
+    "year": 1743,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1743 年《汤姆·丁顿会规》首次成文约束擂台",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "ancient_olympic_games",
+      "modern_olympic_games",
+      "team_sport"
+    ],
+    "desc": "以手套、回合与称重规则约束的徒手对抗竞技，由赌斗表演变为分级运动。"
+  },
+  {
+    "id": "symphony",
+    "name": "交响曲",
+    "nameEn": "Symphony",
+    "wikiEn": "Symphony",
+    "aliases": [
+      "交响乐",
+      "管弦乐套曲"
+    ],
+    "year": 1750,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "曼海姆与维也纳乐派把歌剧序曲扩展为四乐章套曲",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "opera",
+      "violin"
+    ],
+    "related": [
+      "piano",
+      "jazz",
+      "movable_type_printing"
+    ],
+    "desc": "为管弦乐队写的多乐章大型器乐体裁，以纯音响结构承载完整的逻辑叙事。"
+  },
+  {
+    "id": "puzzle",
+    "name": "拼图解谜",
+    "nameEn": "Puzzle",
+    "wikiEn": "Puzzle",
+    "aliases": [
+      "拼图",
+      "智力玩具"
+    ],
+    "year": 1760,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "伦敦地图商把地图贴木板锯开作教具，为拼图雏形",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "engraving",
+      "toy"
+    ],
+    "related": [
+      "rubiks_cube",
+      "chess",
+      "go_game"
+    ],
+    "desc": "以完成唯一解结构为目标的智力器具，把图案拼合变成可量产的教育玩具。"
+  },
+  {
+    "id": "gothic_novel",
+    "name": "哥特小说",
+    "nameEn": "Gothic novel",
+    "wikiEn": "Gothic novel",
+    "aliases": [
+      "恐怖小说前身",
+      "古堡传奇"
+    ],
+    "year": 1764,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "沃波尔《奥特朗托堡》1764 年出版，开此体裁",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "picaresque_novel"
+    ],
+    "related": [
+      "science_fiction",
+      "detective_fiction",
+      "film_genre"
+    ],
+    "desc": "以古堡、禁忌与恐惧驱动情节的小说流派，是恐怖与悬疑影视的母型。"
+  },
+  {
+    "id": "music_box",
+    "name": "八音盒",
+    "nameEn": "Music box",
+    "wikiEn": "Music box",
+    "aliases": [
+      "自动音盒",
+      "梳齿音筒"
+    ],
+    "year": 1796,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "日内瓦匠人以梳齿钢片与凸点音筒制成首只成品",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "equal_temperament"
+    ],
+    "related": [
+      "music_sequencer",
+      "phonograph",
+      "piano"
+    ],
+    "desc": "以凸点拨动音齿自动演奏的机械装置，把乐谱物质化为可储存的金属程序。"
+  },
+  {
+    "id": "science_fiction",
+    "name": "科幻小说",
+    "nameEn": "Science fiction",
+    "wikiEn": "Science fiction",
+    "aliases": [
+      "科学传奇",
+      "科幻"
+    ],
+    "year": 1818,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以雪莱《弗兰肯斯坦》1818 年为通行起点",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 1,
+    "prereqs": [
+      "gothic_novel"
+    ],
+    "related": [
+      "detective_fiction",
+      "film_genre",
+      "steam_engine"
+    ],
+    "desc": "以技术假设推演他种世界的叙事体裁，把科学进展变成故事素材与伦理试验。"
+  },
+  {
+    "id": "stove",
+    "name": "炉灶",
+    "nameEn": "Stove",
+    "wikiEn": "Stove",
+    "aliases": [
+      "厨房灶",
+      "铸铁炉"
+    ],
+    "year": 1825,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "取该十年代中值；封闭式铸铁炊事炉在欧美普及",
+    "era": "industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cast_iron",
+      "cookware_and_bakeware"
+    ],
+    "related": [
+      "hearth",
+      "chimney",
+      "oven"
+    ],
+    "desc": "把明火关进金属箱体的烹饪与取暖装置，集中供热并显著减少室内烟气。"
+  },
+  {
+    "id": "history_of_swimming",
+    "name": "竞技游泳",
+    "nameEn": "History of swimming",
+    "wikiEn": "History of swimming",
+    "aliases": [
+      "游泳运动",
+      "竞速游泳"
+    ],
+    "year": 1830,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "英国俱乐部与人工泳池使泅水成为计时竞赛",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "team_sport"
+    ],
+    "related": [
+      "ancient_olympic_games",
+      "modern_olympic_games",
+      "bathtub"
+    ],
+    "desc": "把求生技能改造为分泳姿、分距离的计时竞赛，推动泳池与计时标准建设。"
+  },
+  {
+    "id": "safe",
+    "name": "保险柜",
+    "nameEn": "Safe",
+    "wikiEn": "Safe",
+    "aliases": [
+      "金库柜",
+      "防火保险箱"
+    ],
+    "year": 1830,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "铸铁防火箱与防盗机械锁在同一时期合流",
+    "era": "industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "warded_lock",
+      "cast_iron"
+    ],
+    "related": [
+      "pin_tumbler_lock",
+      "suitcase",
+      "key"
+    ],
+    "desc": "以厚壁与机械锁封闭的小型存储体，把防火防盗做成可搬移的家用器物。"
+  },
+  {
+    "id": "detective_fiction",
+    "name": "侦探小说",
+    "nameEn": "Detective fiction",
+    "wikiEn": "Detective fiction",
+    "aliases": [
+      "推理小说",
+      "探案小说"
+    ],
+    "year": 1841,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "爱伦·坡《莫格街凶杀案》1841 年确立推理范式",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "picaresque_novel"
+    ],
+    "related": [
+      "gothic_novel",
+      "science_fiction",
+      "newspaper"
+    ],
+    "desc": "以线索、演绎与解谜结构组织的叙事类型，把概率推理普及为大众思维训练。"
+  },
+  {
+    "id": "baseball",
+    "name": "棒球",
+    "nameEn": "History of baseball",
+    "wikiEn": "History of baseball",
+    "aliases": [
+      "棒垒球",
+      "美国国球"
+    ],
+    "year": 1845,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "尼克博克规则 1845 年成文，奠定现代场地与垒制",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "team_sport"
+    ],
+    "related": [
+      "history_of_football",
+      "basketball",
+      "cricket"
+    ],
+    "desc": "以击球跑垒得分的攻守轮换团体项目，其联盟与统计体系成职业体育样板。"
+  },
+  {
+    "id": "mahjong",
+    "name": "麻将",
+    "nameEn": "Mahjong",
+    "wikiEn": "Mahjong",
+    "aliases": [
+      "麻雀牌",
+      "马将"
+    ],
+    "year": 1850,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "清代中叶由骨牌与叶子戏合流演化而来",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "playing_cards",
+      "dominoes"
+    ],
+    "related": [
+      "go_game",
+      "chess"
+    ],
+    "desc": "四人摸打组牌的博弈制度，其牌型概率结构成为机器学习常用测试题。"
+  },
+  {
+    "id": "can_opener",
+    "name": "开罐器",
+    "nameEn": "Can opener",
+    "wikiEn": "Can opener",
+    "aliases": [
+      "罐头刀",
+      "启罐器"
+    ],
+    "year": 1858,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "弗劳尔斯取得首个旋转齿轮式开罐器专利",
+    "era": "industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "canning"
+    ],
+    "related": [
+      "food_preservation",
+      "cookware_and_bakeware",
+      "frozen_food"
+    ],
+    "desc": "切开金属罐盖的专用手工具，补上罐藏食品链条的最后一环。"
+  },
+  {
+    "id": "history_of_football",
+    "name": "英式足球",
+    "nameEn": "History of association football",
+    "wikiEn": "History of association football",
+    "aliases": [
+      "足球运动",
+      "soccer"
+    ],
+    "year": 1863,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1863 年英格兰足球总会统一规则，与橄榄球分立",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "team_sport"
+    ],
+    "related": [
+      "modern_olympic_games",
+      "cricket",
+      "basketball"
+    ],
+    "desc": "以足为主、两队十一人射门得分的全球性竞技，其规则统一是现代体育范式。"
+  },
+  {
+    "id": "poster",
+    "name": "海报",
+    "nameEn": "Poster",
+    "wikiEn": "Poster",
+    "aliases": [
+      "招贴画",
+      "印刷广告画"
+    ],
+    "year": 1865,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "取该十年代中值；石印彩色海报在巴黎成为大众视觉媒介",
+    "era": "industrial",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "lithography",
+      "movable_type_printing"
+    ],
+    "related": [
+      "newspaper",
+      "etching",
+      "magazine"
+    ],
+    "desc": "张贴于公共墙面的大幅图文印刷品，把广告与宣传变成城市日常视觉语言。"
+  },
+  {
+    "id": "blues",
+    "name": "布鲁斯",
+    "nameEn": "Blues",
+    "wikiEn": "Blues",
+    "aliases": [
+      "蓝调",
+      "布鲁斯音乐"
+    ],
+    "year": 1870,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "美国南部非裔社区在重建时期形成该语汇体系",
+    "era": "second_industrial",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "guitar",
+      "musical_notation"
+    ],
+    "related": [
+      "jazz",
+      "rock_and_roll",
+      "gramophone"
+    ],
+    "desc": "以十二小节与降音阶表达个人苦难的歌曲形式，为现代流行音乐提供语法。"
+  },
+  {
+    "id": "gelatin_silver_process",
+    "name": "胶体银感光工艺",
+    "nameEn": "Gelatin silver process",
+    "wikiEn": "Gelatin silver process",
+    "aliases": [
+      "明胶银盐",
+      "银盐印相"
+    ],
+    "year": 1871,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "马多克斯以明胶为卤化银载体，1871 年发表",
+    "era": "second_industrial",
+    "category": "culture_media",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "collodion_process",
+      "photography"
+    ],
+    "related": [
+      "kodak_camera",
+      "calotype",
+      "autochrome"
+    ],
+    "desc": "以明胶悬浮卤化银的干式感光体系，让底片可预制并催生快照文化。"
+  },
+  {
+    "id": "history_of_tennis",
+    "name": "草地网球",
+    "nameEn": "History of tennis",
+    "wikiEn": "History of tennis",
+    "aliases": [
+      "网球运动",
+      "lawn tennis"
+    ],
+    "year": 1873,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1873 年温菲尔德公布草地网球规则",
+    "era": "second_industrial",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "team_sport"
+    ],
+    "related": [
+      "history_of_football",
+      "basketball",
+      "modern_olympic_games"
+    ],
+    "desc": "以球网分隔、按独特计分制对打的隔网竞技，成为大众俱乐部体育的代表。"
+  },
+  {
+    "id": "jeans",
+    "name": "牛仔裤",
+    "nameEn": "Jeans",
+    "wikiEn": "Jeans",
+    "aliases": [
+      "丹宁裤",
+      "工装裤"
+    ],
+    "year": 1873,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1873 年铆钉加固工装裤取得专利，二十世纪转为日常服饰",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "sewing_machine",
+      "cotton"
+    ],
+    "related": [
+      "zipper",
+      "sneakers",
+      "dress"
+    ],
+    "desc": "以铆钉加固的粗斜纹棉工装裤，从劳工服饰变为全球通行的日常穿着。"
+  },
+  {
+    "id": "toothpaste",
+    "name": "牙膏",
+    "nameEn": "Toothpaste",
+    "wikiEn": "Toothpaste",
+    "aliases": [
+      "牙粉膏",
+      "洁牙膏"
+    ],
+    "year": 1873,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "盒装牙膏在美国上市，软管预装剂型随后普及",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "toothbrush",
+      "soap"
+    ],
+    "related": [
+      "cosmetics",
+      "toilet_paper",
+      "soap"
+    ],
+    "desc": "配研磨剂与香料供牙刷使用的膏体，把口腔清洁标准化为日用化学品。"
+  },
+  {
+    "id": "safety_razor",
+    "name": "安全剃刀",
+    "nameEn": "Safety razor",
+    "wikiEn": "Safety razor",
+    "aliases": [
+      "双面刀片剃刀",
+      "刮胡刀"
+    ],
+    "year": 1880,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "坎普·吉尔莱特式护刃剃刀在 1880 年前后成型",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "bessemer_steel",
+      "scissors"
+    ],
+    "related": [
+      "cosmetics",
+      "soap",
+      "scissors"
+    ],
+    "desc": "以护架限制刀刃接触皮肤的剃须工具，一次性薄刀片由此成为大宗消费品。"
+  },
+  {
+    "id": "clothes_iron",
+    "name": "熨斗",
+    "nameEn": "Clothes iron",
+    "wikiEn": "Clothes iron",
+    "aliases": [
+      "烫斗",
+      "电熨斗"
+    ],
+    "year": 1882,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "实芯电熨斗 1882 年取得专利，取代实心热铁与炭火斗",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "cast_iron",
+      "electricity_generation"
+    ],
+    "related": [
+      "washing_machine",
+      "sewing_machine",
+      "dress"
+    ],
+    "desc": "以热金属底面压平织物的家用器具，电热化让成衣整理进入每户厨房。"
+  },
+  {
+    "id": "basketball",
+    "name": "篮球",
+    "nameEn": "Basketball",
+    "wikiEn": "Basketball",
+    "aliases": [
+      "投筐球",
+      "室内五人制球赛"
+    ],
+    "year": 1891,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "奈史密斯 1891 年于 Springfield 制定十三条规则",
+    "era": "second_industrial",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "team_sport"
+    ],
+    "related": [
+      "history_of_football",
+      "modern_olympic_games",
+      "esports"
+    ],
+    "desc": "为冬季室内体能训练设计的投筐团体项目，因场地小而迅速全球化。"
+  },
+  {
+    "id": "mop",
+    "name": "拖把",
+    "nameEn": "Mop",
+    "wikiEn": "Mop",
+    "aliases": [
+      "拖布",
+      "抹布拖"
+    ],
+    "year": 1893,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以绞水架与棉纱头组合的湿式地面清洁具在十九世纪末定型",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "bucket",
+      "broom"
+    ],
+    "related": [
+      "bucket",
+      "towel",
+      "bathtub"
+    ],
+    "desc": "以吸水纤维头蘸水擦地的长柄工具，把硬质地面清洁从扫变为擦洗。"
+  },
+  {
+    "id": "zipper",
+    "name": "拉链",
+    "nameEn": "Zipper",
+    "wikiEn": "Zipper",
+    "aliases": [
+      "拉锁",
+      "牙链扣"
+    ],
+    "year": 1893,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1893 年芝加哥世博会展出钩扣式样，1913 年改为现代齿牙",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "sewing_machine",
+      "button"
+    ],
+    "related": [
+      "button",
+      "jeans",
+      "brassiere"
+    ],
+    "desc": "以连续齿牙互锁实现开合的柔性扣件，把成衣穿脱变为一次拉动。"
+  },
+  {
+    "id": "stop_motion",
+    "name": "定格动画",
+    "nameEn": "Stop motion",
+    "wikiEn": "Stop motion",
+    "aliases": [
+      "逐格拍摄",
+      "木偶动画"
+    ],
+    "year": 1895,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以逐帧挪动实体再拍摄的技法在十九世纪九十年代出现",
+    "era": "second_industrial",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "kinetoscope",
+      "gelatin_silver_process"
+    ],
+    "related": [
+      "animation",
+      "puppet_theatre",
+      "cinematograph"
+    ],
+    "desc": "逐帧挪动实体物件再拍摄成影像的技法，让无生命物在银幕上动起来。"
+  },
+  {
+    "id": "modern_olympic_games",
+    "name": "现代奥林匹克运动会",
+    "nameEn": "Olympic Games",
+    "wikiEn": "Olympic Games",
+    "aliases": [
+      "奥运会",
+      "夏季奥运会"
+    ],
+    "year": 1896,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1896 年雅典举行首届现代奥运会",
+    "era": "second_industrial",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "ancient_olympic_games",
+      "history_of_football"
+    ],
+    "related": [
+      "esports",
+      "basketball",
+      "history_of_boxing"
+    ],
+    "desc": "以民族国家为单位、周期轮办的全球综合竞技制度，重塑了古代赛会传统。"
+  },
+  {
+    "id": "sanitary_napkin",
+    "name": "卫生巾",
+    "nameEn": "Sanitary napkin",
+    "wikiEn": "Sanitary napkin",
+    "aliases": [
+      "月经带",
+      "护垫"
+    ],
+    "year": 1896,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以纤维素吸收垫制成的商品化月经用品在 1896 年前后上市",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "papermaking",
+      "cotton"
+    ],
+    "related": [
+      "toilet_paper",
+      "disposable_diaper",
+      "cosmetics"
+    ],
+    "desc": "一次性吸收经血的贴身用品，把月经护理从可洗织物转向商品化耗材。"
+  },
+  {
+    "id": "handbag",
+    "name": "手提包",
+    "nameEn": "Handbag",
+    "wikiEn": "Handbag",
+    "aliases": [
+      "女式提包",
+      "手袋"
+    ],
+    "year": 1900,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "随铁路与轮船旅行普及而成为随身携物标准器",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "zipper"
+    ],
+    "related": [
+      "dress",
+      "jeans",
+      "suitcase"
+    ],
+    "desc": "随身携带私物的有带提手容器，兼作服饰配件与个人空间的移动单元。"
+  },
+  {
+    "id": "special_effects",
+    "name": "电影特效",
+    "nameEn": "Special effects",
+    "wikiEn": "Special effects",
+    "aliases": [
+      "特技",
+      "视觉特效"
+    ],
+    "year": 1902,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "梅里爱以停机换景、多重曝光造出银幕幻象",
+    "era": "second_industrial",
+    "category": "culture_media",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "cinematograph",
+      "gelatin_silver_process"
+    ],
+    "related": [
+      "animation",
+      "stop_motion",
+      "film_genre"
+    ],
+    "desc": "在拍摄与洗印中制造不可能影像的手法术集合，把特技变成叙事手段。"
+  },
+  {
+    "id": "teddy_bear",
+    "name": "泰迪熊",
+    "nameEn": "Teddy bear",
+    "wikiEn": "Teddy bear",
+    "aliases": [
+      "玩具熊",
+      "布偶熊"
+    ],
+    "year": 1902,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "因罗斯福拒猎幼熊的新闻漫画而得名并量产",
+    "era": "second_industrial",
+    "category": "culture_media",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "toy",
+      "sewing_machine"
+    ],
+    "related": [
+      "lego_brick",
+      "toy",
+      "puzzle"
+    ],
+    "desc": "以填充绒毛制成的拟人玩具熊，标志现代玩具工业与角色商品化的开端。"
+  },
+  {
+    "id": "wristwatch",
+    "name": "腕表",
+    "nameEn": "Wristwatch",
+    "wikiEn": "Wristwatch",
+    "aliases": [
+      "手表",
+      "腕上时计"
+    ],
+    "year": 1904,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "二十世纪初为飞行与军事需求定型，一战后全民普及",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "pocket_watch",
+      "mainspring"
+    ],
+    "related": [
+      "mechanical_clock",
+      "alarm_clock",
+      "assembly_line"
+    ],
+    "desc": "佩戴于腕上的小型时计，把计时从口袋中取出变为随时可看的身体附件。"
+  },
+  {
+    "id": "animation",
+    "name": "动画",
+    "nameEn": "Animation",
+    "wikiEn": "Animation",
+    "aliases": [
+      "卡通片",
+      "美术片"
+    ],
+    "year": 1906,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1906 年《滑稽脸》为首部广泛放映的逐格手绘片",
+    "era": "second_industrial",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 1,
+    "prereqs": [
+      "cinematograph"
+    ],
+    "related": [
+      "stop_motion",
+      "comic_book",
+      "video_game_console",
+      "youtube"
+    ],
+    "desc": "以连续静态画面制造运动错觉的影像媒介，让虚构形象获得可传播的动作。"
+  },
+  {
+    "id": "washing_machine",
+    "name": "洗衣机",
+    "nameEn": "Washing machine",
+    "wikiEn": "Washing machine",
+    "aliases": [
+      "电动洗衣机",
+      "洋泾浜洗濯机"
+    ],
+    "year": 1908,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以电动机驱动滚筒的家用机型在 1908 年前后商品化",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 1,
+    "prereqs": [
+      "induction_motor",
+      "modern_sewer",
+      "soap"
+    ],
+    "related": [
+      "clothes_iron",
+      "sewing_machine",
+      "electricity_generation"
+    ],
+    "desc": "以机械搅动与水流完成洗涤的家用电器，把最重的家务劳动交给电力。"
+  },
+  {
+    "id": "film_genre",
+    "name": "电影类型",
+    "nameEn": "Film genre",
+    "wikiEn": "Film genre",
+    "aliases": [
+      "影片类型",
+      "类型片"
+    ],
+    "year": 1910,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "长篇叙事片形成稳定片种与制片厂分类惯例",
+    "era": "second_industrial",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "cinematograph",
+      "greek_theatre"
+    ],
+    "related": [
+      "sound_film",
+      "netflix",
+      "science_fiction"
+    ],
+    "desc": "按题材与叙事程式分类的影片体系，把观众预期变成制片工业的组织原则。"
+  },
+  {
+    "id": "jazz",
+    "name": "爵士乐",
+    "nameEn": "Jazz",
+    "wikiEn": "Jazz",
+    "aliases": [
+      "爵士",
+      "新奥尔良爵士"
+    ],
+    "year": 1910,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "新奥尔良舞厅与游行乐队在二十世纪前十年的实践",
+    "era": "second_industrial",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "blues",
+      "music_box"
+    ],
+    "related": [
+      "rock_and_roll",
+      "symphony",
+      "gramophone"
+    ],
+    "desc": "以即兴、切分与合奏对话为核心的音乐语言，重塑二十世纪的演出方式。"
+  },
+  {
+    "id": "brassiere",
+    "name": "胸罩",
+    "nameEn": "Brassiere",
+    "wikiEn": "Brassiere",
+    "aliases": [
+      "乳罩",
+      "胸衣"
+    ],
+    "year": 1914,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1914 年美国专利的现代手帕式胸罩为其定型标志",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "zipper",
+      "sewing_machine"
+    ],
+    "related": [
+      "dress",
+      "jeans",
+      "button"
+    ],
+    "desc": "取代紧身胸衣的分件支撑内衣，标志女装从骨架结构转向软性剪裁。"
+  },
+  {
+    "id": "sneakers",
+    "name": "胶底运动鞋",
+    "nameEn": "Sneakers",
+    "wikiEn": "Sneakers",
+    "aliases": [
+      "球鞋",
+      "网球鞋"
+    ],
+    "year": 1917,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "硫化橡胶底帆布鞋大规模量产于二十年代前",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "vulcanized_rubber",
+      "shoe"
+    ],
+    "related": [
+      "jeans",
+      "history_of_tennis"
+    ],
+    "desc": "以橡胶软底与帆布鞋面制成的运动鞋，后成街头与校园的通用便鞋。"
+  },
+  {
+    "id": "shampoo",
+    "name": "香波",
+    "nameEn": "Shampoo",
+    "wikiEn": "Shampoo",
+    "aliases": [
+      "洗发水",
+      "发液"
+    ],
+    "year": 1927,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以合成表面活性剂配制的液态洗发剂在二十年代末上市",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "soap"
+    ],
+    "related": [
+      "towel",
+      "cosmetics"
+    ],
+    "desc": "专用于头发与头皮的液态洗涤剂，把清洁从通用皂类细化为发用化学品。"
+  },
+  {
+    "id": "comic_book",
+    "name": "漫画书",
+    "nameEn": "Comic book",
+    "wikiEn": "Comic book",
+    "aliases": [
+      "连环画",
+      "美式漫画"
+    ],
+    "year": 1934,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1934 年《著名连环画》开创再印刷漫画月刊",
+    "era": "second_industrial",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "newspaper",
+      "offset_printing"
+    ],
+    "related": [
+      "animation",
+      "fairy_tale",
+      "film_genre"
+    ],
+    "desc": "以分格连续图画叙事的廉价印刷品，把连载英雄变成大众神话的主要载体。"
+  },
+  {
+    "id": "clothes_dryer",
+    "name": "干衣机",
+    "nameEn": "Clothes dryer",
+    "wikiEn": "Clothes dryer",
+    "aliases": [
+      "烘干机",
+      "滚筒烘衣机"
+    ],
+    "year": 1938,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "家用滚筒热风烘干机型在三十年代末进入市场",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "washing_machine",
+      "electricity_generation"
+    ],
+    "related": [
+      "clothes_iron"
+    ],
+    "desc": "以滚筒翻转与热风蒸发水分的家用电器，使衣物干燥不再依赖天气与晾晒。"
+  },
+  {
+    "id": "suitcase",
+    "name": "旅行箱",
+    "nameEn": "Suitcase",
+    "wikiEn": "Suitcase",
+    "aliases": [
+      "行李箱",
+      "提箱"
+    ],
+    "year": 1938,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "硬壳带轮可拉式在二十世纪后期定型，此前为手提衣箱",
+    "era": "second_industrial",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "zipper",
+      "wardrobe"
+    ],
+    "related": [
+      "handbag",
+      "padlock",
+      "wardrobe"
+    ],
+    "desc": "为携运行装而生的可搬移容器，其轮与拉杆结构回应了大众旅行的兴起。"
+  },
+  {
+    "id": "rock_and_roll",
+    "name": "摇滚乐",
+    "nameEn": "Rock and roll",
+    "wikiEn": "Rock and roll",
+    "aliases": [
+      "摇滚",
+      "rock'n'roll"
+    ],
+    "year": 1951,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "克利夫兰电台节目与唱片在五十年代初定名",
+    "era": "atomic_electronic",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 1,
+    "prereqs": [
+      "blues",
+      "guitar",
+      "gramophone"
+    ],
+    "related": [
+      "jazz",
+      "synthesizer",
+      "spotify"
+    ],
+    "desc": "融合节奏布鲁斯与乡村的强拍流行乐，首次让青少年成为独立文化市场。"
+  },
+  {
+    "id": "lego_brick",
+    "name": "积木",
+    "nameEn": "Lego",
+    "wikiEn": "Lego",
+    "aliases": [
+      "乐高",
+      "互锁塑料积木"
+    ],
+    "year": 1958,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "管状底互锁结构 1958 年取得专利，尺寸公差标准化",
+    "era": "atomic_electronic",
+    "category": "culture_media",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "bakelite",
+      "assembly_line"
+    ],
+    "related": [
+      "toy",
+      "puzzle",
+      "teddy_bear"
+    ],
+    "desc": "以凸点与管脚互锁的标准塑料积木，把开放搭建变成可量化的玩具系统。"
+  },
+  {
+    "id": "disposable_diaper",
+    "name": "一次性尿布",
+    "nameEn": "Disposable diaper",
+    "wikiEn": "Disposable diaper",
+    "aliases": [
+      "尿不湿",
+      "纸尿布"
+    ],
+    "year": 1961,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "商品化纸尿布于二十年代六十年代初推出市场",
+    "era": "atomic_electronic",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "nylon",
+      "sanitary_napkin"
+    ],
+    "related": [
+      "washing_machine",
+      "biodegradable_plastic",
+      "toilet"
+    ],
+    "desc": "以高吸水纤维一次性使用的婴儿尿裤，把排泄护理从洗涤转为丢弃。"
+  },
+  {
+    "id": "synthesizer",
+    "name": "电子合成器",
+    "nameEn": "Synthesiser",
+    "wikiEn": "Synthesiser",
+    "aliases": [
+      "电子琴",
+      "声音合成器"
+    ],
+    "year": 1964,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "穆格模块化合成器 1964 年公开展示并投产",
+    "era": "atomic_electronic",
+    "category": "culture_media",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "transistor",
+      "electricity_generation"
+    ],
+    "related": [
+      "rock_and_roll",
+      "midi",
+      "music_sequencer"
+    ],
+    "desc": "以电路生成并塑形声音的乐器，把音色的定义权从共鸣体转向参数。"
+  },
+  {
+    "id": "esports",
+    "name": "电子竞技",
+    "nameEn": "Esports",
+    "wikiEn": "Esports",
+    "aliases": [
+      "电竞",
+      "电子竞技运动"
+    ],
+    "year": 1972,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "斯坦福校园《太空战争》锦标赛被视为首次电竞比赛",
+    "era": "information",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "arcade_video_game",
+      "team_sport"
+    ],
+    "related": [
+      "live_streaming",
+      "video_game_console",
+      "modern_olympic_games"
+    ],
+    "desc": "以电子游戏为项目的观赛化竞技体系，沿用体育的联赛、俱乐部与转播结构。"
+  },
+  {
+    "id": "rubiks_cube",
+    "name": "魔方",
+    "nameEn": "Rubik's Cube",
+    "wikiEn": "Rubik's Cube",
+    "aliases": [
+      "鲁比克方块",
+      "魔术方块"
+    ],
+    "year": 1974,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1974 年发明，1980 年起全球热销",
+    "era": "information",
+    "category": "culture_media",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "puzzle",
+      "toy"
+    ],
+    "related": [
+      "puzzle",
+      "toy",
+      "group_theory"
+    ],
+    "desc": "以三层旋转色块构成的组合玩具，其解法成为群论与算法教学的直观教具。"
+  },
+  {
+    "id": "midi",
+    "name": "电子乐器数字接口",
+    "nameEn": "MIDI",
+    "wikiEn": "MIDI",
+    "aliases": [
+      "乐器数字接口",
+      "Musical Instrument Digital Interface"
+    ],
+    "year": 1983,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1983 年公布 1.0 规范，统一各厂牌设备控制指令",
+    "era": "information",
+    "category": "culture_media",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "synthesizer",
+      "integrated_circuit"
+    ],
+    "related": [
+      "music_sequencer",
+      "spotify",
+      "youtube"
+    ],
+    "desc": "描述音高、力度与时值的设备通信标准，使编曲从录音转为可编辑的数据。"
+  },
+  {
+    "id": "selfie",
+    "name": "自拍",
+    "nameEn": "Selfie",
+    "wikiEn": "Selfie",
+    "aliases": [
+      "自拍照",
+      "自我影像"
+    ],
+    "year": 2002,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "该词随网络相册出现，因手机前置摄像头而爆发",
+    "era": "intelligent",
+    "category": "culture_media",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "kodak_camera"
+    ],
+    "related": [
+      "instagram",
+      "smartphone",
+      "action_camera"
+    ],
+    "desc": "拍摄者以自身为对象的即拍影像，把自画像传统变成社交平台的日常表达方式。"
+  },
+  {
+    "id": "air_fryer",
+    "name": "空气炸锅",
+    "nameEn": "Air fryer",
+    "wikiEn": "Air fryer",
+    "aliases": [
+      "热风炸锅",
+      "无油炸锅"
+    ],
+    "year": 2010,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "家用台式机型于二十世纪十年代中期大众化",
+    "era": "intelligent",
+    "category": "daily_life",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "stove",
+      "thermometer"
+    ],
+    "related": [
+      "oven",
+      "frozen_food",
+      "cooking"
+    ],
+    "desc": "以高速热风循环模拟油煎的小型台面炊具，用少量油完成酥脆烹调。"
+  }
+]

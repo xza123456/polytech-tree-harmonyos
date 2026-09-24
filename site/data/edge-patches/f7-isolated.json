@@ -1,0 +1,757 @@
+[
+ {
+  "id": "tattoo",
+  "add_prereqs": [],
+  "add_related": [
+   "cosmetics",
+   "ochre",
+   "sewing_needle"
+  ],
+  "reason": "文身与化妆品同属以矿物颜料修饰人体的实践（奥茨与埃及木乃伊均见色素刺入）；赭石是最早的刺色颜料；带眼骨针提供了穿刺皮肤并带入色素的工具形态"
+ },
+ {
+  "id": "candle",
+  "add_prereqs": [
+   "oil_lamp"
+  ],
+  "add_related": [
+   "torch",
+   "beekeeping",
+   "candle_clock"
+  ],
+  "reason": "烛=固态脂+芯的自供油照明，直接派生自油灯的油脂+灯芯结构；火把为同类便携照明；蜂蜡是蜡烛的主要原料；烛钟是蜡烛刻度计时的应用"
+ },
+ {
+  "id": "soap",
+  "add_prereqs": [
+   "fire"
+  ],
+  "add_related": [
+   "hard_soap",
+   "mummification",
+   "great_bath"
+  ],
+  "reason": "肥皂是脂肪与草木灰的长时间共煮产物，离火不成；硬皂是其橄榄油碱煮的后代工艺；木乃伊制作所用泡碱与大浴池的洗涤用水是同域的用碱实践"
+ },
+ {
+  "id": "lyre",
+  "add_prereqs": [],
+  "add_related": [
+   "rope",
+   "flute",
+   "drum"
+  ],
+  "reason": "里拉的振动弦直接来自捻搓纤维/肠衣的绳索工艺；与骨笛、陶鼓同属最早可演奏乐器群，共同构成乌尔王陵乐舞组合"
+ },
+ {
+  "id": "coinage",
+  "add_prereqs": [
+   "cupellation",
+   "metal_casting",
+   "unit_of_measurement"
+  ],
+  "add_related": [
+   "commodity_money",
+   "shell_money",
+   "touchstone"
+  ],
+  "reason": "铸币要银需灰吹法提炼，要成形需金属范铸，要保证成色重量须先有政权颁行的标准砝码；商品货币与贝币是其直接前身形态，试金石是检验铸币成色的配套手段"
+ },
+ {
+  "id": "calipers",
+  "add_prereqs": [
+   "measuring_rod"
+  ],
+  "add_related": [
+   "protractor",
+   "groma",
+   "technical_drawing"
+  ],
+  "reason": "卡尺的两爪读数建立在已刻分度的标准量尺之上；与量角器、格罗马同属古代长度/角度量具家族，其测量结果正是后世工程制图的输入"
+ },
+ {
+  "id": "pin_tumbler_lock",
+  "add_prereqs": [
+   "woodworking"
+  ],
+  "add_related": [
+   "mainspring",
+   "timber_framing"
+  ],
+  "reason": "希腊木锁的锁体、插销与弹子孔全部靠木工榫接成型，无精密木加工即无此机构；它与发条主簧同属储能—释放式机械，木骨架结构则提供了门框安装面"
+ },
+ {
+  "id": "camera_obscura",
+  "add_prereqs": [],
+  "add_related": [
+   "sundial",
+   "book_of_optics",
+   "magic_lantern"
+  ],
+  "reason": "小孔成像与表影测时同样以光沿直线传播为唯一前提；《光学之书》把这一暗室现象系统化为实验光学，幻灯机则把它反转为投影装置"
+ },
+ {
+  "id": "lighthouse",
+  "add_prereqs": [
+   "oil_lamp",
+   "fired_brick"
+  ],
+  "add_related": [
+   "maritime_dock",
+   "fresnel_lens",
+   "compass_navigation"
+  ],
+  "reason": "法罗斯灯塔的功能核心是高位持续明火（油灯/火盆技术）与可立百米高塔的烧结砖砌体；它服务于人工港坞，菲涅尔透镜与罗盘是其在航海定位上的延续"
+ },
+ {
+  "id": "gimbal",
+  "add_prereqs": [
+   "wheel_axle"
+  ],
+  "add_related": [
+   "armillary_sphere",
+   "astrolabe",
+   "compass_navigation"
+  ],
+  "reason": "常平架即把多个回转轴按两两正交嵌套，其自由度来源就是轮轴支承；浑仪的多重环圈与星盘环座是同一结构的天文应用，船上罗盘需用它减摇"
+ },
+ {
+  "id": "great_wall",
+  "add_prereqs": [
+   "city_wall"
+  ],
+  "add_related": [
+   "corvee_labor",
+   "crossbow",
+   "battering_ram"
+  ],
+  "reason": "长城是列国边墙的连缀，其夯土版筑墙体直接沿用乌鲁克式城墙工艺；徭役制是动员数十万劳工的制度前提，弩为其守城火力，攻城槌则是它要抵御的攻城手段"
+ },
+ {
+  "id": "sinan",
+  "add_prereqs": [],
+  "add_related": [
+   "compass_navigation",
+   "south_pointing_chariot",
+   "epistola_de_magnete"
+  ],
+  "reason": "司南到磁针指南针是同一指南北需求的代际演化；指南车是汉代并行的非磁性定向器具；磁学书信是欧洲对中世纪磁石极性现象的首次系统重述"
+ },
+ {
+  "id": "groma",
+  "add_prereqs": [
+   "surveying",
+   "measuring_rod"
+  ],
+  "add_related": [
+   "roman_roads",
+   "grid_plan",
+   "theodolite"
+  ],
+  "reason": "格罗马只是把埃及拉绳测地的直角定线做法装到带悬锤的十字标尺上，并以标准量尺作丈量基准；它直接用于罗马大道定线与棋盘城市放样，经纬仪是其测角后继"
+ },
+ {
+  "id": "hypocaust",
+  "add_prereqs": [
+   "fired_brick",
+   "masonry"
+  ],
+  "add_related": [
+   "great_bath",
+   "chimney"
+  ],
+  "reason": "火炕式供暖 = 炉膛 + 地板下悬空热气道，必须用耐热的烧结砖与错缝砌体构成烟道，两者是硬前置；它为罗马浴池供暖，其竖墙烟道即中世纪烟囱的前身"
+ },
+ {
+  "id": "wheelbarrow",
+  "add_prereqs": [
+   "wheel_axle"
+  ],
+  "add_related": [
+   "diolkos",
+   "stagecoach"
+  ],
+  "reason": "独轮车唯一的技术支点就是把单轮装于承重的车轴上，直接依赖车轮与车轴；与轨道陆路同属以轮轨/轮车减阻的陆运方案，驿站马车是其畜力化对照物"
+ },
+ {
+  "id": "roller_bearing",
+  "add_prereqs": [
+   "wheel_axle",
+   "lathe"
+  ],
+  "add_related": [
+   "gear",
+   "synthetic_graphite",
+   "paddle_wheel_boat"
+  ],
+  "reason": "滚柱轴承的功用就是在轮与轴之间以滚动代替滑动，无车轮与车轴即无此问题；尼米湖船上的圆柱滚柱需车床级回转整圆才能均匀受载；齿轮齿面与滚动接触同属点线承力，人造石墨是其润滑材料"
+ },
+ {
+  "id": "galloroman_reaper",
+  "add_prereqs": [
+   "wheel_axle",
+   "working_animal",
+   "sickle"
+  ],
+  "add_related": [
+   "seed_drill",
+   "horse_collar",
+   "mechanical_reaper"
+  ],
+  "reason": "高卢收割机是装在两轮车架上、由役畜前推、用带齿刃口割断谷秆的机械，三项技术（轮轴、畜力、镰刃割茎）缺一不可；条播机与之同属畜力条播/收割配套，马肩轭解决其挽曳，麦考密克收割机是其后代"
+ },
+ {
+  "id": "pantograph",
+  "add_prereqs": [
+   "geometry_deductive"
+  ],
+  "add_related": [
+   "technical_drawing",
+   "calipers",
+   "camera_obscura"
+  ],
+  "reason": "缩放仪按固定比例复制图形，其成立的充分条件是《几何原本》的相似形与比例定理；它的产出就是工程制图所需的等比线图，与卡尺同属尺寸量具，与暗箱同为图形复制装置"
+ },
+ {
+  "id": "vending_machine",
+  "add_prereqs": [
+   "coinage",
+   "water_clock"
+  ],
+  "add_related": [
+   "aeolipile",
+   "odometer",
+   "force_pump"
+  ],
+  "reason": "希罗圣水机的投币—杠杆—定量放水结构，前提一是已有重量标准的铸币（币重即预设量），二是水钟确立的定量流水控制；汽转球与里程计同为希罗同一套连杆/齿轮自动装置传统，压力泵提供阀与腔体经验"
+ },
+ {
+  "id": "sugar_crystallization",
+  "add_prereqs": [
+   "fire",
+   "pottery"
+  ],
+  "add_related": [
+   "sugar",
+   "sugarcane_mill",
+   "natural_gas_salt",
+   "distillation"
+  ],
+  "reason": "把蔗汁反复熬煮浓缩至过饱和并养晶，必须有持续火源与耐煮陶锅；伊斯兰炼糖与榨糖磨坊是其直接下游，四川煮盐与蒸馏同为以蒸发/分离取得纯质的同期工艺"
+ },
+ {
+  "id": "fishing_reel",
+  "add_prereqs": [
+   "fish_hook",
+   "rope"
+  ],
+  "add_related": [
+   "winch",
+   "aquaculture",
+   "fishing_net"
+  ],
+  "reason": "渔线轮是收放钓线与钓钩的卷扬机构，线与钩在晋代之前数万年已存在，是它的直接构成前提；其轴与摇柄即绞车的微型化，服务对象是垂钓与养殖渔业"
+ },
+ {
+  "id": "simple_suspension_bridge",
+  "add_prereqs": [
+   "rope",
+   "winch"
+  ],
+  "add_related": [
+   "suspension_bridge",
+   "segmental_arch_bridge",
+   "arkadiko_bridge"
+  ],
+  "reason": "多股藤竹绳索承吊桥面，直接依赖捻绳技术与绞车张紧（缆索不加预张力即成垂链）；铁链悬索桥是其材料与跨度的代际升级，石拱桥则是同期 competing 的越谷方案"
+ },
+ {
+  "id": "paddle_wheel_boat",
+  "add_prereqs": [
+   "water_wheel",
+   "paddle",
+   "wheel_axle"
+  ],
+  "add_related": [
+   "galley",
+   "watermill",
+   "saqiyah"
+  ],
+  "reason": "明轮就是把竖直水车轮平装到船侧、以桨板代水斗，须同时具备水车轮、桨叶与轮轴三项技术；畜力驱动取代人力划桨，与桨帆船同为推进动力化路线，水磨与畜力水车提供齿轮传动"
+ },
+ {
+  "id": "chaturanga",
+  "add_prereqs": [],
+  "add_related": [
+   "senet",
+   "dice",
+   "game_theory"
+  ],
+  "reason": "恰图兰加承继塞奈特棋等棋盘—行子传统（棋盘、棋子、轮流行棋三要素齐备），骰子是其早期定步手段；它是国际象棋直接前身，也是博弈论与 AlphaGo 所研究的完全信息棋类源头"
+ },
+ {
+  "id": "impetus_theory",
+  "add_prereqs": [
+   "aristotelian_logic"
+  ],
+  "add_related": [
+   "galilean_kinematics",
+   "ballista",
+   "sling_weapon"
+  ],
+  "reason": "冲力说是菲洛波努斯对亚里士多德运动理论的内部修正，必须以该体系为批判对象；它经布里丹通向伽利略抛体定律，其经验素材正来自投石索与弩炮等抛体器械"
+ },
+ {
+  "id": "toothbrush",
+  "add_prereqs": [
+   "awl",
+   "bone_tool"
+  ],
+  "add_related": [
+   "dentistry",
+   "comb",
+   "soap"
+  ],
+  "reason": "唐制牙刷是在骨柄上密钻孔、植入猪鬃的器具，钻孔与骨料加工（锥子、骨器）是其直接工艺前提；它服务于牙科清洁，与梳子同属植毛器具，与肥皂同属近代卫生习惯器物"
+ },
+ {
+  "id": "frequency_analysis",
+  "add_prereqs": [
+   "caesar_cipher",
+   "alphabet"
+  ],
+  "add_related": [
+   "cryptography",
+   "vigenere_cipher",
+   "probability_theory"
+  ],
+  "reason": "肯迪的方法只在存在单表替换密码（凯撒式）时才有对象，也只在字母—音素文字（字母表）上才有稳定的字母频度可统计；它构成密码学的分析分支，直接刺激多表替换（维吉尼亚）与后世的概率统计推断"
+ },
+ {
+  "id": "fountain_pen",
+  "add_prereqs": [
+   "ink",
+   "reed_pen"
+  ],
+  "add_related": [
+   "pencil",
+   "glassblowing",
+   "ballpoint_pen"
+  ],
+  "reason": "贮水笔是带储墨腔、靠细缝毛细供墨的笔：无墨不成其用，其整体形态直接承接削尖蘸墨的芦苇笔；玻璃吹制提供密闭小腔体经验，铅笔与圆珠笔是同一供墨/供芯问题的后继方案"
+ },
+ {
+  "id": "musical_notation",
+  "add_prereqs": [
+   "lyre"
+  ],
+  "add_related": [
+   "equal_temperament",
+   "music_sequencer",
+   "movable_type_printing"
+  ],
+  "reason": "线谱要记录的是可量度音高关系，而可量音阶最早由里拉这类定弦乐器给出（毕达哥拉斯弦长比）；十二平均律是乐制配套，自动长笛机是机械记音，活字印刷使乐谱得以批量发行"
+ },
+ {
+  "id": "oil_paint",
+  "add_prereqs": [
+   "ochre"
+  ],
+  "add_related": [
+   "oil_painting",
+   "printing_ink",
+   "rock_art"
+  ],
+  "reason": "油画颜料=矿物色粉+干性油介质，色粉研磨传统自赭石颜料一脉而来，西奥菲勒斯只是把水/胶换成亚麻仁油；油画技法是其应用代际，印刷油墨用同种亚麻油调墨，岩画是最早的颜料绘画实践"
+ },
+ {
+  "id": "chimney",
+  "add_prereqs": [
+   "fired_brick",
+   "masonry"
+  ],
+  "add_related": [
+   "hypocaust",
+   "hearth"
+  ],
+  "reason": "烟囱是能把烟抽走的竖直烟道，只有烧结砖（耐温不裂）与错缝砌体（不漏烟）具备后才可能在住宅中砌筑；火炕式供暖的墙内烟道是其直接原型，火塘则代表没有排烟通道时的敞口生火形态"
+ },
+ {
+  "id": "hard_soap",
+  "add_prereqs": [
+   "soap",
+   "olive_oil"
+  ],
+  "add_related": [
+   "leblanc_process",
+   "solvay_process",
+   "great_bath"
+  ],
+  "reason": "硬皂仍是脂肪皂化产物，只是把巴比伦式脂肪—草木灰配方换成橄榄油与提纯碱，两项前置缺一不可；勒布朗法与索尔维法正是为其量产供碱，公共浴池则是它服务的生活场景"
+ },
+ {
+  "id": "patent_system",
+  "add_prereqs": [
+   "guild"
+  ],
+  "add_related": [
+   "movable_type_printing",
+   "apprenticeship",
+   "napoleonic_code"
+  ],
+  "reason": "威尼斯专利法把行会对技艺的私占与特权惯例改写为国家限期授权，是制度上的直接继承；它因当地印刷业（活字印刷）的技术竞争而生，与学徒制共同构成技艺转移规则，拿破仑法典则把它推广为近代产权法"
+ },
+ {
+  "id": "scurvy_remedy",
+  "add_prereqs": [
+   "carrack",
+   "food_preservation"
+  ],
+  "add_related": [
+   "volta_do_mar",
+   "salt_production",
+   "vitamins"
+  ],
+  "reason": "坏血病只在数月不见生鲜的远洋航船上爆发，高舷远洋帆船与腌存风干的航海给养（正是它造成维生素C缺失）构成这一问题的技术前提；远洋风向导航使航程更长，制盐腌制是主要保存手段，维生素假说最终给出病因解释"
+ },
+ {
+  "id": "enclosure",
+  "add_prereqs": [],
+  "add_related": [
+   "wool",
+   "serfdom",
+   "crop_rotation",
+   "feudalism"
+  ],
+  "reason": "圈地的动力是羊毛价格与牧场地租，畜毛产业是其经济动因；它瓦解的正是农奴制与封建庄园下的敞田公地体系，围合私有连片地块才可能推行轮作制改良地力"
+ },
+ {
+  "id": "vigenere_cipher",
+  "add_prereqs": [
+   "caesar_cipher",
+   "frequency_analysis"
+  ],
+  "add_related": [
+   "cryptography"
+  ],
+  "reason": "维吉尼亚密码就是把凯撒式单表位移按密钥词循环多次使用，其结构与移位量完全继承自凯撒密码；而采用多表的唯一动机正是肯迪的频率分析已能击穿单表替换"
+ },
+ {
+  "id": "pencil",
+  "add_prereqs": [
+   "mining",
+   "woodworking"
+  ],
+  "add_related": [
+   "ink",
+   "fountain_pen",
+   "movable_type_printing"
+  ],
+  "reason": "铅笔芯取自开采的块状石墨（无采矿即无笔芯），笔杆要削木开槽再胶合，依赖成熟木工；它与墨同属书写痕迹的供给方式，贮水笔与圆珠笔是其供料方式的后续，活字印刷排版打样也以铅笔为工具"
+ },
+ {
+  "id": "equal_temperament",
+  "add_prereqs": [
+   "counting_rods",
+   "abacus"
+  ],
+  "add_related": [
+   "musical_notation",
+   "lyre",
+   "logarithm"
+  ],
+  "reason": "十二平均律要求把八度比例开十二次方（朱载堉连开二十四次方根到小数二十余位），只有十进位值制的筹算与算盘开方术能提供这一精度；它解决的是线谱与弦乐器定音的旋宫转调问题，其等比结构即对数关系"
+ },
+ {
+  "id": "stocking_frame",
+  "add_prereqs": [
+   "knitting",
+   "spinning_wheel"
+  ],
+  "add_related": [
+   "power_loom",
+   "jacquard_loom",
+   "sewing_machine"
+  ],
+  "reason": "织袜机只是把棒针针织的挂圈—套结动作机构化为钩针与针床，须先有针织成圈工艺；线环要不断供给，需先有纺车提供的连续纱线；它与动力织机、提花机同属织物机械化，缝纫机随后接续成衣环节"
+ },
+ {
+  "id": "phosphorus_isolation",
+  "add_prereqs": [
+   "distillation",
+   "alchemy"
+  ],
+  "add_related": [
+   "match",
+   "friction_match",
+   "superphosphate_fertilizer"
+  ],
+  "reason": "布兰德靠把尿液蒸干并强热收馏残渣才得到白磷，蒸馏与炼金术的加热—冷凝分离操作是它的手段前提；硫磺引火烛与摩擦火柴用磷做药头，过磷酸钙肥料则把磷矿化为农业资源"
+ },
+ {
+  "id": "ramazzini_occupational",
+  "add_prereqs": [
+   "paracelsus_iatrochemistry"
+  ],
+  "add_related": [
+   "mining",
+   "de_re_metallica",
+   "john_snow_epidemiology"
+  ],
+  "reason": "拉马齐尼把病归因于职业姿势与吸入的矿物毒物，这一思路直接来自帕拉塞尔苏斯的化学医学派（矿物药毒致病观）；其观察对象主要是矿工，同期《论矿冶》记述同类病症，按人群暴露找病因的方法通向斯诺的流行病学"
+ },
+ {
+  "id": "quinine",
+  "add_prereqs": [
+   "cinchona_bark",
+   "morphine"
+  ],
+  "add_related": [
+   "chloroquine",
+   "pharmacy"
+  ],
+  "reason": "奎宁是从金鸡纳树皮中取效成分，树皮药效的欧洲应用是一手材料；吗啡首次证明可从植物中分离出纯生物碱单体，其分离方法正是佩尔蒂埃与卡旺图的直接技术前提；氯喹是其合成后继，药房是其调配分发环节"
+ },
+ {
+  "id": "braille",
+  "add_prereqs": [
+   "movable_type_printing"
+  ],
+  "add_related": [
+   "morse_code",
+   "punched_card"
+  ],
+  "reason": "盲文靠凸点压印成页可读，其母版制作与打孔压印沿用的是印刷传统；六点符号位与莫尔斯点划、穿孔卡片同属'用少量离散状态组合编码字母'的方案，电码即其灵感来源"
+ },
+ {
+  "id": "friction_match",
+  "add_prereqs": [
+   "match",
+   "gunpowder"
+  ],
+  "add_related": [
+   "phosphorus_isolation",
+   "candle"
+  ],
+  "reason": "北齐硫磺发烛已确立'药头摩擦引火'的便携取火形态，黑火药则提供了硝硫炭可燃配方的经验积累，两者是摩擦火柴的直接技术前身；磷的分离使后世安全火柴药头成为可能，蜡烛与之同为便携点火—照明配套"
+ },
+ {
+  "id": "kraft_process",
+  "add_prereqs": [
+   "papermaking",
+   "leblanc_process"
+  ],
+  "add_related": [
+   "paper_mill",
+   "solvay_process",
+   "movable_type_printing"
+  ],
+  "reason": "硫酸盐法仍属化学制浆，须先有把纤维打成纸的造纸术；其蒸煮药剂硫化钠来自硫酸—钠碱工业体系，勒布朗法的量产纯碱是其化工前提；水力造纸坊是其产业载体，索尔维法同样供碱，活字印刷扩张的纸张需求是其市场拉动"
+ },
+ {
+  "id": "wundt_experimental_psychology",
+  "add_prereqs": [
+   "laboratory",
+   "control_variable"
+  ],
+  "add_related": [
+   "james_principles_psychology",
+   "watson_behaviorism",
+   "neuron_doctrine"
+  ],
+  "reason": "冯特1879年建的心理学实验室直接套用李比希式教学实验室的建制（固定场所、仪器、学生轮训），并以控制变量的反应时测量为手段；詹姆斯《心理学原理》与华生行为主义是其同时代与后继学派，神经元学说提供其生理基础"
+ },
+ {
+  "id": "neuron_doctrine",
+  "add_prereqs": [
+   "cell_theory",
+   "microscope"
+  ],
+  "add_related": [
+   "virchow_cellular_pathology",
+   "hodgkin_huxley_model",
+   "artificial_neural_network"
+  ],
+  "reason": "卡哈尔的论断本身就是“神经的基本单位是细胞”，必须先有细胞学说与光学显微镜的高倍观察才可能提出；细胞病理学是同代姊妹学说，霍奇金-赫胥黎模型把神经元当作可建模单位、人工神经网络按神经元抽象建节点，都是其直接下游"
+ },
+ {
+  "id": "solar_water_heating",
+  "add_prereqs": [
+   "conservation_of_energy",
+   "plate_glass"
+  ],
+  "add_related": [
+   "greenhouse",
+   "solar_cell",
+   "seg_solar_thermal"
+  ],
+  "reason": "商用太阳能热水器把太阳辐射折算为水的焓升，依赖能量守恒定律给出的热功换算；平板集热器的吸热面罩玻璃须有大尺寸平板玻璃量产。温室是同一盖玻集热原理，光伏与槽式光热是其电能/高温化后继"
+ },
+ {
+  "id": "durkheim_sociology",
+  "add_prereqs": [
+   "graunt_life_table",
+   "petty_political_arithmetic"
+  ],
+  "add_related": [
+   "weber_bureaucracy",
+   "wundt_experimental_psychology",
+   "kiaer_representative_sampling"
+  ],
+  "reason": "《自杀论》的方法就是把自杀率当统计事实来分析，直接承继格朗特生命表与配第政治算术确立的'用数字称重分析社会'传统；韦伯科层制是其社会学同侪，冯特实验室代表同期心理学科学化，代表性抽样为其数据方法配套"
+ },
+ {
+  "id": "freud_psychoanalysis",
+  "add_prereqs": [
+   "wundt_experimental_psychology"
+  ],
+  "add_related": [
+   "james_principles_psychology",
+   "watson_behaviorism",
+   "neuron_doctrine",
+   "pavlov_conditioned_reflex"
+  ],
+  "reason": "精神分析以“心理学是可独立实验研究的对象”为前提，这一学科地位由冯特1879年的实验室确立；詹姆斯的意识流为其同时代参照，华生行为主义与巴甫洛夫条件反射是它以“不可观察的潜意识”相对立的立场，神经元学说则构成其早期企图建立的生理心理学基础"
+ },
+ {
+  "id": "verneuil_process",
+  "add_prereqs": [
+   "electrolysis_of_water",
+   "linde_air_liquefaction",
+   "bayer_process"
+  ],
+  "add_related": [
+   "ruby_laser",
+   "synthetic_diamond",
+   "oxy_acetylene_welding"
+  ],
+  "reason": "焰熔法必须同时具备氢与氧（电解水制气）、能大规模供应高压纯气体的空气液化精馏工业，以及拜耳法提供的高纯氧化铝粉料；它生产的合成红宝石正是1960年梅曼红宝石激光器的工作介质，与合成钻石同属人造宝石路线"
+ },
+ {
+  "id": "water_fluoridation",
+  "add_prereqs": [
+   "public_water_supply"
+  ],
+  "add_related": [
+   "water_chlorination",
+   "dentistry",
+   "toothbrush"
+  ],
+  "reason": "饮水加氟只能在集中处理、统一管网的城市自来水厂上实施，没有公共供水系统这一载体即无从谈起；氯化消毒是同一条投药工艺的先行范例，牙科与牙刷是它服务的龋齿防治环节"
+ },
+ {
+  "id": "vitamin_b12",
+  "add_prereqs": [
+   "vitamins",
+   "chromatography"
+  ],
+  "add_related": [
+   "insulin",
+   "methotrexate",
+   "titration_method"
+  ],
+  "reason": "B12 的分离以'维生素假说'为立题前提，并靠层析/吸附分离与肝脏浓缩才拿到结晶；胰岛素与之为同期蛋白质-因子纯化路线的姊妹成果，甲氨蝶呤（1948）与叶酸-B12 在造血上互为对照，定量分析为其测定手段"
+ },
+ {
+  "id": "metered_dose_inhaler",
+  "add_prereqs": [
+   "refrigeration",
+   "injection_moulding"
+  ],
+  "add_related": [
+   "hypodermic_needle",
+   "penicillin",
+   "halothane"
+  ],
+  "reason": "MDI 的定量室依赖计量制冷/低压液化气体技术提供抛射剂，其塑料计量阀与外壳依赖注塑成型量产；它与皮下注射器同为精确给药装置，青霉素量产时代建立的制剂工艺与其配套，卤烷类是同期吸入给药路径"
+ },
+ {
+  "id": "flight_recorder",
+  "add_prereqs": [
+   "magnetic_tape_recorder"
+  ],
+  "add_related": [
+   "wire_recorder",
+   "airplane",
+   "jet_engine"
+  ],
+  "reason": "黑匣子的声记通道就是抗振化改型的磁带录音机（Magnetophon 技术战后转入调查用途），钢丝录音是其并行前身；飞机与喷气动力是它的安装平台与问题来源（高速坠毁后幸存者极少，须靠记录取证）"
+ },
+ {
+  "id": "hovercraft",
+  "add_prereqs": [
+   "early_hovercraft"
+  ],
+  "add_related": [
+   "hydrofoil",
+   "gas_turbine",
+   "turbofan"
+  ],
+  "reason": "科克雷尔的 SR.N1 直接继承 1915 年米勒气垫艇的'以空气垫托体'构想并解决围裙漏气问题；水翼船是同目的（减阻高速越水）的竞品路线，燃气轮机与涡扇提供其大功率鼓风机"
+ },
+ {
+  "id": "propranolol",
+  "add_prereqs": [
+   "ehrlich_side_chain_theory",
+   "adrenaline"
+  ],
+  "add_related": [
+   "randomized_controlled_trial",
+   "levodopa",
+   "benzodiazepine"
+  ],
+  "reason": "β受体阻滞剂的设计逻辑完全建立在'药物与受体侧链特异结合'（埃尔利希受体概念）与肾上腺素作用于肾上腺素能受体这两项已知事实上；其临床评价依赖随机对照试验，与左旋多巴同期开创按靶点设计新药的路径"
+ },
+ {
+  "id": "levodopa",
+  "add_prereqs": [
+   "neuron_doctrine",
+   "chromatography"
+  ],
+  "add_related": [
+   "chlorpromazine",
+   "propranolol",
+   "randomized_controlled_trial"
+  ],
+  "reason": "左旋多巴治疗帕金森的前提是“黑质多巴胺能神经元缺失”这一神经元层面的病因观，其提纯与含量测定依赖色谱法；氯丙嗪阻断多巴胺受体会诱发帕金森样症状，从反面支持了补充多巴胺的疗法，与普萘洛尔同为1960年代按靶点设计药物的标志成果"
+ },
+ {
+  "id": "reverse_osmosis_membrane",
+  "add_prereqs": [
+   "celluloid",
+   "nylon"
+  ],
+  "add_related": [
+   "desalination",
+   "ptfe",
+   "bopet_film"
+  ],
+  "reason": "复合膜是在纤维素（醋酸/硝化纤维素膜即赛璐珞一脉）不对称膜基础上发展而来，其聚酰胺分离层属于尼龙类缩聚物，两项高分子材料技术是直接前提；海水淡化是它服务的工艺，PTFE 与聚酯膜同属膜与分离材料体系"
+ },
+ {
+  "id": "eswl_lithotripsy",
+  "add_prereqs": [
+   "x_ray",
+   "ultrasound_imaging"
+  ],
+  "add_related": [
+   "piezoelectricity",
+   "laser",
+   "video_endoscope"
+  ],
+  "reason": "HM1 机必须先把肾内结石定位并全程跟踪，这依赖 X 线影像与超声成像两项无创定位技术；冲击波的产生与聚焦依托压电/放电换能原理，激光与电子内窥镜是同期 competing 的碎石与取石路线"
+ },
+ {
+  "id": "omeprazole",
+  "add_prereqs": [
+   "antihistamine",
+   "chromatography"
+  ],
+  "add_related": [
+   "helicobacter_pylori",
+   "propranolol",
+   "video_endoscope"
+  ],
+  "reason": "质子泵抑制剂的研发由'按受体—分泌通路设计抑酸药'的范式而来，抗组胺药（H2 阻滞）是它的直接技术前身，其筛选与代谢研究依赖色谱分析；幽门螺杆菌病因说改变了溃疡治疗格局，电子内窥镜承担诊断，与普萘洛尔同为按靶点设计药物"
+ }
+]

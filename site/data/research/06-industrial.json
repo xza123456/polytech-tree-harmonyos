@@ -1,0 +1,2611 @@
+[
+  {
+    "id": "seed_drill",
+    "name": "条播机",
+    "nameEn": "Seed drill",
+    "wikiEn": "Seed drill",
+    "aliases": [
+      "Jethro Tull seed drill",
+      "塔尔条播机"
+    ],
+    "year": 1701,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "agriculture"
+    ],
+    "related": [
+      "norfolk_crop_rotation",
+      "threshing_machine"
+    ],
+    "desc": "杰思罗·塔尔发明的马拉机械条播机，开农业机械化先声。"
+  },
+  {
+    "id": "coke_smelting",
+    "name": "焦炭炼铁",
+    "nameEn": "Coke smelting",
+    "wikiEn": "Coke (fuel)",
+    "aliases": [
+      "Darby coke smelting",
+      "焦炭冶炼",
+      "Abraham Darby I"
+    ],
+    "year": 1709,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "blast_furnace"
+    ],
+    "related": [
+      "puddling_process",
+      "iron_bridge"
+    ],
+    "desc": "达比以焦炭代替木炭冶炼生铁，开启廉价冶铁时代。"
+  },
+  {
+    "id": "newcomen_engine",
+    "name": "纽科门蒸汽机",
+    "nameEn": "Newcomen atmospheric engine",
+    "wikiEn": "Newcomen atmospheric engine",
+    "aliases": [
+      "Atmospheric engine",
+      "大气式蒸汽机",
+      "Newcomen engine"
+    ],
+    "year": 1712,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "steam_engine",
+      "watt_separate_condenser"
+    ],
+    "desc": "纽科门发明的大气式蒸汽机，首台商用抽水动力机。"
+  },
+  {
+    "id": "silk_throwing_mill",
+    "name": "",
+    "nameEn": "Lombe's Mill",
+    "wikiEn": "Lombe's Mill",
+    "aliases": [
+      "Derby Silk Mill",
+      "隆贝丝厂",
+      "水力缫丝厂"
+    ],
+    "year": 1721,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "water_frame"
+    ],
+    "desc": "德比水力捻丝厂，英国最早高度机械化的工厂之一。"
+  },
+  {
+    "id": "norfolk_crop_rotation",
+    "name": "四圃轮作制",
+    "nameEn": "Norfolk four-course system",
+    "wikiEn": "Norfolk four-course system",
+    "aliases": [
+      "Turnip Townshend rotation",
+      "诺福克轮作"
+    ],
+    "year": 1730,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "agriculture"
+    ],
+    "related": [
+      "selective_breeding_bakewell",
+      "seed_drill"
+    ],
+    "desc": "芜菁—大麦—三叶草—小麦四区轮作，恢复地力并增产饲料。"
+  },
+  {
+    "id": "sextant",
+    "name": "六分仪",
+    "nameEn": "Sextant",
+    "wikiEn": "Sextant",
+    "aliases": [
+      "Hadley octant",
+      "反射式象限仪"
+    ],
+    "year": 1731,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "marine_chronometer",
+      "fresnel_lens"
+    ],
+    "desc": "哈德莱发明的反射测角导航仪，可在颠簸甲板测纬度。"
+  },
+  {
+    "id": "flying_shuttle",
+    "name": "飞梭",
+    "nameEn": "Flying shuttle",
+    "wikiEn": "Flying shuttle",
+    "aliases": [
+      "John Kay flying shuttle",
+      "凯伊飞梭"
+    ],
+    "year": 1733,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "power_loom",
+      "spinning_jenny"
+    ],
+    "desc": "约翰·凯伊发明，织工单手即可快速投梭，织布效率倍增。"
+  },
+  {
+    "id": "crucible_steel",
+    "name": "坩埚钢",
+    "nameEn": "Crucible steel",
+    "wikiEn": "Crucible steel",
+    "aliases": [
+      "Huntsman crucible steel",
+      "亨茨曼炼钢"
+    ],
+    "year": 1740,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "coke_smelting"
+    ],
+    "desc": "亨茨曼在坩埚中熔炼钢料，谢菲尔德优质工具钢之始。"
+  },
+  {
+    "id": "lead_chamber_process",
+    "name": "铅室法制硫酸",
+    "nameEn": "Lead chamber process",
+    "wikiEn": "Lead chamber process",
+    "aliases": [
+      "Roebuck lead chamber",
+      "铅室法"
+    ],
+    "year": 1746,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "leblanc_process"
+    ],
+    "desc": "罗巴克铅室法量产硫酸，奠基近代重化工。"
+  },
+  {
+    "id": "carding_machine",
+    "name": "梳棉机",
+    "nameEn": "Carding machine",
+    "wikiEn": "Carding",
+    "aliases": [
+      "Carding engine",
+      "Paul carding machine"
+    ],
+    "year": 1748,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "spinning_jenny",
+      "water_frame"
+    ],
+    "desc": "刘易斯·保罗等发明的机械梳理机，棉花纺纱前置工序。"
+  },
+  {
+    "id": "lightning_rod",
+    "name": "避雷针",
+    "nameEn": "Lightning rod",
+    "wikiEn": "Lightning rod",
+    "aliases": [
+      "Lightning conductor",
+      "富兰克林避雷针"
+    ],
+    "year": 1752,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "富兰克林据风筝实验发明，将雷电流安全导入大地。"
+  },
+  {
+    "id": "selective_breeding_bakewell",
+    "name": "家畜系统选育",
+    "nameEn": "Bakewell selective breeding",
+    "wikiEn": "Robert Bakewell (agriculturalist)",
+    "aliases": [
+      "Linebreeding",
+      "贝克韦尔选育",
+      "Leicester sheep"
+    ],
+    "year": 1760,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "animal_husbandry"
+    ],
+    "related": [
+      "norfolk_crop_rotation"
+    ],
+    "desc": "贝克韦尔以系统近亲选育改良肉羊肉牛，推动畜牧革命。"
+  },
+  {
+    "id": "blowing_cylinder",
+    "name": "高炉鼓风气缸",
+    "nameEn": "Blowing engine",
+    "wikiEn": "Blowing engine",
+    "aliases": [
+      "Cast-iron blowing cylinder",
+      "铸铁鼓风机"
+    ],
+    "year": 1760,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "newcomen_engine"
+    ],
+    "related": [
+      "coke_smelting",
+      "steam_engine"
+    ],
+    "desc": "铸铁气缸强力鼓风提高炉温，突破水力对冶铁的限制。"
+  },
+  {
+    "id": "marine_chronometer",
+    "name": "航海钟",
+    "nameEn": "Marine chronometer",
+    "wikiEn": "Marine chronometer",
+    "aliases": [
+      "Harrison H4",
+      "哈里森航海钟",
+      "精密航海钟"
+    ],
+    "year": 1761,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "mechanical_clock"
+    ],
+    "related": [
+      "sextant"
+    ],
+    "desc": "哈里森H4精密航海钟，船舶首次能在海上准确测定经度。"
+  },
+  {
+    "id": "canal_lock",
+    "name": "运河船闸",
+    "nameEn": "Canal lock",
+    "wikiEn": "Canal lock",
+    "aliases": [
+      "Pound lock",
+      "Bridgewater Canal",
+      "布林德利运河"
+    ],
+    "year": 1761,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "macadam",
+      "steamship"
+    ],
+    "desc": "英国运河热中闸化内河网普及，大宗货物廉价运输。"
+  },
+  {
+    "id": "spinning_jenny",
+    "name": "珍妮纺纱机",
+    "nameEn": "Spinning jenny",
+    "wikiEn": "Spinning jenny",
+    "aliases": [
+      "Hargreaves spinning jenny",
+      "哈格里夫斯纺纱机"
+    ],
+    "year": 1764,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "mule_spinner",
+      "water_frame"
+    ],
+    "desc": "哈格里夫斯发明多锭纺纱机，工业革命机械化的标志。"
+  },
+  {
+    "id": "watt_separate_condenser",
+    "name": "分离式冷凝器",
+    "nameEn": "Watt separate condenser",
+    "wikiEn": "Watt steam engine",
+    "aliases": [
+      "Separate condenser",
+      "瓦特分离冷凝器"
+    ],
+    "year": 1765,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [
+      "newcomen_engine"
+    ],
+    "related": [
+      "steam_engine"
+    ],
+    "desc": "瓦特将冷凝移出汽缸以保持缸体高温，省煤约四分之三。"
+  },
+  {
+    "id": "iron_rail",
+    "name": "铸铁轨道",
+    "nameEn": "Iron rail",
+    "wikiEn": "Railway track",
+    "aliases": [
+      "Cast-iron plate rail",
+      "Coalbrookdale rail",
+      "铁轨"
+    ],
+    "year": 1767,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "railway_locomotive",
+      "steam_railway"
+    ],
+    "desc": "煤溪谷出产的铸铁轨替换木轨，为铁路机车铺路。"
+  },
+  {
+    "id": "steam_engine",
+    "name": "蒸汽机",
+    "nameEn": "Steam engine",
+    "wikiEn": "Steam engine",
+    "aliases": [
+      "Watt steam engine",
+      "Boulton and Watt engine",
+      "瓦特蒸汽机"
+    ],
+    "year": 1769,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 1,
+    "prereqs": [
+      "newcomen_engine",
+      "watt_separate_condenser"
+    ],
+    "related": [
+      "high_pressure_steam_engine",
+      "railway_locomotive",
+      "steamship"
+    ],
+    "desc": "瓦特改良的往复式蒸汽机，工厂、矿山与交通的通用动力。"
+  },
+  {
+    "id": "water_frame",
+    "name": "水力纺纱机",
+    "nameEn": "Water frame",
+    "wikiEn": "Water frame",
+    "aliases": [
+      "Arkwright water frame",
+      "Roller spinning frame",
+      "水力纺纱架"
+    ],
+    "year": 1769,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "spinning_jenny",
+      "mule_spinner"
+    ],
+    "desc": "阿克莱特的罗拉水力纺纱机，可纺坚韧的经纱。"
+  },
+  {
+    "id": "cylinder_boring_machine",
+    "name": "汽缸镗床",
+    "nameEn": "Cylinder boring machine",
+    "wikiEn": "Boring (manufacturing)",
+    "aliases": [
+      "Wilkinson boring machine",
+      "威尔金森镗床"
+    ],
+    "year": 1774,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "steam_engine",
+      "metal_lathe"
+    ],
+    "desc": "威尔金森的精密镗床加工汽缸，使瓦特蒸汽机真正可用。"
+  },
+  {
+    "id": "flush_toilet",
+    "name": "抽水马桶",
+    "nameEn": "Flush toilet",
+    "wikiEn": "Flush toilet",
+    "aliases": [
+      "Cumming water closet",
+      "卡明斯冲水便器"
+    ],
+    "year": 1775,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "sewerage_system"
+    ],
+    "desc": "卡明斯专利的S形水封冲水便器，近代城市卫生起点。"
+  },
+  {
+    "id": "iron_bridge",
+    "name": "铁桥",
+    "nameEn": "The Iron Bridge",
+    "wikiEn": "The Iron Bridge",
+    "aliases": [
+      "Coalbrookdale Iron Bridge",
+      "科尔布鲁克代尔铁桥"
+    ],
+    "year": 1779,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "coke_smelting"
+    ],
+    "related": [
+      "cast_iron_building",
+      "suspension_bridge"
+    ],
+    "desc": "世界第一座全铸铁拱桥，开启铸铁结构建筑时代。"
+  },
+  {
+    "id": "mule_spinner",
+    "name": "走锭纺纱机",
+    "nameEn": "Spinning mule",
+    "wikiEn": "Spinning mule",
+    "aliases": [
+      "Mule-jenny",
+      "Crompton mule",
+      "骡机"
+    ],
+    "year": 1779,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "spinning_jenny",
+      "water_frame"
+    ],
+    "related": [
+      "power_loom"
+    ],
+    "desc": "克朗普顿结合珍妮机与水力架，纺出又细又牢的纱。"
+  },
+  {
+    "id": "argand_lamp",
+    "name": "阿尔冈灯",
+    "nameEn": "Argand lamp",
+    "wikiEn": "Argand lamp",
+    "aliases": [
+      "管状灯芯油灯"
+    ],
+    "year": 1780,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "gas_lighting"
+    ],
+    "desc": "空心灯芯配玻璃罩的明亮油灯，煤气灯之前的照明革命。"
+  },
+  {
+    "id": "compound_steam_engine",
+    "name": "复式蒸汽机",
+    "nameEn": "Compound steam engine",
+    "wikiEn": "Compound steam engine",
+    "aliases": [
+      "Hornblower compound engine",
+      "复合蒸汽机"
+    ],
+    "year": 1781,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [
+      "steam_engine"
+    ],
+    "related": [
+      "corliss_steam_engine"
+    ],
+    "desc": "霍恩布洛尔双缸分级膨胀利用蒸汽，提高热效率。"
+  },
+  {
+    "id": "balloon_flight",
+    "name": "热气球",
+    "nameEn": "Hot air balloon",
+    "wikiEn": "Hot air balloon",
+    "aliases": [
+      "Montgolfier balloon",
+      "孟格菲气球"
+    ],
+    "year": 1783,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "giffard_airship",
+      "cayley_glider"
+    ],
+    "desc": "孟格菲兄弟热气球首次载人升空，人类离地飞行之始。"
+  },
+  {
+    "id": "rolling_mill",
+    "name": "轧钢机",
+    "nameEn": "Rolling mill",
+    "wikiEn": "Rolling (metalworking)",
+    "aliases": [
+      "Cort grooved rollers",
+      "科特轧机"
+    ],
+    "year": 1783,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "puddling_process",
+      "steam_hammer"
+    ],
+    "desc": "科特带槽轧辊成型铁材，比锻打快十余倍。"
+  },
+  {
+    "id": "puddling_process",
+    "name": "搅炼法",
+    "nameEn": "Puddling",
+    "wikiEn": "Puddling (metallurgy)",
+    "aliases": [
+      "Cort puddling process",
+      "炒钢法"
+    ],
+    "year": 1784,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "coke_smelting"
+    ],
+    "related": [
+      "rolling_mill"
+    ],
+    "desc": "科特搅炼炉将生铁炒成熟铁，廉价量产结构铁材。"
+  },
+  {
+    "id": "threshing_machine",
+    "name": "打谷机",
+    "nameEn": "Threshing machine",
+    "wikiEn": "Threshing machine",
+    "aliases": [
+      "Meikle threshing machine",
+      "米克尔脱粒机"
+    ],
+    "year": 1784,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "mechanical_reaper",
+      "seed_drill"
+    ],
+    "desc": "米克尔发明机械脱粒机，大幅替代连枷打谷的繁重劳动。"
+  },
+  {
+    "id": "power_loom",
+    "name": "动力织机",
+    "nameEn": "Power loom",
+    "wikiEn": "Power loom",
+    "aliases": [
+      "Cartwright power loom",
+      "Roberts loom",
+      "卡特赖特织机"
+    ],
+    "year": 1785,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "flying_shuttle"
+    ],
+    "related": [
+      "steam_engine",
+      "mule_spinner"
+    ],
+    "desc": "卡特赖特发明、后经罗伯茨改良的机械织机，织布效率激增。"
+  },
+  {
+    "id": "leblanc_process",
+    "name": "勒布朗制碱法",
+    "nameEn": "Leblanc process",
+    "wikiEn": "Leblanc process",
+    "aliases": [
+      "Leblanc soda process",
+      "苏打工业"
+    ],
+    "year": 1791,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "lead_chamber_process"
+    ],
+    "related": [],
+    "desc": "勒布朗以食盐硫酸法量产纯碱，供应肥皂玻璃工业。"
+  },
+  {
+    "id": "gas_lighting",
+    "name": "煤气照明",
+    "nameEn": "Gas lighting",
+    "wikiEn": "Gas lighting",
+    "aliases": [
+      "Murdoch gas light",
+      "默多克煤气灯"
+    ],
+    "year": 1792,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "gas_works",
+      "argand_lamp"
+    ],
+    "desc": "默多克以煤气点灯照明，城市街道与工厂进入人工照明时代。"
+  },
+  {
+    "id": "cotton_gin",
+    "name": "轧棉机",
+    "nameEn": "Cotton gin",
+    "wikiEn": "Cotton gin",
+    "aliases": [
+      "Whitney cotton gin",
+      "惠特尼轧棉机"
+    ],
+    "year": 1793,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "spinning_jenny"
+    ],
+    "desc": "惠特尼发明锯齿轧棉机，清棉效率提高约五十倍。"
+  },
+  {
+    "id": "hydraulic_press",
+    "name": "水压机",
+    "nameEn": "Hydraulic press",
+    "wikiEn": "Hydraulic press",
+    "aliases": [
+      "Bramah press",
+      "布拉默液压机"
+    ],
+    "year": 1795,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "water_turbine"
+    ],
+    "desc": "布拉默据帕斯卡原理制成，以小力产生巨大成型压力。"
+  },
+  {
+    "id": "vaccination",
+    "name": "牛痘接种",
+    "nameEn": "Vaccination",
+    "wikiEn": "Vaccination",
+    "aliases": [
+      "Smallpox vaccine",
+      "Jenner vaccination",
+      "种痘",
+      "詹纳牛痘"
+    ],
+    "year": 1796,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "germ_theory"
+    ],
+    "desc": "詹纳以牛痘接种预防天花，开创现代免疫学与疫苗。"
+  },
+  {
+    "id": "cast_iron_building",
+    "name": "铸铁框架建筑",
+    "nameEn": "Cast-iron architecture",
+    "wikiEn": "Cast-iron architecture",
+    "aliases": [
+      "Ditherington Flax Mill",
+      "铸铁建筑"
+    ],
+    "year": 1797,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "coke_smelting"
+    ],
+    "related": [
+      "iron_bridge",
+      "safety_elevator"
+    ],
+    "desc": "首座全铁框架厂房出现，铸铁立面与骨架建筑风行。"
+  },
+  {
+    "id": "lithography",
+    "name": "石版印刷",
+    "nameEn": "Lithography",
+    "wikiEn": "Lithography",
+    "aliases": [
+      "Senefelder lithography",
+      "平版印刷"
+    ],
+    "year": 1798,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "steam_printing_press"
+    ],
+    "desc": "塞尼费尔德发明油水相斥石印法，开启平版彩色印刷。"
+  },
+  {
+    "id": "bleaching_powder",
+    "name": "漂白粉",
+    "nameEn": "Bleaching powder",
+    "wikiEn": "Calcium hypochlorite",
+    "aliases": [
+      "Tennant bleaching powder",
+      "Chlorine bleach",
+      "氯化漂白"
+    ],
+    "year": 1799,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "power_loom"
+    ],
+    "desc": "坦南特制漂白粉，棉布漂白由数月缩为数时。"
+  },
+  {
+    "id": "high_pressure_steam_engine",
+    "name": "高压蒸汽机",
+    "nameEn": "High-pressure steam engine",
+    "wikiEn": "High-pressure steam engine",
+    "aliases": [
+      "Trevithick engine",
+      "Oliver Evans engine",
+      "特里维西克蒸汽机"
+    ],
+    "year": 1800,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 2,
+    "prereqs": [
+      "steam_engine"
+    ],
+    "related": [
+      "railway_locomotive",
+      "steamship",
+      "traction_engine"
+    ],
+    "desc": "特里维西克与埃文斯制成高压机，功重比高而适合交通。"
+  },
+  {
+    "id": "voltaic_pile",
+    "name": "伏打电堆",
+    "nameEn": "Voltaic pile",
+    "wikiEn": "Voltaic pile",
+    "aliases": [
+      "Voltaic battery",
+      "伏打电池",
+      "Volta battery"
+    ],
+    "year": 1800,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "telegraph",
+      "electrochemistry",
+      "electromagnet"
+    ],
+    "desc": "伏打发明首个持续化学电源，开启电学应用时代。"
+  },
+  {
+    "id": "metal_lathe",
+    "name": "全金属螺纹车床",
+    "nameEn": "Screw-cutting lathe",
+    "wikiEn": "Screw-cutting lathe",
+    "aliases": [
+      "Maudslay lathe",
+      "莫兹利车床",
+      "全金属车床"
+    ],
+    "year": 1800,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "cylinder_boring_machine"
+    ],
+    "related": [
+      "milling_machine",
+      "interchangeable_parts"
+    ],
+    "desc": "莫兹利全金属精密车床与溜板刀架，机床工业之母。"
+  },
+  {
+    "id": "electrochemistry",
+    "name": "电化学",
+    "nameEn": "Electrochemistry",
+    "wikiEn": "Electrochemistry",
+    "aliases": [
+      "Electrolysis",
+      "Nicholson and Carlisle",
+      "Davy electrolysis",
+      "电解"
+    ],
+    "year": 1800,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "voltaic_pile"
+    ],
+    "desc": "尼科尔森电解水、戴维电解出钠钾，电与化学反应结合。"
+  },
+  {
+    "id": "interchangeable_parts",
+    "name": "互换性零件",
+    "nameEn": "Interchangeable parts",
+    "wikiEn": "Interchangeable parts",
+    "aliases": [
+      "American system of manufacturing",
+      "通用零件",
+      "可互换零件"
+    ],
+    "year": 1801,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "metal_lathe"
+    ],
+    "related": [
+      "milling_machine"
+    ],
+    "desc": "惠特尼等以精密机床实现零件互换，美国制造体系核心。"
+  },
+  {
+    "id": "jacquard_loom",
+    "name": "提花织机",
+    "nameEn": "Jacquard machine",
+    "wikiEn": "Jacquard machine",
+    "aliases": [
+      "Jacquard loom",
+      "雅卡尔织机",
+      "穿孔卡提花机"
+    ],
+    "year": 1801,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [
+      "weaving_loom"
+    ],
+    "related": [
+      "analytical_engine",
+      "power_loom"
+    ],
+    "desc": "雅卡尔以穿孔卡片自动控制花型，可编程机器的先声。"
+  },
+  {
+    "id": "atomic_theory",
+    "name": "近代原子论",
+    "nameEn": "Atomic theory",
+    "wikiEn": "Atomic theory",
+    "aliases": [
+      "Dalton atomic theory",
+      "道尔顿原子论"
+    ],
+    "year": 1803,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "periodic_table"
+    ],
+    "desc": "道尔顿提出元素由定重比原子构成，奠定近代化学。"
+  },
+  {
+    "id": "paper_machine",
+    "name": "长网造纸机",
+    "nameEn": "Paper machine",
+    "wikiEn": "Paper machine",
+    "aliases": [
+      "Fourdrinier machine",
+      "福特德里尼耶造纸机"
+    ],
+    "year": 1803,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "papermaking"
+    ],
+    "related": [
+      "rotary_printing_press"
+    ],
+    "desc": "福特德里尼耶连续造纸机，纸张得以大规模廉价生产。"
+  },
+  {
+    "id": "morphine",
+    "name": "吗啡",
+    "nameEn": "Morphine",
+    "wikiEn": "Morphine",
+    "aliases": [
+      "Sertürner morphine",
+      "塞尔特纳吗啡"
+    ],
+    "year": 1804,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "hypodermic_needle"
+    ],
+    "desc": "塞尔特纳从鸦片中分离出首个纯活性生物碱药物。"
+  },
+  {
+    "id": "railway_locomotive",
+    "name": "蒸汽机车",
+    "nameEn": "Steam locomotive",
+    "wikiEn": "Steam locomotive",
+    "aliases": [
+      "Trevithick locomotive",
+      "Stephenson Rocket",
+      "火车头"
+    ],
+    "year": 1804,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 1,
+    "prereqs": [
+      "high_pressure_steam_engine",
+      "iron_rail"
+    ],
+    "related": [
+      "steam_railway",
+      "steamship"
+    ],
+    "desc": "特里维西克首造在轨蒸汽机车，铁路时代由此开启。"
+  },
+  {
+    "id": "steamship",
+    "name": "蒸汽船",
+    "nameEn": "Steamship",
+    "wikiEn": "Steamship",
+    "aliases": [
+      "Steamboat",
+      "Clermont",
+      "Charlotte Dundas",
+      "汽船",
+      "富尔顿轮船"
+    ],
+    "year": 1807,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "steam_engine"
+    ],
+    "related": [
+      "screw_propeller",
+      "railway_locomotive",
+      "submarine_telegraph_cable"
+    ],
+    "desc": "富尔顿克莱蒙特号商业航运成功，轮船进入实用时代。"
+  },
+  {
+    "id": "canning",
+    "name": "罐头食品",
+    "nameEn": "Canning",
+    "wikiEn": "Canning",
+    "aliases": [
+      "Appert canning",
+      "Durand tin can",
+      "马口铁罐",
+      "阿佩尔装罐法"
+    ],
+    "year": 1810,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "pasteurization",
+      "refrigerated_transport"
+    ],
+    "desc": "阿佩尔密封加热法、杜兰德马口铁罐，食品长期保藏。"
+  },
+  {
+    "id": "gas_works",
+    "name": "煤气厂",
+    "nameEn": "Gasworks",
+    "wikiEn": "Gasworks",
+    "aliases": [
+      "Gas Light and Coke Company",
+      "煤气储气罐"
+    ],
+    "year": 1812,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [
+      "gas_lighting"
+    ],
+    "related": [
+      "public_water_supply"
+    ],
+    "desc": "伦敦首家煤气公司集中制气输配，城市公用事业雏形。"
+  },
+  {
+    "id": "steam_printing_press",
+    "name": "蒸汽印刷机",
+    "nameEn": "Koenig steam press",
+    "wikiEn": "",
+    "aliases": [
+      "Koenig & Bauer steam press",
+      "Koenig cylinder press",
+      "蒸汽动力印刷机"
+    ],
+    "year": 1814,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "steam_engine"
+    ],
+    "related": [
+      "lithography",
+      "rotary_printing_press"
+    ],
+    "desc": "柯尼希蒸汽滚筒印刷机印泰晤士报，印速十倍于手工。"
+  },
+  {
+    "id": "davy_lamp",
+    "name": "戴维安全灯",
+    "nameEn": "Davy lamp",
+    "wikiEn": "Davy lamp",
+    "aliases": [
+      "Miner's safety lamp",
+      "矿工安全灯",
+      "Geordie lamp"
+    ],
+    "year": 1815,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "steam_engine"
+    ],
+    "desc": "戴维发明金属网罩安全灯，降低煤矿瓦斯爆炸风险。"
+  },
+  {
+    "id": "stirling_engine",
+    "name": "斯特林发动机",
+    "nameEn": "Stirling engine",
+    "wikiEn": "Stirling engine",
+    "aliases": [
+      "Hot-air engine",
+      "斯特林热空气机"
+    ],
+    "year": 1816,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "steam_engine"
+    ],
+    "desc": "斯特林发明外燃闭循环热空气机，安静高效。"
+  },
+  {
+    "id": "stethoscope",
+    "name": "听诊器",
+    "nameEn": "Stethoscope",
+    "wikiEn": "Stethoscope",
+    "aliases": [
+      "Laennec stethoscope",
+      "雷奈克听诊器"
+    ],
+    "year": 1816,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "anesthesia"
+    ],
+    "desc": "雷奈克发明纸管听诊器，把心肺声音变成诊断依据。"
+  },
+  {
+    "id": "draisienne",
+    "name": "德莱斯两轮车",
+    "nameEn": "Dandy horse",
+    "wikiEn": "Dandy horse",
+    "aliases": [
+      "Laufmaschine",
+      "Draisienne",
+      "德莱斯自行车",
+      "步行机"
+    ],
+    "year": 1817,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "pneumatic_tire"
+    ],
+    "desc": "德莱斯发明两轮蹬地滑行的 Laufmaschine，自行车鼻祖。"
+  },
+  {
+    "id": "milling_machine",
+    "name": "铣床",
+    "nameEn": "Milling machine",
+    "wikiEn": "Milling (machining)",
+    "aliases": [
+      "Whitney milling machine",
+      "North milling machine"
+    ],
+    "year": 1818,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "metal_lathe"
+    ],
+    "related": [
+      "interchangeable_parts"
+    ],
+    "desc": "惠特尼等制成旋转铣刀机床，批量加工互换金属件。"
+  },
+  {
+    "id": "galvanometer",
+    "name": "检流计",
+    "nameEn": "Galvanometer",
+    "wikiEn": "Galvanometer",
+    "aliases": [
+      "Schweigger multiplier",
+      "电流计"
+    ],
+    "year": 1820,
+    "era": "industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "voltaic_pile"
+    ],
+    "related": [
+      "electromagnet",
+      "telegraph"
+    ],
+    "desc": "施魏格发明倍增线圈检流计，检测微弱电流的仪器。"
+  },
+  {
+    "id": "arithmometer",
+    "name": "算术仪",
+    "nameEn": "Arithmometer",
+    "wikiEn": "Arithmometer",
+    "aliases": [
+      "Thomas de Colmar calculator",
+      "托马斯计算器"
+    ],
+    "year": 1820,
+    "era": "industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "difference_engine"
+    ],
+    "desc": "托马斯发明首款商业化批量生产的机械计算器。"
+  },
+  {
+    "id": "macadam",
+    "name": "碎石路面",
+    "nameEn": "Macadam",
+    "wikiEn": "Macadam",
+    "aliases": [
+      "McAdam road",
+      "马克当筑路法"
+    ],
+    "year": 1820,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "canal_lock"
+    ],
+    "desc": "麦克当以分层碎石筑路，排水耐磨，近代公路标准。"
+  },
+  {
+    "id": "planer_machine",
+    "name": "龙门刨床",
+    "nameEn": "Planer",
+    "wikiEn": "Planer (metalworking)",
+    "aliases": [
+      "Metal planing machine",
+      "金属刨床"
+    ],
+    "year": 1820,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "metal_lathe"
+    ],
+    "related": [
+      "milling_machine"
+    ],
+    "desc": "19世纪初出现的金属平面刨削机床，补齐机床基本门类。"
+  },
+  {
+    "id": "quinine",
+    "name": "奎宁",
+    "nameEn": "Quinine",
+    "wikiEn": "Quinine",
+    "aliases": [
+      "Pelletier Caventou quinine",
+      "金鸡纳霜"
+    ],
+    "year": 1820,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "佩尔蒂埃与卡旺图分离奎宁，首个抗疟特效药物。"
+  },
+  {
+    "id": "difference_engine",
+    "name": "差分机",
+    "nameEn": "Difference engine",
+    "wikiEn": "Difference engine",
+    "aliases": [
+      "Babbage difference engine",
+      "巴贝奇差分机"
+    ],
+    "year": 1822,
+    "era": "industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "analytical_engine",
+      "arithmometer"
+    ],
+    "desc": "巴贝奇设计的蒸汽驱动多项式自动计算机，未竟之作。"
+  },
+  {
+    "id": "fresnel_lens",
+    "name": "菲涅尔透镜",
+    "nameEn": "Fresnel lens",
+    "wikiEn": "Fresnel lens",
+    "aliases": [
+      "Fresnel lighthouse lens",
+      "螺纹透镜灯塔"
+    ],
+    "year": 1823,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "marine_chronometer",
+      "sextant"
+    ],
+    "desc": "菲涅尔薄环透镜把灯光射向远海，灯塔导航能力大增。"
+  },
+  {
+    "id": "electromagnet",
+    "name": "电磁铁",
+    "nameEn": "Electromagnet",
+    "wikiEn": "Electromagnet",
+    "aliases": [
+      "Sturgeon electromagnet",
+      "亨利电磁铁"
+    ],
+    "year": 1824,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "voltaic_pile"
+    ],
+    "related": [
+      "telegraph",
+      "galvanometer"
+    ],
+    "desc": "斯特金发明通电生磁的铁芯装置，电报机的核心部件。"
+  },
+  {
+    "id": "braille",
+    "name": "布莱叶盲文",
+    "nameEn": "Braille",
+    "wikiEn": "Braille",
+    "aliases": [
+      "Braille code",
+      "点字盲文"
+    ],
+    "year": 1824,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [],
+    "desc": "布莱叶以六点凸点构成可触摸读写系统，盲人阅读革命。"
+  },
+  {
+    "id": "portland_cement",
+    "name": "波特兰水泥",
+    "nameEn": "Portland cement",
+    "wikiEn": "Portland cement",
+    "aliases": [
+      "Aspdin cement",
+      "阿斯普丁水泥"
+    ],
+    "year": 1824,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "cast_iron_building",
+      "tunnelling_shield",
+      "reinforced_concrete"
+    ],
+    "desc": "阿斯普丁烧磨石灰石黏土获专利，现代混凝土的基础。"
+  },
+  {
+    "id": "steam_railway",
+    "name": "斯托克顿至达灵顿铁路",
+    "nameEn": "Stockton and Darlington Railway",
+    "wikiEn": "Stockton and Darlington Railway",
+    "aliases": [
+      "First public steam railway",
+      "首条公共蒸汽铁路"
+    ],
+    "year": 1825,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "railway_locomotive",
+      "iron_rail"
+    ],
+    "related": [
+      "railway_gauge",
+      "refrigerated_transport"
+    ],
+    "desc": "世界首条蒸汽机车牵引的公共铁路，铁路运输诞生。"
+  },
+  {
+    "id": "tunnelling_shield",
+    "name": "隧道盾构",
+    "nameEn": "Tunnelling shield",
+    "wikiEn": "Tunnelling shield",
+    "aliases": [
+      "Brunel shield",
+      "泰晤士河隧道盾构"
+    ],
+    "year": 1825,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "cast_iron_building"
+    ],
+    "related": [
+      "portland_cement"
+    ],
+    "desc": "布鲁内尔铸铁盾构支撑软地层，挖成首条河底隧道。"
+  },
+  {
+    "id": "heliography",
+    "name": "日光蚀刻法",
+    "nameEn": "Heliography",
+    "wikiEn": "Heliography",
+    "aliases": [
+      "Niepce heliography",
+      "尼埃普斯日光摄影"
+    ],
+    "year": 1826,
+    "era": "industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "photography",
+      "daguerreotype"
+    ],
+    "desc": "尼埃普斯以日光在沥青板上留下现存最早照片。"
+  },
+  {
+    "id": "friction_match",
+    "name": "摩擦火柴",
+    "nameEn": "Friction match",
+    "wikiEn": "Match",
+    "aliases": [
+      "Walker friction match",
+      "Congreve",
+      "安全火柴"
+    ],
+    "year": 1826,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 5,
+    "prereqs": [],
+    "related": [],
+    "desc": "沃克发明摩擦起火的火柴，1844年安全火柴问世。"
+  },
+  {
+    "id": "suspension_bridge",
+    "name": "悬索桥",
+    "nameEn": "Suspension bridge",
+    "wikiEn": "Suspension bridge",
+    "aliases": [
+      "Menai Suspension Bridge",
+      "梅奈悬索桥"
+    ],
+    "year": 1826,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "iron_bridge"
+    ],
+    "related": [],
+    "desc": "特尔福德梅奈桥为代表，铁链悬索实现大跨度越峡。"
+  },
+  {
+    "id": "water_turbine",
+    "name": "水轮机",
+    "nameEn": "Water turbine",
+    "wikiEn": "Water turbine",
+    "aliases": [
+      "Fourneyron turbine",
+      "Francis turbine",
+      "富尔内龙水轮机"
+    ],
+    "year": 1827,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "hydraulic_press",
+      "steam_engine"
+    ],
+    "desc": "富尔内龙制成高效反应式水轮机，水力工业化利用。"
+  },
+  {
+    "id": "hot_blast",
+    "name": "热风炼铁法",
+    "nameEn": "Hot blast",
+    "wikiEn": "Hot blast",
+    "aliases": [
+      "Neilson hot blast",
+      "热风炉"
+    ],
+    "year": 1828,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "coke_smelting"
+    ],
+    "related": [
+      "blowing_cylinder"
+    ],
+    "desc": "尼尔森预热鼓风入炉，冶铁燃料消耗大幅下降。"
+  },
+  {
+    "id": "ring_spinning",
+    "name": "环锭纺纱机",
+    "nameEn": "Ring spinning",
+    "wikiEn": "Ring spinning",
+    "aliases": [
+      "Thorp ring frame",
+      "环锭细纱机"
+    ],
+    "year": 1828,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "water_frame"
+    ],
+    "related": [
+      "mule_spinner"
+    ],
+    "desc": "索普发明钢领钢丝圈连续纺纱，后世主流细纱技术。"
+  },
+  {
+    "id": "public_water_supply",
+    "name": "城市自来水厂",
+    "nameEn": "Public water supply",
+    "wikiEn": "Water supply",
+    "aliases": [
+      "Slow sand filter",
+      "Chelsea waterworks",
+      "慢砂过滤自来水"
+    ],
+    "year": 1829,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "steam_engine"
+    ],
+    "related": [
+      "sewerage_system",
+      "gas_works"
+    ],
+    "desc": "伦敦切尔西水厂慢砂过滤集中供水，城市饮水改善。"
+  },
+  {
+    "id": "mechanical_reaper",
+    "name": "机械收割机",
+    "nameEn": "Mechanical reaper",
+    "wikiEn": "Mechanical reaper",
+    "aliases": [
+      "McCormick reaper",
+      "Hussey reaper",
+      "麦考密克收割机"
+    ],
+    "year": 1834,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "threshing_machine",
+      "steel_plow"
+    ],
+    "desc": "麦考密克的马拉收割机使谷物收割效率提高数十倍。"
+  },
+  {
+    "id": "screw_propeller",
+    "name": "船用螺旋桨",
+    "nameEn": "Propeller",
+    "wikiEn": "Propeller",
+    "aliases": [
+      "Screw propeller",
+      "Smith propeller",
+      "Ericsson propeller",
+      "螺旋推进器"
+    ],
+    "year": 1836,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "steam_engine"
+    ],
+    "related": [
+      "steamship",
+      "ironclad_warship"
+    ],
+    "desc": "史密斯与爱立信发明实用螺旋桨，取代明轮推进轮船。"
+  },
+  {
+    "id": "analytical_engine",
+    "name": "分析机",
+    "nameEn": "Analytical engine",
+    "wikiEn": "Analytical engine",
+    "aliases": [
+      "Babbage analytical engine",
+      "巴贝奇分析机"
+    ],
+    "year": 1837,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "difference_engine",
+      "jacquard_loom"
+    ],
+    "related": [
+      "boolean_algebra"
+    ],
+    "desc": "巴贝奇设计含运算器存储器的通用可编程机，计算机雏形。"
+  },
+  {
+    "id": "steel_plow",
+    "name": "钢犁",
+    "nameEn": "Steel plow",
+    "wikiEn": "John Deere (inventor)",
+    "aliases": [
+      "Deere steel plough",
+      "迪尔钢犁"
+    ],
+    "year": 1837,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "plow"
+    ],
+    "related": [
+      "mechanical_reaper"
+    ],
+    "desc": "迪尔以抛光钢制作犁壁，能开垦黏重的北美大草原。"
+  },
+  {
+    "id": "cell_theory",
+    "name": "细胞学说",
+    "nameEn": "Cell theory",
+    "wikiEn": "Cell theory",
+    "aliases": [
+      "Schleiden Schwann cell theory",
+      "施莱登施旺学说"
+    ],
+    "year": 1838,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "microscope"
+    ],
+    "related": [
+      "germ_theory"
+    ],
+    "desc": "施莱登与施旺提出动植物皆由细胞构成，统一生物学。"
+  },
+  {
+    "id": "vulcanized_rubber",
+    "name": "硫化橡胶",
+    "nameEn": "Vulcanization",
+    "wikiEn": "Vulcanization",
+    "aliases": [
+      "Goodyear vulcanization",
+      "固特异硫化橡胶"
+    ],
+    "year": 1839,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "pneumatic_tire"
+    ],
+    "desc": "古德伊尔以硫加热橡胶，使其耐热耐磨而不变黏。"
+  },
+  {
+    "id": "steam_hammer",
+    "name": "蒸汽锤",
+    "nameEn": "Steam hammer",
+    "wikiEn": "Steam hammer",
+    "aliases": [
+      "Nasmyth steam hammer",
+      "内史密斯蒸汽锤"
+    ],
+    "year": 1839,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 3,
+    "prereqs": [
+      "steam_engine"
+    ],
+    "related": [
+      "rolling_mill"
+    ],
+    "desc": "内史密斯发明可大可小的蒸汽锻锤，锻造巨轴利器。"
+  },
+  {
+    "id": "daguerreotype",
+    "name": "达盖尔银版法",
+    "nameEn": "Daguerreotype",
+    "wikiEn": "Daguerreotype",
+    "aliases": [
+      "Daguerre process",
+      "银版摄影法"
+    ],
+    "year": 1839,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "heliography"
+    ],
+    "related": [
+      "photography",
+      "calotype"
+    ],
+    "desc": "达盖尔银版显影定影法公开，摄影术正式诞生。"
+  },
+  {
+    "id": "photography",
+    "name": "摄影",
+    "nameEn": "Photography",
+    "wikiEn": "Photography",
+    "aliases": [
+      "Daguerre-Talbot photography",
+      "照相术"
+    ],
+    "year": 1839,
+    "era": "industrial",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "heliography"
+    ],
+    "related": [
+      "daguerreotype",
+      "calotype",
+      "collodion_process"
+    ],
+    "desc": "以光化学方法固定影像的技术，1839年正式公布。"
+  },
+  {
+    "id": "whitworth_thread_standard",
+    "name": "惠氏螺纹标准",
+    "nameEn": "British Standard Whitworth",
+    "wikiEn": "British Standard Whitworth",
+    "aliases": [
+      "Whitworth screw thread",
+      "惠氏标准螺纹"
+    ],
+    "year": 1841,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "metal_lathe"
+    ],
+    "related": [
+      "interchangeable_parts"
+    ],
+    "desc": "惠特沃斯统一螺纹角度牙距，首个国家工业标准。"
+  },
+  {
+    "id": "calotype",
+    "name": "卡罗法",
+    "nameEn": "Calotype",
+    "wikiEn": "Calotype",
+    "aliases": [
+      "Talbotype",
+      "塔尔博特碘化银纸法"
+    ],
+    "year": 1841,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "heliography"
+    ],
+    "related": [
+      "daguerreotype",
+      "photography",
+      "collodion_process"
+    ],
+    "desc": "塔尔博特纸基负片法，可反复印正片，摄影可复制。"
+  },
+  {
+    "id": "superphosphate_fertilizer",
+    "name": "过磷酸钙肥料",
+    "nameEn": "Superphosphate",
+    "wikiEn": "",
+    "aliases": [
+      "Lawes superphosphate",
+      "Artificial fertilizer",
+      "化学肥料雏形"
+    ],
+    "year": 1842,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "norfolk_crop_rotation"
+    ],
+    "desc": "劳斯以硫酸处理磷矿获专利，首个人造化学肥料。"
+  },
+  {
+    "id": "telegraph",
+    "name": "电报",
+    "nameEn": "Electrical telegraph",
+    "wikiEn": "Electrical telegraph",
+    "aliases": [
+      "Morse telegraph",
+      "Cooke and Wheatstone telegraph",
+      "电报机",
+      "有线电报"
+    ],
+    "year": 1844,
+    "era": "industrial",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [
+      "electromagnet",
+      "voltaic_pile"
+    ],
+    "related": [
+      "morse_code",
+      "submarine_telegraph_cable"
+    ],
+    "desc": "莫尔斯电报线华盛顿至巴尔的摩开通，信息瞬间传千里。"
+  },
+  {
+    "id": "morse_code",
+    "name": "莫尔斯电码",
+    "nameEn": "Morse code",
+    "wikiEn": "Morse code",
+    "aliases": [
+      "Morse alphabet",
+      "摩尔斯电码"
+    ],
+    "year": 1844,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "telegraph",
+      "braille"
+    ],
+    "desc": "以点划组合编码字母数字，首个电信号通信编码。"
+  },
+  {
+    "id": "pneumatic_tire",
+    "name": "充气轮胎",
+    "nameEn": "Pneumatic tire",
+    "wikiEn": "Pneumatic tire",
+    "aliases": [
+      "Thomson pneumatic tyre",
+      "汤姆森充气轮胎"
+    ],
+    "year": 1845,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "vulcanized_rubber"
+    ],
+    "related": [
+      "draisienne"
+    ],
+    "desc": "汤姆森以硫化橡胶制成充气轮胎并获专利。"
+  },
+  {
+    "id": "anesthesia",
+    "name": "麻醉术",
+    "nameEn": "Anesthesia",
+    "wikiEn": "Anesthesia",
+    "aliases": [
+      "Ether anesthesia",
+      "Chloroform anesthesia",
+      "乙醚麻醉",
+      "氯仿麻醉"
+    ],
+    "year": 1846,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "stethoscope",
+      "antiseptic_surgery"
+    ],
+    "desc": "莫顿公开乙醚麻醉手术，后辛普森推广氯仿，无痛外科。"
+  },
+  {
+    "id": "railway_gauge",
+    "name": "铁路轨距",
+    "nameEn": "Track gauge",
+    "wikiEn": "Track gauge",
+    "aliases": [
+      "Standard gauge",
+      "Brunel broad gauge",
+      "标准轨距"
+    ],
+    "year": 1846,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "steam_railway"
+    ],
+    "related": [
+      "railway_locomotive"
+    ],
+    "desc": "英国轨距法确立1435毫米标准轨，路网互联基础。"
+  },
+  {
+    "id": "sewing_machine",
+    "name": "缝纫机",
+    "nameEn": "Sewing machine",
+    "wikiEn": "Sewing machine",
+    "aliases": [
+      "Howe lockstitch machine",
+      "Singer sewing machine",
+      "双线锁缝机"
+    ],
+    "year": 1846,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "typewriter"
+    ],
+    "desc": "豪发明双线锁缝缝纫机，胜家推广至成衣工业。"
+  },
+  {
+    "id": "rotary_printing_press",
+    "name": "轮转印刷机",
+    "nameEn": "Rotary printing press",
+    "wikiEn": "Rotary printing press",
+    "aliases": [
+      "Hoe rotary press",
+      "霍氏轮转机"
+    ],
+    "year": 1847,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "steam_printing_press"
+    ],
+    "related": [
+      "paper_machine"
+    ],
+    "desc": "霍伊双滚筒连续印刷，报纸进入海量廉价时代。"
+  },
+  {
+    "id": "conservation_of_energy",
+    "name": "能量守恒定律",
+    "nameEn": "Conservation of energy",
+    "wikiEn": "Conservation of energy",
+    "aliases": [
+      "First law of thermodynamics",
+      "热力学第一定律",
+      "Joule's law"
+    ],
+    "year": 1847,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "steam_engine",
+      "maxwell_equations"
+    ],
+    "desc": "焦耳与亥姆霍兹等确立能量转化守恒，热力学基石。"
+  },
+  {
+    "id": "micrometer",
+    "name": "螺旋测微器",
+    "nameEn": "Micrometer",
+    "wikiEn": "Micrometer (device)",
+    "aliases": [
+      "Micrometer",
+      "Palmer micrometer",
+      "千分尺"
+    ],
+    "year": 1848,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "metal_lathe"
+    ],
+    "related": [
+      "whitworth_thread_standard"
+    ],
+    "desc": "帕尔默制成手持螺旋测微器，车间精度测量进至丝级。"
+  },
+  {
+    "id": "corliss_steam_engine",
+    "name": "科利斯蒸汽机",
+    "nameEn": "Corliss steam engine",
+    "wikiEn": "Corliss steam engine",
+    "aliases": [
+      "Corliss valve gear",
+      "四阀蒸汽机"
+    ],
+    "year": 1849,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 4,
+    "prereqs": [
+      "steam_engine"
+    ],
+    "related": [
+      "compound_steam_engine"
+    ],
+    "desc": "科利斯四阀截汽调速蒸汽机，高效而转速稳定。"
+  },
+  {
+    "id": "collodion_process",
+    "name": "湿版火棉胶法",
+    "nameEn": "Collodion process",
+    "wikiEn": "Collodion process",
+    "aliases": [
+      "Wet plate process",
+      "Archer collodion",
+      "湿版摄影"
+    ],
+    "year": 1851,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "calotype"
+    ],
+    "related": [
+      "photography"
+    ],
+    "desc": "阿彻火棉胶湿版法既清晰又廉价，摄影走向大众。"
+  },
+  {
+    "id": "ophthalmoscope",
+    "name": "检眼镜",
+    "nameEn": "Ophthalmoscope",
+    "wikiEn": "Ophthalmoscopy",
+    "aliases": [
+      "Helmholtz ophthalmoscope",
+      "亥姆霍兹检眼镜"
+    ],
+    "year": 1851,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "stethoscope"
+    ],
+    "desc": "亥姆霍兹发明可窥视活体眼底的仪器，眼科诊断革命。"
+  },
+  {
+    "id": "refrigerated_transport",
+    "name": "冷藏车厢",
+    "nameEn": "Refrigerator car",
+    "wikiEn": "Refrigerator car",
+    "aliases": [
+      "Reefer",
+      "Icebox on wheels",
+      "冷藏运输雏形"
+    ],
+    "year": 1851,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "steam_railway"
+    ],
+    "related": [
+      "canning"
+    ],
+    "desc": "加冰保温铁路车厢投入运营，易腐食品长途冷链开端。"
+  },
+  {
+    "id": "safety_elevator",
+    "name": "安全电梯",
+    "nameEn": "Elevator",
+    "wikiEn": "Elevator",
+    "aliases": [
+      "Otis safety elevator",
+      "奥的斯升降机"
+    ],
+    "year": 1852,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "cast_iron_building"
+    ],
+    "desc": "奥的斯发明断绳自锁安全升降机，催生高层建筑。"
+  },
+  {
+    "id": "giffard_airship",
+    "name": "动力飞艇",
+    "nameEn": "Airship",
+    "wikiEn": "Airship",
+    "aliases": [
+      "Giffard dirigible",
+      "吉法尔飞艇"
+    ],
+    "year": 1852,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "balloon_flight",
+      "steam_engine"
+    ],
+    "related": [
+      "cayley_glider"
+    ],
+    "desc": "吉法尔驾驶蒸汽机动力可操纵飞艇首航。"
+  },
+  {
+    "id": "hypodermic_needle",
+    "name": "皮下注射器",
+    "nameEn": "Hypodermic needle",
+    "wikiEn": "Hypodermic needle",
+    "aliases": [
+      "Pravaz syringe",
+      "Wood syringe",
+      "空心针头注射器"
+    ],
+    "year": 1853,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "morphine"
+    ],
+    "desc": "普拉瓦与伍德制成空心针头注射器，精确给药。"
+  },
+  {
+    "id": "cayley_glider",
+    "name": "载人滑翔机",
+    "nameEn": "George Cayley's glider",
+    "wikiEn": "George Cayley",
+    "aliases": [
+      "Cayley governable parachute",
+      "凯利滑翔机"
+    ],
+    "year": 1853,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "balloon_flight",
+      "giffard_airship"
+    ],
+    "desc": "凯利的固定翼载人滑翔机完成短距飞行，航空之父。"
+  },
+  {
+    "id": "boolean_algebra",
+    "name": "布尔代数",
+    "nameEn": "Boolean algebra",
+    "wikiEn": "Boolean algebra",
+    "aliases": [
+      "Boole's Laws of Thought",
+      "逻辑代数"
+    ],
+    "year": 1854,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "analytical_engine"
+    ],
+    "desc": "布尔将逻辑化为真假二值代数，后世数字电路根基。"
+  },
+  {
+    "id": "submarine_telegraph_cable",
+    "name": "跨大西洋海底电缆",
+    "nameEn": "Transatlantic telegraph cable",
+    "wikiEn": "Transatlantic telegraph cable",
+    "aliases": [
+      "Submarine telegraph cable",
+      "海底电缆"
+    ],
+    "year": 1858,
+    "era": "industrial",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "telegraph"
+    ],
+    "related": [
+      "steamship"
+    ],
+    "desc": "首条跨洋电缆1858年通报，1866年永久连通欧美。"
+  },
+  {
+    "id": "sewerage_system",
+    "name": "城市下水道系统",
+    "nameEn": "London sewerage system",
+    "wikiEn": "London sewerage system",
+    "aliases": [
+      "Bazalgette sewers",
+      "Great Stink sewer",
+      "卫生排污系统"
+    ],
+    "year": 1858,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "public_water_supply",
+      "flush_toilet"
+    ],
+    "desc": "巴泽尔盖特主持伦敦排污管网，现代城市卫生系统范本。"
+  },
+  {
+    "id": "evolution_natural_selection",
+    "name": "生物进化论",
+    "nameEn": "Natural selection",
+    "wikiEn": "Natural selection",
+    "aliases": [
+      "Darwinism",
+      "On the Origin of Species",
+      "达尔文进化论",
+      "自然选择"
+    ],
+    "year": 1859,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "cell_theory"
+    ],
+    "desc": "达尔文《物种起源》提出自然选择，重塑生命观。"
+  },
+  {
+    "id": "ironclad_warship",
+    "name": "铁甲舰",
+    "nameEn": "Ironclad",
+    "wikiEn": "Ironclad",
+    "aliases": [
+      "La Gloire",
+      "Monitor",
+      "装甲蒸汽军舰"
+    ],
+    "year": 1859,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "steamship"
+    ],
+    "related": [
+      "screw_propeller"
+    ],
+    "desc": "光荣号开创铁壳装甲蒸汽军舰，木质风帆舰队终结。"
+  },
+  {
+    "id": "oil_well",
+    "name": "近代石油钻井",
+    "nameEn": "Oil well",
+    "wikiEn": "Oil well",
+    "aliases": [
+      "Drake Well",
+      "Edwin Drake",
+      "德雷克油井"
+    ],
+    "year": 1859,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "lenoir_gas_engine"
+    ],
+    "desc": "德雷克在宾州钻成首口商业油井，石油工业开端。"
+  },
+  {
+    "id": "spectroscopy",
+    "name": "光谱分析",
+    "nameEn": "Spectroscopy",
+    "wikiEn": "Spectroscopy",
+    "aliases": [
+      "Bunsen-Kirchhoff spectroscope",
+      "本生基尔霍夫光谱仪"
+    ],
+    "year": 1859,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "periodic_table"
+    ],
+    "desc": "本生与基尔霍夫以特征谱线辨元素，催生天体化学。"
+  },
+  {
+    "id": "traction_engine",
+    "name": "蒸汽牵引机",
+    "nameEn": "Traction engine",
+    "wikiEn": "Traction engine",
+    "aliases": [
+      "Aveling traction engine",
+      "蒸汽拖拉机",
+      "道路机车"
+    ],
+    "year": 1859,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "high_pressure_steam_engine"
+    ],
+    "related": [
+      "railway_locomotive"
+    ],
+    "desc": "高压蒸汽机自行上路牵引农机货车，机动动力下乡。"
+  },
+  {
+    "id": "lenoir_gas_engine",
+    "name": "勒努瓦煤气机",
+    "nameEn": "Lenoir engine",
+    "wikiEn": "Lenoir engine",
+    "aliases": [
+      "Lenoir gas engine",
+      "Gas-fired internal combustion engine",
+      "煤气内燃机"
+    ],
+    "year": 1860,
+    "era": "industrial",
+    "category": "energy_power",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "internal_combustion_engine",
+      "oil_well"
+    ],
+    "desc": "勒努瓦制成首台实用煤气内燃机，内燃机商用雏形。"
+  },
+  {
+    "id": "germ_theory",
+    "name": "病菌学说",
+    "nameEn": "Germ theory of disease",
+    "wikiEn": "Germ theory of disease",
+    "aliases": [
+      "Pasteur germ theory",
+      "生源说",
+      "微生物病因论"
+    ],
+    "year": 1861,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "microscope"
+    ],
+    "related": [
+      "vaccination",
+      "pasteurization",
+      "antiseptic_surgery"
+    ],
+    "desc": "巴斯德等证明疾病由微生物引起，医学范式革命。"
+  },
+  {
+    "id": "pasteurization",
+    "name": "巴氏杀菌法",
+    "nameEn": "Pasteurization",
+    "wikiEn": "Pasteurization",
+    "aliases": [
+      "Pasteur pasteurisation",
+      "低温杀菌法"
+    ],
+    "year": 1864,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "germ_theory"
+    ],
+    "related": [
+      "canning"
+    ],
+    "desc": "巴斯德以温和加热杀灭酒奶微生物，食品卫生普及。"
+  },
+  {
+    "id": "maxwell_equations",
+    "name": "麦克斯韦方程组",
+    "nameEn": "Maxwell's equations",
+    "wikiEn": "Maxwell's equations",
+    "aliases": [
+      "Electromagnetic theory of light",
+      "电磁场理论"
+    ],
+    "year": 1865,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "electromagnet"
+    ],
+    "related": [
+      "conservation_of_energy"
+    ],
+    "desc": "麦克斯韦统一电磁现象并预言电磁波，理论物理丰碑。"
+  },
+  {
+    "id": "clinical_thermometer",
+    "name": "医用体温计",
+    "nameEn": "Medical thermometer",
+    "wikiEn": "Medical thermometer",
+    "aliases": [
+      "Allbutt clinical thermometer",
+      "奥尔巴特体温计"
+    ],
+    "year": 1867,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "stethoscope"
+    ],
+    "desc": "奥尔巴特制成便携短体温计，床旁体温检查常规化。"
+  },
+  {
+    "id": "antiseptic_surgery",
+    "name": "防腐外科",
+    "nameEn": "Antiseptic",
+    "wikiEn": "Antiseptic",
+    "aliases": [
+      "Lister carbolic acid antisepsis",
+      "李斯特消毒法"
+    ],
+    "year": 1867,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "germ_theory"
+    ],
+    "related": [
+      "anesthesia"
+    ],
+    "desc": "李斯特以石炭酸消毒器械创口，术后感染骤降。"
+  },
+  {
+    "id": "reinforced_concrete",
+    "name": "钢筋混凝土",
+    "nameEn": "Reinforced concrete",
+    "wikiEn": "Reinforced concrete",
+    "aliases": [
+      "Monier reinforced concrete",
+      "莫尼埃钢筋混凝土"
+    ],
+    "year": 1867,
+    "era": "industrial",
+    "category": "materials",
+    "importance": 4,
+    "prereqs": [
+      "portland_cement"
+    ],
+    "related": [
+      "cast_iron_building"
+    ],
+    "desc": "莫尼埃以钢筋加强水泥构件，现代建筑主材雏形。"
+  },
+  {
+    "id": "typewriter",
+    "name": "打字机",
+    "nameEn": "Typewriter",
+    "wikiEn": "Typewriter",
+    "aliases": [
+      "Sholes and Glidden typewriter",
+      "肖尔斯打字机",
+      "QWERTY"
+    ],
+    "year": 1868,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "sewing_machine"
+    ],
+    "desc": "肖尔斯制成实用打字机并配QWERTY键盘，文书机械化。"
+  },
+  {
+    "id": "railway_air_brake",
+    "name": "铁路空气制动机",
+    "nameEn": "Railway air brake",
+    "wikiEn": "Railway air brake",
+    "aliases": [
+      "Westinghouse air brake",
+      "威斯汀豪斯气刹"
+    ],
+    "year": 1869,
+    "era": "industrial",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [
+      "steam_railway"
+    ],
+    "related": [
+      "railway_locomotive"
+    ],
+    "desc": "威斯汀豪斯以压缩空气由司机统一制动整列火车。"
+  },
+  {
+    "id": "margarine",
+    "name": "人造黄油",
+    "nameEn": "Margarine",
+    "wikiEn": "Margarine",
+    "aliases": [
+      "Mège-Mouriès margarine",
+      "麦琪淋",
+      "人造奶油"
+    ],
+    "year": 1869,
+    "era": "industrial",
+    "category": "life_medicine",
+    "importance": 5,
+    "prereqs": [],
+    "related": [],
+    "desc": "梅热穆里耶斯受法皇悬赏制成牛油代用品。"
+  },
+  {
+    "id": "periodic_table",
+    "name": "元素周期表",
+    "nameEn": "Periodic table",
+    "wikiEn": "Periodic table",
+    "aliases": [
+      "Mendeleev periodic table",
+      "门捷列夫周期律"
+    ],
+    "year": 1869,
+    "era": "industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "atomic_theory"
+    ],
+    "related": [
+      "spectroscopy"
+    ],
+    "desc": "门捷列夫按原子量排列元素并预言新元素，化学总纲。"
+  }
+]

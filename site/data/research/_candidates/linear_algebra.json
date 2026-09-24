@@ -1,0 +1,6734 @@
+[
+  {
+    "nameEn": "3D projection",
+    "wikiEn": "3D projection",
+    "name": "三维投影",
+    "subcat": ""
+  },
+  {
+    "nameEn": "4D vector",
+    "wikiEn": "4D vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "ABS methods",
+    "wikiEn": "ABS methods",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Absolutely convex set",
+    "wikiEn": "Absolutely convex set",
+    "name": "绝对凸集",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Adjacency matrix",
+    "wikiEn": "Adjacency matrix",
+    "name": "邻接矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Adjugate matrix",
+    "wikiEn": "Adjugate matrix",
+    "name": "伴随矩阵",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Affine plank problem",
+    "wikiEn": "Affine plank problem",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Affine space",
+    "wikiEn": "Affine space",
+    "name": "仿射空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Albrecht Dürer's magic square",
+    "wikiEn": "Albrecht Dürer's magic square",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Algebra representation",
+    "wikiEn": "Algebra representation",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Algebraic Riccati equation",
+    "wikiEn": "Algebraic Riccati equation",
+    "name": "代數Riccati方程",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Algebraically compact module",
+    "wikiEn": "Algebraically compact module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Algorithmic problems on convex sets",
+    "wikiEn": "Algorithmic problems on convex sets",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Almost Mathieu operator",
+    "wikiEn": "Almost Mathieu operator",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Almost open map",
+    "wikiEn": "Almost open map",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Alon–Boppana bound",
+    "wikiEn": "Alon–Boppana bound",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Alternant matrix",
+    "wikiEn": "Alternant matrix",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Alternating multilinear map",
+    "wikiEn": "Alternating multilinear map",
+    "name": "交替多线性映射",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Alternating sign matrix",
+    "wikiEn": "Alternating sign matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Aluthge transform",
+    "wikiEn": "Aluthge transform",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Amitsur–Levitzki theorem",
+    "wikiEn": "Amitsur–Levitzki theorem",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Analytic function of a matrix",
+    "wikiEn": "Analytic function of a matrix",
+    "name": "矩阵函数",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Anderson–Kadec theorem",
+    "wikiEn": "Anderson–Kadec theorem",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Angles between flats",
+    "wikiEn": "Angles between flats",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Annihilating polynomial",
+    "wikiEn": "Annihilating polynomial",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Annihilator (ring theory)",
+    "wikiEn": "Annihilator (ring theory)",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Anti-diagonal matrix",
+    "wikiEn": "Anti-diagonal matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Antieigenvalue theory",
+    "wikiEn": "Antieigenvalue theory",
+    "name": "反特征值理论",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Antilinear map",
+    "wikiEn": "Antilinear map",
+    "name": "反线性映射",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Antimatroid",
+    "wikiEn": "Antimatroid",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Antisymmetrizer",
+    "wikiEn": "Antisymmetrizer",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Antiunitary operator",
+    "wikiEn": "Antiunitary operator",
+    "name": "反幺正算符",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Antivector",
+    "wikiEn": "Antivector",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Anyonic Lie algebra",
+    "wikiEn": "Anyonic Lie algebra",
+    "name": "",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "Armadillo (C++ library)",
+    "wikiEn": "Armadillo (C++ library)",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Arnoldi iteration",
+    "wikiEn": "Arnoldi iteration",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Arrowhead matrix",
+    "wikiEn": "Arrowhead matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Artinian module",
+    "wikiEn": "Artinian module",
+    "name": "阿廷模",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Artin–Rees lemma",
+    "wikiEn": "Artin–Rees lemma",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Associated prime",
+    "wikiEn": "Associated prime",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Asymmetric norm",
+    "wikiEn": "Asymmetric norm",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Asymptotic geometry",
+    "wikiEn": "Asymptotic geometry",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Augmented matrix",
+    "wikiEn": "Augmented matrix",
+    "name": "增广矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Autocorrelation matrix",
+    "wikiEn": "Autocorrelation matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Automatically Tuned Linear Algebra Software",
+    "wikiEn": "Automatically Tuned Linear Algebra Software",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "B-convex space",
+    "wikiEn": "B-convex space",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "BLIS (software)",
+    "wikiEn": "BLIS (software)",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "BLOSUM",
+    "wikiEn": "BLOSUM",
+    "name": "BLOSUM打分矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Backfitting algorithm",
+    "wikiEn": "Backfitting algorithm",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Backus–Gilbert method",
+    "wikiEn": "Backus–Gilbert method",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Balanced matrix",
+    "wikiEn": "Balanced matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Balanced module",
+    "wikiEn": "Balanced module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Balanced set",
+    "wikiEn": "Balanced set",
+    "name": "平衡集",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Banach space",
+    "wikiEn": "Banach space",
+    "name": "巴拿赫空间",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Banach-Saks property",
+    "wikiEn": "Banach-Saks property",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Banach–Alaoglu theorem",
+    "wikiEn": "Banach–Alaoglu theorem",
+    "name": "巴拿赫-阿勞格魯定理",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Bareiss algorithm",
+    "wikiEn": "Bareiss algorithm",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Barrelled set",
+    "wikiEn": "Barrelled set",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Barrelled space",
+    "wikiEn": "Barrelled space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Bartels–Stewart algorithm",
+    "wikiEn": "Bartels–Stewart algorithm",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Barycentric coordinate system",
+    "wikiEn": "Barycentric coordinate system",
+    "name": "重心坐标",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Basic Linear Algebra Subprograms",
+    "wikiEn": "Basic Linear Algebra Subprograms",
+    "name": "BLAS",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Basis (linear algebra)",
+    "wikiEn": "Basis (linear algebra)",
+    "name": "基 (線性代數)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Basis function",
+    "wikiEn": "Basis function",
+    "name": "基函數",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Bauer–Fike theorem",
+    "wikiEn": "Bauer–Fike theorem",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Beauville–Laszlo theorem",
+    "wikiEn": "Beauville–Laszlo theorem",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Bendixson's inequality",
+    "wikiEn": "Bendixson's inequality",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Berezin integral",
+    "wikiEn": "Berezin integral",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Berezinian",
+    "wikiEn": "Berezinian",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Beurling factorization",
+    "wikiEn": "Beurling factorization",
+    "name": "",
+    "subcat": "Invariant subspaces"
+  },
+  {
+    "nameEn": "Beurling–Lax theorem",
+    "wikiEn": "Beurling–Lax theorem",
+    "name": "",
+    "subcat": "Invariant subspaces"
+  },
+  {
+    "nameEn": "Bicomplex number",
+    "wikiEn": "Bicomplex number",
+    "name": "雙複數",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Biconjugate gradient method",
+    "wikiEn": "Biconjugate gradient method",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Biconjugate gradient stabilized method",
+    "wikiEn": "Biconjugate gradient stabilized method",
+    "name": "稳定双共轭梯度法",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Bidiagonal matrix",
+    "wikiEn": "Bidiagonal matrix",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Bidiagonalization",
+    "wikiEn": "Bidiagonalization",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Big M method",
+    "wikiEn": "Big M method",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Bilinear form",
+    "wikiEn": "Bilinear form",
+    "name": "雙線性形式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Bilinear map",
+    "wikiEn": "Bilinear map",
+    "name": "双线性映射",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Bimodule",
+    "wikiEn": "Bimodule",
+    "name": "双模",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Binet–Cauchy identity",
+    "wikiEn": "Binet–Cauchy identity",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Biorthogonal system",
+    "wikiEn": "Biorthogonal system",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Birkhoff algorithm",
+    "wikiEn": "Birkhoff algorithm",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Birkhoff factorization",
+    "wikiEn": "Birkhoff factorization",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Birkhoff polytope",
+    "wikiEn": "Birkhoff polytope",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Birman–Schwinger principle",
+    "wikiEn": "Birman–Schwinger principle",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Bisymmetric matrix",
+    "wikiEn": "Bisymmetric matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Bivector",
+    "wikiEn": "Bivector",
+    "name": "二重向量",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Blackwell's contraction mapping theorem",
+    "wikiEn": "Blackwell's contraction mapping theorem",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Blaschke sum",
+    "wikiEn": "Blaschke sum",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Blind signal separation",
+    "wikiEn": "Blind signal separation",
+    "name": "盲信号分离",
+    "subcat": "Singular value decomposition"
+  },
+  {
+    "nameEn": "Block LU decomposition",
+    "wikiEn": "Block LU decomposition",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Block Lanczos algorithm",
+    "wikiEn": "Block Lanczos algorithm",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Block Wiedemann algorithm",
+    "wikiEn": "Block Wiedemann algorithm",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Block matrix",
+    "wikiEn": "Block matrix",
+    "name": "分塊矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Block matrix pseudoinverse",
+    "wikiEn": "Block matrix pseudoinverse",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Block reflector",
+    "wikiEn": "Block reflector",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Blunt cone (mathematics)",
+    "wikiEn": "Blunt cone (mathematics)",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Bochner integral",
+    "wikiEn": "Bochner integral",
+    "name": "博赫纳积分",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Bochner's theorem (orthogonal polynomials)",
+    "wikiEn": "Bochner's theorem (orthogonal polynomials)",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Bohemian matrices",
+    "wikiEn": "Bohemian matrices",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Boolean matrix",
+    "wikiEn": "Boolean matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Bornivorous set",
+    "wikiEn": "Bornivorous set",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Bornological space",
+    "wikiEn": "Bornological space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Bornology",
+    "wikiEn": "Bornology",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Bounded operator",
+    "wikiEn": "Bounded operator",
+    "name": "有界算子",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Bounded set (topological vector space)",
+    "wikiEn": "Bounded set (topological vector space)",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Brahmagupta polynomials",
+    "wikiEn": "Brahmagupta polynomials",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Brandt matrix",
+    "wikiEn": "Brandt matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Brauer's k(B) conjecture",
+    "wikiEn": "Brauer's k(B) conjecture",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Brauer–Wall group",
+    "wikiEn": "Brauer–Wall group",
+    "name": "",
+    "subcat": "Super linear algebra"
+  },
+  {
+    "nameEn": "Brauner space",
+    "wikiEn": "Brauner space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Bra–ket notation",
+    "wikiEn": "Bra–ket notation",
+    "name": "狄拉克符号",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Brouwer's conjecture",
+    "wikiEn": "Brouwer's conjecture",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Brown–Gitler spectrum",
+    "wikiEn": "Brown–Gitler spectrum",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Bunch–Nielsen–Sorensen formula",
+    "wikiEn": "Bunch–Nielsen–Sorensen formula",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Burgers vector",
+    "wikiEn": "Burgers vector",
+    "name": "伯格斯矢量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Busemann–Petty problem",
+    "wikiEn": "Busemann–Petty problem",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Butson-type Hadamard matrix",
+    "wikiEn": "Butson-type Hadamard matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Bézout matrix",
+    "wikiEn": "Bézout matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "CSS code",
+    "wikiEn": "CSS code",
+    "name": "CSS纠错码",
+    "subcat": ""
+  },
+  {
+    "nameEn": "CUR matrix approximation",
+    "wikiEn": "CUR matrix approximation",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Cabibbo–Kobayashi–Maskawa matrix",
+    "wikiEn": "Cabibbo–Kobayashi–Maskawa matrix",
+    "name": "卡比博-小林-益川矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Canonical basis",
+    "wikiEn": "Canonical basis",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Capelli's identity",
+    "wikiEn": "Capelli's identity",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Cartan matrix",
+    "wikiEn": "Cartan matrix",
+    "name": "嘉當矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Cartesian tensor",
+    "wikiEn": "Cartesian tensor",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Category of matrices",
+    "wikiEn": "Category of matrices",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Category of modules",
+    "wikiEn": "Category of modules",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Category of topological vector spaces",
+    "wikiEn": "Category of topological vector spaces",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Cauchy matrix",
+    "wikiEn": "Cauchy matrix",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Cauchy–Binet formula",
+    "wikiEn": "Cauchy–Binet formula",
+    "name": "柯西-比内公式",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Cauchy–Schwarz inequality",
+    "wikiEn": "Cauchy–Schwarz inequality",
+    "name": "柯西-施瓦茨不等式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cayley–Hamilton theorem",
+    "wikiEn": "Cayley–Hamilton theorem",
+    "name": "凱萊–哈密頓定理",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Cayley–Menger determinant",
+    "wikiEn": "Cayley–Menger determinant",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Centering matrix",
+    "wikiEn": "Centering matrix",
+    "name": "中心化矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Central groupoid",
+    "wikiEn": "Central groupoid",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Centrosymmetric matrix",
+    "wikiEn": "Centrosymmetric matrix",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Change of basis",
+    "wikiEn": "Change of basis",
+    "name": "基变更",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Character module",
+    "wikiEn": "Character module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Characteristic polynomial",
+    "wikiEn": "Characteristic polynomial",
+    "name": "特徵多項式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Chebotarev theorem on roots of unity",
+    "wikiEn": "Chebotarev theorem on roots of unity",
+    "name": "",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Chebyshev iteration",
+    "wikiEn": "Chebyshev iteration",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Choi's theorem on completely positive maps",
+    "wikiEn": "Choi's theorem on completely positive maps",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cholesky decomposition",
+    "wikiEn": "Cholesky decomposition",
+    "name": "科列斯基分解",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Circulant matrix",
+    "wikiEn": "Circulant matrix",
+    "name": "循环矩阵",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Closed linear operator",
+    "wikiEn": "Closed linear operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Coates graph",
+    "wikiEn": "Coates graph",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Codimension",
+    "wikiEn": "Codimension",
+    "name": "餘維數",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Coefficient matrix",
+    "wikiEn": "Coefficient matrix",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Column groups and row groups",
+    "wikiEn": "Column groups and row groups",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Combinatorial matrix theory",
+    "wikiEn": "Combinatorial matrix theory",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Community matrix",
+    "wikiEn": "Community matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Commutation matrix",
+    "wikiEn": "Commutation matrix",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Commuting matrices",
+    "wikiEn": "Commuting matrices",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Comodule",
+    "wikiEn": "Comodule",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Comon's conjecture",
+    "wikiEn": "Comon's conjecture",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Compact operator",
+    "wikiEn": "Compact operator",
+    "name": "紧算子",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Compact operator on Hilbert space",
+    "wikiEn": "Compact operator on Hilbert space",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Companion matrix",
+    "wikiEn": "Companion matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Comparison matrix",
+    "wikiEn": "Comparison matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Comparison of linear algebra libraries",
+    "wikiEn": "Comparison of linear algebra libraries",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Complete orthogonal decomposition",
+    "wikiEn": "Complete orthogonal decomposition",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Complete topological vector space",
+    "wikiEn": "Complete topological vector space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Completely-S matrix",
+    "wikiEn": "Completely-S matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Complex Hadamard matrix",
+    "wikiEn": "Complex Hadamard matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Complex conjugate of a vector space",
+    "wikiEn": "Complex conjugate of a vector space",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Complex coordinate space",
+    "wikiEn": "Complex coordinate space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Complex number",
+    "wikiEn": "Complex number",
+    "name": "复数 (数学)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Complexification",
+    "wikiEn": "Complexification",
+    "name": "複化",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "Composition operator",
+    "wikiEn": "Composition operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Composition series",
+    "wikiEn": "Composition series",
+    "name": "合成列",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Compound matrix",
+    "wikiEn": "Compound matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Compressed sensing",
+    "wikiEn": "Compressed sensing",
+    "name": "壓縮感知",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Computational complexity of matrix multiplication",
+    "wikiEn": "Computational complexity of matrix multiplication",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Computing the permanent",
+    "wikiEn": "Computing the permanent",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Condition number",
+    "wikiEn": "Condition number",
+    "name": "条件数",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Conductance (graph theory)",
+    "wikiEn": "Conductance (graph theory)",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Conference matrix",
+    "wikiEn": "Conference matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Conformable matrix",
+    "wikiEn": "Conformable matrix",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Conformal linear transformation",
+    "wikiEn": "Conformal linear transformation",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Conical combination",
+    "wikiEn": "Conical combination",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Conjugate gradient method",
+    "wikiEn": "Conjugate gradient method",
+    "name": "共轭梯度法",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Conjugate gradient squared method",
+    "wikiEn": "Conjugate gradient squared method",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Conjugate residual method",
+    "wikiEn": "Conjugate residual method",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Conjugate transpose",
+    "wikiEn": "Conjugate transpose",
+    "name": "共轭转置",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Constant-recursive sequence",
+    "wikiEn": "Constant-recursive sequence",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Constrained generalized inverse",
+    "wikiEn": "Constrained generalized inverse",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Continuant (mathematics)",
+    "wikiEn": "Continuant (mathematics)",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Continuous linear extension",
+    "wikiEn": "Continuous linear extension",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Continuous linear operator",
+    "wikiEn": "Continuous linear operator",
+    "name": "连续线性算子",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Continuous module",
+    "wikiEn": "Continuous module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Controlled invariant subspace",
+    "wikiEn": "Controlled invariant subspace",
+    "name": "受控不變子空間",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Convergent matrix",
+    "wikiEn": "Convergent matrix",
+    "name": "收敛矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Convex Polytopes",
+    "wikiEn": "Convex Polytopes",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Convex analysis",
+    "wikiEn": "Convex analysis",
+    "name": "凸分析",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Convex body",
+    "wikiEn": "Convex body",
+    "name": "凸体",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Convex combination",
+    "wikiEn": "Convex combination",
+    "name": "凸组合",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Convex cone",
+    "wikiEn": "Convex cone",
+    "name": "凸锥",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Convex curve",
+    "wikiEn": "Convex curve",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Convex geometry",
+    "wikiEn": "Convex geometry",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Convex metric space",
+    "wikiEn": "Convex metric space",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Convex polygon",
+    "wikiEn": "Convex polygon",
+    "name": "凸多边形",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Convex polytope",
+    "wikiEn": "Convex polytope",
+    "name": "凸多胞形",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Convex set",
+    "wikiEn": "Convex set",
+    "name": "凸集",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Convex space",
+    "wikiEn": "Convex space",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Convexity correction",
+    "wikiEn": "Convexity correction",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Convexity in economics",
+    "wikiEn": "Convexity in economics",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Coordinate vector",
+    "wikiEn": "Coordinate vector",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Copositive matrix",
+    "wikiEn": "Copositive matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Corank",
+    "wikiEn": "Corank",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Corner transfer matrix",
+    "wikiEn": "Corner transfer matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Cosocle",
+    "wikiEn": "Cosocle",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Countably generated module",
+    "wikiEn": "Countably generated module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Covariance and contravariance of vectors",
+    "wikiEn": "Covariance and contravariance of vectors",
+    "name": "共變和反變",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Covariance matrix",
+    "wikiEn": "Covariance matrix",
+    "name": "协方差矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Cracovian",
+    "wikiEn": "Cracovian",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Cramer's rule",
+    "wikiEn": "Cramer's rule",
+    "name": "克萊姆法則",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Crinkled arc",
+    "wikiEn": "Crinkled arc",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Cross",
+    "wikiEn": "Cross",
+    "name": "十字",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Cross Gramian",
+    "wikiEn": "Cross Gramian",
+    "name": "交叉格拉姆矩陣",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Cross section (geometry)",
+    "wikiEn": "Cross section (geometry)",
+    "name": "截面 (幾何)",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Cross-correlation matrix",
+    "wikiEn": "Cross-correlation matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Cross-covariance matrix",
+    "wikiEn": "Cross-covariance matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Crossing number (graph theory)",
+    "wikiEn": "Crossing number (graph theory)",
+    "name": "交叉數",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Crouzeix's conjecture",
+    "wikiEn": "Crouzeix's conjecture",
+    "name": "Crouzeix猜想",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Crouzeix's theorem",
+    "wikiEn": "Crouzeix's theorem",
+    "name": "",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Cruciform",
+    "wikiEn": "Cruciform",
+    "name": "十字形",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Cryptographic multilinear map",
+    "wikiEn": "Cryptographic multilinear map",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Cubic form",
+    "wikiEn": "Cubic form",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Cuthill–McKee algorithm",
+    "wikiEn": "Cuthill–McKee algorithm",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Cyclic and separating vector",
+    "wikiEn": "Cyclic and separating vector",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Cyclic module",
+    "wikiEn": "Cyclic module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Cyclic subspace",
+    "wikiEn": "Cyclic subspace",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cyclical monotonicity",
+    "wikiEn": "Cyclical monotonicity",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Cylinder set measure",
+    "wikiEn": "Cylinder set measure",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "DADiSP",
+    "wikiEn": "DADiSP",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "DE-9IM",
+    "wikiEn": "DE-9IM",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "DF-space",
+    "wikiEn": "DF-space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "DFT matrix",
+    "wikiEn": "DFT matrix",
+    "name": "離散傅里葉變換矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "DIIS",
+    "wikiEn": "DIIS",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Darboux vector",
+    "wikiEn": "Darboux vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Data Analytics Library",
+    "wikiEn": "Data Analytics Library",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Decomposition matrix",
+    "wikiEn": "Decomposition matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Decomposition of a module",
+    "wikiEn": "Decomposition of a module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Decomposition of spectrum (functional analysis)",
+    "wikiEn": "Decomposition of spectrum (functional analysis)",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Defective matrix",
+    "wikiEn": "Defective matrix",
+    "name": "缺失矩阵",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Definite matrix",
+    "wikiEn": "Definite matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Definite quadratic form",
+    "wikiEn": "Definite quadratic form",
+    "name": "确定双线性形式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Degree matrix",
+    "wikiEn": "Degree matrix",
+    "name": "度数矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Delta operator",
+    "wikiEn": "Delta operator",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Dense submodule",
+    "wikiEn": "Dense submodule",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Densely defined operator",
+    "wikiEn": "Densely defined operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Density matrix embedding theory",
+    "wikiEn": "Density matrix embedding theory",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Dependence relation",
+    "wikiEn": "Dependence relation",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Depth (ring theory)",
+    "wikiEn": "Depth (ring theory)",
+    "name": "深度 (模論)",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Derivation of the conjugate gradient method",
+    "wikiEn": "Derivation of the conjugate gradient method",
+    "name": "共轭梯度法的推导",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Derivative of the exponential map",
+    "wikiEn": "Derivative of the exponential map",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Design matrix",
+    "wikiEn": "Design matrix",
+    "name": "设计矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Determinant",
+    "wikiEn": "Determinant",
+    "name": "行列式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Determinantal conjecture",
+    "wikiEn": "Determinantal conjecture",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Diagonalizable matrix",
+    "wikiEn": "Diagonalizable matrix",
+    "name": "可对角化矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Diagonally dominant matrix",
+    "wikiEn": "Diagonally dominant matrix",
+    "name": "对角优势矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Dieudonné determinant",
+    "wikiEn": "Dieudonné determinant",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Difference bound matrix",
+    "wikiEn": "Difference bound matrix",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Differentiable vector-valued functions from Euclidean space",
+    "wikiEn": "Differentiable vector-valued functions from Euclidean space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Differentiation in Fréchet spaces",
+    "wikiEn": "Differentiation in Fréchet spaces",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Dimension (vector space)",
+    "wikiEn": "Dimension (vector space)",
+    "name": "向量空间的维数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Dimension theorem for vector spaces",
+    "wikiEn": "Dimension theorem for vector spaces",
+    "name": "向量空间的维数定理",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Dirac spectrum",
+    "wikiEn": "Dirac spectrum",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Direct sum of matrices",
+    "wikiEn": "Direct sum of matrices",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Direct sum of modules",
+    "wikiEn": "Direct sum of modules",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Direction cosine",
+    "wikiEn": "Direction cosine",
+    "name": "方向餘弦",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Directional derivative",
+    "wikiEn": "Directional derivative",
+    "name": "方向导数",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Dirichlet eigenvalue",
+    "wikiEn": "Dirichlet eigenvalue",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Discrete exterior calculus",
+    "wikiEn": "Discrete exterior calculus",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Discrete spectrum (mathematics)",
+    "wikiEn": "Discrete spectrum (mathematics)",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Discriminant",
+    "wikiEn": "Discriminant",
+    "name": "判别式",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Dissipative operator",
+    "wikiEn": "Dissipative operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Distance from a point to a line",
+    "wikiEn": "Distance from a point to a line",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Distance geometry",
+    "wikiEn": "Distance geometry",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Distance matrix",
+    "wikiEn": "Distance matrix",
+    "name": "距离矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Distinguished space",
+    "wikiEn": "Distinguished space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Divide-and-conquer eigenvalue algorithm",
+    "wikiEn": "Divide-and-conquer eigenvalue algorithm",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Dodgson condensation",
+    "wikiEn": "Dodgson condensation",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Dot product",
+    "wikiEn": "Dot product",
+    "name": "点积",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Doubly stochastic matrix",
+    "wikiEn": "Doubly stochastic matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Drazin inverse",
+    "wikiEn": "Drazin inverse",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Dual basis",
+    "wikiEn": "Dual basis",
+    "name": "对偶基",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Dual basis in a field extension",
+    "wikiEn": "Dual basis in a field extension",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Dual cone and polar cone",
+    "wikiEn": "Dual cone and polar cone",
+    "name": "对偶锥和极锥",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Dual module",
+    "wikiEn": "Dual module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Dual norm",
+    "wikiEn": "Dual norm",
+    "name": "对偶范数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Dual number",
+    "wikiEn": "Dual number",
+    "name": "二元数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Dual space",
+    "wikiEn": "Dual space",
+    "name": "对偶空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Dual system",
+    "wikiEn": "Dual system",
+    "name": "对偶系统",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Dune (mathematics software)",
+    "wikiEn": "Dune (mathematics software)",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Duplication and elimination matrices",
+    "wikiEn": "Duplication and elimination matrices",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Dykstra's projection algorithm",
+    "wikiEn": "Dykstra's projection algorithm",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "EISPACK",
+    "wikiEn": "EISPACK",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "EP matrix",
+    "wikiEn": "EP matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Eccentricity vector",
+    "wikiEn": "Eccentricity vector",
+    "name": "離心率向量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Eigendecomposition of a matrix",
+    "wikiEn": "Eigendecomposition of a matrix",
+    "name": "特征分解",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Eigengap",
+    "wikiEn": "Eigengap",
+    "name": "特征裂隙",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Eigenmode expansion",
+    "wikiEn": "Eigenmode expansion",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Eigenoperator",
+    "wikiEn": "Eigenoperator",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Eigenplane",
+    "wikiEn": "Eigenplane",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Eigenvalue algorithm",
+    "wikiEn": "Eigenvalue algorithm",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Eigenvalue perturbation",
+    "wikiEn": "Eigenvalue perturbation",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Eigenvalues and eigenvectors",
+    "wikiEn": "Eigenvalues and eigenvectors",
+    "name": "特征值和特征向量",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Eigenvalues and eigenvectors of the second derivative",
+    "wikiEn": "Eigenvalues and eigenvectors of the second derivative",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Eilenberg–Mazur swindle",
+    "wikiEn": "Eilenberg–Mazur swindle",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Einstein notation",
+    "wikiEn": "Einstein notation",
+    "name": "爱因斯坦求和约定",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Electronic Journal of Linear Algebra",
+    "wikiEn": "Electronic Journal of Linear Algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Elementary divisors",
+    "wikiEn": "Elementary divisors",
+    "name": "初等因子",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Elementary matrix",
+    "wikiEn": "Elementary matrix",
+    "name": "初等矩阵",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Endomorphism ring",
+    "wikiEn": "Endomorphism ring",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Entanglement-assisted stabilizer formalism",
+    "wikiEn": "Entanglement-assisted stabilizer formalism",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Equichordal point problem",
+    "wikiEn": "Equichordal point problem",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Equipollence (geometry)",
+    "wikiEn": "Equipollence (geometry)",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Erdős–Kaplansky theorem",
+    "wikiEn": "Erdős–Kaplansky theorem",
+    "name": "",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Ervand Kogbetliantz",
+    "wikiEn": "Ervand Kogbetliantz",
+    "name": "",
+    "subcat": "Singular value decomposition"
+  },
+  {
+    "nameEn": "Essential extension",
+    "wikiEn": "Essential extension",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Essential spectrum",
+    "wikiEn": "Essential spectrum",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Euclidean distance matrix",
+    "wikiEn": "Euclidean distance matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Euclidean space",
+    "wikiEn": "Euclidean space",
+    "name": "欧几里得空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Euclidean vector",
+    "wikiEn": "Euclidean vector",
+    "name": "向量",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Eutactic star",
+    "wikiEn": "Eutactic star",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Examples of vector spaces",
+    "wikiEn": "Examples of vector spaces",
+    "name": "",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "Exchange matrix",
+    "wikiEn": "Exchange matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Exposed point",
+    "wikiEn": "Exposed point",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Extensions of symmetric operators",
+    "wikiEn": "Extensions of symmetric operators",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Exterior algebra",
+    "wikiEn": "Exterior algebra",
+    "name": "外代数",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Extreme point",
+    "wikiEn": "Extreme point",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Extreme set",
+    "wikiEn": "Extreme set",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "F-space",
+    "wikiEn": "F-space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "F. Riesz's theorem",
+    "wikiEn": "F. Riesz's theorem",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "FK-AK space",
+    "wikiEn": "FK-AK space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Face (geometry)",
+    "wikiEn": "Face (geometry)",
+    "name": "面 (幾何)",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Faddeev–LeVerrier algorithm",
+    "wikiEn": "Faddeev–LeVerrier algorithm",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Fangcheng (mathematics)",
+    "wikiEn": "Fangcheng (mathematics)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "FinVect",
+    "wikiEn": "FinVect",
+    "name": "",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "Finite module",
+    "wikiEn": "Finite module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Finite von Neumann algebra",
+    "wikiEn": "Finite von Neumann algebra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Finitely generated module",
+    "wikiEn": "Finitely generated module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Fischer's inequality",
+    "wikiEn": "Fischer's inequality",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Fitting lemma",
+    "wikiEn": "Fitting lemma",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Flag (linear algebra)",
+    "wikiEn": "Flag (linear algebra)",
+    "name": "標記 (線性代數)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Flat (geometry)",
+    "wikiEn": "Flat (geometry)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Flat cover",
+    "wikiEn": "Flat cover",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Flat module",
+    "wikiEn": "Flat module",
+    "name": "平坦模",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Fock matrix",
+    "wikiEn": "Fock matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Folded spectrum method",
+    "wikiEn": "Folded spectrum method",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Four-vector",
+    "wikiEn": "Four-vector",
+    "name": "四維矢量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Fractional Chebyshev collocation method",
+    "wikiEn": "Fractional Chebyshev collocation method",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Frame (linear algebra)",
+    "wikiEn": "Frame (linear algebra)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Fredholm alternative",
+    "wikiEn": "Fredholm alternative",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Fredholm determinant",
+    "wikiEn": "Fredholm determinant",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Fredholm kernel",
+    "wikiEn": "Fredholm kernel",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Fredholm operator",
+    "wikiEn": "Fredholm operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Fredholm theory",
+    "wikiEn": "Fredholm theory",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Fredholm's theorem",
+    "wikiEn": "Fredholm's theorem",
+    "name": "弗雷德霍姆定理",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Free module",
+    "wikiEn": "Free module",
+    "name": "自由模",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Freivalds' algorithm",
+    "wikiEn": "Freivalds' algorithm",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Friedrichs extension",
+    "wikiEn": "Friedrichs extension",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Frobenius algebra",
+    "wikiEn": "Frobenius algebra",
+    "name": "弗罗贝尼乌斯代数",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Frobenius covariant",
+    "wikiEn": "Frobenius covariant",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Frobenius determinant theorem",
+    "wikiEn": "Frobenius determinant theorem",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Frobenius inner product",
+    "wikiEn": "Frobenius inner product",
+    "name": "弗罗比尼乌斯内积",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Frobenius matrix",
+    "wikiEn": "Frobenius matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Frobenius normal form",
+    "wikiEn": "Frobenius normal form",
+    "name": "弗罗贝尼乌斯标准形",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Frontal solver",
+    "wikiEn": "Frontal solver",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Fréchet space",
+    "wikiEn": "Fréchet space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Function space",
+    "wikiEn": "Function space",
+    "name": "函数空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Functional derivative",
+    "wikiEn": "Functional derivative",
+    "name": "泛函导数",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Functional determinant",
+    "wikiEn": "Functional determinant",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Fundamental matrix (linear differential equation)",
+    "wikiEn": "Fundamental matrix (linear differential equation)",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Fundamental theorem of Hilbert spaces",
+    "wikiEn": "Fundamental theorem of Hilbert spaces",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Fusion frame",
+    "wikiEn": "Fusion frame",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Fuzzy associative matrix",
+    "wikiEn": "Fuzzy associative matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "G-matrix",
+    "wikiEn": "G-matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "GCD matrix",
+    "wikiEn": "GCD matrix",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Gamas's theorem",
+    "wikiEn": "Gamas's theorem",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Gamma matrices",
+    "wikiEn": "Gamma matrices",
+    "name": "狄拉克矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Gap metric",
+    "wikiEn": "Gap metric",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Gateaux derivative",
+    "wikiEn": "Gateaux derivative",
+    "name": "加托導數",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Gaussian elimination",
+    "wikiEn": "Gaussian elimination",
+    "name": "高斯消去法",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Gauss–Seidel method",
+    "wikiEn": "Gauss–Seidel method",
+    "name": "高斯-赛德尔迭代",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Gelfand–Shilov space",
+    "wikiEn": "Gelfand–Shilov space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Gell-Mann matrices",
+    "wikiEn": "Gell-Mann matrices",
+    "name": "盖尔曼矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Gene H. Golub",
+    "wikiEn": "Gene H. Golub",
+    "name": "",
+    "subcat": "Singular value decomposition"
+  },
+  {
+    "nameEn": "General linear group",
+    "wikiEn": "General linear group",
+    "name": "一般线性群",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Generalizations of Pauli matrices",
+    "wikiEn": "Generalizations of Pauli matrices",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Generalized eigenvector",
+    "wikiEn": "Generalized eigenvector",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Generalized inverse",
+    "wikiEn": "Generalized inverse",
+    "name": "广义逆阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Generalized minimal residual method",
+    "wikiEn": "Generalized minimal residual method",
+    "name": "广义最小残量方法",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Generalized permutation matrix",
+    "wikiEn": "Generalized permutation matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Generalized singular value decomposition",
+    "wikiEn": "Generalized singular value decomposition",
+    "name": "广义奇异值分解",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Gerbaldi's theorem",
+    "wikiEn": "Gerbaldi's theorem",
+    "name": "",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Gershgorin circle theorem",
+    "wikiEn": "Gershgorin circle theorem",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Gilbert–Johnson–Keerthi distance algorithm",
+    "wikiEn": "Gilbert–Johnson–Keerthi distance algorithm",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Givens rotation",
+    "wikiEn": "Givens rotation",
+    "name": "吉文斯旋转",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Global dimension",
+    "wikiEn": "Global dimension",
+    "name": "內射維度、投射維度與同調維度",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Goddard–Thorn theorem",
+    "wikiEn": "Goddard–Thorn theorem",
+    "name": "",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Golden–Thompson inequality",
+    "wikiEn": "Golden–Thompson inequality",
+    "name": "高登-湯普森不等式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "GotoBLAS",
+    "wikiEn": "GotoBLAS",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Graded structure",
+    "wikiEn": "Graded structure",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Graded vector space",
+    "wikiEn": "Graded vector space",
+    "name": "",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "Gradient method",
+    "wikiEn": "Gradient method",
+    "name": "梯度法",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Gram matrix",
+    "wikiEn": "Gram matrix",
+    "name": "格拉姆矩阵",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Gram–Schmidt process",
+    "wikiEn": "Gram–Schmidt process",
+    "name": "格拉姆-施密特正交化",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Graph of a polytope",
+    "wikiEn": "Graph of a polytope",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "GraphBLAS",
+    "wikiEn": "GraphBLAS",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Grassmann–Cayley algebra",
+    "wikiEn": "Grassmann–Cayley algebra",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Green's matrix",
+    "wikiEn": "Green's matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Grothendieck trace theorem",
+    "wikiEn": "Grothendieck trace theorem",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "H-matrix (iterative method)",
+    "wikiEn": "H-matrix (iterative method)",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "HOSVD-based canonical form of TP functions and qLPV models",
+    "wikiEn": "HOSVD-based canonical form of TP functions and qLPV models",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Hadamard matrix",
+    "wikiEn": "Hadamard matrix",
+    "name": "阿达马矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Hadamard product (matrices)",
+    "wikiEn": "Hadamard product (matrices)",
+    "name": "阿達瑪乘積 (矩陣)",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Hadamard variation formula",
+    "wikiEn": "Hadamard variation formula",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Hadamard's inequality",
+    "wikiEn": "Hadamard's inequality",
+    "name": "阿达马不等式",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Hadamard's maximal determinant problem",
+    "wikiEn": "Hadamard's maximal determinant problem",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Hahn–Banach theorem",
+    "wikiEn": "Hahn–Banach theorem",
+    "name": "哈恩-巴拿赫定理",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Hamiltonian matrix",
+    "wikiEn": "Hamiltonian matrix",
+    "name": "漢彌爾頓矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Hamming space",
+    "wikiEn": "Hamming space",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Hankel matrix",
+    "wikiEn": "Hankel matrix",
+    "name": "汉克尔矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Hasse–Witt matrix",
+    "wikiEn": "Hasse–Witt matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Hawkins–Simon condition",
+    "wikiEn": "Hawkins–Simon condition",
+    "name": "",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Haynsworth inertia additivity formula",
+    "wikiEn": "Haynsworth inertia additivity formula",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Hearing the shape of a drum",
+    "wikiEn": "Hearing the shape of a drum",
+    "name": "聽出鼓的形狀",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Heat kernel",
+    "wikiEn": "Heat kernel",
+    "name": "热核",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Hermite normal form",
+    "wikiEn": "Hermite normal form",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Hermitian matrix",
+    "wikiEn": "Hermitian matrix",
+    "name": "埃尔米特矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Hessenberg matrix",
+    "wikiEn": "Hessenberg matrix",
+    "name": "黑森贝格矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Hessian automatic differentiation",
+    "wikiEn": "Hessian automatic differentiation",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Hessian matrix",
+    "wikiEn": "Hessian matrix",
+    "name": "黑塞矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Hierarchical matrix",
+    "wikiEn": "Hierarchical matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Higher spin alternating sign matrix",
+    "wikiEn": "Higher spin alternating sign matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Higher-dimensional gamma matrices",
+    "wikiEn": "Higher-dimensional gamma matrices",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Higher-order singular value decomposition",
+    "wikiEn": "Higher-order singular value decomposition",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Hilbert matrix",
+    "wikiEn": "Hilbert matrix",
+    "name": "希尔伯特矩阵",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Hilbert space",
+    "wikiEn": "Hilbert space",
+    "name": "希尔伯特空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Hilbert–Carleman determinant",
+    "wikiEn": "Hilbert–Carleman determinant",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Hilbert–Poincaré series",
+    "wikiEn": "Hilbert–Poincaré series",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Hilbert–Schmidt integral operator",
+    "wikiEn": "Hilbert–Schmidt integral operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Hilbert–Schmidt operator",
+    "wikiEn": "Hilbert–Schmidt operator",
+    "name": "希尔伯特-施密特算子",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Hollow matrix",
+    "wikiEn": "Hollow matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Homogeneous coordinates",
+    "wikiEn": "Homogeneous coordinates",
+    "name": "齐次坐标",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Homogeneous function",
+    "wikiEn": "Homogeneous function",
+    "name": "齐次函数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Homogeneous linear equation",
+    "wikiEn": "Homogeneous linear equation",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Homogeneous polynomial",
+    "wikiEn": "Homogeneous polynomial",
+    "name": "齊次多項式",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Hopfian object",
+    "wikiEn": "Hopfian object",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Householder transformation",
+    "wikiEn": "Householder transformation",
+    "name": "豪斯霍尔德变换",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Hurwitz determinant",
+    "wikiEn": "Hurwitz determinant",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Hurwitz-stable matrix",
+    "wikiEn": "Hurwitz-stable matrix",
+    "name": "赫尔维茨稳定矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Hypercyclic operator",
+    "wikiEn": "Hypercyclic operator",
+    "name": "",
+    "subcat": "Invariant subspaces"
+  },
+  {
+    "nameEn": "Hyperdeterminant",
+    "wikiEn": "Hyperdeterminant",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Hyperoctahedral group",
+    "wikiEn": "Hyperoctahedral group",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Hyperplane",
+    "wikiEn": "Hyperplane",
+    "name": "超平面",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Hypocontinuous bilinear map",
+    "wikiEn": "Hypocontinuous bilinear map",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Hyponormal operator",
+    "wikiEn": "Hyponormal operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Hypre",
+    "wikiEn": "Hypre",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "ILNumerics",
+    "wikiEn": "ILNumerics",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Idempotent matrix",
+    "wikiEn": "Idempotent matrix",
+    "name": "幂等矩阵",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Identity matrix",
+    "wikiEn": "Identity matrix",
+    "name": "單位矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Igon value",
+    "wikiEn": "Igon value",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Immanant",
+    "wikiEn": "Immanant",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "In-place matrix transposition",
+    "wikiEn": "In-place matrix transposition",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Incidence matrix",
+    "wikiEn": "Incidence matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Incomplete Cholesky factorization",
+    "wikiEn": "Incomplete Cholesky factorization",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Incomplete LU factorization",
+    "wikiEn": "Incomplete LU factorization",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Indecomposable module",
+    "wikiEn": "Indecomposable module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Indefinite inner product space",
+    "wikiEn": "Indefinite inner product space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Independent equation",
+    "wikiEn": "Independent equation",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Indicator vector",
+    "wikiEn": "Indicator vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Inductive tensor product",
+    "wikiEn": "Inductive tensor product",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Infinite-dimensional vector function",
+    "wikiEn": "Infinite-dimensional vector function",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Infrabarrelled space",
+    "wikiEn": "Infrabarrelled space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Injective hull",
+    "wikiEn": "Injective hull",
+    "name": "內射包",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Injective module",
+    "wikiEn": "Injective module",
+    "name": "內射模",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Integer matrix",
+    "wikiEn": "Integer matrix",
+    "name": "整数矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Integer points in convex polyhedra",
+    "wikiEn": "Integer points in convex polyhedra",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Integral linear operator",
+    "wikiEn": "Integral linear operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Interior product",
+    "wikiEn": "Interior product",
+    "name": "内乘",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "International Linear Algebra Society",
+    "wikiEn": "International Linear Algebra Society",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Interpolative decomposition",
+    "wikiEn": "Interpolative decomposition",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Intersection (geometry)",
+    "wikiEn": "Intersection (geometry)",
+    "name": "相交 (幾何)",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Intersection curve",
+    "wikiEn": "Intersection curve",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Invariant basis number",
+    "wikiEn": "Invariant basis number",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Invariant factor",
+    "wikiEn": "Invariant factor",
+    "name": "不变因子",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Invariant subspace",
+    "wikiEn": "Invariant subspace",
+    "name": "不变子空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Invariant subspace problem",
+    "wikiEn": "Invariant subspace problem",
+    "name": "不变子空间问题",
+    "subcat": "Invariant subspaces"
+  },
+  {
+    "nameEn": "Invariants of tensors",
+    "wikiEn": "Invariants of tensors",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Inverse iteration",
+    "wikiEn": "Inverse iteration",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Invertible matrix",
+    "wikiEn": "Invertible matrix",
+    "name": "非奇异方阵",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Involutory matrix",
+    "wikiEn": "Involutory matrix",
+    "name": "对合矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Irregular matrix",
+    "wikiEn": "Irregular matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Isospectral",
+    "wikiEn": "Isospectral",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Isotypical representation",
+    "wikiEn": "Isotypical representation",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Iterative refinement",
+    "wikiEn": "Iterative refinement",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Jabotinsky matrix",
+    "wikiEn": "Jabotinsky matrix",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Jacket matrix",
+    "wikiEn": "Jacket matrix",
+    "name": "Jacket矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Jacobi eigenvalue algorithm",
+    "wikiEn": "Jacobi eigenvalue algorithm",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Jacobi method",
+    "wikiEn": "Jacobi method",
+    "name": "雅可比法",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Jacobi rotation",
+    "wikiEn": "Jacobi rotation",
+    "name": "雅可比旋转",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Jacobi's formula",
+    "wikiEn": "Jacobi's formula",
+    "name": "雅可比公式",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Jacobian matrix and determinant",
+    "wikiEn": "Jacobian matrix and determinant",
+    "name": "雅可比矩阵",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Jacobson density theorem",
+    "wikiEn": "Jacobson density theorem",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "John ellipsoid",
+    "wikiEn": "John ellipsoid",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Joint spectral radius",
+    "wikiEn": "Joint spectral radius",
+    "name": "聯合譜半徑",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Jones calculus",
+    "wikiEn": "Jones calculus",
+    "name": "瓊斯運算",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Jordan matrix",
+    "wikiEn": "Jordan matrix",
+    "name": "若尔当矩阵",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Jordan normal form",
+    "wikiEn": "Jordan normal form",
+    "name": "若尔当标准型",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Jordan–Chevalley decomposition",
+    "wikiEn": "Jordan–Chevalley decomposition",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Julia (programming language)",
+    "wikiEn": "Julia (programming language)",
+    "name": "Julia语言",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "K-SVD",
+    "wikiEn": "K-SVD",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "K-frame",
+    "wikiEn": "K-frame",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "K-space (functional analysis)",
+    "wikiEn": "K-space (functional analysis)",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Kaczmarz method",
+    "wikiEn": "Kaczmarz method",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Kaplansky's theorem on projective modules",
+    "wikiEn": "Kaplansky's theorem on projective modules",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Kernel (linear algebra)",
+    "wikiEn": "Kernel (linear algebra)",
+    "name": "核 (线性算子)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Khatri-Rao product",
+    "wikiEn": "Khatri-Rao product",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Khatri–Rao product",
+    "wikiEn": "Khatri–Rao product",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Klee–Minty cube",
+    "wikiEn": "Klee–Minty cube",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Krawtchouk matrices",
+    "wikiEn": "Krawtchouk matrices",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Krein–Milman theorem",
+    "wikiEn": "Krein–Milman theorem",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Krein–Rutman theorem",
+    "wikiEn": "Krein–Rutman theorem",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Kreiss matrix theorem",
+    "wikiEn": "Kreiss matrix theorem",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Kronecker product",
+    "wikiEn": "Kronecker product",
+    "name": "克罗内克积",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Kronecker sum of discrete Laplacians",
+    "wikiEn": "Kronecker sum of discrete Laplacians",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Krull–Schmidt theorem",
+    "wikiEn": "Krull–Schmidt theorem",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Krylov subspace",
+    "wikiEn": "Krylov subspace",
+    "name": "克雷洛夫子空间",
+    "subcat": "Invariant subspaces"
+  },
+  {
+    "nameEn": "Kuznetsov trace formula",
+    "wikiEn": "Kuznetsov trace formula",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "L-matrix",
+    "wikiEn": "L-matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "LAPACK",
+    "wikiEn": "LAPACK",
+    "name": "LAPACK",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "LB-space",
+    "wikiEn": "LB-space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "LF-space",
+    "wikiEn": "LF-space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "LINPACK",
+    "wikiEn": "LINPACK",
+    "name": "LINPACK",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "LOBPCG",
+    "wikiEn": "LOBPCG",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "LU decomposition",
+    "wikiEn": "LU decomposition",
+    "name": "LU分解",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "LU reduction",
+    "wikiEn": "LU reduction",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Lagrange's identity",
+    "wikiEn": "Lagrange's identity",
+    "name": "拉格朗日恒等式",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Lanczos algorithm",
+    "wikiEn": "Lanczos algorithm",
+    "name": "兰佐斯算法",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Laplace expansion",
+    "wikiEn": "Laplace expansion",
+    "name": "拉普拉斯展开",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Laplace–Runge–Lenz vector",
+    "wikiEn": "Laplace–Runge–Lenz vector",
+    "name": "拉普拉斯-龍格-冷次向量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Laplacian matrix",
+    "wikiEn": "Laplacian matrix",
+    "name": "调和矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Lapped transform",
+    "wikiEn": "Lapped transform",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Lattice (module)",
+    "wikiEn": "Lattice (module)",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Lattice reduction",
+    "wikiEn": "Lattice reduction",
+    "name": "格规约",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Lax pair",
+    "wikiEn": "Lax pair",
+    "name": "Lax 对",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Least-squares spectral analysis",
+    "wikiEn": "Least-squares spectral analysis",
+    "name": "最小平方頻譜分析法",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Lehmer matrix",
+    "wikiEn": "Lehmer matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Leibniz formula for determinants",
+    "wikiEn": "Leibniz formula for determinants",
+    "name": "行列式的莱布尼茨公式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Length of a module",
+    "wikiEn": "Length of a module",
+    "name": "長度 (模論)",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Lens (geometry)",
+    "wikiEn": "Lens (geometry)",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Leslie matrix",
+    "wikiEn": "Leslie matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Levi-Civita symbol",
+    "wikiEn": "Levi-Civita symbol",
+    "name": "列維-奇維塔符號",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Levinson recursion",
+    "wikiEn": "Levinson recursion",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Librsb",
+    "wikiEn": "Librsb",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Lie product formula",
+    "wikiEn": "Lie product formula",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Limiting absorption principle",
+    "wikiEn": "Limiting absorption principle",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Limiting amplitude principle",
+    "wikiEn": "Limiting amplitude principle",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Line segment",
+    "wikiEn": "Line segment",
+    "name": "线段",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Line-cylinder intersection",
+    "wikiEn": "Line-cylinder intersection",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Linear Algebra (book)",
+    "wikiEn": "Linear Algebra (book)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear Operators (book)",
+    "wikiEn": "Linear Operators (book)",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Linear algebra",
+    "wikiEn": "Linear algebra",
+    "name": "线性代数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear combination",
+    "wikiEn": "Linear combination",
+    "name": "线性组合",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear complementarity problem",
+    "wikiEn": "Linear complementarity problem",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear equation over a ring",
+    "wikiEn": "Linear equation over a ring",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear form",
+    "wikiEn": "Linear form",
+    "name": "線性泛函",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear group",
+    "wikiEn": "Linear group",
+    "name": "矩阵群",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Linear independence",
+    "wikiEn": "Linear independence",
+    "name": "線性無關",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear inequality",
+    "wikiEn": "Linear inequality",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear map",
+    "wikiEn": "Linear map",
+    "name": "线性映射",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Linear recurrence with constant coefficients",
+    "wikiEn": "Linear recurrence with constant coefficients",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear relation",
+    "wikiEn": "Linear relation",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear span",
+    "wikiEn": "Linear span",
+    "name": "线性生成空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Linear subspace",
+    "wikiEn": "Linear subspace",
+    "name": "线性子空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Line–line intersection",
+    "wikiEn": "Line–line intersection",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Line–plane intersection",
+    "wikiEn": "Line–plane intersection",
+    "name": "线面交点",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Line–sphere intersection",
+    "wikiEn": "Line–sphere intersection",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Liouville space",
+    "wikiEn": "Liouville space",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Liquid vector space",
+    "wikiEn": "Liquid vector space",
+    "name": "",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "Lis (linear algebra library)",
+    "wikiEn": "Lis (linear algebra library)",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "LoRA (machine learning)",
+    "wikiEn": "LoRA (machine learning)",
+    "name": "LoRA",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Localization (commutative algebra)",
+    "wikiEn": "Localization (commutative algebra)",
+    "name": "環的局部化",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Locally convex topological vector space",
+    "wikiEn": "Locally convex topological vector space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Locally finite operator",
+    "wikiEn": "Locally finite operator",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Loewner order",
+    "wikiEn": "Loewner order",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Logarithm of a matrix",
+    "wikiEn": "Logarithm of a matrix",
+    "name": "矩阵对数",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Logarithmic norm",
+    "wikiEn": "Logarithmic norm",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Logical matrix",
+    "wikiEn": "Logical matrix",
+    "name": "邏輯矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Lorentz scalar",
+    "wikiEn": "Lorentz scalar",
+    "name": "",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Low-rank approximation",
+    "wikiEn": "Low-rank approximation",
+    "name": "低秩近似",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "M-matrix",
+    "wikiEn": "M-matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "MATLAB",
+    "wikiEn": "MATLAB",
+    "name": "MATLAB",
+    "subcat": ""
+  },
+  {
+    "nameEn": "MacMahon's master theorem",
+    "wikiEn": "MacMahon's master theorem",
+    "name": "",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Mackey space",
+    "wikiEn": "Mackey space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Mackey topology",
+    "wikiEn": "Mackey topology",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Mackey–Arens theorem",
+    "wikiEn": "Mackey–Arens theorem",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Magic square",
+    "wikiEn": "Magic square",
+    "name": "幻方",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Mahler volume",
+    "wikiEn": "Mahler volume",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Maillet's determinant",
+    "wikiEn": "Maillet's determinant",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Main diagonal",
+    "wikiEn": "Main diagonal",
+    "name": "主對角線",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Majorization",
+    "wikiEn": "Majorization",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Manin matrix",
+    "wikiEn": "Manin matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Maple (software)",
+    "wikiEn": "Maple (software)",
+    "name": "Maple",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Markov operator",
+    "wikiEn": "Markov operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Markov–Kakutani fixed-point theorem",
+    "wikiEn": "Markov–Kakutani fixed-point theorem",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Mathcad",
+    "wikiEn": "Mathcad",
+    "name": "MathCad",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Matrix (mathematics)",
+    "wikiEn": "Matrix (mathematics)",
+    "name": "矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Matrix Chernoff bound",
+    "wikiEn": "Matrix Chernoff bound",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Matrix addition",
+    "wikiEn": "Matrix addition",
+    "name": "矩陣加法",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Matrix analysis",
+    "wikiEn": "Matrix analysis",
+    "name": "矩阵分析",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Matrix calculus",
+    "wikiEn": "Matrix calculus",
+    "name": "矩阵微积分",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Matrix chain multiplication",
+    "wikiEn": "Matrix chain multiplication",
+    "name": "矩陣鏈乘積",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Matrix completion",
+    "wikiEn": "Matrix completion",
+    "name": "矩阵还原",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Matrix congruence",
+    "wikiEn": "Matrix congruence",
+    "name": "合同矩阵",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Matrix consimilarity",
+    "wikiEn": "Matrix consimilarity",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Matrix decomposition",
+    "wikiEn": "Matrix decomposition",
+    "name": "矩阵分解",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Matrix determinant lemma",
+    "wikiEn": "Matrix determinant lemma",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Matrix difference equation",
+    "wikiEn": "Matrix difference equation",
+    "name": "矩阵差分方程",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Matrix equivalence",
+    "wikiEn": "Matrix equivalence",
+    "name": "等价矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Matrix exponential",
+    "wikiEn": "Matrix exponential",
+    "name": "矩阵指数",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Matrix mortality problem",
+    "wikiEn": "Matrix mortality problem",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Matrix multiplication",
+    "wikiEn": "Matrix multiplication",
+    "name": "矩陣乘法",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Matrix multiplication algorithm",
+    "wikiEn": "Matrix multiplication algorithm",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Matrix norm",
+    "wikiEn": "Matrix norm",
+    "name": "矩陣範數",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Matrix of ones",
+    "wikiEn": "Matrix of ones",
+    "name": "一矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Matrix pencil",
+    "wikiEn": "Matrix pencil",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Matrix polynomial",
+    "wikiEn": "Matrix polynomial",
+    "name": "矩阵多项式",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Matrix regularization",
+    "wikiEn": "Matrix regularization",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Matrix representation",
+    "wikiEn": "Matrix representation",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Matrix ring",
+    "wikiEn": "Matrix ring",
+    "name": "矩阵环",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Matrix semialgebra",
+    "wikiEn": "Matrix semialgebra",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Matrix semiring",
+    "wikiEn": "Matrix semiring",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Matrix sign function",
+    "wikiEn": "Matrix sign function",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Matrix similarity",
+    "wikiEn": "Matrix similarity",
+    "name": "相似矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Matrix splitting",
+    "wikiEn": "Matrix splitting",
+    "name": "矩阵分裂",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Matrix-free methods",
+    "wikiEn": "Matrix-free methods",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Method of Four Russians",
+    "wikiEn": "Method of Four Russians",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Methods of matrix inversion",
+    "wikiEn": "Methods of matrix inversion",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Metrizable topological vector space",
+    "wikiEn": "Metrizable topological vector space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Metzler matrix",
+    "wikiEn": "Metzler matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Min-max theorem",
+    "wikiEn": "Min-max theorem",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Minimal polynomial (linear algebra)",
+    "wikiEn": "Minimal polynomial (linear algebra)",
+    "name": "極小多項式 (線性代數)",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Minimal residual method",
+    "wikiEn": "Minimal residual method",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Minimum degree algorithm",
+    "wikiEn": "Minimum degree algorithm",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Minkowski Portal Refinement",
+    "wikiEn": "Minkowski Portal Refinement",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Minkowski addition",
+    "wikiEn": "Minkowski addition",
+    "name": "閔可夫斯基和",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Minor (linear algebra)",
+    "wikiEn": "Minor (linear algebra)",
+    "name": "子式和余子式",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Mitchell's embedding theorem",
+    "wikiEn": "Mitchell's embedding theorem",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Mixed linear complementarity problem",
+    "wikiEn": "Mixed linear complementarity problem",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Mixed volume",
+    "wikiEn": "Mixed volume",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Modal analysis using FEM",
+    "wikiEn": "Modal analysis using FEM",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Modal matrix",
+    "wikiEn": "Modal matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Mode-k flattening",
+    "wikiEn": "Mode-k flattening",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Modeshape",
+    "wikiEn": "Modeshape",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Modified Richardson iteration",
+    "wikiEn": "Modified Richardson iteration",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Modular representation theory",
+    "wikiEn": "Modular representation theory",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Module (mathematics)",
+    "wikiEn": "Module (mathematics)",
+    "name": "模",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Module homomorphism",
+    "wikiEn": "Module homomorphism",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Module of covariants",
+    "wikiEn": "Module of covariants",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Moment matrix",
+    "wikiEn": "Moment matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Monotone matrix",
+    "wikiEn": "Monotone matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Montel space",
+    "wikiEn": "Montel space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Moore determinant of a Hermitian matrix",
+    "wikiEn": "Moore determinant of a Hermitian matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Moore matrix",
+    "wikiEn": "Moore matrix",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Moore–Penrose inverse",
+    "wikiEn": "Moore–Penrose inverse",
+    "name": "穆尔-彭罗斯广义逆",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Morita equivalence",
+    "wikiEn": "Morita equivalence",
+    "name": "森田等价",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Motzkin–Taussky theorem",
+    "wikiEn": "Motzkin–Taussky theorem",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Mueller calculus",
+    "wikiEn": "Mueller calculus",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Multi-spectral phase coherence",
+    "wikiEn": "Multi-spectral phase coherence",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Multilinear algebra",
+    "wikiEn": "Multilinear algebra",
+    "name": "多重线性代数",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Multilinear form",
+    "wikiEn": "Multilinear form",
+    "name": "多重线性形式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Multilinear map",
+    "wikiEn": "Multilinear map",
+    "name": "多重线性映射",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Multilinear multiplication",
+    "wikiEn": "Multilinear multiplication",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Multilinear subspace learning",
+    "wikiEn": "Multilinear subspace learning",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Multiple line segment intersection",
+    "wikiEn": "Multiple line segment intersection",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Multiplication operator",
+    "wikiEn": "Multiplication operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Multivector",
+    "wikiEn": "Multivector",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Mutual coherence (linear algebra)",
+    "wikiEn": "Mutual coherence (linear algebra)",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Möller–Trumbore intersection algorithm",
+    "wikiEn": "Möller–Trumbore intersection algorithm",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "N! conjecture",
+    "wikiEn": "N! conjecture",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Nash–Moser theorem",
+    "wikiEn": "Nash–Moser theorem",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Nekrasov matrix",
+    "wikiEn": "Nekrasov matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Nested dissection",
+    "wikiEn": "Nested dissection",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Newton's identities",
+    "wikiEn": "Newton's identities",
+    "name": "牛頓恆等式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Next-generation matrix",
+    "wikiEn": "Next-generation matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Nilpotent matrix",
+    "wikiEn": "Nilpotent matrix",
+    "name": "幂零矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Noetherian module",
+    "wikiEn": "Noetherian module",
+    "name": "諾特模",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Non-negative matrix factorization",
+    "wikiEn": "Non-negative matrix factorization",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Nonlinear eigenproblem",
+    "wikiEn": "Nonlinear eigenproblem",
+    "name": "非线性特征值问题",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Nonnegative matrix",
+    "wikiEn": "Nonnegative matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Nonnegative rank (linear algebra)",
+    "wikiEn": "Nonnegative rank (linear algebra)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Norm (mathematics)",
+    "wikiEn": "Norm (mathematics)",
+    "name": "范数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Normal basis",
+    "wikiEn": "Normal basis",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Normal cone (convex analysis)",
+    "wikiEn": "Normal cone (convex analysis)",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Normal matrix",
+    "wikiEn": "Normal matrix",
+    "name": "正规矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Normal mode",
+    "wikiEn": "Normal mode",
+    "name": "简正模",
+    "subcat": "Singular value decomposition"
+  },
+  {
+    "nameEn": "Normal operator",
+    "wikiEn": "Normal operator",
+    "name": "正规算子",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Nuclear operator",
+    "wikiEn": "Nuclear operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Nuclear operators between Banach spaces",
+    "wikiEn": "Nuclear operators between Banach spaces",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Nuclear space",
+    "wikiEn": "Nuclear space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Null vector",
+    "wikiEn": "Null vector",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Nullity theorem",
+    "wikiEn": "Nullity theorem",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Nullspace property",
+    "wikiEn": "Nullspace property",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Numerical linear algebra",
+    "wikiEn": "Numerical linear algebra",
+    "name": "数值线性代数",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Numerical methods for linear least squares",
+    "wikiEn": "Numerical methods for linear least squares",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Numerical range",
+    "wikiEn": "Numerical range",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "OpenBLAS",
+    "wikiEn": "OpenBLAS",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Operational calculus",
+    "wikiEn": "Operational calculus",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Operator monotone function",
+    "wikiEn": "Operator monotone function",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Operator topologies",
+    "wikiEn": "Operator topologies",
+    "name": "算子拓扑",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Orbital overlap",
+    "wikiEn": "Orbital overlap",
+    "name": "重叠矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Orbital state vectors",
+    "wikiEn": "Orbital state vectors",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Ordered topological vector space",
+    "wikiEn": "Ordered topological vector space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Ordered vector space",
+    "wikiEn": "Ordered vector space",
+    "name": "有序向量空间",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "Orientation (vector space)",
+    "wikiEn": "Orientation (vector space)",
+    "name": "定向 (向量空間)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orientation of a vector bundle",
+    "wikiEn": "Orientation of a vector bundle",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orthant",
+    "wikiEn": "Orthant",
+    "name": "卦限",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orthogonal Procrustes problem",
+    "wikiEn": "Orthogonal Procrustes problem",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orthogonal basis",
+    "wikiEn": "Orthogonal basis",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orthogonal complement",
+    "wikiEn": "Orthogonal complement",
+    "name": "正交补",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orthogonal diagonalization",
+    "wikiEn": "Orthogonal diagonalization",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orthogonal matrix",
+    "wikiEn": "Orthogonal matrix",
+    "name": "正交矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Orthogonal transformation",
+    "wikiEn": "Orthogonal transformation",
+    "name": "正交变换",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orthogonality (mathematics)",
+    "wikiEn": "Orthogonality (mathematics)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orthogonalization",
+    "wikiEn": "Orthogonalization",
+    "name": "正交化",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orthonormal basis",
+    "wikiEn": "Orthonormal basis",
+    "name": "标准正交基",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orthonormal function system",
+    "wikiEn": "Orthonormal function system",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orthonormality",
+    "wikiEn": "Orthonormality",
+    "name": "正交规范性",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Orthostochastic matrix",
+    "wikiEn": "Orthostochastic matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Overcompleteness",
+    "wikiEn": "Overcompleteness",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Overdetermined system",
+    "wikiEn": "Overdetermined system",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "P-matrix",
+    "wikiEn": "P-matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Packed storage matrix",
+    "wikiEn": "Packed storage matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Pairing",
+    "wikiEn": "Pairing",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Paley construction",
+    "wikiEn": "Paley construction",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Paranormal operator",
+    "wikiEn": "Paranormal operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Paravector",
+    "wikiEn": "Paravector",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Parry–Sullivan invariant",
+    "wikiEn": "Parry–Sullivan invariant",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Partial inverse of a matrix",
+    "wikiEn": "Partial inverse of a matrix",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Partial trace",
+    "wikiEn": "Partial trace",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Pascal matrix",
+    "wikiEn": "Pascal matrix",
+    "name": "帕斯卡矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Pauli matrices",
+    "wikiEn": "Pauli matrices",
+    "name": "泡利矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Peetre's inequality",
+    "wikiEn": "Peetre's inequality",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Perfect matrix",
+    "wikiEn": "Perfect matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Permanent (mathematics)",
+    "wikiEn": "Permanent (mathematics)",
+    "name": "积和式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Permutation matrix",
+    "wikiEn": "Permutation matrix",
+    "name": "置换矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Perron–Frobenius theorem",
+    "wikiEn": "Perron–Frobenius theorem",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Persymmetric matrix",
+    "wikiEn": "Persymmetric matrix",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Pfaffian",
+    "wikiEn": "Pfaffian",
+    "name": "普法夫值",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Pivot element",
+    "wikiEn": "Pivot element",
+    "name": "主元",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Plane–plane intersection",
+    "wikiEn": "Plane–plane intersection",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Plücker coordinates",
+    "wikiEn": "Plücker coordinates",
+    "name": "普吕克坐标",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Plücker matrix",
+    "wikiEn": "Plücker matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Pohlke's theorem",
+    "wikiEn": "Pohlke's theorem",
+    "name": "",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Poincaré separation theorem",
+    "wikiEn": "Poincaré separation theorem",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Poisson superalgebra",
+    "wikiEn": "Poisson superalgebra",
+    "name": "泊松超代数",
+    "subcat": "Super linear algebra"
+  },
+  {
+    "nameEn": "Polar decomposition",
+    "wikiEn": "Polar decomposition",
+    "name": "极分解",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Polar set",
+    "wikiEn": "Polar set",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Polar sine",
+    "wikiEn": "Polar sine",
+    "name": "極正弦",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Polarization identity",
+    "wikiEn": "Polarization identity",
+    "name": "极化恒等式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Polyakov formula",
+    "wikiEn": "Polyakov formula",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Polyconvex function",
+    "wikiEn": "Polyconvex function",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Polynomial matrix",
+    "wikiEn": "Polynomial matrix",
+    "name": "多项式矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Portable, Extensible Toolkit for Scientific Computation",
+    "wikiEn": "Portable, Extensible Toolkit for Scientific Computation",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Power iteration",
+    "wikiEn": "Power iteration",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Poynting vector",
+    "wikiEn": "Poynting vector",
+    "name": "坡印廷向量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Preconditioner",
+    "wikiEn": "Preconditioner",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Primitive ideal",
+    "wikiEn": "Primitive ideal",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Primordial element (algebra)",
+    "wikiEn": "Primordial element (algebra)",
+    "name": "",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "Principal axis theorem",
+    "wikiEn": "Principal axis theorem",
+    "name": "",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Principal indecomposable module",
+    "wikiEn": "Principal indecomposable module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Probability vector",
+    "wikiEn": "Probability vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Productive matrix",
+    "wikiEn": "Productive matrix",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Projection (linear algebra)",
+    "wikiEn": "Projection (linear algebra)",
+    "name": "投影 (线性代数)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Projection body",
+    "wikiEn": "Projection body",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Projection matrix",
+    "wikiEn": "Projection matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Projection-valued measure",
+    "wikiEn": "Projection-valued measure",
+    "name": "投影值测度",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Projections onto convex sets",
+    "wikiEn": "Projections onto convex sets",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Projective cover",
+    "wikiEn": "Projective cover",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Projective module",
+    "wikiEn": "Projective module",
+    "name": "投射模",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Projectively unique polytope",
+    "wikiEn": "Projectively unique polytope",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Projectivization",
+    "wikiEn": "Projectivization",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Proto-value function",
+    "wikiEn": "Proto-value function",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Pseudo-determinant",
+    "wikiEn": "Pseudo-determinant",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Pseudoscalar",
+    "wikiEn": "Pseudoscalar",
+    "name": "贗純量",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Pseudospectrum",
+    "wikiEn": "Pseudospectrum",
+    "name": "伪谱",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Pseudovector",
+    "wikiEn": "Pseudovector",
+    "name": "赝矢量",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Ptak space",
+    "wikiEn": "Ptak space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Pure submodule",
+    "wikiEn": "Pure submodule",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Q-matrix",
+    "wikiEn": "Q-matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "QR algorithm",
+    "wikiEn": "QR algorithm",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "QR decomposition",
+    "wikiEn": "QR decomposition",
+    "name": "QR分解",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Quadratic eigenvalue problem",
+    "wikiEn": "Quadratic eigenvalue problem",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Quadratic form",
+    "wikiEn": "Quadratic form",
+    "name": "二次型",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Quasi-Frobenius ring",
+    "wikiEn": "Quasi-Frobenius ring",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Quasi-ultrabarrelled space",
+    "wikiEn": "Quasi-ultrabarrelled space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Quasibarrelled space",
+    "wikiEn": "Quasibarrelled space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Quasideterminant",
+    "wikiEn": "Quasideterminant",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Quasinorm",
+    "wikiEn": "Quasinorm",
+    "name": "拟赋范空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Quasinormal operator",
+    "wikiEn": "Quasinormal operator",
+    "name": "",
+    "subcat": "Invariant subspaces"
+  },
+  {
+    "nameEn": "Quaternionic eigenvalue problem",
+    "wikiEn": "Quaternionic eigenvalue problem",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Quaternionic matrix",
+    "wikiEn": "Quaternionic matrix",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Quaternionic vector space",
+    "wikiEn": "Quaternionic vector space",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Quincunx matrix",
+    "wikiEn": "Quincunx matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Quotient module",
+    "wikiEn": "Quotient module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Quotient space (linear algebra)",
+    "wikiEn": "Quotient space (linear algebra)",
+    "name": "商空间 (线性代数)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "R-matrix",
+    "wikiEn": "R-matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "RRQR factorization",
+    "wikiEn": "RRQR factorization",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Radial set",
+    "wikiEn": "Radial set",
+    "name": "径向集",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Radical of a module",
+    "wikiEn": "Radical of a module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Ramanujan graph",
+    "wikiEn": "Ramanujan graph",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Random band matrix",
+    "wikiEn": "Random band matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Rank (linear algebra)",
+    "wikiEn": "Rank (linear algebra)",
+    "name": "秩 (线性代数)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rank factorization",
+    "wikiEn": "Rank factorization",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rank-width",
+    "wikiEn": "Rank-width",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rank–nullity theorem",
+    "wikiEn": "Rank–nullity theorem",
+    "name": "秩—零化度定理",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Rayleigh quotient",
+    "wikiEn": "Rayleigh quotient",
+    "name": "瑞利商",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rayleigh quotient iteration",
+    "wikiEn": "Rayleigh quotient iteration",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Rayleigh theorem for eigenvalues",
+    "wikiEn": "Rayleigh theorem for eigenvalues",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rayleigh's quotient in vibrations analysis",
+    "wikiEn": "Rayleigh's quotient in vibrations analysis",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rayleigh–Faber–Krahn inequality",
+    "wikiEn": "Rayleigh–Faber–Krahn inequality",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Real coordinate space",
+    "wikiEn": "Real coordinate space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Real-valued function",
+    "wikiEn": "Real-valued function",
+    "name": "實值函數",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "Reality structure",
+    "wikiEn": "Reality structure",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Redheffer matrix",
+    "wikiEn": "Redheffer matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Redheffer star product",
+    "wikiEn": "Redheffer star product",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Reducing subspace",
+    "wikiEn": "Reducing subspace",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Reduction (mathematics)",
+    "wikiEn": "Reduction (mathematics)",
+    "name": "精簡",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Reflection (mathematics)",
+    "wikiEn": "Reflection (mathematics)",
+    "name": "反射 (数学)",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Reflexive module",
+    "wikiEn": "Reflexive module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Reflexive operator algebra",
+    "wikiEn": "Reflexive operator algebra",
+    "name": "",
+    "subcat": "Invariant subspaces"
+  },
+  {
+    "nameEn": "Region (model checking)",
+    "wikiEn": "Region (model checking)",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Regular Hadamard matrix",
+    "wikiEn": "Regular Hadamard matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Regularized least squares",
+    "wikiEn": "Regularized least squares",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Relative dimension",
+    "wikiEn": "Relative dimension",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Relative scalar",
+    "wikiEn": "Relative scalar",
+    "name": "",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Relaxation (iterative method)",
+    "wikiEn": "Relaxation (iterative method)",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Remak decomposition",
+    "wikiEn": "Remak decomposition",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Resolution (algebra)",
+    "wikiEn": "Resolution (algebra)",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Resolvent set",
+    "wikiEn": "Resolvent set",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Restricted isometry property",
+    "wikiEn": "Restricted isometry property",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Resultant",
+    "wikiEn": "Resultant",
+    "name": "結式",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Ridge regression",
+    "wikiEn": "Ridge regression",
+    "name": "岭回归",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Riesz projector",
+    "wikiEn": "Riesz projector",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Rigged Hilbert space",
+    "wikiEn": "Rigged Hilbert space",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Right-hand rule",
+    "wikiEn": "Right-hand rule",
+    "name": "右手定則",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Rosenbrock system matrix",
+    "wikiEn": "Rosenbrock system matrix",
+    "name": "羅森布羅克系統矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Rota's basis conjecture",
+    "wikiEn": "Rota's basis conjecture",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rotating calipers",
+    "wikiEn": "Rotating calipers",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Rotation (mathematics)",
+    "wikiEn": "Rotation (mathematics)",
+    "name": "旋转",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Rotation matrix",
+    "wikiEn": "Rotation matrix",
+    "name": "旋转矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Rotation of axes in two dimensions",
+    "wikiEn": "Rotation of axes in two dimensions",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rotation vector",
+    "wikiEn": "Rotation vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Rouché–Capelli theorem",
+    "wikiEn": "Rouché–Capelli theorem",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Routh–Hurwitz matrix",
+    "wikiEn": "Routh–Hurwitz matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Row and column spaces",
+    "wikiEn": "Row and column spaces",
+    "name": "行空间与列空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Row and column vectors",
+    "wikiEn": "Row and column vectors",
+    "name": "行向量與列向量",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Row echelon form",
+    "wikiEn": "Row echelon form",
+    "name": "阶梯形矩阵",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Row equivalence",
+    "wikiEn": "Row equivalence",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rule of Sarrus",
+    "wikiEn": "Rule of Sarrus",
+    "name": "萨吕法则",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Rybicki Press algorithm",
+    "wikiEn": "Rybicki Press algorithm",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Ryser's conjecture on circulant Hadamard matrices",
+    "wikiEn": "Ryser's conjecture on circulant Hadamard matrices",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "S-matrix",
+    "wikiEn": "S-matrix",
+    "name": "散射矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "S-procedure",
+    "wikiEn": "S-procedure",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "SLEPc",
+    "wikiEn": "SLEPc",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "SMAWK algorithm",
+    "wikiEn": "SMAWK algorithm",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "SPIKE algorithm",
+    "wikiEn": "SPIKE algorithm",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Sample mean and covariance",
+    "wikiEn": "Sample mean and covariance",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Samuelson–Berkowitz algorithm",
+    "wikiEn": "Samuelson–Berkowitz algorithm",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Scalar (mathematics)",
+    "wikiEn": "Scalar (mathematics)",
+    "name": "标量 (数学)",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Scalar field theory",
+    "wikiEn": "Scalar field theory",
+    "name": "标量场论",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Scalar triple product",
+    "wikiEn": "Scalar triple product",
+    "name": "",
+    "subcat": "Scalars"
+  },
+  {
+    "nameEn": "Scatter matrix",
+    "wikiEn": "Scatter matrix",
+    "name": "散布矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Schanuel's lemma",
+    "wikiEn": "Schanuel's lemma",
+    "name": "尚努埃爾引理",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Schauder fixed-point theorem",
+    "wikiEn": "Schauder fixed-point theorem",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Schmidt decomposition",
+    "wikiEn": "Schmidt decomposition",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Schur complement",
+    "wikiEn": "Schur complement",
+    "name": "舒尔补",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Schur decomposition",
+    "wikiEn": "Schur decomposition",
+    "name": "舒尔分解",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Schur product theorem",
+    "wikiEn": "Schur product theorem",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Schur's theorem",
+    "wikiEn": "Schur's theorem",
+    "name": "",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Schur–Horn theorem",
+    "wikiEn": "Schur–Horn theorem",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Schwartz space",
+    "wikiEn": "Schwartz space",
+    "name": "速降函数空间",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Schwartz topological vector space",
+    "wikiEn": "Schwartz topological vector space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Segre classification",
+    "wikiEn": "Segre classification",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Seidel adjacency matrix",
+    "wikiEn": "Seidel adjacency matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Selberg zeta function",
+    "wikiEn": "Selberg zeta function",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Self-adjoint operator",
+    "wikiEn": "Self-adjoint operator",
+    "name": "自伴算子",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Semi-Hilbert space",
+    "wikiEn": "Semi-Hilbert space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Semi-orthogonal matrix",
+    "wikiEn": "Semi-orthogonal matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Semi-simplicity",
+    "wikiEn": "Semi-simplicity",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Semilinear map",
+    "wikiEn": "Semilinear map",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Semimodule",
+    "wikiEn": "Semimodule",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Seminorm",
+    "wikiEn": "Seminorm",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Semisimple module",
+    "wikiEn": "Semisimple module",
+    "name": "半單模",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Semisimple operator",
+    "wikiEn": "Semisimple operator",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "SequenceL",
+    "wikiEn": "SequenceL",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Sequentially complete",
+    "wikiEn": "Sequentially complete",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Serial module",
+    "wikiEn": "Serial module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Sesquilinear form",
+    "wikiEn": "Sesquilinear form",
+    "name": "半双线性形式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Shapley–Folkman lemma",
+    "wikiEn": "Shapley–Folkman lemma",
+    "name": "沙普利-福克曼引理",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Shear mapping",
+    "wikiEn": "Shear mapping",
+    "name": "错切",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Shear matrix",
+    "wikiEn": "Shear matrix",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Shephard's problem",
+    "wikiEn": "Shephard's problem",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Sherman–Morrison formula",
+    "wikiEn": "Sherman–Morrison formula",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Shift matrix",
+    "wikiEn": "Shift matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Signal-flow graph",
+    "wikiEn": "Signal-flow graph",
+    "name": "信号流图",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Signature matrix",
+    "wikiEn": "Signature matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Simple module",
+    "wikiEn": "Simple module",
+    "name": "單模",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Singular matrix",
+    "wikiEn": "Singular matrix",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Singular submodule",
+    "wikiEn": "Singular submodule",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Singular value",
+    "wikiEn": "Singular value",
+    "name": "奇异值",
+    "subcat": "Singular value decomposition"
+  },
+  {
+    "nameEn": "Singular value decomposition",
+    "wikiEn": "Singular value decomposition",
+    "name": "奇异值分解",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Sinkhorn's theorem",
+    "wikiEn": "Sinkhorn's theorem",
+    "name": "辛克宏定理",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Skew lines",
+    "wikiEn": "Skew lines",
+    "name": "异面直线",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Skew-Hamiltonian matrix",
+    "wikiEn": "Skew-Hamiltonian matrix",
+    "name": "斜漢彌爾頓矩陣",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Skew-Hermitian matrix",
+    "wikiEn": "Skew-Hermitian matrix",
+    "name": "斜埃尔米特矩阵",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Skew-symmetric matrix",
+    "wikiEn": "Skew-symmetric matrix",
+    "name": "反對稱矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Slater determinant",
+    "wikiEn": "Slater determinant",
+    "name": "斯莱特行列式",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Sliver polygon",
+    "wikiEn": "Sliver polygon",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Smith normal form",
+    "wikiEn": "Smith normal form",
+    "name": "史密斯标准形",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Smith space",
+    "wikiEn": "Smith space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Socle (mathematics)",
+    "wikiEn": "Socle (mathematics)",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Spaces of test functions and distributions",
+    "wikiEn": "Spaces of test functions and distributions",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Spark (mathematics)",
+    "wikiEn": "Spark (mathematics)",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Sparse approximation",
+    "wikiEn": "Sparse approximation",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Sparse graph code",
+    "wikiEn": "Sparse graph code",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Speakeasy (computational environment)",
+    "wikiEn": "Speakeasy (computational environment)",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Specht's theorem",
+    "wikiEn": "Specht's theorem",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Special linear group",
+    "wikiEn": "Special linear group",
+    "name": "特殊线性群",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Spectral abscissa",
+    "wikiEn": "Spectral abscissa",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Spectral asymmetry",
+    "wikiEn": "Spectral asymmetry",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Spectral gap",
+    "wikiEn": "Spectral gap",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Spectral geometry",
+    "wikiEn": "Spectral geometry",
+    "name": "谱几何",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Spectral graph theory",
+    "wikiEn": "Spectral graph theory",
+    "name": "譜圖論",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Spectral radius",
+    "wikiEn": "Spectral radius",
+    "name": "谱半径",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Spectral theorem",
+    "wikiEn": "Spectral theorem",
+    "name": "谱定理",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Spectral theory",
+    "wikiEn": "Spectral theory",
+    "name": "谱理论",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Spectral theory of compact operators",
+    "wikiEn": "Spectral theory of compact operators",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Spectral theory of normal C*-algebras",
+    "wikiEn": "Spectral theory of normal C*-algebras",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Spectral theory of ordinary differential equations",
+    "wikiEn": "Spectral theory of ordinary differential equations",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Spectrum (functional analysis)",
+    "wikiEn": "Spectrum (functional analysis)",
+    "name": "谱 (泛函分析)",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Spectrum of a C*-algebra",
+    "wikiEn": "Spectrum of a C*-algebra",
+    "name": "C*-代数的谱",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Spectrum of a matrix",
+    "wikiEn": "Spectrum of a matrix",
+    "name": "矩阵的谱",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Sphere–cylinder intersection",
+    "wikiEn": "Sphere–cylinder intersection",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Spherical basis",
+    "wikiEn": "Spherical basis",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Spinors in three dimensions",
+    "wikiEn": "Spinors in three dimensions",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Split-complex number",
+    "wikiEn": "Split-complex number",
+    "name": "雙曲複數",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Spread of a matrix",
+    "wikiEn": "Spread of a matrix",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Square matrix",
+    "wikiEn": "Square matrix",
+    "name": "方块矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Square root of a 2 by 2 matrix",
+    "wikiEn": "Square root of a 2 by 2 matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Square root of a matrix",
+    "wikiEn": "Square root of a matrix",
+    "name": "矩阵的平方根",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Squeeze mapping",
+    "wikiEn": "Squeeze mapping",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Stabilizer code",
+    "wikiEn": "Stabilizer code",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Stably free module",
+    "wikiEn": "Stably free module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Standard basis",
+    "wikiEn": "Standard basis",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Standard flag",
+    "wikiEn": "Standard flag",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Star domain",
+    "wikiEn": "Star domain",
+    "name": "星形域",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Starlike tree",
+    "wikiEn": "Starlike tree",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "State-transition matrix",
+    "wikiEn": "State-transition matrix",
+    "name": "狀態轉移矩陣",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Stein-Rosenberg theorem",
+    "wikiEn": "Stein-Rosenberg theorem",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Steinmetz solid",
+    "wikiEn": "Steinmetz solid",
+    "name": "牟合方盖",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Stieltjes matrix",
+    "wikiEn": "Stieltjes matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Stochastic matrix",
+    "wikiEn": "Stochastic matrix",
+    "name": "轉移矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Stokes operator",
+    "wikiEn": "Stokes operator",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Stokes' theorem",
+    "wikiEn": "Stokes' theorem",
+    "name": "斯托克斯定理",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Stone's method",
+    "wikiEn": "Stone's method",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Strictly convex set",
+    "wikiEn": "Strictly convex set",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Strictly singular operator",
+    "wikiEn": "Strictly singular operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Structure theorem for finitely generated modules over a principal ideal domain",
+    "wikiEn": "Structure theorem for finitely generated modules over a principal ideal domain",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Sturm–Liouville theory",
+    "wikiEn": "Sturm–Liouville theory",
+    "name": "施图姆-刘维尔理论",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Sublinear function",
+    "wikiEn": "Sublinear function",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Subnormal operator",
+    "wikiEn": "Subnormal operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Substitution matrix",
+    "wikiEn": "Substitution matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Successive over-relaxation",
+    "wikiEn": "Successive over-relaxation",
+    "name": "逐次超松弛迭代法",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Super vector space",
+    "wikiEn": "Super vector space",
+    "name": "",
+    "subcat": "Super linear algebra"
+  },
+  {
+    "nameEn": "Superalgebra",
+    "wikiEn": "Superalgebra",
+    "name": "超代数",
+    "subcat": "Super linear algebra"
+  },
+  {
+    "nameEn": "Supercommutative algebra",
+    "wikiEn": "Supercommutative algebra",
+    "name": "超交换代数",
+    "subcat": "Super linear algebra"
+  },
+  {
+    "nameEn": "Supergroup (physics)",
+    "wikiEn": "Supergroup (physics)",
+    "name": "",
+    "subcat": "Super linear algebra"
+  },
+  {
+    "nameEn": "Supermatrix",
+    "wikiEn": "Supermatrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Supermodule",
+    "wikiEn": "Supermodule",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Superstrong approximation",
+    "wikiEn": "Superstrong approximation",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Supertrace",
+    "wikiEn": "Supertrace",
+    "name": "",
+    "subcat": "Super linear algebra"
+  },
+  {
+    "nameEn": "Supnick matrix",
+    "wikiEn": "Supnick matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Support function",
+    "wikiEn": "Support function",
+    "name": "支撑函数",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Support of a module",
+    "wikiEn": "Support of a module",
+    "name": "模的支撑",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Supporting hyperplane",
+    "wikiEn": "Supporting hyperplane",
+    "name": "支撑超平面",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Surface-to-surface intersection problem",
+    "wikiEn": "Surface-to-surface intersection problem",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Sylvester equation",
+    "wikiEn": "Sylvester equation",
+    "name": "西爾維斯特方程",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Sylvester matrix",
+    "wikiEn": "Sylvester matrix",
+    "name": "西尔维斯特矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Sylvester's criterion",
+    "wikiEn": "Sylvester's criterion",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Sylvester's determinant identity",
+    "wikiEn": "Sylvester's determinant identity",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Sylvester's formula",
+    "wikiEn": "Sylvester's formula",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Sylvester's law of inertia",
+    "wikiEn": "Sylvester's law of inertia",
+    "name": "西尔维斯特惯性定理",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Symbolic Cholesky decomposition",
+    "wikiEn": "Symbolic Cholesky decomposition",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Symmetric algebra",
+    "wikiEn": "Symmetric algebra",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Symmetric cone",
+    "wikiEn": "Symmetric cone",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Symmetric matrix",
+    "wikiEn": "Symmetric matrix",
+    "name": "對稱矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Symmetric set",
+    "wikiEn": "Symmetric set",
+    "name": "对称集",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Symmetric successive over-relaxation",
+    "wikiEn": "Symmetric successive over-relaxation",
+    "name": "对称逐次超松弛迭代法",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Symplectic matrix",
+    "wikiEn": "Symplectic matrix",
+    "name": "辛矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Symplectic vector space",
+    "wikiEn": "Symplectic vector space",
+    "name": "辛向量空间",
+    "subcat": ""
+  },
+  {
+    "nameEn": "System of linear equations",
+    "wikiEn": "System of linear equations",
+    "name": "线性方程组",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Szegő limit theorems",
+    "wikiEn": "Szegő limit theorems",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Tangent cone",
+    "wikiEn": "Tangent cone",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Tangent vector",
+    "wikiEn": "Tangent vector",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Tapering (mathematics)",
+    "wikiEn": "Tapering (mathematics)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Tensor algebra",
+    "wikiEn": "Tensor algebra",
+    "name": "张量代数",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Tensor operator",
+    "wikiEn": "Tensor operator",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Tensor product of Hilbert spaces",
+    "wikiEn": "Tensor product of Hilbert spaces",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Tensor product of algebras",
+    "wikiEn": "Tensor product of algebras",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Tensor product of modules",
+    "wikiEn": "Tensor product of modules",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Tensor rank decomposition",
+    "wikiEn": "Tensor rank decomposition",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Tensor reshaping",
+    "wikiEn": "Tensor reshaping",
+    "name": "",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Thrackle",
+    "wikiEn": "Thrackle",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Tikhonov regularization",
+    "wikiEn": "Tikhonov regularization",
+    "name": "吉洪诺夫正则化",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Titu's lemma",
+    "wikiEn": "Titu's lemma",
+    "name": "权方和不等式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Toeplitz matrix",
+    "wikiEn": "Toeplitz matrix",
+    "name": "常對角矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Toeplitz operator",
+    "wikiEn": "Toeplitz operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Top (algebra)",
+    "wikiEn": "Top (algebra)",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Topographic profile",
+    "wikiEn": "Topographic profile",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Topological algebra",
+    "wikiEn": "Topological algebra",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Topological tensor product",
+    "wikiEn": "Topological tensor product",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Topological vector space",
+    "wikiEn": "Topological vector space",
+    "name": "拓撲向量空間",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Topologies on spaces of linear maps",
+    "wikiEn": "Topologies on spaces of linear maps",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Torsion (algebra)",
+    "wikiEn": "Torsion (algebra)",
+    "name": "扭化",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Torsionless module",
+    "wikiEn": "Torsionless module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Total active reflection coefficient",
+    "wikiEn": "Total active reflection coefficient",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Total set",
+    "wikiEn": "Total set",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Total subset",
+    "wikiEn": "Total subset",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Totally positive matrix",
+    "wikiEn": "Totally positive matrix",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Trace (linear algebra)",
+    "wikiEn": "Trace (linear algebra)",
+    "name": "跡",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Trace class",
+    "wikiEn": "Trace class",
+    "name": "迹类算子",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Trace diagram",
+    "wikiEn": "Trace diagram",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Trace identity",
+    "wikiEn": "Trace identity",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Trace inequality",
+    "wikiEn": "Trace inequality",
+    "name": "迹不等式",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Tracy-Singh product",
+    "wikiEn": "Tracy-Singh product",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Transfer function matrix",
+    "wikiEn": "Transfer function matrix",
+    "name": "傳遞函數矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Transfer operator",
+    "wikiEn": "Transfer operator",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Transform theory",
+    "wikiEn": "Transform theory",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Transformation matrix",
+    "wikiEn": "Transformation matrix",
+    "name": "变换矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Transition-rate matrix",
+    "wikiEn": "Transition-rate matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Translation of axes",
+    "wikiEn": "Translation of axes",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Transpose",
+    "wikiEn": "Transpose",
+    "name": "转置矩阵",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Transpose of a linear map",
+    "wikiEn": "Transpose of a linear map",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Transpositions matrix",
+    "wikiEn": "Transpositions matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Triangle inequality",
+    "wikiEn": "Triangle inequality",
+    "name": "三角不等式",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Triangular matrix",
+    "wikiEn": "Triangular matrix",
+    "name": "三角矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Tridiagonal matrix algorithm",
+    "wikiEn": "Tridiagonal matrix algorithm",
+    "name": "三对角矩阵算法",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Trifocal tensor",
+    "wikiEn": "Trifocal tensor",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Trigonometric functions of matrices",
+    "wikiEn": "Trigonometric functions of matrices",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Trilinear coordinates",
+    "wikiEn": "Trilinear coordinates",
+    "name": "三线坐标",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Triple product",
+    "wikiEn": "Triple product",
+    "name": "三重积",
+    "subcat": "Multilinear algebra"
+  },
+  {
+    "nameEn": "Tutte matrix",
+    "wikiEn": "Tutte matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Two-dimensional singular-value decomposition",
+    "wikiEn": "Two-dimensional singular-value decomposition",
+    "name": "",
+    "subcat": "Singular value decomposition"
+  },
+  {
+    "nameEn": "UK Molecular R-matrix Codes",
+    "wikiEn": "UK Molecular R-matrix Codes",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Ultrabarrelled space",
+    "wikiEn": "Ultrabarrelled space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Ultrabornological space",
+    "wikiEn": "Ultrabornological space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Unbounded operator",
+    "wikiEn": "Unbounded operator",
+    "name": "无界算子",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Underdetermined system",
+    "wikiEn": "Underdetermined system",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Uniform module",
+    "wikiEn": "Uniform module",
+    "name": "",
+    "subcat": "Module theory"
+  },
+  {
+    "nameEn": "Unilateral shift operator",
+    "wikiEn": "Unilateral shift operator",
+    "name": "",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Unimodular matrix",
+    "wikiEn": "Unimodular matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Unimodular polynomial matrix",
+    "wikiEn": "Unimodular polynomial matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Unipotent",
+    "wikiEn": "Unipotent",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Unistochastic matrix",
+    "wikiEn": "Unistochastic matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Unit vector",
+    "wikiEn": "Unit vector",
+    "name": "单位向量",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Unitary matrix",
+    "wikiEn": "Unitary matrix",
+    "name": "酉矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Unitary operator",
+    "wikiEn": "Unitary operator",
+    "name": "幺正算符",
+    "subcat": "Linear operators"
+  },
+  {
+    "nameEn": "Unitary transformation",
+    "wikiEn": "Unitary transformation",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Vandermonde matrix",
+    "wikiEn": "Vandermonde matrix",
+    "name": "范德蒙矩陣",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Variation diminishing property",
+    "wikiEn": "Variation diminishing property",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Vector (mathematics and physics)",
+    "wikiEn": "Vector (mathematics and physics)",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vector area",
+    "wikiEn": "Vector area",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vector bornology",
+    "wikiEn": "Vector bornology",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Vector notation",
+    "wikiEn": "Vector notation",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vector quantity",
+    "wikiEn": "Vector quantity",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vector space",
+    "wikiEn": "Vector space",
+    "name": "向量空间",
+    "subcat": "Vector spaces"
+  },
+  {
+    "nameEn": "Vector triple product",
+    "wikiEn": "Vector triple product",
+    "name": "",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Vector-valued Hahn–Banach theorems",
+    "wikiEn": "Vector-valued Hahn–Banach theorems",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Vector-valued function",
+    "wikiEn": "Vector-valued function",
+    "name": "向量值函数",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Vectorization (mathematics)",
+    "wikiEn": "Vectorization (mathematics)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Vertex normal",
+    "wikiEn": "Vertex normal",
+    "name": "頂點法向量",
+    "subcat": "Vectors (mathematics and physics)"
+  },
+  {
+    "nameEn": "Viviani's curve",
+    "wikiEn": "Viviani's curve",
+    "name": "",
+    "subcat": "Geometric intersection"
+  },
+  {
+    "nameEn": "Volume form",
+    "wikiEn": "Volume form",
+    "name": "体积形式",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "WAIFW matrix",
+    "wikiEn": "WAIFW matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Walsh matrix",
+    "wikiEn": "Walsh matrix",
+    "name": "沃尔什矩阵",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Walter Edwin Arnoldi",
+    "wikiEn": "Walter Edwin Arnoldi",
+    "name": "",
+    "subcat": "Numerical linear algebra"
+  },
+  {
+    "nameEn": "Weak operator topology",
+    "wikiEn": "Weak operator topology",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Weakly chained diagonally dominant matrix",
+    "wikiEn": "Weakly chained diagonally dominant matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Webbed space",
+    "wikiEn": "Webbed space",
+    "name": "",
+    "subcat": "Topological vector spaces"
+  },
+  {
+    "nameEn": "Weighing matrix",
+    "wikiEn": "Weighing matrix",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Weinstein–Aronszajn identity",
+    "wikiEn": "Weinstein–Aronszajn identity",
+    "name": "",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Weyl law",
+    "wikiEn": "Weyl law",
+    "name": "",
+    "subcat": "Spectral theory"
+  },
+  {
+    "nameEn": "Weyl's inequality",
+    "wikiEn": "Weyl's inequality",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Weyl–Brauer matrices",
+    "wikiEn": "Weyl–Brauer matrices",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Weyr canonical form",
+    "wikiEn": "Weyr canonical form",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Whitehead's lemma",
+    "wikiEn": "Whitehead's lemma",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Wigner D-matrix",
+    "wikiEn": "Wigner D-matrix",
+    "name": "D函数",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Wild problem",
+    "wikiEn": "Wild problem",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Wilkinson matrix",
+    "wikiEn": "Wilkinson matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Williamson theorem",
+    "wikiEn": "Williamson theorem",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Wilson matrix",
+    "wikiEn": "Wilson matrix",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Witt's theorem",
+    "wikiEn": "Witt's theorem",
+    "name": "",
+    "subcat": "Theorems in linear algebra"
+  },
+  {
+    "nameEn": "Wold's decomposition",
+    "wikiEn": "Wold's decomposition",
+    "name": "",
+    "subcat": "Invariant subspaces"
+  },
+  {
+    "nameEn": "Woodbury matrix identity",
+    "wikiEn": "Woodbury matrix identity",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Workshop on Numerical Ranges and Numerical Radii",
+    "wikiEn": "Workshop on Numerical Ranges and Numerical Radii",
+    "name": "",
+    "subcat": "Matrix theory"
+  },
+  {
+    "nameEn": "Wronskian",
+    "wikiEn": "Wronskian",
+    "name": "朗斯基行列式",
+    "subcat": "Determinants"
+  },
+  {
+    "nameEn": "Z-matrix (mathematics)",
+    "wikiEn": "Z-matrix (mathematics)",
+    "name": "",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Z-order curve",
+    "wikiEn": "Z-order curve",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Zassenhaus algorithm",
+    "wikiEn": "Zassenhaus algorithm",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Zech's logarithm",
+    "wikiEn": "Zech's logarithm",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Zero matrix",
+    "wikiEn": "Zero matrix",
+    "name": "零矩陣",
+    "subcat": "Matrices (mathematics)"
+  },
+  {
+    "nameEn": "Zero mode",
+    "wikiEn": "Zero mode",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Zero object (algebra)",
+    "wikiEn": "Zero object (algebra)",
+    "name": "",
+    "subcat": ""
+  },
+  {
+    "nameEn": "Zonoid",
+    "wikiEn": "Zonoid",
+    "name": "",
+    "subcat": "Convex geometry"
+  },
+  {
+    "nameEn": "Zonotope",
+    "wikiEn": "Zonotope",
+    "name": "",
+    "subcat": "Convex geometry"
+  }
+]

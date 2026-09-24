@@ -1,0 +1,3189 @@
+[
+  {
+    "id": "divisor",
+    "name": "因数",
+    "nameEn": "Divisor",
+    "wikiEn": "Divisor",
+    "aliases": [
+      "约数",
+      "因子",
+      "因数概念",
+      "Divisor"
+    ],
+    "year": -300,
+    "era": "antiquity",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "euclidean_algorithm",
+      "greatest_common_divisor"
+    ],
+    "desc": "若整数a能被b整除则b是a的因数，是整除关系与素因子分解的基础概念。"
+  },
+  {
+    "id": "greatest_common_divisor",
+    "name": "最大公因数",
+    "nameEn": "Greatest common divisor",
+    "wikiEn": "Greatest common divisor",
+    "aliases": [
+      "最大公约数",
+      "最大公因子",
+      "gcd",
+      "Greatest common divisor",
+      "HCF"
+    ],
+    "year": -300,
+    "era": "antiquity",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [
+      "divisor"
+    ],
+    "related": [
+      "euclidean_algorithm",
+      "bezouts_identity"
+    ],
+    "desc": "若干整数公有因数中的最大者，欧几里得算法求之，是数论最基本对象之一。"
+  },
+  {
+    "id": "abundant_number",
+    "name": "过剩数",
+    "nameEn": "Abundant number",
+    "wikiEn": "Abundant number",
+    "aliases": [
+      "盈数",
+      "富裕数",
+      "过剩数",
+      "Abundant number"
+    ],
+    "year": 100,
+    "era": "antiquity",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "divisor"
+    ],
+    "related": [],
+    "desc": "真因数之和大于自身的正整数，尼科马库斯按盈缺对数作古典分类。"
+  },
+  {
+    "id": "binomial_polynomial",
+    "name": "二项式",
+    "nameEn": "Binomial (polynomial)",
+    "wikiEn": "Binomial (polynomial)",
+    "aliases": [
+      "二项多项式",
+      "两项式",
+      "Binomial polynomial",
+      "Binomial"
+    ],
+    "year": 250,
+    "era": "antiquity",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "pascal_triangle",
+      "newton_generalized_binomial"
+    ],
+    "desc": "由两个单项式相加构成的多项式，二项式定理研究其幂次展开。"
+  },
+  {
+    "id": "divisibility_rule",
+    "name": "整除规则",
+    "nameEn": "Divisibility rule",
+    "wikiEn": "Divisibility rule",
+    "aliases": [
+      "整除判定法则",
+      "倍数判别法",
+      "整除特征",
+      "Divisibility criteria"
+    ],
+    "year": 499,
+    "era": "antiquity",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "divisor"
+    ],
+    "related": [
+      "congruence_relation"
+    ],
+    "desc": "仅凭数字各位快速判别能否被特定数整除的法则，古印度数学已有系统记载。"
+  },
+  {
+    "id": "additive_identity",
+    "name": "加法单位元",
+    "nameEn": "Additive identity",
+    "wikiEn": "Additive identity",
+    "aliases": [
+      "加法恒等元",
+      "零元",
+      "加性单位元",
+      "Additive identity"
+    ],
+    "year": 628,
+    "era": "middle_ages",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "zero",
+      "identity_element"
+    ],
+    "desc": "加法中与任一元素相加仍得该元素的零元，婆罗摩笈多系统论述零的运算。"
+  },
+  {
+    "id": "algebraic_equation",
+    "name": "代数方程",
+    "nameEn": "Algebraic equation",
+    "wikiEn": "Algebraic equation",
+    "aliases": [
+      "多项式方程",
+      "方程式",
+      "Polynomial equation",
+      "Algebraic equation"
+    ],
+    "year": 820,
+    "era": "middle_ages",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "algebra"
+    ],
+    "related": [
+      "symbolic_algebra",
+      "diophantine_equations"
+    ],
+    "desc": "由多项式等于零构成的方程，花拉子米《代数学》给出移项合并与系统解法。"
+  },
+  {
+    "id": "algebraic_expression",
+    "name": "代数式",
+    "nameEn": "Algebraic expression",
+    "wikiEn": "Algebraic expression",
+    "aliases": [
+      "代数表达式",
+      "解析式",
+      "代数式概念",
+      "Algebraic expression"
+    ],
+    "year": 1591,
+    "era": "renaissance",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "symbolic_algebra"
+    ],
+    "related": [
+      "algebraic_equation",
+      "control_variable"
+    ],
+    "desc": "用运算符号把数与字母连接而成的式子，韦达符号代数确立后的基本表达形式。"
+  },
+  {
+    "id": "control_variable",
+    "name": "控制变量",
+    "nameEn": "Control variable",
+    "wikiEn": "Control variable",
+    "aliases": [
+      "控制变量法",
+      "对照变量",
+      "控制量",
+      "Controlled variable"
+    ],
+    "year": 1591,
+    "era": "renaissance",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "algebraic_expression"
+    ],
+    "desc": "代数式或实验中保持不变以隔离其他量关系的变量，源于韦达的变量符号思想。"
+  },
+  {
+    "id": "algebraic_fraction",
+    "name": "代数分式",
+    "nameEn": "Algebraic fraction",
+    "wikiEn": "Algebraic fraction",
+    "aliases": [
+      "有理分式",
+      "分式",
+      "代数分数",
+      "Rational fraction"
+    ],
+    "year": 1600,
+    "era": "renaissance",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "algebraic_expression"
+    ],
+    "related": [],
+    "desc": "分子分母均为代数式的分数，运算规则与普通分数一致的初等代数对象。"
+  },
+  {
+    "id": "congruence_of_squares",
+    "name": "平方同余",
+    "nameEn": "Congruence of squares",
+    "wikiEn": "Congruence of squares",
+    "aliases": [
+      "平方合同",
+      "平方剩余同余",
+      "同余平方分解",
+      "Congruence of squares"
+    ],
+    "year": 1643,
+    "era": "renaissance",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "congruence_relation",
+      "diophantine_equations"
+    ],
+    "desc": "寻找x²≡y²(mod n)且x≠±y的方法，是费马分解等整数分解算法的核心。"
+  },
+  {
+    "id": "newtons_inequalities",
+    "name": "牛顿不等式",
+    "nameEn": "Newton's inequalities",
+    "wikiEn": "Newton's inequalities",
+    "aliases": [
+      "牛顿均值不等式",
+      "牛顿对称均值不等式",
+      "Newton inequalities"
+    ],
+    "year": 1707,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "maclaurins_inequality"
+    ],
+    "desc": "牛顿给出实根多项式初等对称均值序列对数凹性的不等式，载于《广义算术》。"
+  },
+  {
+    "id": "maclaurins_inequality",
+    "name": "麦克劳林不等式",
+    "nameEn": "Maclaurin's inequality",
+    "wikiEn": "Maclaurin's inequality",
+    "aliases": [
+      "麦克劳林均值不等式",
+      "麦克劳林链不等式",
+      "Maclaurin inequality"
+    ],
+    "year": 1727,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "newtons_inequalities"
+    ],
+    "desc": "麦克劳林加强算术-几何均值不等式，给出各阶初等对称均值的递降链。"
+  },
+  {
+    "id": "normal_mode",
+    "name": "简正模",
+    "nameEn": "Normal mode",
+    "wikiEn": "Normal mode",
+    "aliases": [
+      "简正模式",
+      "正规模",
+      "简正振动",
+      "Normal modes"
+    ],
+    "year": 1727,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "newtonian_mechanics"
+    ],
+    "desc": "耦合振动系统整体作同频简谐振动的特征方式，是特征值问题的物理起源。"
+  },
+  {
+    "id": "euclid_euler_theorem",
+    "name": "欧几里得-欧拉定理",
+    "nameEn": "Euclid–Euler theorem",
+    "wikiEn": "Euclid–Euler theorem",
+    "aliases": [
+      "偶完全数定理",
+      "完全数定理",
+      "欧几里得欧拉定理",
+      "Euclid-Euler theorem"
+    ],
+    "year": 1747,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "divisor"
+    ],
+    "related": [
+      "formula_for_primes"
+    ],
+    "desc": "偶完全数恰为2的幂乘梅森素数之形，欧几里得证充分性、欧拉证必要性。"
+  },
+  {
+    "id": "integer_partition",
+    "name": "整数分拆",
+    "nameEn": "Integer partition",
+    "wikiEn": "Integer partition",
+    "aliases": [
+      "整数分割",
+      "分拆函数",
+      "整数分拆数",
+      "Partition function"
+    ],
+    "year": 1748,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "euler_product_zeta",
+      "young_tableau"
+    ],
+    "desc": "将正整数表为若干正整数之和的方式数，欧拉生成函数开启分拆理论。"
+  },
+  {
+    "id": "real_valued_function",
+    "name": "实值函数",
+    "nameEn": "Real-valued function",
+    "wikiEn": "Real-valued function",
+    "aliases": [
+      "实函数",
+      "数值函数",
+      "实数函数",
+      "Real function"
+    ],
+    "year": 1748,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "riemann_integral"
+    ],
+    "desc": "取值为实数的函数，欧拉时代成为分析学的标准研究对象。"
+  },
+  {
+    "id": "cramers_rule",
+    "name": "克莱姆法则",
+    "nameEn": "Cramer's rule",
+    "wikiEn": "Cramer's rule",
+    "aliases": [
+      "克拉默法则",
+      "行列式解法",
+      "克莱姆规则",
+      "Cramer rule"
+    ],
+    "year": 1750,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "cauchy_binet_formula",
+      "augmented_matrix",
+      "cayley_matrix_algebra"
+    ],
+    "desc": "用行列式比值求解线性方程组的法则，克莱姆1750年发表。"
+  },
+  {
+    "id": "bezouts_identity",
+    "name": "贝祖等式",
+    "nameEn": "Bézout's identity",
+    "wikiEn": "Bézout's identity",
+    "aliases": [
+      "贝祖定理",
+      "裴蜀定理",
+      "贝祖恒等式",
+      "Bezout identity"
+    ],
+    "year": 1766,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "euclidean_algorithm"
+    ],
+    "related": [
+      "greatest_common_divisor",
+      "diophantine_equations"
+    ],
+    "desc": "两整数的最大公因数可表为其线性组合，贝祖给出一般形式。"
+  },
+  {
+    "id": "identity_element",
+    "name": "单位元",
+    "nameEn": "Identity element",
+    "wikiEn": "Identity element",
+    "aliases": [
+      "恒等元",
+      "幺元",
+      "中性元",
+      "Identity",
+      "Neutral element"
+    ],
+    "year": 1770,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "additive_identity",
+      "associative_property",
+      "idempotence"
+    ],
+    "desc": "与其他元素运算而不改变其值的元素，是群、环等结构的公理要素。"
+  },
+  {
+    "id": "alternating_polynomial",
+    "name": "交错多项式",
+    "nameEn": "Alternating polynomial",
+    "wikiEn": "Alternating polynomial",
+    "aliases": [
+      "交代多项式",
+      "反对称多项式",
+      "Alternating polynomial"
+    ],
+    "year": 1771,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "alternating_multilinear_map"
+    ],
+    "desc": "交换任意两变量即变号的多项式，均可表为范德蒙德行列式乘对称多项式。"
+  },
+  {
+    "id": "modular_equation",
+    "name": "模方程",
+    "nameEn": "Modular equation",
+    "wikiEn": "Modular equation",
+    "aliases": [
+      "模数方程",
+      "椭圆模变换方程",
+      "Modular equation"
+    ],
+    "year": 1771,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "modular_lambda_function",
+      "modular_curve"
+    ],
+    "desc": "联系椭圆函数不同模数间代数关系的方程，朗登变换与奇异模研究的核心。"
+  },
+  {
+    "id": "formula_for_primes",
+    "name": "素数公式",
+    "nameEn": "Formula for primes",
+    "wikiEn": "Formula for primes",
+    "aliases": [
+      "质数公式",
+      "素数生成公式",
+      "素数多项式",
+      "Prime-generating formula"
+    ],
+    "year": 1772,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "euler_product_zeta",
+      "dirichlet_character"
+    ],
+    "desc": "试图只产生素数的公式；欧拉n²+n+41等著名尝试均失败，至今无实用闭式。"
+  },
+  {
+    "id": "arithmetic_function",
+    "name": "算术函数",
+    "nameEn": "Arithmetic function",
+    "wikiEn": "Arithmetic function",
+    "aliases": [
+      "数论函数",
+      "整数函数",
+      "算术函数",
+      "Number-theoretic function"
+    ],
+    "year": 1801,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "divisor"
+    ],
+    "related": [
+      "additive_function",
+      "carmichael_function"
+    ],
+    "desc": "定义域为正整数的函数，如欧拉函数、除数函数，是解析数论基本对象。"
+  },
+  {
+    "id": "congruence_relation",
+    "name": "同余关系",
+    "nameEn": "Congruence relation",
+    "wikiEn": "Congruence relation",
+    "aliases": [
+      "同余",
+      "合同关系",
+      "模同余",
+      "Modular congruence"
+    ],
+    "year": 1801,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "chinese_remainder_theorem",
+      "carmichael_function",
+      "cubic_reciprocity"
+    ],
+    "desc": "高斯《算术研究》引入a≡b(mod n)记号与等价关系，是模运算与数论根基。"
+  },
+  {
+    "id": "definite_quadratic_form",
+    "name": "定二次型",
+    "nameEn": "Definite quadratic form",
+    "wikiEn": "Definite quadratic form",
+    "aliases": [
+      "正定二次型",
+      "负定二次型",
+      "定型",
+      "Positive-definite quadratic form"
+    ],
+    "year": 1801,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "fifteen_and_290_theorems",
+      "geometry_of_numbers"
+    ],
+    "desc": "对非零向量恒正（或恒负）的二次型，高斯系统研究其整数表示与约化。"
+  },
+  {
+    "id": "augmented_matrix",
+    "name": "增广矩阵",
+    "nameEn": "Augmented matrix",
+    "wikiEn": "Augmented matrix",
+    "aliases": [
+      "扩增矩阵",
+      "增广阵",
+      "增广矩阵"
+    ],
+    "year": 1810,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "cramers_rule"
+    ],
+    "related": [
+      "cayley_matrix_algebra",
+      "rank_nullity_theorem"
+    ],
+    "desc": "把线性方程组系数与常数列并排而成的矩阵，高斯消元即在其上行变换。"
+  },
+  {
+    "id": "incomplete_gamma_function",
+    "name": "不完全伽马函数",
+    "nameEn": "Incomplete gamma function",
+    "wikiEn": "Incomplete gamma function",
+    "aliases": [
+      "不完全Γ函数",
+      "不完全伽玛函数",
+      "广义伽马函数",
+      "Incomplete gamma"
+    ],
+    "year": 1811,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "barnes_g_function",
+      "riemann_integral"
+    ],
+    "desc": "伽马函数带积分限的推广，分上下两类，广泛用于概率与特殊函数计算。"
+  },
+  {
+    "id": "cauchy_binet_formula",
+    "name": "柯西-比内公式",
+    "nameEn": "Cauchy–Binet formula",
+    "wikiEn": "Cauchy–Binet formula",
+    "aliases": [
+      "柯西–比内公式",
+      "比内-柯西公式",
+      "Binet-Cauchy formula"
+    ],
+    "year": 1813,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "cramers_rule"
+    ],
+    "related": [
+      "cayley_matrix_algebra",
+      "cayley_hamilton_theorem"
+    ],
+    "desc": "两矩阵乘积子式的展开公式，是行列式乘法公式在长方阵情形的推广。"
+  },
+  {
+    "id": "crystallographic_restriction_theorem",
+    "name": "晶体学限制定理",
+    "nameEn": "Crystallographic restriction theorem",
+    "wikiEn": "Crystallographic restriction theorem",
+    "aliases": [
+      "晶体限制定理",
+      "旋转对称限制定理",
+      "晶轴限制定理"
+    ],
+    "year": 1822,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "bragg_plane"
+    ],
+    "desc": "周期晶格只允许一、二、三、四、六重旋转对称，排除五重及其他重数。"
+  },
+  {
+    "id": "heat_kernel",
+    "name": "热核",
+    "nameEn": "Heat kernel",
+    "wikiEn": "Heat kernel",
+    "aliases": [
+      "热方程基本解",
+      "热核函数",
+      "扩散核",
+      "Heat equation kernel"
+    ],
+    "year": 1822,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "spectral_geometry",
+      "hearing_shape_of_drum"
+    ],
+    "desc": "热方程基本解，刻画对角扩散强度，其迹展开联结流形的几何与谱信息。"
+  },
+  {
+    "id": "abel_polynomials",
+    "name": "阿贝尔多项式",
+    "nameEn": "Abel polynomials",
+    "wikiEn": "Abel polynomials",
+    "aliases": [
+      "阿贝尔多项式序列",
+      "Abel多项式",
+      "Abel polynomial sequence"
+    ],
+    "year": 1826,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "appell_sequence"
+    ],
+    "desc": "阿贝尔1826年推广二项式定理所得多项式序列，是阿佩尔序列的经典例子。"
+  },
+  {
+    "id": "abel_summation_formula",
+    "name": "阿贝尔求和公式",
+    "nameEn": "Abel's summation formula",
+    "wikiEn": "Abel's summation formula",
+    "aliases": [
+      "分部求和公式",
+      "阿贝尔求和",
+      "离散分部求和",
+      "Summation by parts"
+    ],
+    "year": 1826,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "abel_summation",
+      "dirichlet_character"
+    ],
+    "desc": "离散分部求和公式，把加权部分和与数列差分联系起来，阿贝尔1826年提出。"
+  },
+  {
+    "id": "binary_operation",
+    "name": "二元运算",
+    "nameEn": "Binary operation",
+    "wikiEn": "Binary operation",
+    "aliases": [
+      "二目运算",
+      "二元操作",
+      "双值运算",
+      "Binary operator"
+    ],
+    "year": 1830,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "associative_property",
+      "identity_element",
+      "boolean_algebra_structure"
+    ],
+    "desc": "作用于同集两个元素得到一个元素的运算，是定义群、环等结构的起点。"
+  },
+  {
+    "id": "freshmans_dream",
+    "name": "新生之梦",
+    "nameEn": "Freshman's dream",
+    "wikiEn": "Freshman's dream",
+    "aliases": [
+      "大一新生之梦",
+      "素特征二项恒等式",
+      "Freshman dream"
+    ],
+    "year": 1830,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "cubic_reciprocity"
+    ],
+    "desc": "在素特征中(a+b)^p=a^p+b^p成立，初学者常误将其套用于实数运算。"
+  },
+  {
+    "id": "additive_group",
+    "name": "加法群",
+    "nameEn": "Additive group",
+    "wikiEn": "Additive group",
+    "aliases": [
+      "加群",
+      "加法交换群",
+      "阿贝尔加群",
+      "Additive abelian group"
+    ],
+    "year": 1832,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "identity_element"
+    ],
+    "related": [
+      "galois_theory",
+      "commutative_ring"
+    ],
+    "desc": "以加法为群运算、零为单位元的群，是环、域与向量空间的底层结构。"
+  },
+  {
+    "id": "cubic_reciprocity",
+    "name": "三次互反律",
+    "nameEn": "Cubic reciprocity",
+    "wikiEn": "Cubic reciprocity",
+    "aliases": [
+      "立方互反律",
+      "三次互反定理",
+      "立方剩余互反"
+    ],
+    "year": 1832,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "congruence_relation"
+    ],
+    "related": [
+      "dirichlet_character",
+      "eisenstein_triple"
+    ],
+    "desc": "判定立方剩余的互反律，高斯1832年陈述、艾森斯坦给出简洁表述。"
+  },
+  {
+    "id": "analytic_number_theory",
+    "name": "解析数论",
+    "nameEn": "Analytic number theory",
+    "wikiEn": "Analytic number theory",
+    "aliases": [
+      "解析数论分支",
+      "解析整数论",
+      "Analytic number theory"
+    ],
+    "year": 1837,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [
+      "euler_product_zeta"
+    ],
+    "related": [
+      "dirichlet_character",
+      "arithmetic_function"
+    ],
+    "desc": "用微积分与复分析研究素数及整数分布的分支，狄利克雷算术级数定理为标志。"
+  },
+  {
+    "id": "dirichlet_character",
+    "name": "狄利克雷特征",
+    "nameEn": "Dirichlet character",
+    "wikiEn": "Dirichlet character",
+    "aliases": [
+      "狄氏特征",
+      "乘法特征",
+      "狄利克雷特征标",
+      "Dirichlet character"
+    ],
+    "year": 1837,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "congruence_relation"
+    ],
+    "related": [
+      "analytic_number_theory",
+      "dirichlet_approximation_theorem"
+    ],
+    "desc": "按模取周期值的完全乘法函数，狄利克雷据其证明算术级数中有无穷素数。"
+  },
+  {
+    "id": "class_number_formula",
+    "name": "类数公式",
+    "nameEn": "Class number formula",
+    "wikiEn": "Class number formula",
+    "aliases": [
+      "狄利克雷类数公式",
+      "解析类数公式",
+      "数域类数公式"
+    ],
+    "year": 1839,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "dirichlet_character"
+    ],
+    "related": [
+      "algebraic_number_field",
+      "dedekind_eta_function"
+    ],
+    "desc": "狄利克雷把数域类数与L函数残差、调整子及根数相联系的解析公式。"
+  },
+  {
+    "id": "diophantine_approximation",
+    "name": "丢番图逼近",
+    "nameEn": "Diophantine approximation",
+    "wikiEn": "Diophantine approximation",
+    "aliases": [
+      "有理逼近",
+      "丢番图近似",
+      "Diophantine approximation"
+    ],
+    "year": 1842,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "dirichlet_approximation_theorem",
+      "engel_expansion",
+      "duffin_schaeffer_theorem"
+    ],
+    "desc": "用有理数逼近实数或代数数的理论，狄利克雷1842年定理为其系统开端。"
+  },
+  {
+    "id": "dirichlet_approximation_theorem",
+    "name": "狄利克雷逼近定理",
+    "nameEn": "Dirichlet's approximation theorem",
+    "wikiEn": "Dirichlet's approximation theorem",
+    "aliases": [
+      "狄利克雷逼近",
+      "抽屉原理逼近定理",
+      "Dirichlet approximation theorem"
+    ],
+    "year": 1842,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "diophantine_approximation",
+      "geometry_of_numbers"
+    ],
+    "desc": "用鸽巢原理保证任意实数有无穷多个分母受限的有理逼近，是逼近论基本定理。"
+  },
+  {
+    "id": "alternating_multilinear_map",
+    "name": "交替多线性映射",
+    "nameEn": "Alternating multilinear map",
+    "wikiEn": "Alternating multilinear map",
+    "aliases": [
+      "交替多重线性映射",
+      "交代多重线性映射",
+      "反对称多线性映射"
+    ],
+    "year": 1844,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "alternating_polynomial",
+      "bilinear_map"
+    ],
+    "desc": "交换两个自变量即变号的多重线性映射，是格拉斯曼外积与行列式的抽象基础。"
+  },
+  {
+    "id": "catalans_conjecture",
+    "name": "卡塔兰猜想",
+    "nameEn": "Catalan's conjecture",
+    "wikiEn": "Catalan's conjecture",
+    "aliases": [
+      "米哈埃列斯库定理",
+      "卡塔朗猜想",
+      "Mihailescu theorem"
+    ],
+    "year": 1844,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "fermat_last_theorem",
+      "wiles_fermat_proof"
+    ],
+    "desc": "除8与9外没有两个连续正整数都是完全幂；1844年提出，2002年获证。"
+  },
+  {
+    "id": "eisenstein_triple",
+    "name": "艾森斯坦三元数",
+    "nameEn": "Eisenstein triple",
+    "wikiEn": "Eisenstein triple",
+    "aliases": [
+      "艾森斯坦三元组",
+      "60度勾股数",
+      "艾氏三元数"
+    ],
+    "year": 1844,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "pythagorean_triples",
+      "cubic_reciprocity"
+    ],
+    "desc": "三角形含60或120度角时三边为整数的三元组，与艾森斯坦整数相对应。"
+  },
+  {
+    "id": "associative_property",
+    "name": "结合律",
+    "nameEn": "Associative property",
+    "wikiEn": "Associative property",
+    "aliases": [
+      "结合性",
+      "结合法则",
+      "Associative law"
+    ],
+    "year": 1845,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "binary_operation"
+    ],
+    "related": [
+      "identity_element",
+      "absorption_law"
+    ],
+    "desc": "括号位置不影响运算结果的性质(ab)c=a(bc)，哈密顿确立术语，是群环公理。"
+  },
+  {
+    "id": "bilinear_map",
+    "name": "双线性映射",
+    "nameEn": "Bilinear map",
+    "wikiEn": "Bilinear map",
+    "aliases": [
+      "双线性型",
+      "双线性变换",
+      "双线性算子",
+      "Bilinear form"
+    ],
+    "year": 1845,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "alternating_multilinear_map",
+      "definite_quadratic_form",
+      "clifford_algebra"
+    ],
+    "desc": "对每个变量分别保持线性的二元映射，二次型、内积与张量均为其实例。"
+  },
+  {
+    "id": "circulant_matrix",
+    "name": "循环矩阵",
+    "nameEn": "Circulant matrix",
+    "wikiEn": "Circulant matrix",
+    "aliases": [
+      "轮换矩阵",
+      "循环行列式",
+      "Circulant"
+    ],
+    "year": 1846,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "cayley_matrix_algebra",
+      "fourier_analysis"
+    ],
+    "desc": "每行由上一行循环移位得到的矩阵，可被傅里叶矩阵对角化，常用于卷积。"
+  },
+  {
+    "id": "absorption_law",
+    "name": "吸收律",
+    "nameEn": "Absorption law",
+    "wikiEn": "Absorption law",
+    "aliases": [
+      "吸收法则",
+      "吸收定律",
+      "格吸收律",
+      "Absorption identity"
+    ],
+    "year": 1847,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "binary_operation"
+    ],
+    "related": [
+      "boolean_algebra",
+      "boolean_algebra_structure"
+    ],
+    "desc": "格与布尔代数中并与交相互吸收的恒等律，布尔1847年给出。"
+  },
+  {
+    "id": "algebraic_number_theory",
+    "name": "代数数论",
+    "nameEn": "Algebraic number theory",
+    "wikiEn": "Algebraic number theory",
+    "aliases": [
+      "代数数论分支",
+      "代数整数论",
+      "数的代数理论"
+    ],
+    "year": 1847,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [
+      "congruence_relation"
+    ],
+    "related": [
+      "algebraic_number_field",
+      "adele_ring",
+      "class_number_formula"
+    ],
+    "desc": "用代数方法研究代数数与整数推广的分支，库默尔理想数为开端，后成朗兰兹基础。"
+  },
+  {
+    "id": "boolean_algebra_structure",
+    "name": "布尔代数（结构）",
+    "nameEn": "Boolean algebra (structure)",
+    "wikiEn": "Boolean algebra (structure)",
+    "aliases": [
+      "布尔代数结构",
+      "逻辑代数",
+      "布尔格",
+      "Boolean lattice"
+    ],
+    "year": 1847,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "boolean_algebra",
+      "absorption_law",
+      "action_algebra"
+    ],
+    "desc": "以与或非为运算、满足分配与吸收律的代数结构，布尔1847年为逻辑代数化创立。"
+  },
+  {
+    "id": "complexification",
+    "name": "复化",
+    "nameEn": "Complexification",
+    "wikiEn": "Complexification",
+    "aliases": [
+      "复数化",
+      "复化扩张",
+      "实结构复化"
+    ],
+    "year": 1855,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "gauss_fundamental_theorem_algebra",
+      "hamilton_quaternions"
+    ],
+    "desc": "把实向量空间或实流形自然扩张为复对象的构造，便于引入复特征值与全纯方法。"
+  },
+  {
+    "id": "algebraic_function",
+    "name": "代数函数",
+    "nameEn": "Algebraic function",
+    "wikiEn": "Algebraic function",
+    "aliases": [
+      "代数函數",
+      "隐代数函数",
+      "Algebraic function field"
+    ],
+    "year": 1857,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "algebraic_equation"
+    ],
+    "related": [
+      "riemann_surface",
+      "riemann_roch_theorem"
+    ],
+    "desc": "满足多项式方程的函数，黎曼以黎曼曲面为其建立几何理论。"
+  },
+  {
+    "id": "analytic_function_of_matrix",
+    "name": "矩阵解析函数",
+    "nameEn": "Analytic function of a matrix",
+    "wikiEn": "Analytic function of a matrix",
+    "aliases": [
+      "矩阵函数",
+      "矩阵的解析函数",
+      "Matrix function"
+    ],
+    "year": 1858,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "cayley_matrix_algebra"
+    ],
+    "related": [
+      "cayley_hamilton_theorem",
+      "matrix_exponential",
+      "algebraic_riccati_equation"
+    ],
+    "desc": "借标准形或幂级数对矩阵定义指数、对数等解析函数，用于微分方程与控制。"
+  },
+  {
+    "id": "cayley_hamilton_theorem",
+    "name": "凯莱-哈密顿定理",
+    "nameEn": "Cayley–Hamilton theorem",
+    "wikiEn": "Cayley–Hamilton theorem",
+    "aliases": [
+      "凯莱–哈密顿定理",
+      "CH定理",
+      "Cayley-Hamilton theorem"
+    ],
+    "year": 1858,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "cayley_matrix_algebra"
+    ],
+    "related": [
+      "analytic_function_of_matrix",
+      "matrix_exponential"
+    ],
+    "desc": "每个方阵都满足自身的特征多项式，是矩阵化简与矩阵函数的核心定理。"
+  },
+  {
+    "id": "composition_series",
+    "name": "合成列",
+    "nameEn": "Composition series",
+    "wikiEn": "Composition series",
+    "aliases": [
+      "合成序列",
+      "主合成列",
+      "组成列",
+      "Composition series"
+    ],
+    "year": 1869,
+    "era": "industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "additive_group"
+    ],
+    "related": [
+      "galois_theory",
+      "artinian_module",
+      "classification_finite_simple_groups"
+    ],
+    "desc": "将群或模经极大正规子群逐次分解到单对象的子群链，若尔当-赫尔德定理保证唯一性。"
+  },
+  {
+    "id": "idempotence",
+    "name": "幂等",
+    "nameEn": "Idempotence",
+    "wikiEn": "Idempotence",
+    "aliases": [
+      "幂等性",
+      "幂等元",
+      "等幂性",
+      "Idempotent"
+    ],
+    "year": 1870,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "associative_property"
+    ],
+    "related": [
+      "identity_element",
+      "endomorphism",
+      "boolean_algebra_structure"
+    ],
+    "desc": "重复作用等于作用一次的性质x·x=x，皮尔士1870年在结合代数研究中引入术语。"
+  },
+  {
+    "id": "algebraic_number_field",
+    "name": "代数数域",
+    "nameEn": "Algebraic number field",
+    "wikiEn": "Algebraic number field",
+    "aliases": [
+      "数域",
+      "代数数体",
+      "有限扩域",
+      "Number field"
+    ],
+    "year": 1871,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [
+      "gauss_fundamental_theorem_algebra"
+    ],
+    "related": [
+      "algebraic_number_theory",
+      "adele_ring",
+      "class_number_formula"
+    ],
+    "desc": "有理数域的有限次扩域，戴德金1871年以理想建立其整数环理论，是代数数论舞台。"
+  },
+  {
+    "id": "auxiliary_function",
+    "name": "辅助函数",
+    "nameEn": "Auxiliary function",
+    "wikiEn": "Auxiliary function",
+    "aliases": [
+      "超越性辅助函数",
+      "证明辅助函数",
+      "Auxiliary function"
+    ],
+    "year": 1873,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "analytic_number_theory"
+    ],
+    "desc": "超越性证明中人为构造、在多点取过小整数值的函数，埃尔米特与林德曼的利器。"
+  },
+  {
+    "id": "modular_curve",
+    "name": "模曲线",
+    "nameEn": "Modular curve",
+    "wikiEn": "Modular curve",
+    "aliases": [
+      "模群商曲线",
+      "模曲线紧化",
+      "Modular curve"
+    ],
+    "year": 1874,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "modular_equation"
+    ],
+    "related": [
+      "modular_lambda_function",
+      "geometric_langlands",
+      "langlands_program"
+    ],
+    "desc": "模群作用于上半平面所得商的紧化黎曼曲面，联结模形式、椭圆曲线与算术几何。"
+  },
+  {
+    "id": "brocards_problem",
+    "name": "布罗卡问题",
+    "nameEn": "Brocard's problem",
+    "wikiEn": "Brocard's problem",
+    "aliases": [
+      "布罗卡猜想",
+      "n!+1平方问题",
+      "Brocard problem"
+    ],
+    "year": 1876,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "abc_conjecture",
+      "formula_for_primes"
+    ],
+    "desc": "求n!+1为完全平方数的n，仅知三个解且猜想无他解，可由abc猜想推出有限。"
+  },
+  {
+    "id": "dedekind_eta_function",
+    "name": "戴德金η函数",
+    "nameEn": "Dedekind eta function",
+    "wikiEn": "Dedekind eta function",
+    "aliases": [
+      "戴德金eta函数",
+      "η函数",
+      "Dedekind eta"
+    ],
+    "year": 1877,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "modular_lambda_function",
+      "modular_curve"
+    ],
+    "desc": "上半平面上权1/2的模形式型函数，戴德金1877年定义，是模形式最早范例。"
+  },
+  {
+    "id": "modular_lambda_function",
+    "name": "模λ函数",
+    "nameEn": "Modular lambda function",
+    "wikiEn": "Modular lambda function",
+    "aliases": [
+      "椭圆模函数λ",
+      "模λ函数",
+      "拉姆达模函数"
+    ],
+    "year": 1877,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "modular_equation"
+    ],
+    "related": [
+      "dedekind_eta_function",
+      "modular_curve"
+    ],
+    "desc": "刻画环面复结构的主模函数λ(τ)，把模曲线实现为球面，是模函数的样板。"
+  },
+  {
+    "id": "block_matrix",
+    "name": "分块矩阵",
+    "nameEn": "Block matrix",
+    "wikiEn": "Block matrix",
+    "aliases": [
+      "矩阵分块",
+      "子块矩阵",
+      "分区矩阵"
+    ],
+    "year": 1878,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "cayley_matrix_algebra"
+    ],
+    "related": [
+      "augmented_matrix",
+      "sparse_matrix"
+    ],
+    "desc": "用横竖线把矩阵分成子块并按块运算的矩阵表示法，简化大规模矩阵计算。"
+  },
+  {
+    "id": "clifford_algebra",
+    "name": "克利福德代数",
+    "nameEn": "Clifford algebra",
+    "wikiEn": "Clifford algebra",
+    "aliases": [
+      "克里福德代数",
+      "几何代数",
+      "Clifford几何代数"
+    ],
+    "year": 1878,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "bilinear_map"
+    ],
+    "related": [
+      "hamilton_quaternions",
+      "definite_quadratic_form"
+    ],
+    "desc": "由二次型生成并满足平方关系的结合代数，1878年创立，统一复数与四元数。"
+  },
+  {
+    "id": "rank_nullity_theorem",
+    "name": "秩-零化度定理",
+    "nameEn": "Rank–nullity theorem",
+    "wikiEn": "Rank–nullity theorem",
+    "aliases": [
+      "秩零定理",
+      "秩零度定理",
+      "维数恒等式",
+      "Rank-nullity theorem"
+    ],
+    "year": 1878,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "cayley_matrix_algebra"
+    ],
+    "related": [
+      "dimension_theorem_vector_spaces",
+      "augmented_matrix"
+    ],
+    "desc": "线性映射的秩与零化度之和等于定义域维数，是线性代数最基本的维数恒等式。"
+  },
+  {
+    "id": "appell_sequence",
+    "name": "阿佩尔序列",
+    "nameEn": "Appell sequence",
+    "wikiEn": "Appell sequence",
+    "aliases": [
+      "阿佩尔多项式系",
+      "阿佩尔多项式序列",
+      "Appell polynomials"
+    ],
+    "year": 1880,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "abel_polynomials"
+    ],
+    "desc": "求导等于下标平移的多项式序列，阿佩尔1880年定义，含伯努利、埃尔米特多项式。"
+  },
+  {
+    "id": "arithmetic_group",
+    "name": "算术群",
+    "nameEn": "Arithmetic group",
+    "wikiEn": "Arithmetic group",
+    "aliases": [
+      "算术子群",
+      "整数李群",
+      "Arithmetic subgroup"
+    ],
+    "year": 1890,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "algebraic_number_field"
+    ],
+    "related": [
+      "geometry_of_numbers",
+      "langlands_program"
+    ],
+    "desc": "李群中与整数格可公度的离散子群，其轨道与商空间联系数论与几何。"
+  },
+  {
+    "id": "bicomplex_number",
+    "name": "双复数",
+    "nameEn": "Bicomplex number",
+    "wikiEn": "Bicomplex number",
+    "aliases": [
+      "双复数系",
+      "交换四元数",
+      "双复虚数",
+      "Bicomplex"
+    ],
+    "year": 1892,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "gauss_fundamental_theorem_algebra"
+    ],
+    "related": [
+      "hamilton_quaternions",
+      "clifford_algebra"
+    ],
+    "desc": "塞格雷1892年引入的交换四维复超复数系，含零因子，是多复变数的早期推广。"
+  },
+  {
+    "id": "convex_combination",
+    "name": "凸组合",
+    "nameEn": "Convex combination",
+    "wikiEn": "Convex combination",
+    "aliases": [
+      "凸性组合",
+      "凸线性组合",
+      "权重凸组合"
+    ],
+    "year": 1896,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "absolutely_convex_set",
+      "geometry_of_numbers"
+    ],
+    "desc": "系数非负且和为1的线性组合，是闵可夫斯基凸体理论中的基本运算。"
+  },
+  {
+    "id": "geometry_of_numbers",
+    "name": "几何数论",
+    "nameEn": "Geometry of numbers",
+    "wikiEn": "Geometry of numbers",
+    "aliases": [
+      "数的几何",
+      "数论几何",
+      "格点几何"
+    ],
+    "year": 1896,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "definite_quadratic_form"
+    ],
+    "related": [
+      "blichfeldt_theorem",
+      "arithmetic_group",
+      "dirichlet_approximation_theorem"
+    ],
+    "desc": "闵可夫斯基1896年创立，用格与凸体几何研究丢番图逼近和代数数论。"
+  },
+  {
+    "id": "automorphic_number",
+    "name": "自守数",
+    "nameEn": "Automorphic number",
+    "wikiEn": "Automorphic number",
+    "aliases": [
+      "平方尾数自守数",
+      "循环数",
+      "自守數",
+      "Circular number"
+    ],
+    "year": 1900,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "divisibility_rule"
+    ],
+    "desc": "平方的尾数恰为自身的数（如5、6、76），一种古典趣味数论对象。"
+  },
+  {
+    "id": "barnes_g_function",
+    "name": "巴尼斯G函数",
+    "nameEn": "Barnes G-function",
+    "wikiEn": "Barnes G-function",
+    "aliases": [
+      "超级阶乘复推广",
+      "巴尼斯双重伽马型",
+      "Barnes G"
+    ],
+    "year": 1900,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "incomplete_gamma_function"
+    ],
+    "desc": "巴尼斯1900年提出的超级阶乘复推广，满足G(z+1)=Γ(z)G(z)。"
+  },
+  {
+    "id": "young_tableau",
+    "name": "杨表",
+    "nameEn": "Young tableau",
+    "wikiEn": "Young tableau",
+    "aliases": [
+      "杨氏矩阵",
+      "杨盘",
+      "杨图填数",
+      "Young tableaux"
+    ],
+    "year": 1900,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "integer_partition"
+    ],
+    "related": [
+      "composition_series",
+      "classification_finite_simple_groups"
+    ],
+    "desc": "依分拆形状填数、行列递增的方格表，杨1900年引入，是对称群表示论的组合工具。"
+  },
+  {
+    "id": "hilbert_schmidt_operator",
+    "name": "希尔伯特-施密特算子",
+    "nameEn": "Hilbert–Schmidt operator",
+    "wikiEn": "Hilbert–Schmidt operator",
+    "aliases": [
+      "HS算子",
+      "希尔伯特-施密特算符",
+      "Hilbert-Schmidt operator"
+    ],
+    "year": 1907,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "hilbert_space",
+      "bounded_operator",
+      "continuous_linear_operator"
+    ],
+    "desc": "平方可积核的积分算子类，希尔伯特与施密特1907年研究，自身构成希尔伯特空间。"
+  },
+  {
+    "id": "p_adic_exponential_function",
+    "name": "p进指数函数",
+    "nameEn": "P-adic exponential function",
+    "wikiEn": "P-adic exponential function",
+    "aliases": [
+      "p进指数",
+      "p-adic exp",
+      "p进指数映射"
+    ],
+    "year": 1908,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "absolute_value_algebra",
+      "adele_ring"
+    ],
+    "desc": "p进数上的指数函数，仅在足够小邻域收敛，与p进对数互为反函数。"
+  },
+  {
+    "id": "carmichael_function",
+    "name": "卡迈克尔函数",
+    "nameEn": "Carmichael function",
+    "wikiEn": "Carmichael function",
+    "aliases": [
+      "最小通用指数",
+      "卡迈克尔λ函数",
+      "卡邁克爾函數",
+      "Carmichael lambda"
+    ],
+    "year": 1910,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "congruence_relation"
+    ],
+    "related": [
+      "chinese_remainder_theorem",
+      "industrial_grade_prime",
+      "diffie_hellman"
+    ],
+    "desc": "使a的λ(n)次方模n恒为1的最小通用指数，RSA密码体系的关键参数。"
+  },
+  {
+    "id": "primitive_element_theorem",
+    "name": "本原元定理",
+    "nameEn": "Primitive element theorem",
+    "wikiEn": "Primitive element theorem",
+    "aliases": [
+      "原元定理",
+      "单生成元定理",
+      "Primitive element theorem"
+    ],
+    "year": 1910,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "algebraic_number_field"
+    ],
+    "related": [
+      "galois_theory"
+    ],
+    "desc": "特征零域每个有限可分扩域都可由单个本原元生成，施泰尼茨1910年证明。"
+  },
+  {
+    "id": "bragg_plane",
+    "name": "布拉格平面",
+    "nameEn": "Bragg plane",
+    "wikiEn": "Bragg plane",
+    "aliases": [
+      "布拉格晶面",
+      "倒易反射面",
+      "Bragg反射面"
+    ],
+    "year": 1913,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "crystallographic_restriction_theorem",
+      "burgers_vector"
+    ],
+    "desc": "倒易空间中表达布拉格衍射条件的中垂面，用于X射线衍射与晶格结构分析。"
+  },
+  {
+    "id": "dimension_theorem_vector_spaces",
+    "name": "向量空间维数定理",
+    "nameEn": "Dimension theorem for vector spaces",
+    "wikiEn": "Dimension theorem for vector spaces",
+    "aliases": [
+      "维数不变定理",
+      "基等势定理",
+      "维数良定义定理"
+    ],
+    "year": 1913,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "rank_nullity_theorem",
+      "cayley_matrix_algebra"
+    ],
+    "desc": "向量空间任意两基等势故维数良定义，施泰尼茨1913年证明，是线性代数基石。"
+  },
+  {
+    "id": "engel_expansion",
+    "name": "恩格尔展开式",
+    "nameEn": "Engel expansion",
+    "wikiEn": "Engel expansion",
+    "aliases": [
+      "恩格尔展开",
+      "恩格尔级数展开",
+      "Engel series"
+    ],
+    "year": 1913,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "diophantine_approximation"
+    ],
+    "desc": "恩格尔1913年提出的唯一非降整数序列展开，是连分数之外的实数展开法。"
+  },
+  {
+    "id": "blichfeldt_theorem",
+    "name": "布利希费尔特定理",
+    "nameEn": "Blichfeldt's theorem",
+    "wikiEn": "Blichfeldt's theorem",
+    "aliases": [
+      "布利希费尔特原理",
+      "格点体积原理",
+      "Blichfeldt principle"
+    ],
+    "year": 1914,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "geometry_of_numbers"
+    ],
+    "desc": "体积大于格基本域的可测集必含差为格向量的两点，是闵可夫斯基定理的前驱。"
+  },
+  {
+    "id": "commutative_ring",
+    "name": "交换环",
+    "nameEn": "Commutative ring",
+    "wikiEn": "Commutative ring",
+    "aliases": [
+      "可换环",
+      "交换环结构",
+      "交换结合环"
+    ],
+    "year": 1914,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "additive_group"
+    ],
+    "related": [
+      "algebraic_number_field",
+      "clifford_algebra",
+      "adele_ring"
+    ],
+    "desc": "乘法满足交换律的环，弗伦克尔1914年给出环的公理化，是代数几何与数论基础。"
+  },
+  {
+    "id": "absolute_value_algebra",
+    "name": "绝对赋值",
+    "nameEn": "Absolute value (algebra)",
+    "wikiEn": "Absolute value (algebra)",
+    "aliases": [
+      "域上绝对值",
+      "域赋值",
+      "代数绝对值",
+      "Field absolute value"
+    ],
+    "year": 1916,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "p_adic_exponential_function",
+      "adele_ring"
+    ],
+    "desc": "域上满足乘法与三角不等式的非负函数，奥斯特洛夫斯基据其分类有理数域。"
+  },
+  {
+    "id": "bruns_constant",
+    "name": "布朗常数",
+    "nameEn": "Brun's constant",
+    "wikiEn": "Brun's constant",
+    "aliases": [
+      "孪生素数常数",
+      "B2常数",
+      "Brun constant"
+    ],
+    "year": 1919,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "analytic_number_theory"
+    ],
+    "related": [
+      "de_bruijn_newman_constant"
+    ],
+    "desc": "所有孪生素数对倒数之和，布朗1919年用筛法证明其有限，数值约1.902。"
+  },
+  {
+    "id": "endomorphism",
+    "name": "自同态",
+    "nameEn": "Endomorphism",
+    "wikiEn": "Endomorphism",
+    "aliases": [
+      "自态射",
+      "自同態",
+      "内自同态",
+      "Endomorphism"
+    ],
+    "year": 1920,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "associative_property"
+    ],
+    "related": [
+      "composition_series",
+      "idempotence",
+      "graph_homomorphism"
+    ],
+    "desc": "对象到自身的同态，全体自同态在复合下构成幺半群，可逆者即自同构。"
+  },
+  {
+    "id": "beatty_sequence",
+    "name": "贝亚蒂序列",
+    "nameEn": "Beatty sequence",
+    "wikiEn": "Beatty sequence",
+    "aliases": [
+      "贝亚蒂定理",
+      "Beatty序列",
+      "比蒂序列"
+    ],
+    "year": 1926,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "fibonacci_sequence",
+      "dirichlet_approximation_theorem"
+    ],
+    "desc": "两无理数倒数和为1时，其下取整序列恰好互补地分割正整数。"
+  },
+  {
+    "id": "artin_primitive_roots_conjecture",
+    "name": "阿廷原根猜想",
+    "nameEn": "Artin's conjecture on primitive roots",
+    "wikiEn": "Artin's conjecture on primitive roots",
+    "aliases": [
+      "阿廷猜想",
+      "原根猜想",
+      "Artin primitive root conjecture"
+    ],
+    "year": 1927,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "congruence_relation"
+    ],
+    "related": [
+      "dirichlet_character",
+      "arithmetic_group"
+    ],
+    "desc": "阿廷1927年猜想给定非平方整数是无穷多个素数的原根，GRH下已有条件结果。"
+  },
+  {
+    "id": "artinian_module",
+    "name": "阿廷模",
+    "nameEn": "Artinian module",
+    "wikiEn": "Artinian module",
+    "aliases": [
+      "降链条件模",
+      "阿廷模块",
+      "Artin module"
+    ],
+    "year": 1927,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "commutative_ring"
+    ],
+    "related": [
+      "composition_series",
+      "bimodule"
+    ],
+    "desc": "子模满足降链条件的模，阿廷1927年引入，与诺特模对偶，长度有限。"
+  },
+  {
+    "id": "ackermann_function",
+    "name": "阿克曼函数",
+    "nameEn": "Ackermann function",
+    "wikiEn": "Ackermann function",
+    "aliases": [
+      "阿克曼递归函数",
+      "阿克曼双递归函数",
+      "Ackermann-Peter function"
+    ],
+    "year": 1928,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "turing_machine"
+    ],
+    "desc": "阿克曼1928年提出的双递归函数，增长快于任何原始递归函数，是可计算性经典例。"
+  },
+  {
+    "id": "ordered_vector_space",
+    "name": "有序向量空间",
+    "nameEn": "Ordered vector space",
+    "wikiEn": "Ordered vector space",
+    "aliases": [
+      "有序线性空间",
+      "偏序向量空间",
+      "序向量空间"
+    ],
+    "year": 1928,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "convex_combination",
+      "absolutely_convex_set"
+    ],
+    "desc": "赋予相容偏序的实向量空间，里斯1928年研究，是泛函分析与正算子理论框架。"
+  },
+  {
+    "id": "continuous_linear_operator",
+    "name": "连续线性算子",
+    "nameEn": "Continuous linear operator",
+    "wikiEn": "Continuous linear operator",
+    "aliases": [
+      "连续线性算符",
+      "连续线性映射",
+      "拓扑线性算子"
+    ],
+    "year": 1929,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "bounded_operator",
+      "hilbert_schmidt_operator",
+      "banach_alaoglu_theorem"
+    ],
+    "desc": "拓扑向量空间之间保持线性且连续的映射，在赋范空间中等价于有界算子。"
+  },
+  {
+    "id": "abstract_algebra",
+    "name": "抽象代数",
+    "nameEn": "Abstract algebra",
+    "wikiEn": "Abstract algebra",
+    "aliases": [
+      "近世代数",
+      "高等代数",
+      "现代代数",
+      "Modern algebra"
+    ],
+    "year": 1930,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "galois_theory"
+    ],
+    "related": [
+      "commutative_ring",
+      "category_theory",
+      "classification_finite_simple_groups"
+    ],
+    "desc": "研究群、环、域等公理结构的代数，范德瓦尔登1930年《近世代数学》集大成。"
+  },
+  {
+    "id": "additive_function",
+    "name": "加性函数",
+    "nameEn": "Additive function",
+    "wikiEn": "Additive function",
+    "aliases": [
+      "加性算术函数",
+      "可加函数",
+      "加性数论函数"
+    ],
+    "year": 1930,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "arithmetic_function"
+    ],
+    "related": [
+      "analytic_number_theory"
+    ],
+    "desc": "对互素整数满足可加性的算术函数，如Ω(n)，20世纪被系统研究。"
+  },
+  {
+    "id": "bounded_operator",
+    "name": "有界算子",
+    "nameEn": "Bounded operator",
+    "wikiEn": "Bounded operator",
+    "aliases": [
+      "有界算符",
+      "有界线性算子",
+      "Bounded linear operator"
+    ],
+    "year": 1932,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "hilbert_space",
+      "continuous_linear_operator",
+      "hilbert_schmidt_operator",
+      "invariant_subspace_problem"
+    ],
+    "desc": "把有界集映为有界集的线性算子，巴拿赫1932年著作奠定其系统理论。"
+  },
+  {
+    "id": "lehmers_totient_problem",
+    "name": "莱默欧拉函数问题",
+    "nameEn": "Lehmer's totient problem",
+    "wikiEn": "Lehmer's totient problem",
+    "aliases": [
+      "莱默互反数问题",
+      "莱默合数问题",
+      "Lehmer totient conjecture"
+    ],
+    "year": 1932,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "arithmetic_function"
+    ],
+    "related": [
+      "carmichael_function"
+    ],
+    "desc": "莱默1932年问是否存在合数n使欧拉函数整除n−1，至今无反例亦无证明。"
+  },
+  {
+    "id": "absolutely_convex_set",
+    "name": "绝对凸集",
+    "nameEn": "Absolutely convex set",
+    "wikiEn": "Absolutely convex set",
+    "aliases": [
+      "绝对凸集合",
+      "盘状集",
+      "平衡凸集",
+      "Disk set"
+    ],
+    "year": 1935,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "convex_combination"
+    ],
+    "related": [
+      "ordered_vector_space",
+      "banach_alaoglu_theorem"
+    ],
+    "desc": "既凸又对纯量平衡的集合，是局部凸空间中邻域与单位球的标准形式。"
+  },
+  {
+    "id": "chebotarev_roots_unity_theorem",
+    "name": "切博塔廖夫单位根定理",
+    "nameEn": "Chebotarev theorem on roots of unity",
+    "wikiEn": "Chebotarev theorem on roots of unity",
+    "aliases": [
+      "切博塔廖夫定理",
+      "傅里叶矩阵子式定理",
+      "Chebotarev theorem"
+    ],
+    "year": 1935,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "galois_theory"
+    ],
+    "related": [
+      "fourier_analysis",
+      "circulant_matrix"
+    ],
+    "desc": "切博塔廖夫1930年代证明傅里叶矩阵对应单位根的任意方子式均非零。"
+  },
+  {
+    "id": "adele_ring",
+    "name": "阿代尔环",
+    "nameEn": "Adele ring",
+    "wikiEn": "Adele ring",
+    "aliases": [
+      "赋值向量环",
+      "阿代尔环",
+      "阿德环",
+      "Adele ring"
+    ],
+    "year": 1936,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "absolute_value_algebra"
+    ],
+    "related": [
+      "algebraic_number_field",
+      "algebraic_number_theory",
+      "langlands_program"
+    ],
+    "desc": "所有完备化的限制直积环，舍瓦莱1936年引入，把全局数论化为单环上的分析。"
+  },
+  {
+    "id": "cramers_conjecture",
+    "name": "克拉梅尔猜想",
+    "nameEn": "Cramér's conjecture",
+    "wikiEn": "Cramér's conjecture",
+    "aliases": [
+      "素数间隙猜想",
+      "克拉默素数间隙",
+      "Cramer conjecture"
+    ],
+    "year": 1936,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "analytic_number_theory"
+    ],
+    "related": [
+      "chebyshevs_bias",
+      "formula_for_primes"
+    ],
+    "desc": "克拉梅尔1936年猜想相邻素数间隙为O(log²p)，是素数分布的极强断言。"
+  },
+  {
+    "id": "abstract_analytic_number_theory",
+    "name": "抽象解析数论",
+    "nameEn": "Abstract analytic number theory",
+    "wikiEn": "Abstract analytic number theory",
+    "aliases": [
+      "博灵广义素数论",
+      "抽象素数理论",
+      "Beurling prime system"
+    ],
+    "year": 1937,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "analytic_number_theory"
+    ],
+    "related": [
+      "geometry_of_numbers"
+    ],
+    "desc": "在广义素数与卷积半群上重建素数定理的抽象理论，博灵与克诺普马赫等发展。"
+  },
+  {
+    "id": "burgers_vector",
+    "name": "伯格斯矢量",
+    "nameEn": "Burgers vector",
+    "wikiEn": "Burgers vector",
+    "aliases": [
+      "柏氏矢量",
+      "位错矢量",
+      "伯格斯向量"
+    ],
+    "year": 1939,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "bragg_plane"
+    ],
+    "desc": "刻画晶体位错畸变大小与方向的闭合晶格矢量，伯格斯1939年定义。"
+  },
+  {
+    "id": "banach_alaoglu_theorem",
+    "name": "巴拿赫-阿劳格劳定理",
+    "nameEn": "Banach–Alaoglu theorem",
+    "wikiEn": "Banach–Alaoglu theorem",
+    "aliases": [
+      "弱星紧定理",
+      "对偶单位球紧性定理",
+      "Banach-Alaoglu theorem"
+    ],
+    "year": 1940,
+    "era": "second_industrial",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "bounded_operator"
+    ],
+    "related": [
+      "hilbert_space",
+      "absolutely_convex_set"
+    ],
+    "desc": "赋范空间对偶单位球在弱星拓扑下紧致，阿拉乌格劳1940年证明。"
+  },
+  {
+    "id": "category_mathematics",
+    "name": "范畴（数学）",
+    "nameEn": "Category (mathematics)",
+    "wikiEn": "Category (mathematics)",
+    "aliases": [
+      "数学范畴",
+      "范畴对象",
+      "Category"
+    ],
+    "year": 1945,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "associative_property"
+    ],
+    "related": [
+      "category_theory",
+      "endomorphism",
+      "graph_homomorphism"
+    ],
+    "desc": "由对象与可结合复合的态射组成的结构，艾伦贝格与麦克莱恩1945年引入。"
+  },
+  {
+    "id": "bochner_identity",
+    "name": "博赫纳恒等式",
+    "nameEn": "Bochner identity",
+    "wikiEn": "Bochner identity",
+    "aliases": [
+      "博赫纳积分恒等式",
+      "博赫纳公式",
+      "Bochner formula"
+    ],
+    "year": 1946,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "bochner_kodaira_nakano_identity",
+      "heat_kernel"
+    ],
+    "desc": "黎曼流形上联系函数梯度与粗拉普拉斯平方的积分恒等式，用于几何分析。"
+  },
+  {
+    "id": "copeland_erdos_constant",
+    "name": "科普兰-埃尔德什常数",
+    "nameEn": "Copeland–Erdős constant",
+    "wikiEn": "Copeland–Erdős constant",
+    "aliases": [
+      "素数拼接常数",
+      "CE常数",
+      "Copeland-Erdos constant"
+    ],
+    "year": 1946,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "formula_for_primes",
+      "bruns_constant"
+    ],
+    "desc": "依次拼接全部素数数字所得无理常数0.2357…，1946年被证明为正规数。"
+  },
+  {
+    "id": "agoh_giuga_conjecture",
+    "name": "吾乡-朱加猜想",
+    "nameEn": "Agoh–Giuga conjecture",
+    "wikiEn": "Agoh–Giuga conjecture",
+    "aliases": [
+      "阿戈-朱加猜想",
+      "Agoh-Giuga猜想",
+      "伯努利素数判据"
+    ],
+    "year": 1950,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "arithmetic_function"
+    ],
+    "related": [
+      "divisor",
+      "fermat_last_theorem"
+    ],
+    "desc": "p为素数当且仅当其加权伯努利数之和被p整除，朱加1950年提出，至今未决。"
+  },
+  {
+    "id": "bochner_kodaira_nakano_identity",
+    "name": "博赫纳-小平-中野恒等式",
+    "nameEn": "Bochner–Kodaira–Nakano identity",
+    "wikiEn": "Bochner–Kodaira–Nakano identity",
+    "aliases": [
+      "BKN恒等式",
+      "博赫纳小平中野公式",
+      "BKN identity"
+    ],
+    "year": 1954,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "bochner_identity"
+    ],
+    "related": [
+      "riemann_roch_theorem"
+    ],
+    "desc": "紧凯勒流形上作用于向量丛值微分形式的拉普拉斯恒等式，是消没定理的关键。"
+  },
+  {
+    "id": "bimodule",
+    "name": "双模",
+    "nameEn": "Bimodule",
+    "wikiEn": "Bimodule",
+    "aliases": [
+      "双侧模",
+      "双么模",
+      "Bimodule"
+    ],
+    "year": 1956,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "commutative_ring"
+    ],
+    "related": [
+      "artinian_module",
+      "endomorphism"
+    ],
+    "desc": "同时带相容左右模结构的交换群，是张量积与同态双函子代数化的基本对象。"
+  },
+  {
+    "id": "algebraic_riccati_equation",
+    "name": "代数里卡蒂方程",
+    "nameEn": "Algebraic Riccati equation",
+    "wikiEn": "Algebraic Riccati equation",
+    "aliases": [
+      "代数黎卡提方程",
+      "定常Riccati方程",
+      "ARE"
+    ],
+    "year": 1960,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "analytic_function_of_matrix"
+    ],
+    "related": [
+      "kalman_filter"
+    ],
+    "desc": "最优控制中出现的定常二次矩阵方程，其正定稳定解是卡尔曼滤波与LQG核心。"
+  },
+  {
+    "id": "graph_homomorphism",
+    "name": "图同态",
+    "nameEn": "Graph homomorphism",
+    "wikiEn": "Graph homomorphism",
+    "aliases": [
+      "图同态映射",
+      "图结构保持映射",
+      "Graph morphism"
+    ],
+    "year": 1960,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "endomorphism",
+      "seven_bridges_graph_theory",
+      "category_mathematics"
+    ],
+    "desc": "保持相邻关系的图间映射，统一图着色概念，并联系约束满足问题与范畴论。"
+  },
+  {
+    "id": "three_d_projection",
+    "name": "三维投影",
+    "nameEn": "3D projection",
+    "wikiEn": "3D projection",
+    "aliases": [
+      "3D投影",
+      "立体投影",
+      "三维透视投影"
+    ],
+    "year": 1963,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "cayley_matrix_algebra"
+    ],
+    "related": [
+      "linear_perspective"
+    ],
+    "desc": "用透视或正交矩阵把三维坐标变换到二维平面的方法，是计算机图形学管线基础。"
+  },
+  {
+    "id": "arithmetic_geometry",
+    "name": "算术几何",
+    "nameEn": "Arithmetic geometry",
+    "wikiEn": "Arithmetic geometry",
+    "aliases": [
+      "丢番图几何",
+      "算术代数几何",
+      "Arithmetic geometry"
+    ],
+    "year": 1964,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "algebraic_number_theory"
+    ],
+    "related": [
+      "modular_curve",
+      "langlands_program",
+      "wiles_fermat_proof"
+    ],
+    "desc": "用代数几何研究数域上多项式方程的分支，格罗滕迪克体系下促成费马大定理证明。"
+  },
+  {
+    "id": "arithmetic_topology",
+    "name": "算术拓扑",
+    "nameEn": "Arithmetic topology",
+    "wikiEn": "Arithmetic topology",
+    "aliases": [
+      "数域三流形类比",
+      "算术拓扑学",
+      "Arithmetic topology"
+    ],
+    "year": 1965,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "algebraic_number_field"
+    ],
+    "related": [
+      "arithmetic_geometry",
+      "fundamental_group"
+    ],
+    "desc": "建立数域与闭三维流形、素理想与纽结之间类比的交叉领域。"
+  },
+  {
+    "id": "hearing_shape_of_drum",
+    "name": "听出鼓的形状",
+    "nameEn": "Hearing the shape of a drum",
+    "wikiEn": "Hearing the shape of a drum",
+    "aliases": [
+      "等谱鼓问题",
+      "听鼓辨形",
+      "Can one hear the shape of a drum"
+    ],
+    "year": 1966,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "heat_kernel"
+    ],
+    "related": [
+      "spectral_geometry",
+      "riemann_geometry"
+    ],
+    "desc": "卡茨1966年提出的等谱流形问题，后找到等谱但不同形的平面鼓，沟通谱与几何。"
+  },
+  {
+    "id": "spectral_geometry",
+    "name": "谱几何",
+    "nameEn": "Spectral geometry",
+    "wikiEn": "Spectral geometry",
+    "aliases": [
+      "谱几何学",
+      "谱流形理论",
+      "Spectral geometry"
+    ],
+    "year": 1966,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "heat_kernel"
+    ],
+    "related": [
+      "hearing_shape_of_drum",
+      "hilbert_schmidt_operator"
+    ],
+    "desc": "由拉普拉斯算子的谱推断流形几何的领域，热核迹系数编码曲率与拓扑不变量。"
+  },
+  {
+    "id": "langlands_program",
+    "name": "朗兰兹纲领",
+    "nameEn": "Langlands program",
+    "wikiEn": "Langlands program",
+    "aliases": [
+      "朗兰兹计划",
+      "朗蘭茲綱領",
+      "Langlands纲领"
+    ],
+    "year": 1967,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [
+      "algebraic_number_theory",
+      "adele_ring"
+    ],
+    "related": [
+      "geometric_langlands",
+      "modular_curve",
+      "wiles_fermat_proof"
+    ],
+    "desc": "朗兰兹1967年信中提出的猜想网，联结伽罗瓦表示、自守形式与L函数。"
+  },
+  {
+    "id": "antieigenvalue_theory",
+    "name": "反特征值理论",
+    "nameEn": "Antieigenvalue theory",
+    "wikiEn": "Antieigenvalue theory",
+    "aliases": [
+      "反特征值",
+      "算子转向角理论",
+      "Antieigenvalue"
+    ],
+    "year": 1968,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "cayley_hamilton_theorem"
+    ],
+    "related": [
+      "condition_number",
+      "jacobi_eigenvalue_algorithm"
+    ],
+    "desc": "古斯塔夫松1968年创立，研究算子把向量转向最大的角度，用于数值稳定性分析。"
+  },
+  {
+    "id": "computer_algebra",
+    "name": "计算机代数",
+    "nameEn": "Computer algebra",
+    "wikiEn": "Computer algebra",
+    "aliases": [
+      "符号计算",
+      "符号演算",
+      "Symbolic computation"
+    ],
+    "year": 1968,
+    "era": "atomic_electronic",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "abstract_algebra"
+    ],
+    "related": [
+      "flint_library",
+      "sparse_matrix"
+    ],
+    "desc": "用计算机做精确符号运算的领域，1968年MACSYMA项目开启现代符号计算系统。"
+  },
+  {
+    "id": "adjacency_algebra",
+    "name": "邻接代数",
+    "nameEn": "Adjacency algebra",
+    "wikiEn": "Adjacency algebra",
+    "aliases": [
+      "邻接矩阵代数",
+      "图邻接代数",
+      "Adjacency matrix algebra"
+    ],
+    "year": 1970,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "cayley_matrix_algebra"
+    ],
+    "related": [
+      "block_matrix",
+      "jacobi_eigenvalue_algorithm"
+    ],
+    "desc": "图邻接矩阵的多项式全体构成的矩阵代数，是图谱分析的代数框架。"
+  },
+  {
+    "id": "diophantine_set",
+    "name": "丢番图集",
+    "nameEn": "Diophantine set",
+    "wikiEn": "Diophantine set",
+    "aliases": [
+      "丢番图关系",
+      "丢番图可定义集",
+      "Diophantine set"
+    ],
+    "year": 1970,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "diophantine_equations"
+    ],
+    "related": [
+      "turing_machine",
+      "fermat_last_theorem"
+    ],
+    "desc": "成员资格可由整系数多项式方程有解判定的集合，MRDP定理证明它恰为递归可枚举集。"
+  },
+  {
+    "id": "invariant_subspace_problem",
+    "name": "不变子空间问题",
+    "nameEn": "Invariant subspace problem",
+    "wikiEn": "Invariant subspace problem",
+    "aliases": [
+      "不变子空间猜想",
+      "超不变子空间问题",
+      "Invariant subspace conjecture"
+    ],
+    "year": 1975,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "bounded_operator"
+    ],
+    "related": [
+      "hilbert_space",
+      "cayley_hamilton_theorem"
+    ],
+    "desc": "问每个有界算子是否都有非平凡闭不变子空间；恩弗洛1975年在巴拿赫空间给反例。"
+  },
+  {
+    "id": "de_bruijn_newman_constant",
+    "name": "德布鲁因-纽曼常数",
+    "nameEn": "De Bruijn–Newman constant",
+    "wikiEn": "De Bruijn–Newman constant",
+    "aliases": [
+      "Λ常数",
+      "德布鲁因纽曼常数",
+      "De Bruijn-Newman constant"
+    ],
+    "year": 1976,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "analytic_number_theory"
+    ],
+    "related": [
+      "euler_product_zeta",
+      "cramers_conjecture"
+    ],
+    "desc": "控制黎曼ξ函数零点实部上界的常数Λ，纽曼1976年定义；Λ=0等价于黎曼猜想。"
+  },
+  {
+    "id": "apery_constant",
+    "name": "阿培里常数",
+    "nameEn": "Apéry's constant",
+    "wikiEn": "Apéry's constant",
+    "aliases": [
+      "ζ(3)",
+      "里曼ζ三",
+      "阿培里ζ常数",
+      "Apery constant"
+    ],
+    "year": 1978,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "analytic_number_theory"
+    ],
+    "related": [
+      "euler_product_zeta",
+      "incomplete_gamma_function"
+    ],
+    "desc": "黎曼ζ函数在3处的值ζ(3)≈1.202，阿培里1978年证明其为无理数。"
+  },
+  {
+    "id": "blas",
+    "name": "基础线性代数子程序",
+    "nameEn": "Basic Linear Algebra Subprograms",
+    "wikiEn": "Basic Linear Algebra Subprograms",
+    "aliases": [
+      "BLAS",
+      "基本线性代数子程序",
+      "BLAS库"
+    ],
+    "year": 1979,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "cayley_matrix_algebra"
+    ],
+    "related": [
+      "sparse_matrix",
+      "gauss_seidel_method"
+    ],
+    "desc": "向量、矩阵向量与矩阵乘法的标准化底层接口，1979年发布，是数值计算性能基石。"
+  },
+  {
+    "id": "abc_conjecture",
+    "name": "abc猜想",
+    "nameEn": "Abc conjecture",
+    "wikiEn": "Abc conjecture",
+    "aliases": [
+      "ABC猜想",
+      "奥斯特莱-马瑟猜想",
+      "Oesterle-Masser conjecture"
+    ],
+    "year": 1985,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "analytic_number_theory"
+    ],
+    "related": [
+      "brocards_problem",
+      "catalans_conjecture"
+    ],
+    "desc": "关于互素a+b=c三数素因子与大小关系的猜想，1985年提出，可推出许多结果。"
+  },
+  {
+    "id": "action_algebra",
+    "name": "作用代数",
+    "nameEn": "Action algebra",
+    "wikiEn": "Action algebra",
+    "aliases": [
+      "行动代数",
+      "作用逻辑代数",
+      "Action algebra"
+    ],
+    "year": 1990,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "boolean_algebra_structure"
+    ],
+    "related": [
+      "turing_machine"
+    ],
+    "desc": "兼具剩余半格与克林尼星号的代数结构，普拉特1990年提出，是程序逻辑代数模型。"
+  },
+  {
+    "id": "blind_signal_separation",
+    "name": "盲信号分离",
+    "nameEn": "Blind signal separation",
+    "wikiEn": "Blind signal separation",
+    "aliases": [
+      "盲源分离",
+      "独立成分分析",
+      "盲分离",
+      "BSS",
+      "ICA"
+    ],
+    "year": 1991,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "svd_algorithm"
+    ],
+    "related": [
+      "kalman_filter"
+    ],
+    "desc": "在源信号与混合方式均未知时从观测中分离独立源，ICA是其代表性方法。"
+  },
+  {
+    "id": "blosum",
+    "name": "BLOSUM打分矩阵",
+    "nameEn": "BLOSUM",
+    "wikiEn": "BLOSUM",
+    "aliases": [
+      "BLOSUM矩阵",
+      "块替换矩阵",
+      "蛋白替换打分矩阵",
+      "BLOSUM62"
+    ],
+    "year": 1992,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "cayley_matrix_algebra"
+    ],
+    "related": [
+      "block_matrix"
+    ],
+    "desc": "由蛋白保守区块比对统计的替换得分矩阵，BLOSUM62是序列比对最常用参数。"
+  },
+  {
+    "id": "bicgstab",
+    "name": "稳定双共轭梯度法",
+    "nameEn": "Biconjugate gradient stabilized method",
+    "wikiEn": "Biconjugate gradient stabilized method",
+    "aliases": [
+      "BiCGSTAB",
+      "双共轭梯度稳定法",
+      "BiCGStab迭代"
+    ],
+    "year": 1992,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "blas"
+    ],
+    "related": [
+      "sparse_matrix",
+      "gauss_seidel_method",
+      "condition_number"
+    ],
+    "desc": "范德沃斯特1992年提出的非对称大型稀疏线性方程组迭代法，平滑了双共轭梯度。"
+  },
+  {
+    "id": "fifteen_and_290_theorems",
+    "name": "15-定理与290-定理",
+    "nameEn": "15 and 290 theorems",
+    "wikiEn": "15 and 290 theorems",
+    "aliases": [
+      "15-定理",
+      "290-定理",
+      "康威-施内贝格尔定理",
+      "Fifteen theorem"
+    ],
+    "year": 1993,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "definite_quadratic_form"
+    ],
+    "related": [
+      "geometry_of_numbers"
+    ],
+    "desc": "整正定二次型若表示到15或290的所有整数便表示全部，康威1993年证15定理。"
+  },
+  {
+    "id": "industrial_grade_prime",
+    "name": "工业级素数",
+    "nameEn": "Industrial-grade prime",
+    "wikiEn": "Industrial-grade prime",
+    "aliases": [
+      "概率素数",
+      "工业级质数",
+      "产业等级质数",
+      "Probable prime"
+    ],
+    "year": 1993,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "carmichael_function"
+    ],
+    "related": [
+      "diffie_hellman"
+    ],
+    "desc": "经米勒-拉宾等概率检验极可能为素却未严格证明的大整数，术语源于科恩。"
+  },
+  {
+    "id": "chebyshevs_bias",
+    "name": "切比雪夫偏差",
+    "nameEn": "Chebyshev's bias",
+    "wikiEn": "Chebyshev's bias",
+    "aliases": [
+      "素数余数偏差",
+      "切比雪夫偏向",
+      "Chebyshev bias"
+    ],
+    "year": 1994,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 3,
+    "prereqs": [
+      "analytic_number_theory"
+    ],
+    "related": [
+      "cramers_conjecture",
+      "dirichlet_character"
+    ],
+    "desc": "模4余3的素数多数时候多于余1者的系统偏差，鲁宾斯坦与萨纳克1994年解释。"
+  },
+  {
+    "id": "moy_prasad_filtration",
+    "name": "莫伊-普拉萨德滤过",
+    "nameEn": "Moy–Prasad filtration",
+    "wikiEn": "Moy–Prasad filtration",
+    "aliases": [
+      "莫伊-普拉萨德滤链",
+      "MP滤过",
+      "深度滤链"
+    ],
+    "year": 1994,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "arithmetic_group"
+    ],
+    "related": [
+      "langlands_program"
+    ],
+    "desc": "p进约化群上按深度分层的紧开子群滤链，莫伊与普拉萨德1994年引入，用于表示论。"
+  },
+  {
+    "id": "geometric_langlands",
+    "name": "几何朗兰兹对应",
+    "nameEn": "Geometric Langlands correspondence",
+    "wikiEn": "Geometric Langlands correspondence",
+    "aliases": [
+      "几何朗兰兹纲领",
+      "几何Langlands对应",
+      "几何朗兰兹猜想"
+    ],
+    "year": 1995,
+    "era": "information",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "langlands_program"
+    ],
+    "related": [
+      "modular_curve",
+      "arithmetic_geometry"
+    ],
+    "desc": "朗兰兹对应的函数域几何版本，把自守层与伽罗瓦表示的范畴等价相连。"
+  },
+  {
+    "id": "achilles_number",
+    "name": "阿喀琉斯数",
+    "nameEn": "Achilles number",
+    "wikiEn": "Achilles number",
+    "aliases": [
+      "强阿喀琉斯数",
+      "强大非完全幂数",
+      "阿基里斯数"
+    ],
+    "year": 2001,
+    "era": "intelligent",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "divisor"
+    ],
+    "desc": "强大（每个素因子至少平方）但不是完全幂的整数，博顿利以特洛伊英雄命名。"
+  },
+  {
+    "id": "classification_finite_simple_groups",
+    "name": "有限单群分类",
+    "nameEn": "Classification of finite simple groups",
+    "wikiEn": "Classification of finite simple groups",
+    "aliases": [
+      "有限单群分类定理",
+      "CFSG",
+      "巨定理",
+      "Enormous theorem"
+    ],
+    "year": 2004,
+    "era": "intelligent",
+    "category": "math_logic",
+    "importance": 1,
+    "prereqs": [
+      "composition_series"
+    ],
+    "related": [
+      "young_tableau",
+      "galois_theory"
+    ],
+    "desc": "有限单群只有素数阶、交错、李型和26个散在群四类，2004年完成。"
+  },
+  {
+    "id": "crouzeixs_conjecture",
+    "name": "克鲁泽猜想",
+    "nameEn": "Crouzeix's conjecture",
+    "wikiEn": "Crouzeix's conjecture",
+    "aliases": [
+      "Crouzeix猜想",
+      "数值域范数猜想",
+      "Crouzeix conjecture"
+    ],
+    "year": 2004,
+    "era": "intelligent",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "analytic_function_of_matrix"
+    ],
+    "related": [
+      "condition_number"
+    ],
+    "desc": "矩阵函数范数不超数值域sup范数两倍的猜想，2004年提出，常数2最优。"
+  },
+  {
+    "id": "wheel_theory",
+    "name": "轮理论",
+    "nameEn": "Wheel theory",
+    "wikiEn": "Wheel theory",
+    "aliases": [
+      "轮代数",
+      "含零除代数",
+      "Wheel algebra"
+    ],
+    "year": 2004,
+    "era": "intelligent",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "commutative_ring"
+    ],
+    "related": [],
+    "desc": "卡尔斯特伦提出的含0/0的代数扩张，加法为交换幺半群，使任意元素均可做除法。"
+  },
+  {
+    "id": "three_x_plus_one_semigroup",
+    "name": "3x+1半群",
+    "nameEn": "3x + 1 semigroup",
+    "wikiEn": "3x + 1 semigroup",
+    "aliases": [
+      "考拉兹半群",
+      "3x+1乘法半群",
+      "3x plus 1 semigroup"
+    ],
+    "year": 2005,
+    "era": "intelligent",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "abstract_algebra"
+    ],
+    "related": [
+      "arithmetic_function"
+    ],
+    "desc": "正有理数乘法半群中与考拉兹迭代相关映射生成的子半群，法尔卡斯2005年引入。"
+  },
+  {
+    "id": "flint_library",
+    "name": "FLINT快速数论库",
+    "nameEn": "Fast Library for Number Theory",
+    "wikiEn": "Fast Library for Number Theory",
+    "aliases": [
+      "FLINT",
+      "快速数论函数库",
+      "FLINT数论库"
+    ],
+    "year": 2008,
+    "era": "intelligent",
+    "category": "math_logic",
+    "importance": 4,
+    "prereqs": [
+      "computer_algebra"
+    ],
+    "related": [
+      "sparse_matrix"
+    ],
+    "desc": "支持大整数、多项式与数论算法的高性能C函数库，哈特2008年前后发起，开源维护。"
+  },
+  {
+    "id": "duffin_schaeffer_theorem",
+    "name": "达芬-谢弗定理",
+    "nameEn": "Duffin–Schaeffer theorem",
+    "wikiEn": "Duffin–Schaeffer theorem",
+    "aliases": [
+      "达芬-谢弗猜想",
+      "Duffin-Schaeffer猜想",
+      "度量逼近定理"
+    ],
+    "year": 2019,
+    "era": "intelligent",
+    "category": "math_logic",
+    "importance": 2,
+    "prereqs": [
+      "diophantine_approximation"
+    ],
+    "related": [
+      "dirichlet_approximation_theorem"
+    ],
+    "desc": "1941年提出、2019年证明，给出几乎所有实数可被有理逼近的度量充要判据。"
+  }
+]

@@ -1,0 +1,45 @@
+# 依赖与构建产物
+node_modules/
+dist/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 本地备份与日志
+*.bak-*
+*.log
+.env
+.DS_Store
+
+# 本机部署状态（含绝对路径与站点 id，不应跨机器共享）
+.netlify/
+
+# 本地 IDE 工作区：设计推演文档与评测 skill
+.trae/
+
+# 脚本生成的报告与评测产物（data/ 只提交事实源 JSON 与 research/ 调研记录）
+/data/validate-report.json
+/data/merge-report.json
+/data/era-recompute-report.json
+/data/von-*.json
+/data/jev-*.json
+/data/wikien-*-cache.json
+/data/quarantine-unverified.json
+/data/domain-relabel-*.json
+/data/isolated-links.json
+
+# 联网缓存与工作目录（派生物，可重跑；含取证与消歧扫描缓存）
+/data/_pipeline_tmp/
+/data/*-cache.json
+/data/disambiguation-hits.json
+/data/n02-worklist.json
+/data/n02-slices/
+/data/iso-worklist.json
+/data/resplit-report.json
+/data/mention-links.json
+/data/wiki-en-*.json
+/data/gate-features.json
+/data/dedupe-review-queue.json
+/data/boundary-decision-*.json
+/data/*-audit.json

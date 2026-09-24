@@ -1,0 +1,206 @@
+[
+ {
+  "id": "ptolemy_trigonometry",
+  "title": "Almagest",
+  "kept_by": "ptolemaic_astronomy",
+  "reason": "同题拆分，链接归 ptolemaic_astronomy"
+ },
+ {
+  "id": "waterpowered_bellows",
+  "title": "Bellows",
+  "kept_by": "bellows",
+  "reason": "同题拆分，链接归 bellows"
+ },
+ {
+  "id": "blast_furnace_china",
+  "title": "Blast furnace",
+  "kept_by": "blast_furnace",
+  "reason": "同题拆分，链接归 blast_furnace"
+ },
+ {
+  "id": "canning_industrialization",
+  "title": "Canning",
+  "kept_by": "canning",
+  "reason": "同题拆分，链接归 canning"
+ },
+ {
+  "id": "cast_iron_cannon",
+  "title": "Cannon",
+  "kept_by": "cannon",
+  "reason": "同题拆分，链接归 cannon"
+ },
+ {
+  "id": "coke_smelting",
+  "title": "Coke (fuel)",
+  "kept_by": "coke_fuel",
+  "reason": "同题拆分，链接归 coke_fuel"
+ },
+ {
+  "id": "roller_cotton_gin",
+  "title": "Cotton gin",
+  "kept_by": "cotton_gin",
+  "reason": "同题拆分，链接归 cotton_gin"
+ },
+ {
+  "id": "crank_handle",
+  "title": "Crank (mechanism)",
+  "kept_by": "crank",
+  "reason": "同题拆分，链接归 crank"
+ },
+ {
+  "id": "necar_fuel_cell_vehicle",
+  "title": "Fuel cell vehicle",
+  "kept_by": "fuel_cell_vehicle",
+  "reason": "同题拆分，链接归 fuel_cell_vehicle"
+ },
+ {
+  "id": "cuvier_comparative_anatomy",
+  "title": "Georges Cuvier",
+  "kept_by": "cuvier_paleontology_catastrophism",
+  "reason": "同题拆分，链接归 cuvier_paleontology_catastrophism"
+ },
+ {
+  "id": "hindu_numerals",
+  "title": "Hindu–Arabic numeral system",
+  "kept_by": "hindu_arabic_numerals",
+  "reason": "同题拆分，链接归 hindu_arabic_numerals"
+ },
+ {
+  "id": "huyghens_horologium",
+  "title": "Horologium Oscillatorium",
+  "kept_by": "huygens_centrifugal_force",
+  "reason": "同题拆分，链接归 huygens_centrifugal_force"
+ },
+ {
+  "id": "marine_clock_early",
+  "title": "Horologium Oscillatorium",
+  "kept_by": "huygens_centrifugal_force",
+  "reason": "同题拆分，链接归 huygens_centrifugal_force"
+ },
+ {
+  "id": "early_hovercraft",
+  "title": "Hovercraft",
+  "kept_by": "hovercraft",
+  "reason": "同题拆分，链接归 hovercraft"
+ },
+ {
+  "id": "ivf_mammal",
+  "title": "In vitro fertilisation",
+  "kept_by": "ivf",
+  "reason": "同题拆分，链接归 ivf"
+ },
+ {
+  "id": "printing_ink",
+  "title": "Ink",
+  "kept_by": "ink",
+  "reason": "同题拆分，链接归 ink"
+ },
+ {
+  "id": "isoperimetric_zenodorus",
+  "title": "Isoperimetric inequality",
+  "kept_by": "isoperimetric_inequality_modern",
+  "reason": "同题拆分，链接归 isoperimetric_inequality_modern"
+ },
+ {
+  "id": "cross_staff",
+  "title": "Jacob's staff",
+  "kept_by": "jacobs_staff",
+  "reason": "同题拆分，链接归 jacobs_staff"
+ },
+ {
+  "id": "khinchin_law_large_numbers",
+  "title": "Law of large numbers",
+  "kept_by": "bernoulli_law_large_numbers",
+  "reason": "同题拆分，链接归 bernoulli_law_large_numbers"
+ },
+ {
+  "id": "pound_lock",
+  "title": "Lock (water navigation)",
+  "kept_by": "canal_lock",
+  "reason": "同题拆分，链接归 canal_lock"
+ },
+ {
+  "id": "high_speed_maglev",
+  "title": "Maglev",
+  "kept_by": "maglev_train",
+  "reason": "同题拆分，链接归 maglev_train"
+ },
+ {
+  "id": "markov_onegin_application",
+  "title": "Markov chain",
+  "kept_by": "markov_chains",
+  "reason": "同题拆分，链接归 markov_chains"
+ },
+ {
+  "id": "friction_match",
+  "title": "Match",
+  "kept_by": "match",
+  "reason": "同题拆分，链接归 match"
+ },
+ {
+  "id": "paddle_wheel_ship",
+  "title": "Paddle wheel",
+  "kept_by": "paddle_wheel_boat",
+  "reason": "同题拆分，链接归 paddle_wheel_boat"
+ },
+ {
+  "id": "piston_pump",
+  "title": "Piston pump",
+  "kept_by": "force_pump",
+  "reason": "同题拆分，链接归 force_pump"
+ },
+ {
+  "id": "pet_scanner",
+  "title": "Positron emission tomography",
+  "kept_by": "positron_imaging",
+  "reason": "同题拆分，链接归 positron_imaging"
+ },
+ {
+  "id": "stern_rudder",
+  "title": "Rudder",
+  "kept_by": "steering_oar",
+  "reason": "同题拆分，链接归 steering_oar"
+ },
+ {
+  "id": "sternpost_rudder",
+  "title": "Rudder",
+  "kept_by": "steering_oar",
+  "reason": "同题拆分，链接归 steering_oar"
+ },
+ {
+  "id": "metal_lathe",
+  "title": "Screw-cutting lathe",
+  "kept_by": "screw_cutting_lathe",
+  "reason": "同题拆分，链接归 screw_cutting_lathe"
+ },
+ {
+  "id": "lemke_dual_simplex",
+  "title": "Simplex algorithm",
+  "kept_by": "simplex_method",
+  "reason": "同题拆分，链接归 simplex_method"
+ },
+ {
+  "id": "sugar_crystallization",
+  "title": "Sugar",
+  "kept_by": "sugar",
+  "reason": "同题拆分，链接归 sugar"
+ },
+ {
+  "id": "digital_telephone_switch",
+  "title": "Telephone exchange",
+  "kept_by": "telephone_exchange",
+  "reason": "同题拆分，链接归 telephone_exchange"
+ },
+ {
+  "id": "modern_wind_turbine",
+  "title": "Wind turbine",
+  "kept_by": "wind_turbine_electric",
+  "reason": "同题拆分，链接归 wind_turbine_electric"
+ },
+ {
+  "id": "windmill_proto",
+  "title": "Windmill",
+  "kept_by": "windmill",
+  "reason": "同题拆分，链接归 windmill"
+ }
+]

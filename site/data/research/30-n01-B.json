@@ -1,0 +1,1962 @@
+[
+  {
+    "id": "coriolis_force",
+    "name": "科里奥利力",
+    "nameEn": "Coriolis force",
+    "wikiEn": "Coriolis force",
+    "aliases": [
+      "科氏力",
+      "地转偏向力",
+      "科里奥利效应"
+    ],
+    "year": 1835,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "industrial",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "newtonian_mechanics"
+    ],
+    "related": [
+      "hadley_cell",
+      "jet_stream",
+      "numerical_weather_prediction"
+    ],
+    "desc": "旋转参考系中运动物体偏转的表观力，气象环流与弹道计算之基。"
+  },
+  {
+    "id": "bernoulli_principle",
+    "name": "伯努利原理",
+    "nameEn": "Bernoulli's principle",
+    "wikiEn": "Bernoulli's principle",
+    "aliases": [
+      "伯努利定律"
+    ],
+    "year": 1738,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "丹尼尔·伯努利《流体学》出版年",
+    "era": "industrial",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "galilean_kinematics"
+    ],
+    "related": [
+      "airplane",
+      "boundary_layer_theory",
+      "euler_fluid_equations"
+    ],
+    "desc": "流速越大压强越小，机翼升力与流量计的原理依据。"
+  },
+  {
+    "id": "hall_effect",
+    "name": "霍尔效应",
+    "nameEn": "Hall effect",
+    "wikiEn": "Hall effect",
+    "aliases": [
+      "霍尔电压"
+    ],
+    "year": 1879,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "second_industrial",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "maxwell_equations"
+    ],
+    "related": [
+      "electric_vehicle",
+      "integrated_circuit",
+      "transistor"
+    ],
+    "desc": "载流导体在磁场中横向产生电压，磁传感器与测流片的基石。"
+  },
+  {
+    "id": "thermoelectric_effect",
+    "name": "温差电效应",
+    "nameEn": "Thermoelectric effect",
+    "wikiEn": "Thermoelectric effect",
+    "aliases": [
+      "塞贝克效应",
+      "佩尔捷效应",
+      "热电效应"
+    ],
+    "year": 1821,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "塞贝克1821年发现温差生电，佩尔捷效应1834年补全",
+    "era": "industrial",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "voltaic_pile"
+    ],
+    "related": [
+      "rtg",
+      "refrigeration"
+    ],
+    "desc": "温差直接产生电动势，热电偶测温与深空核电池之理。"
+  },
+  {
+    "id": "piezoelectricity",
+    "name": "压电效应",
+    "nameEn": "Piezoelectricity",
+    "wikiEn": "Piezoelectricity",
+    "aliases": [
+      "压电性"
+    ],
+    "year": 1880,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "居里兄弟实验发现",
+    "era": "second_industrial",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "sonar",
+      "radar",
+      "pendulum_clock"
+    ],
+    "desc": "晶体受力生电、加电形变，超声换能器与石英钟的基石。"
+  },
+  {
+    "id": "compton_scattering",
+    "name": "康普顿散射",
+    "nameEn": "Compton scattering",
+    "wikiEn": "Compton scattering",
+    "aliases": [
+      "康普顿效应"
+    ],
+    "year": 1923,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "second_industrial",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "einstein_photoelectric",
+      "planck_quantum_hypothesis"
+    ],
+    "related": [
+      "x_ray",
+      "thomson_electron"
+    ],
+    "desc": "X射线被电子散射后波长变长，实锤光子携带动量。"
+  },
+  {
+    "id": "fermi_dirac_statistics",
+    "name": "费米-狄拉克统计",
+    "nameEn": "Fermi-Dirac statistics",
+    "wikiEn": "Fermi-Dirac statistics",
+    "aliases": [
+      "费米统计"
+    ],
+    "year": 1926,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1927年狄拉克独立表述并定名",
+    "era": "second_industrial",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "pauli_exclusion_principle"
+    ],
+    "related": [
+      "band_theory",
+      "chandrasekhar_limit"
+    ],
+    "desc": "不相容粒子的分布律，撑起金属电子、白矮星与半导体。"
+  },
+  {
+    "id": "holography",
+    "name": "全息摄影",
+    "nameEn": "Holography",
+    "wikiEn": "Holography",
+    "aliases": [
+      "全息术",
+      "全息照相"
+    ],
+    "year": 1947,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "伽柏1947年提出原理，1962年激光加持成实用技术",
+    "era": "atomic_electronic",
+    "category": "physics",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "x_ray_crystallography"
+    ],
+    "related": [
+      "laser",
+      "photography"
+    ],
+    "desc": "记录光波相位以再现三维影像，思路源自X射线衍射。"
+  },
+  {
+    "id": "sabine_reverberation",
+    "name": "赛宾混响定律",
+    "nameEn": "Sabine reverberation law",
+    "wikiEn": "Reverberation",
+    "aliases": [
+      "混响时间公式",
+      "赛宾公式"
+    ],
+    "year": 1898,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "赛宾1898年发表混响实验公式，奠定建筑声学",
+    "era": "second_industrial",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "hearing_aid",
+      "magnetic_tape_recorder"
+    ],
+    "desc": "混响时间与厅堂体积成正比、与吸声量成反比，声学设计始建。"
+  },
+  {
+    "id": "fourier_law",
+    "name": "傅里叶热传导定律",
+    "nameEn": "Fourier's law",
+    "wikiEn": "Fourier's law",
+    "aliases": [
+      "热传导方程",
+      "傅里叶定律"
+    ],
+    "year": 1822,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "《热的解析理论》出版年",
+    "era": "industrial",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "caloric_theory"
+    ],
+    "related": [
+      "carnot_cycle",
+      "blast_furnace"
+    ],
+    "desc": "热流正比于温度梯度，工程传热与扩散分析的出发点。"
+  },
+  {
+    "id": "mach_number",
+    "name": "马赫数",
+    "nameEn": "Mach number",
+    "wikiEn": "Mach number",
+    "aliases": [
+      "马赫"
+    ],
+    "year": 1929,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1929年由airplane速度研究引入并定名",
+    "era": "second_industrial",
+    "category": "physics",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "reynolds_number"
+    ],
+    "related": [
+      "airplane",
+      "jet_engine",
+      "boundary_layer_theory"
+    ],
+    "desc": "流速与声速之比的无量纲数，划分亚音速与超音速飞行。"
+  },
+  {
+    "id": "stoichiometry",
+    "name": "化学计量学",
+    "nameEn": "Stoichiometry",
+    "wikiEn": "Stoichiometry",
+    "aliases": [
+      "定比计算",
+      "化学计量关系"
+    ],
+    "year": 1792,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "温泽尔1792年《亲和力学》开启定量反应比研究",
+    "era": "industrial",
+    "category": "chemistry",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "conservation_of_mass"
+    ],
+    "related": [
+      "law_of_definite_proportions",
+      "leblanc_process"
+    ],
+    "desc": "依质量守恒定量换算反应物与产物之比，化工投料之算盘。"
+  },
+  {
+    "id": "ideal_gas_law",
+    "name": "理想气体状态方程",
+    "nameEn": "Ideal gas law",
+    "wikiEn": "Ideal gas law",
+    "aliases": [
+      "克拉珀龙方程",
+      "pV=nRT"
+    ],
+    "year": 1834,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "克拉珀龙1834年综合各气体定律成式",
+    "era": "industrial",
+    "category": "chemistry",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "boyles_law",
+      "gay_lussac_combining_volumes",
+      "avogadro_molecular_hypothesis"
+    ],
+    "related": [
+      "van_der_waals_equation",
+      "carnot_cycle"
+    ],
+    "desc": "统一波义耳、盖-吕萨克与阿伏伽德罗定律的气体方程。"
+  },
+  {
+    "id": "ph_concept",
+    "name": "pH酸碱度标度",
+    "nameEn": "pH",
+    "wikiEn": "pH",
+    "aliases": [
+      "氢离子浓度指数",
+      "酸碱值"
+    ],
+    "year": 1909,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "索伦森1909年在哥本哈根酿酒实验室提出",
+    "era": "second_industrial",
+    "category": "chemistry",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "arrhenius_ionic_dissociation"
+    ],
+    "related": [
+      "ph_meter",
+      "titration_method"
+    ],
+    "desc": "以氢离子浓度负对数量度酸碱，化学与生理通用标尺。"
+  },
+  {
+    "id": "davy_electrolysis",
+    "name": "戴维电解分离元素",
+    "nameEn": "Humphry Davy",
+    "wikiEn": "Humphry Davy",
+    "aliases": [
+      "电解法发现碱金属",
+      "戴维电解"
+    ],
+    "year": 1807,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1807年电解得钾钠，1808年电解得钙镁锶钡",
+    "era": "industrial",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "voltaic_pile"
+    ],
+    "related": [
+      "electrochemistry",
+      "periodic_table"
+    ],
+    "desc": "伏打电堆问世即电解出钾钠等新元素，大幅扩充元素家族。"
+  },
+  {
+    "id": "grignard_reagent",
+    "name": "格氏试剂",
+    "nameEn": "Grignard reagent",
+    "wikiEn": "Grignard reagent",
+    "aliases": [
+      "格林尼亚试剂",
+      "有机镁试剂"
+    ],
+    "year": 1900,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "second_industrial",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "butlerov_structure_theory"
+    ],
+    "related": [],
+    "desc": "有机镁卤化物使碳链亲核偶联，碳-碳键构建的通用利器。"
+  },
+  {
+    "id": "diels_alder_reaction",
+    "name": "狄尔斯-阿尔德反应",
+    "nameEn": "Diels-Alder reaction",
+    "wikiEn": "Diels–Alder reaction",
+    "aliases": [
+      "双烯合成",
+      "D-A反应"
+    ],
+    "year": 1928,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "second_industrial",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "lewis_covalent_octet"
+    ],
+    "related": [
+      "woodward_hoffmann_rules",
+      "indigo_synthesis"
+    ],
+    "desc": "双烯与亲双烯体一步成环，构建六元环最高效的周环反应。"
+  },
+  {
+    "id": "resonance_chemistry",
+    "name": "共振论",
+    "nameEn": "Resonance (chemistry)",
+    "wikiEn": "Resonance (chemistry)",
+    "aliases": [
+      "价键共振",
+      "介体理论"
+    ],
+    "year": 1928,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "鲍林1928年前后系统引入量子共振概念",
+    "era": "second_industrial",
+    "category": "chemistry",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "lewis_covalent_octet",
+      "de_broglie_matter_waves"
+    ],
+    "related": [
+      "kekule_benzene_ring",
+      "mulliken_molecular_orbital"
+    ],
+    "desc": "多个经典结构式叠加描述真实分子，化解苯键长平均化疑难。"
+  },
+  {
+    "id": "electronegativity",
+    "name": "电负性",
+    "nameEn": "Electronegativity",
+    "wikiEn": "Electronegativity",
+    "aliases": [
+      "鲍林标度",
+      "电负度"
+    ],
+    "year": 1932,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "鲍林1932年提出量化标度",
+    "era": "second_industrial",
+    "category": "chemistry",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "lewis_covalent_octet"
+    ],
+    "related": [
+      "periodic_table",
+      "hydrogen_bond"
+    ],
+    "desc": "原子在分子中吸电子能力的标度，预判键型与反应位点。"
+  },
+  {
+    "id": "hydrogen_bond",
+    "name": "氢键",
+    "nameEn": "Hydrogen bond",
+    "wikiEn": "Hydrogen bond",
+    "aliases": [
+      "氢桥键"
+    ],
+    "year": 1920,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "拉蒂默与罗代布什1920年首次明确表述",
+    "era": "second_industrial",
+    "category": "chemistry",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "lewis_covalent_octet"
+    ],
+    "related": [
+      "dna_double_helix",
+      "van_der_waals_equation"
+    ],
+    "desc": "氢与强电负原子间的定向弱键，决定水的反常与碱基配对。"
+  },
+  {
+    "id": "vsepr_theory",
+    "name": "价层电子对互斥理论",
+    "nameEn": "VSEPR theory",
+    "wikiEn": "VSEPR theory",
+    "aliases": [
+      "VSEPR模型",
+      "电子对互斥模型"
+    ],
+    "year": 1957,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "西奇威克1940年初创，吉尔斯比1957年定型为通用模型",
+    "era": "atomic_electronic",
+    "category": "chemistry",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "lewis_covalent_octet"
+    ],
+    "related": [
+      "mulliken_molecular_orbital",
+      "x_ray_crystallography"
+    ],
+    "desc": "以电子对相互排斥排布预测分子几何构型的简易模型。"
+  },
+  {
+    "id": "enzyme_concept",
+    "name": "酶与无细胞发酵",
+    "nameEn": "Enzyme",
+    "wikiEn": "Enzyme",
+    "aliases": [
+      "酵素",
+      "酶学"
+    ],
+    "year": 1897,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "毕希纳1897年无细胞发酵实验；1878年已定名",
+    "era": "second_industrial",
+    "category": "chemistry",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "law_of_mass_action"
+    ],
+    "related": [
+      "fermentation",
+      "beadle_tatum_hypothesis",
+      "catalysis_concept"
+    ],
+    "desc": "酵母汁无细胞发酵证明催化可脱离活细胞，生物化学肇始。"
+  },
+  {
+    "id": "titration_method",
+    "name": "滴定分析",
+    "nameEn": "Titration",
+    "wikiEn": "Titration",
+    "aliases": [
+      "容量分析",
+      "滴定法"
+    ],
+    "year": 1791,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "德克鲁瓦齐耶1791年首创容量法测漂白粉",
+    "era": "industrial",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "conservation_of_mass"
+    ],
+    "related": [
+      "ph_meter",
+      "stoichiometry",
+      "water_chlorination"
+    ],
+    "desc": "标准溶液滴至等当点的定量分析，从漂白粉到药典通用。"
+  },
+  {
+    "id": "chromatography",
+    "name": "色谱法",
+    "nameEn": "Chromatography",
+    "wikiEn": "Chromatography",
+    "aliases": [
+      "层析",
+      "色层分离"
+    ],
+    "year": 1903,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "茨维特分离植物色素；1906年发表",
+    "era": "second_industrial",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "fractional_distillation"
+    ],
+    "related": [
+      "mass_spectrometry",
+      "petroleum_refinery"
+    ],
+    "desc": "依两相分配差分离混合物，从植物色素到蛋白组学支柱。"
+  },
+  {
+    "id": "nmr_spectroscopy",
+    "name": "核磁共振波谱",
+    "nameEn": "Nuclear magnetic resonance spectroscopy",
+    "wikiEn": "Nuclear magnetic resonance spectroscopy",
+    "aliases": [
+      "NMR",
+      "核磁共振"
+    ],
+    "year": 1946,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1946年发现核磁共振吸收，1950年代起成解析工具",
+    "era": "atomic_electronic",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "spectroscopy"
+    ],
+    "related": [
+      "mri_scanner",
+      "x_ray_crystallography"
+    ],
+    "desc": "测原子核磁场中共振频率解析分子结构，有机化学之眼。"
+  },
+  {
+    "id": "catalytic_cracking",
+    "name": "流化催化裂化",
+    "nameEn": "Fluid catalytic cracking",
+    "wikiEn": "Fluid catalytic cracking",
+    "aliases": [
+      "FCC",
+      "催化裂化"
+    ],
+    "year": 1943,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1943年ECON装置工业化投产",
+    "era": "second_industrial",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "cracking_refining",
+      "catalysis_concept"
+    ],
+    "related": [
+      "petroleum_refinery",
+      "internal_combustion_engine"
+    ],
+    "desc": "粉状催化剂流化裂化重油，航空与车用汽油产率倍增。"
+  },
+  {
+    "id": "catalytic_converter",
+    "name": "汽车催化转化器",
+    "nameEn": "Catalytic converter",
+    "wikiEn": "Catalytic converter",
+    "aliases": [
+      "三元催化器"
+    ],
+    "year": 1975,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1975年美国立法强制装车",
+    "era": "information",
+    "category": "chemistry",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "internal_combustion_engine",
+      "catalysis_concept"
+    ],
+    "related": [
+      "petroleum_refinery",
+      "automobile"
+    ],
+    "desc": "铂钯铑催化将尾气一氧化碳与氮氧化物转为无害气体。"
+  },
+  {
+    "id": "electroplating",
+    "name": "电镀",
+    "nameEn": "Electroplating",
+    "wikiEn": "Electroplating",
+    "aliases": [
+      "电解镀层",
+      "电镀工艺"
+    ],
+    "year": 1840,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "雅科比1838年与斯宾塞1840年各自实现",
+    "era": "industrial",
+    "category": "chemistry",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "faradays_electrolysis_laws",
+      "voltaic_pile"
+    ],
+    "related": [
+      "electrochemistry",
+      "lead_acid_battery"
+    ],
+    "desc": "电解在器表沉积金属镀层，防腐装饰与精密复制之用。"
+  },
+  {
+    "id": "miller_urey_experiment",
+    "name": "米勒-尤里实验",
+    "nameEn": "Miller-Urey experiment",
+    "wikiEn": "Miller–Urey experiment",
+    "aliases": [
+      "米勒实验",
+      "原始汤实验"
+    ],
+    "year": 1953,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "atomic_electronic",
+    "category": "chemistry",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "rna_world_hypothesis",
+      "recombinant_dna_technology"
+    ],
+    "desc": "模拟原始大气放电合成氨基酸，首证生命分子可自然生成。"
+  },
+  {
+    "id": "photosynthesis_discovery",
+    "name": "光合作用的发现",
+    "nameEn": "Photosynthesis",
+    "wikiEn": "Photosynthesis",
+    "aliases": [
+      "光合作用",
+      "英根豪茨实验"
+    ],
+    "year": 1779,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "英根豪茨1779年证明需光释氧；普里斯特利1771年先导",
+    "era": "industrial",
+    "category": "life_medicine",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "agriculture",
+      "greenhouse_effect",
+      "conservation_of_mass"
+    ],
+    "desc": "植物借光固定二氧化碳释放氧，食物链与大气的根基。"
+  },
+  {
+    "id": "nitrogen_cycle",
+    "name": "氮循环",
+    "nameEn": "Nitrogen cycle",
+    "wikiEn": "Nitrogen cycle",
+    "aliases": [
+      "固氮循环"
+    ],
+    "year": 1902,
+    "year_basis": "scholarly_disputed",
+    "year_span": null,
+    "year_note": "19世纪末确证硝化作用，1901年贝杰林克发现固氮菌成环",
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "haber_process",
+      "agriculture",
+      "photosynthesis_discovery"
+    ],
+    "desc": "氮在大气、土壤与生物体间循环转化，肥力与农业的核心。"
+  },
+  {
+    "id": "john_snow_epidemiology",
+    "name": "斯诺霍乱流行病学调查",
+    "nameEn": "John Snow",
+    "wikiEn": "John Snow",
+    "aliases": [
+      "宽街水泵调查",
+      "流行病学之父"
+    ],
+    "year": 1854,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "industrial",
+    "category": "life_medicine",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "germ_theory",
+      "cholera_vaccine",
+      "water_chlorination"
+    ],
+    "desc": "以地图与统计锁定宽街水泵传染源，流行病学由此奠基。"
+  },
+  {
+    "id": "semmelweis_handwashing",
+    "name": "塞麦尔维斯洗手消毒",
+    "nameEn": "Ignaz Semmelweis",
+    "wikiEn": "Ignaz Semmelweis",
+    "aliases": [
+      "产褥热",
+      "消毒产钳"
+    ],
+    "year": 1847,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "industrial",
+    "category": "life_medicine",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "antiseptic_surgery",
+      "aseptic_surgery",
+      "quarantine"
+    ],
+    "desc": "漂白粉洗手使产褥热死亡率骤降，首开无菌与对照意识。"
+  },
+  {
+    "id": "blood_types",
+    "name": "ABO血型系统",
+    "nameEn": "Blood type",
+    "wikiEn": "Blood type",
+    "aliases": [
+      "血型",
+      "兰德施泰纳血型"
+    ],
+    "year": 1901,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "blood_transfusion"
+    ],
+    "related": [
+      "kidney_transplant",
+      "hemodialysis",
+      "blood_bank"
+    ],
+    "desc": "红细胞表面抗原决定血型，配型让输血与移植成为常规。"
+  },
+  {
+    "id": "gene_concept",
+    "name": "基因概念",
+    "nameEn": "Gene",
+    "wikiEn": "Gene",
+    "aliases": [
+      "遗传因子",
+      "基因"
+    ],
+    "year": 1909,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "约翰逊1909年提出gene一词",
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "mendelian_inheritance"
+    ],
+    "related": [
+      "sutton_boveri_theory",
+      "dna_double_helix"
+    ],
+    "desc": "把孟德尔遗传因子定名为基因，从抽象数到物质实体。"
+  },
+  {
+    "id": "meselson_stahl_experiment",
+    "name": "梅塞尔森-斯塔尔实验",
+    "nameEn": "Meselson-Stahl experiment",
+    "wikiEn": "Meselson–Stahl experiment",
+    "aliases": [
+      "最美丽的实验",
+      "半保留复制证明"
+    ],
+    "year": 1958,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "atomic_electronic",
+    "category": "life_medicine",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "dna_double_helix",
+      "isotope_tracer"
+    ],
+    "related": [
+      "central_dogma",
+      "pcr"
+    ],
+    "desc": "氮同位素密度梯度标记，证明DNA以半保留方式复制。"
+  },
+  {
+    "id": "hodgkin_huxley_model",
+    "name": "霍奇金-赫胥黎模型",
+    "nameEn": "Hodgkin-Huxley model",
+    "wikiEn": "Hodgkin–Huxley model",
+    "aliases": [
+      "神经冲动方程"
+    ],
+    "year": 1952,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "atomic_electronic",
+    "category": "life_medicine",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "neuron_doctrine"
+    ],
+    "related": [
+      "eeg",
+      "fmri"
+    ],
+    "desc": "方程定量刻画神经动作电位离子机制，计算神经科学起点。"
+  },
+  {
+    "id": "recombinant_dna_technology",
+    "name": "重组DNA技术",
+    "nameEn": "Recombinant DNA",
+    "wikiEn": "Recombinant DNA",
+    "aliases": [
+      "基因克隆",
+      "重组脱氧核糖核酸"
+    ],
+    "year": 1972,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "伯格1972年实现首次体外重组，1973年科恩克隆成功",
+    "era": "information",
+    "category": "life_medicine",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "restriction_enzyme",
+      "central_dogma"
+    ],
+    "related": [
+      "pcr",
+      "crispr_gene_editing",
+      "synthetic_biology"
+    ],
+    "desc": "限制酶与连接酶拼装跨物种基因，开启基因工程产业时代。"
+  },
+  {
+    "id": "stem_cell_concept",
+    "name": "干细胞",
+    "nameEn": "Stem cell",
+    "wikiEn": "Stem cell",
+    "aliases": [
+      "成体干细胞",
+      "胚胎干细胞"
+    ],
+    "year": 1998,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1908年提出概念，1981年小鼠、1998年人胚胎干细胞建系",
+    "era": "information",
+    "category": "life_medicine",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "cell_theory",
+      "cell_culture"
+    ],
+    "related": [
+      "ips_cell_therapy",
+      "organoid"
+    ],
+    "desc": "能自我更新并多向分化的细胞，再生医学的种子细胞。"
+  },
+  {
+    "id": "epigenetics_concept",
+    "name": "表观遗传学",
+    "nameEn": "Epigenetics",
+    "wikiEn": "Epigenetics",
+    "aliases": [
+      "表观遗传",
+      "染色质修饰"
+    ],
+    "year": 1942,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "沃丁顿1942年定名，甲基化机制1970年代确证",
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "gene_concept"
+    ],
+    "related": [
+      "epigenetic_therapy",
+      "dna_double_helix"
+    ],
+    "desc": "研究不改DNA序列的可遗传表达调控，发育与癌变新维度。"
+  },
+  {
+    "id": "fmri",
+    "name": "功能性磁共振成像",
+    "nameEn": "fMRI",
+    "wikiEn": "fMRI",
+    "aliases": [
+      "功能核磁",
+      "血氧水平依赖成像"
+    ],
+    "year": 1990,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "小川1990年基于B效应在活体实现",
+    "era": "information",
+    "category": "life_medicine",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "mri_scanner"
+    ],
+    "related": [
+      "pet_scanner",
+      "brain_computer_interface",
+      "eeg"
+    ],
+    "desc": "依血氧信号无损给脑活动拍电影，认知科学头号利器。"
+  },
+  {
+    "id": "randomized_controlled_trial",
+    "name": "随机对照试验",
+    "nameEn": "Randomized controlled trial",
+    "wikiEn": "Randomized controlled trial",
+    "aliases": [
+      "RCT",
+      "随机临床试验"
+    ],
+    "year": 1948,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1948年英国医学研究会链霉素试验为公认首例",
+    "era": "atomic_electronic",
+    "category": "life_medicine",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "streptomycin"
+    ],
+    "related": [
+      "drug_testing",
+      "tuberculin"
+    ],
+    "desc": "随机分组加对照评估疗效，循证医学的黄金标准。"
+  },
+  {
+    "id": "oral_rehydration_therapy",
+    "name": "口服补液疗法",
+    "nameEn": "Oral rehydration therapy",
+    "wikiEn": "Oral rehydration therapy",
+    "aliases": [
+      "ORT",
+      "口服补液盐"
+    ],
+    "year": 1968,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1968年达卡战场验证，1970年代WHO全球推广",
+    "era": "atomic_electronic",
+    "category": "life_medicine",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "cholera_vaccine"
+    ],
+    "related": [
+      "water_chlorination",
+      "smallpox_eradication"
+    ],
+    "desc": "借钠-葡萄糖共转运口服补水盐，挽救数百万腹泻患儿。"
+  },
+  {
+    "id": "neptune_discovery",
+    "name": "海王星的发现",
+    "nameEn": "Discovery of Neptune",
+    "wikiEn": "Discovery of Neptune",
+    "aliases": [
+      "笔尖上的发现",
+      "勒威耶海王星"
+    ],
+    "year": 1846,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "newtonian_mechanics",
+      "keplers_laws"
+    ],
+    "related": [
+      "inverse_square_gravity",
+      "telescope"
+    ],
+    "desc": "由天王星轨道摄动算出未知行星位置，望远镜指处即得。"
+  },
+  {
+    "id": "stellar_parallax",
+    "name": "恒星周年视差",
+    "nameEn": "Stellar parallax",
+    "wikiEn": "Stellar parallax",
+    "aliases": [
+      "周年视差",
+      "贝塞尔测距"
+    ],
+    "year": 1838,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "贝塞尔首测61天鹅座视差",
+    "era": "industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "telescope"
+    ],
+    "related": [
+      "cosmic_distance_ladder",
+      "hubble_law"
+    ],
+    "desc": "地球公转致近星位置微移，人类第一次量出恒星距离。"
+  },
+  {
+    "id": "harvard_spectral_classification",
+    "name": "恒星光谱分类",
+    "nameEn": "Harvard spectral classification",
+    "wikiEn": "Harvard spectral classification",
+    "aliases": [
+      "哈佛分类法",
+      "OBAFGKM序列"
+    ],
+    "year": 1890,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "皮克林《德雷伯星表》初版1890年，1900年代重排成温度序列",
+    "era": "second_industrial",
+    "category": "earth_space",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "spectroscopy",
+      "kirchhoff_blackbody_radiation"
+    ],
+    "related": [
+      "hertzsprung_russell_diagram",
+      "period_luminosity_relation"
+    ],
+    "desc": "按谱线把恒星排成OBAFGKM序列，星族研究的通用语言。"
+  },
+  {
+    "id": "period_luminosity_relation",
+    "name": "周光关系",
+    "nameEn": "Period-luminosity relation",
+    "wikiEn": "Period-luminosity relation",
+    "aliases": [
+      "勒维特定律",
+      "造父变星周光关系"
+    ],
+    "year": 1912,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "second_industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "harvard_spectral_classification"
+    ],
+    "related": [
+      "cosmic_distance_ladder",
+      "hubble_law"
+    ],
+    "desc": "造父变星光变周期正比于光度，宇宙量天第一把标尺。"
+  },
+  {
+    "id": "hertzsprung_russell_diagram",
+    "name": "赫罗图",
+    "nameEn": "Hertzsprung-Russell diagram",
+    "wikiEn": "Hertzsprung–Russell diagram",
+    "aliases": [
+      "H-R图",
+      "主序图"
+    ],
+    "year": 1913,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "赫茨普龙1911年初绘，罗素1913年独立发表",
+    "era": "second_industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "harvard_spectral_classification",
+      "period_luminosity_relation"
+    ],
+    "related": [
+      "chandrasekhar_limit",
+      "bethe_stellar_nucleosynthesis"
+    ],
+    "desc": "光度对温度的散点图显出主序与巨星支，恒星演化地图。"
+  },
+  {
+    "id": "cosmic_distance_ladder",
+    "name": "宇宙距离阶梯",
+    "nameEn": "Cosmic distance ladder",
+    "wikiEn": "Cosmic distance ladder",
+    "aliases": [
+      "量天尺",
+      "宇宙距离尺度"
+    ],
+    "year": 1924,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "哈勃1924年以周光关系测定仙女座距离，阶梯法成型",
+    "era": "second_industrial",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "stellar_parallax",
+      "period_luminosity_relation"
+    ],
+    "related": [
+      "hubble_law",
+      "event_horizon_telescope"
+    ],
+    "desc": "视差、周光、Ia型超新星逐级定标，丈量宇宙的深度。"
+  },
+  {
+    "id": "solar_cycle",
+    "name": "太阳活动周期",
+    "nameEn": "Solar cycle",
+    "wikiEn": "Solar cycle",
+    "aliases": [
+      "11年太阳周期",
+      "施瓦贝周期"
+    ],
+    "year": 1843,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "施瓦贝1843年公布约十年周期",
+    "era": "industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "sunspot_observation"
+    ],
+    "related": [
+      "aurora_theory",
+      "solar_wind",
+      "radio"
+    ],
+    "desc": "黑子数约十一年一涨落，空间天气与电网干扰的节律源。"
+  },
+  {
+    "id": "cosmic_rays",
+    "name": "宇宙线的发现",
+    "nameEn": "Cosmic ray",
+    "wikiEn": "Cosmic ray",
+    "aliases": [
+      "宇宙射线",
+      "赫斯气球实验"
+    ],
+    "year": 1912,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "赫斯1912年气球升高电离增强",
+    "era": "second_industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "becquerel_radioactivity"
+    ],
+    "related": [
+      "radiocarbon_dating",
+      "geiger_counter"
+    ],
+    "desc": "来自外层空间的高能粒子流，粒子物理与天体物理交汇点。"
+  },
+  {
+    "id": "ionosphere",
+    "name": "电离层",
+    "nameEn": "Ionosphere",
+    "wikiEn": "Ionosphere",
+    "aliases": [
+      "肯内利-赫维赛德层",
+      "阿普顿层"
+    ],
+    "year": 1927,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "阿普顿1927年电离层实验确证；1902年轻松提出假说",
+    "era": "second_industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "hertz_electromagnetic_waves"
+    ],
+    "related": [
+      "radio",
+      "radar",
+      "gps"
+    ],
+    "desc": "高空受紫外电离的大气层反射无线电波，远程通信之镜。"
+  },
+  {
+    "id": "radio_astronomy",
+    "name": "射电天文学",
+    "nameEn": "Radio astronomy",
+    "wikiEn": "Radio astronomy",
+    "aliases": [
+      "射电天文",
+      "詹斯基银河噪声"
+    ],
+    "year": 1933,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "詹斯基1933年宣布接收银河射电；雷伯1937年建首台射电望远镜",
+    "era": "second_industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "radio",
+      "hertz_electromagnetic_waves"
+    ],
+    "related": [
+      "pulsar_discovery",
+      "cosmic_microwave_background",
+      "event_horizon_telescope"
+    ],
+    "desc": "倾听天体的无线电波，穿透尘埃开启非可见光天文时代。"
+  },
+  {
+    "id": "xray_astronomy",
+    "name": "X射线天文学",
+    "nameEn": "X-ray astronomy",
+    "wikiEn": "X-ray astronomy",
+    "aliases": [
+      "空间X射线天文"
+    ],
+    "year": 1962,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1962年探空火箭发现天蝎X-1",
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "x_ray"
+    ],
+    "related": [
+      "cygnus_x1_black_hole",
+      "rocket_engine"
+    ],
+    "desc": "借探空火箭越过大气吸收，窥见黑洞与中子星的高温宇宙。"
+  },
+  {
+    "id": "gravitational_lensing",
+    "name": "引力透镜效应",
+    "nameEn": "Gravitational lens",
+    "wikiEn": "Gravitational lens",
+    "aliases": [
+      "引力透镜",
+      "双类星体"
+    ],
+    "year": 1979,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1936年爱因斯坦给出理论，1979年首证于双类星体",
+    "era": "information",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "general_relativity"
+    ],
+    "related": [
+      "dark_matter_evidence",
+      "hubble_law",
+      "james_webb_space_telescope"
+    ],
+    "desc": "大质量天体弯折放大背景光，称暗物质与探早期的天然镜。"
+  },
+  {
+    "id": "aurora_theory",
+    "name": "极光成因理论",
+    "nameEn": "Aurora",
+    "wikiEn": "Aurora",
+    "aliases": [
+      "极光",
+      "伯克兰极光实验"
+    ],
+    "year": 1900,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "伯克兰1900年以地球实验室提出带电粒子致极光说",
+    "era": "second_industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "solar_cycle",
+      "solar_wind",
+      "ionosphere"
+    ],
+    "desc": "太阳带电粒子沿地磁极沉降激发高层大气辉光。"
+  },
+  {
+    "id": "solar_wind",
+    "name": "太阳风",
+    "nameEn": "Solar wind",
+    "wikiEn": "Solar wind",
+    "aliases": [
+      "帕克太阳风"
+    ],
+    "year": 1958,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "帕克1958年理论预言，1962年水手2号实测",
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "ionosphere"
+    ],
+    "related": [
+      "aurora_theory",
+      "artificial_satellite"
+    ],
+    "desc": "日冕持续外溢的超声速等离子体流，塑造行星磁层与空间天气。"
+  },
+  {
+    "id": "greenhouse_effect",
+    "name": "温室效应",
+    "nameEn": "Greenhouse effect",
+    "wikiEn": "Greenhouse effect",
+    "aliases": [
+      "大气温室效应"
+    ],
+    "year": 1824,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "傅里叶1824年提出，丁铎尔1859年实验确证水汽吸热",
+    "era": "industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 1,
+    "prereqs": [
+      "fourier_law"
+    ],
+    "related": [
+      "keeling_curve",
+      "ozone_depletion",
+      "anthropocene_concept"
+    ],
+    "desc": "大气吸收地面红外辐射使地球增温，气候系统的保温毯。"
+  },
+  {
+    "id": "hadley_cell",
+    "name": "哈得来环流",
+    "nameEn": "Hadley cell",
+    "wikiEn": "Hadley cell",
+    "aliases": [
+      "热带环流圈",
+      "信风环流"
+    ],
+    "year": 1735,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "哈雷1735年解释信风成因",
+    "era": "industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "newtonian_mechanics"
+    ],
+    "related": [
+      "coriolis_force",
+      "jet_stream",
+      "sail"
+    ],
+    "desc": "热带受热上升、高空回流的经向环流，塑造信风与沙漠带。"
+  },
+  {
+    "id": "jet_stream",
+    "name": "急流",
+    "nameEn": "Jet stream",
+    "wikiEn": "Jet stream",
+    "aliases": [
+      "喷射气流",
+      "高空急流"
+    ],
+    "year": 1944,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "二战飞行员穿越观测，1940年代末理论成篇",
+    "era": "second_industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "hadley_cell",
+      "coriolis_force"
+    ],
+    "related": [
+      "airplane",
+      "numerical_weather_prediction",
+      "el_nino_southern_oscillation"
+    ],
+    "desc": "对流层顶的窄带强风，跨洋航路天气系统的传送带。"
+  },
+  {
+    "id": "thermohaline_circulation",
+    "name": "温盐环流",
+    "nameEn": "Thermohaline circulation",
+    "wikiEn": "Thermohaline circulation",
+    "aliases": [
+      "大洋输送带",
+      "经向翻转环流"
+    ],
+    "year": 1991,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "18世纪沃利斯已议密度流，1991年布勒克提出输送带模型",
+    "era": "information",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "greenhouse_effect",
+      "milankovitch_cycles",
+      "keeling_curve"
+    ],
+    "desc": "温度盐度驱动的全球深海环流输送带，调节气候与碳库。"
+  },
+  {
+    "id": "el_nino_southern_oscillation",
+    "name": "厄尔尼诺-南方涛动",
+    "nameEn": "El Nino-Southern Oscillation",
+    "wikiEn": "El Niño–Southern Oscillation",
+    "aliases": [
+      "ENSO",
+      "南方涛动"
+    ],
+    "year": 1969,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "沃克1924年发现南方涛动，别耶克尼斯1969年阐明海气耦合",
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "numerical_weather_prediction",
+      "jet_stream",
+      "agriculture"
+    ],
+    "desc": "赤道中东太平洋海气耦合振荡，全球旱涝的遥相关开关。"
+  },
+  {
+    "id": "keeling_curve",
+    "name": "基林曲线",
+    "nameEn": "Keeling curve",
+    "wikiEn": "Keeling curve",
+    "aliases": [
+      "二氧化碳浓度曲线"
+    ],
+    "year": 1958,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1958年莫纳罗亚站开始连续观测",
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "greenhouse_effect"
+    ],
+    "related": [
+      "anthropocene_concept",
+      "ozone_depletion"
+    ],
+    "desc": "CO2浓度逐年爬升与季节脉动的半世纪记录，变暖铁证。"
+  },
+  {
+    "id": "ozone_depletion",
+    "name": "臭氧层损耗",
+    "nameEn": "Ozone depletion",
+    "wikiEn": "Ozone depletion",
+    "aliases": [
+      "臭氧空洞"
+    ],
+    "year": 1985,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "法曼1985年发表南极洞；1974年莫利纳-罗兰已预警",
+    "era": "information",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "catalysis_concept"
+    ],
+    "related": [
+      "refrigeration",
+      "keeling_curve"
+    ],
+    "desc": "氟氯烃光解释氯催化毁臭氧，南极大洞促成蒙特利尔议定书。"
+  },
+  {
+    "id": "numerical_weather_prediction",
+    "name": "数值天气预报",
+    "nameEn": "Numerical weather prediction",
+    "wikiEn": "Numerical weather prediction",
+    "aliases": [
+      "NWP",
+      "数值预报"
+    ],
+    "year": 1950,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "理查森1922年手算未成，1950年ENIAC首报成功",
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "electronic_computer",
+      "coriolis_force"
+    ],
+    "related": [
+      "jet_stream",
+      "gps",
+      "radio_astronomy"
+    ],
+    "desc": "以流体方程组在计算机上积分大气，天气预报变成科学。"
+  },
+  {
+    "id": "radiometric_dating",
+    "name": "放射性测年法",
+    "nameEn": "Radiometric dating",
+    "wikiEn": "Radiometric dating",
+    "aliases": [
+      "同位素定年",
+      "玻特伍德测年"
+    ],
+    "year": 1907,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "博尔特伍德1907年以铀铅法测定岩石年龄",
+    "era": "second_industrial",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "becquerel_radioactivity",
+      "curie_radioactivity"
+    ],
+    "related": [
+      "radiocarbon_dating",
+      "geologic_time_scale",
+      "continental_drift"
+    ],
+    "desc": "依母体衰变与子体积累比定岩石年龄，地球深时由此打开。"
+  },
+  {
+    "id": "radiocarbon_dating",
+    "name": "放射性碳定年",
+    "nameEn": "Radiocarbon dating",
+    "wikiEn": "Radiocarbon dating",
+    "aliases": [
+      "碳14测年",
+      "利比测年法"
+    ],
+    "year": 1949,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "利比1949年发表首组年代",
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "cosmic_rays",
+      "radiometric_dating"
+    ],
+    "related": [
+      "mummification",
+      "snowball_earth"
+    ],
+    "desc": "生物死后碳14按半衰期递减，四万年内有机物皆可计时。"
+  },
+  {
+    "id": "geologic_time_scale",
+    "name": "地质年代表",
+    "nameEn": "Geologic time scale",
+    "wikiEn": "Geologic time scale",
+    "aliases": [
+      "地质年代",
+      "显生宙"
+    ],
+    "year": 1841,
+    "year_basis": "scholarly_disputed",
+    "year_span": null,
+    "year_note": "寒武、志留、泥盆纪于1820-40年代先后定义，国际框架后成",
+    "era": "industrial",
+    "category": "earth_space",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "steno_stratigraphy",
+      "lyell_principles_geology"
+    ],
+    "related": [
+      "radiometric_dating",
+      "cambrian_explosion"
+    ],
+    "desc": "以地层顺序与化石演化排定的地球四十六亿年历法。"
+  },
+  {
+    "id": "geological_map",
+    "name": "首幅现代地质图",
+    "nameEn": "Geological map",
+    "wikiEn": "Geological map",
+    "aliases": [
+      "史密斯地质图",
+      "地层图"
+    ],
+    "year": 1815,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "威廉·史密斯1815年绘英格兰威尔士地质图",
+    "era": "industrial",
+    "category": "earth_space",
+    "kind": "媒介",
+    "importance": 2,
+    "prereqs": [
+      "steno_stratigraphy"
+    ],
+    "related": [
+      "map",
+      "surveying",
+      "coal_cutting_machine"
+    ],
+    "desc": "用色带把地层铺在地图上，找矿修渠从此有图可依。"
+  },
+  {
+    "id": "mohs_scale",
+    "name": "莫氏硬度计",
+    "nameEn": "Mohs scale",
+    "wikiEn": "Mohs scale",
+    "aliases": [
+      "摩氏硬度",
+      "矿物硬度标准"
+    ],
+    "year": 1812,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "",
+    "era": "industrial",
+    "category": "earth_space",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "de_re_metallica",
+      "geological_map"
+    ],
+    "desc": "十种矿物相互刻划定软硬次序，野外鉴矿的简易标尺。"
+  },
+  {
+    "id": "cambrian_explosion",
+    "name": "寒武纪生命大爆发",
+    "nameEn": "Cambrian explosion",
+    "wikiEn": "Cambrian explosion",
+    "aliases": [
+      "寒武纪大爆发",
+      "生命大爆发"
+    ],
+    "year": 1980,
+    "year_basis": "scholarly_disputed",
+    "year_span": null,
+    "year_note": "19世纪已识化石突变，1980年代经澄江与布尔吉斯研究确立",
+    "era": "information",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "geologic_time_scale"
+    ],
+    "related": [
+      "punctuated_equilibrium",
+      "alvarez_kpg_extinction"
+    ],
+    "desc": "五亿多年前动物门类在化石记录中骤然涌现。"
+  },
+  {
+    "id": "dinosaur_concept",
+    "name": "恐龙概念的提出",
+    "nameEn": "Dinosaur",
+    "wikiEn": "Dinosaur",
+    "aliases": [
+      "恐怖蜥蜴",
+      "欧文命名恐龙"
+    ],
+    "year": 1842,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "欧文1842年建立Dinosauria目",
+    "era": "industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "cuvier_comparative_anatomy"
+    ],
+    "related": [
+      "archaeopteryx",
+      "alvarez_kpg_extinction"
+    ],
+    "desc": "欧文命名恐怖的蜥蜴，灭绝巨爬行动物自此成为科学对象。"
+  },
+  {
+    "id": "archaeopteryx",
+    "name": "始祖鸟化石",
+    "nameEn": "Archaeopteryx",
+    "wikiEn": "Archaeopteryx",
+    "aliases": [
+      "柏林标本始祖鸟"
+    ],
+    "year": 1861,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1861年索伦霍恩羽毛化石公布",
+    "era": "industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "evolution_natural_selection"
+    ],
+    "related": [
+      "dinosaur_concept",
+      "evolution_natural_selection"
+    ],
+    "desc": "带羽有齿的侏罗纪化石，恐龙鸟类同源的第一件实证。"
+  },
+  {
+    "id": "elastic_rebound_theory",
+    "name": "弹性回跳理论",
+    "nameEn": "Elastic-rebound theory",
+    "wikiEn": "Elastic-rebound theory",
+    "aliases": [
+      "弹性回跳说",
+      "劳森地震理论"
+    ],
+    "year": 1911,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "劳森总结1906年旧金山地震野外调查",
+    "era": "second_industrial",
+    "category": "earth_space",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "linear_elasticity_math"
+    ],
+    "related": [
+      "seismoscope",
+      "plate_tectonics",
+      "continental_drift"
+    ],
+    "desc": "断层应变积累后突然错动回弹，地震成因的经典解释。"
+  },
+  {
+    "id": "paleomagnetism",
+    "name": "古地磁学",
+    "nameEn": "Paleomagnetism",
+    "wikiEn": "Paleomagnetism",
+    "aliases": [
+      "古地磁",
+      "剩余磁化"
+    ],
+    "year": 1950,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "1906年首录剩磁，1950年代朗科恩等使之成为板块引擎",
+    "era": "atomic_electronic",
+    "category": "earth_space",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "de_magnete"
+    ],
+    "related": [
+      "vine_matthews_anomalies",
+      "seafloor_spreading",
+      "plate_tectonics"
+    ],
+    "desc": "岩石封存古代地磁方向与极性，为大陆漂移海底扩张定案。"
+  }
+]

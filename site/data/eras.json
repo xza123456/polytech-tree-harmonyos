@@ -1,0 +1,90 @@
+[
+  {
+    "id": "prehistory",
+    "name": "史前",
+    "nameEn": "Prehistory",
+    "yearStart": -300000,
+    "yearEnd": -8000,
+    "order": 1
+  },
+  {
+    "id": "neolithic",
+    "name": "农业革命",
+    "nameEn": "Neolithic",
+    "yearStart": -8000,
+    "yearEnd": -3500,
+    "order": 2
+  },
+  {
+    "id": "bronze_age",
+    "name": "青铜时代",
+    "nameEn": "Bronze Age",
+    "yearStart": -3500,
+    "yearEnd": -1200,
+    "order": 3
+  },
+  {
+    "id": "antiquity",
+    "name": "古典时代",
+    "nameEn": "Antiquity",
+    "yearStart": -1200,
+    "yearEnd": 500,
+    "order": 4
+  },
+  {
+    "id": "middle_ages",
+    "name": "中世纪",
+    "nameEn": "Middle Ages",
+    "yearStart": 500,
+    "yearEnd": 1400,
+    "order": 5
+  },
+  {
+    "id": "renaissance",
+    "name": "文艺复兴·科学革命",
+    "nameEn": "Renaissance and Scientific Revolution",
+    "yearStart": 1400,
+    "yearEnd": 1700,
+    "order": 6
+  },
+  {
+    "id": "industrial",
+    "name": "工业革命",
+    "nameEn": "Industrial Revolution",
+    "yearStart": 1700,
+    "yearEnd": 1870,
+    "order": 7
+  },
+  {
+    "id": "second_industrial",
+    "name": "第二次工业革命",
+    "nameEn": "Second Industrial Revolution",
+    "yearStart": 1870,
+    "yearEnd": 1945,
+    "order": 8
+  },
+  {
+    "id": "atomic_electronic",
+    "name": "战后·原子与电子",
+    "nameEn": "Atomic and Electronic Age",
+    "yearStart": 1945,
+    "yearEnd": 1970,
+    "order": 9
+  },
+  {
+    "id": "information",
+    "name": "信息时代",
+    "nameEn": "Information Age",
+    "yearStart": 1970,
+    "yearEnd": 2000,
+    "order": 10
+  },
+  {
+    "id": "intelligent",
+    "name": "智能时代",
+    "nameEn": "Intelligent Age",
+    "yearStart": 2000,
+    "yearEnd": 2030,
+    "order": 11
+  }
+]

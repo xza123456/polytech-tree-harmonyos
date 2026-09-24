@@ -1,0 +1,452 @@
+[
+ {
+  "id": "chebyshev_polynomials",
+  "add_prereqs": [],
+  "add_related": ["navier_stokes_equations"],
+  "reason": "切比雪夫τ/谱配置法(Kleinman-Moore 1965 起)被用来求纳维-斯托克斯方程的高精度层流与稳定性解，等振最佳逼近保证指数收敛"
+ },
+ {
+  "id": "adams_multistep_method",
+  "add_prereqs": [],
+  "add_related": ["laplace_celestial_mechanics", "verlet_leapfrog"],
+  "reason": "亚当斯1855年为数值积分月球受摄运动(拉普拉斯天体力学方程)而发明多步法；韦莱特积分是同一天体/分子轨道问题上的另一类多步格式"
+ },
+ {
+  "id": "cayley_hamilton_theorem",
+  "add_prereqs": [],
+  "add_related": ["band_theory"],
+  "reason": "能带论的Kronig-Penney传递矩阵法要把2×2矩阵的高次幂化简，凯莱-哈密顿定理把A^n写成I与A的组合，直接给出布洛赫波跳跃矩阵"
+ },
+ {
+  "id": "cayley_matrix_algebra",
+  "add_prereqs": [],
+  "add_related": ["matrix_mechanics"],
+  "reason": "海森堡-玻恩-约当1925年矩阵力学直接沿用凯莱矩阵乘运算律（乘法不可交换）来描述位置与动量矩阵"
+ },
+ {
+  "id": "riemann_hypothesis",
+  "add_prereqs": [],
+  "add_related": ["wigner_random_matrices"],
+  "reason": "Montgomery-Odlyzko 定律：ζ 函数零点的对关联统计与维格纳高斯酉系综(GUE)能级间距分布吻合，把黎曼猜想与重核共振能级联系起来"
+ },
+ {
+  "id": "riemann_roch_theorem",
+  "add_prereqs": [],
+  "add_related": ["first_superstring_revolution"],
+  "reason": "弦论单圈振幅在亏格g的世界面上积分，用黎曼-罗赫定理计算全纯线丛截面数以确定模空间维数与反常抵消的重数"
+ },
+ {
+  "id": "chebyshev_inequality",
+  "add_prereqs": [],
+  "add_related": ["weibull_distribution"],
+  "reason": "西魏布做金属丝断裂强度统计时用切比雪夫不等式控制无分布假设下的失效概率上下界，随后才拟合出威布尔分布"
+ },
+ {
+  "id": "betti_numbers",
+  "add_prereqs": [],
+  "add_related": ["fullerene"],
+  "reason": "富勒烯封闭碳笼的欧拉示性数/贝蒂数约束面数：只含五、六边形的闭曲面必有12个五边形，这是 Kroto 等人判断C60足球结构的拓扑依据"
+ },
+ {
+  "id": "erlangen_program",
+  "add_prereqs": [],
+  "add_related": ["special_relativity", "standard_model_particle_physics"],
+  "reason": "克莱因以变换群不变量界定几何，狭义相对论把物理定律形式不变性定义为洛伦兹群不变量；粒子物理标准模型则按规范群SU(3)×SU(2)×U(1)的不变量与表示界定三种相互作用"
+ },
+ {
+  "id": "cantor_set_theory",
+  "add_prereqs": [],
+  "add_related": ["lorenz_chaos", "band_theory"],
+  "reason": "混沌系统的符号动力学把轨道横截面表示为康托尔集(洛伦兹吸引子、马蹄映射)；准周期势中的电子能谱同为康托尔集(Aubry-André)，两者都建立在康托尔的点集构造上"
+ },
+ {
+  "id": "galton_watson_branching",
+  "add_prereqs": [],
+  "add_related": ["nuclear_reactor", "nuclear_fission_mechanism"],
+  "reason": "裂变每个中子平均产生的下一代中子数即分支过程的期望后代数，反应堆临界条件k=1正是分支过程灭绝/存活的分界判据"
+ },
+ {
+  "id": "modular_curve",
+  "add_prereqs": [],
+  "add_related": ["first_superstring_revolution"],
+  "reason": "弦的单圈振幅对世界面环面模群不变，积分区域是模曲线的基本域，模形式系数用于计数弦激发态(含单调月光对应)"
+ },
+ {
+  "id": "telephone",
+  "add_prereqs": ["electromagnet", "faradays_induction_law"],
+  "add_related": ["telegraph_equation"],
+  "reason": "贝尔的发射/接收膜片靠电磁铁与电磁感应实现声-电-声可变电流转换；长话线的衰减与失真由赫维赛德电报方程刻画，加感线圈据此把有效通话距离从几公里延到跨洲"
+ },
+ {
+  "id": "clifford_algebra",
+  "add_prereqs": [],
+  "add_related": ["dirac_equation", "topological_insulator_prediction"],
+  "reason": "狄拉克γ矩阵满足{γμ,γν}=2g^{μν}正是克利福德代数关系，旋量即其模；自由费米子拓扑分类的十重路表(基塔耶夫/施尼德-朗格)也靠克利福德代数扩张周期构造"
+ },
+ {
+  "id": "rank_nullity_theorem",
+  "add_prereqs": [],
+  "add_related": ["kirchhoff_circuit_laws", "truss"],
+  "reason": "电路关联矩阵的秩为n-1、零化度给出独立回路数b-n+1，正对应基尔霍夫节点/回路独立方程数；桁架平衡矩阵的秩-零化度即麦克斯韦静不定计数 m=b-2n+j"
+ },
+ {
+  "id": "frege_begriffsschrift",
+  "add_prereqs": [],
+  "add_related": ["chomsky_generative_grammar"],
+  "reason": "弗雷格的函数-自元结构与合成性原则(整体意义由部分意义组合而成)是蒙塔古形式语义与乔姆斯基生成句法递归组合的直接思想来源"
+ },
+ {
+  "id": "logic_gate",
+  "add_prereqs": ["electromagnet"],
+  "add_related": [],
+  "reason": "皮尔士1880年提出用电流开关电路实现与/或/非，可搭建的门依赖电磁铁开关(继电器)这一器件，电路逻辑门由此从电气部件起步"
+ },
+ {
+  "id": "rayleigh_random_walk",
+  "add_prereqs": [],
+  "add_related": ["einstein_brownian_motion", "campbell_white_noise"],
+  "reason": "瑞利把大量随机相位振动叠加得到的位移分布即随机游走极限定理；爱因斯坦1905年据此导出布朗粒子位移均方与温度关系，坎贝尔1909年用同一统计算出热噪声电流"
+ },
+ {
+  "id": "galton_regression_correlation",
+  "add_prereqs": [],
+  "add_related": ["selective_breeding_bakewell", "plant_breeding"],
+  "reason": "高尔顿的回归与相关概念源自贝克韦尔以来家畜选育的遗传度量问题，20世纪被耶尔辛等用作作物数量性状选择反应 R=h²S 的计算基础"
+ },
+ {
+  "id": "composition_series",
+  "add_prereqs": [],
+  "add_related": ["x_ray_crystallography"],
+  "reason": "晶体空间群以平移子群为正规子群、商群为有限点群，国际表按这条合成列逐层分解对称性；若尔当-赫尔德定理保证该分解与选链无关"
+ },
+ {
+  "id": "jordan_curve_theorem",
+  "add_prereqs": [],
+  "add_related": ["cartography"],
+  "reason": "地图上一条简单闭等值线/行政边界必把图面分成区域内与区域外，GIS与编绘中的「点在多边形内」判定即该定理的算法形式"
+ },
+ {
+  "id": "poincare_duality",
+  "add_prereqs": [],
+  "add_related": ["maxwell_equations"],
+  "reason": "电磁场写成微分形式后，E 与 B、F 与 *F 的对应就是流形上的霍奇对偶，其整体成立性由庞加莱对偶（k 维与 n-k 维同调配对非退化）保证，电磁对偶性由此获得拓扑解释"
+ },
+ {
+  "id": "fundamental_group",
+  "add_prereqs": [],
+  "add_related": ["liquid_crystal_material"],
+  "reason": "德热纳1973年指出液晶向错的类型由序参量空间的基本群π1决定（向列相π1(RP²)=Z₂给出半向错），把拓扑学变成液晶缺陷分类工具"
+ },
+ {
+  "id": "homology_theory",
+  "add_prereqs": [],
+  "add_related": ["ct_scanner"],
+  "reason": "断层体数据的孔隙结构用0阶、1阶贝蒂数（连通块与环洞数）定量刻画，持续同调正是同调论在CT影像上的算法化"
+ },
+ {
+  "id": "pearson_correlation_coefficient",
+  "add_prereqs": [],
+  "add_related": ["plant_breeding", "heterosis"],
+  "reason": "皮尔逊与沃尔东把积差相关用于作物与动物数量性状的亲属相关分析，成为育种选择反应与杂种优势预测的标准计算手段"
+ },
+ {
+  "id": "poincare_topology",
+  "add_prereqs": [],
+  "add_related": ["poincare_three_body_problem", "general_relativity"],
+  "reason": "庞加莱研究三体问题的定性理论（截面、同伦、极限环）时创造出位置分析的概念；霍金-彭罗斯奇点定理又把整体拓扑方法用于时空因果结构"
+ },
+ {
+  "id": "geometry_of_numbers",
+  "add_prereqs": [],
+  "add_related": ["x_ray_crystallography"],
+  "reason": "闵可夫斯基的格与凸体理论给出格约化与最短矢量判据，衍射花样指标化与倒格基约化正是其在晶体学中的直接用法"
+ },
+ {
+  "id": "chi_squared_test",
+  "add_prereqs": [],
+  "add_related": ["mendelian_inheritance", "hardy_weinberg_principle"],
+  "reason": "卡方拟合优度用来判断观测分离比是否偏离3:1（卡斯尔与皮尔逊1903年据此质疑孟德尔数据），也是检验群体是否符合哈代-温伯格平衡的标准方法"
+ },
+ {
+  "id": "fredholm_integral_equations",
+  "add_prereqs": [],
+  "add_related": ["born_probability_interpretation", "matched_filter"],
+  "reason": "玻恩散射理论把薛定谔方程改写为积分方程（后来的Lippmann-Schwinger方程即第二类弗雷德霍姆方程）；雷达匹配滤波与目标识别核同样是第一类弗雷德霍姆方程"
+ },
+ {
+  "id": "young_tableau",
+  "add_prereqs": [],
+  "add_related": ["quark_model"],
+  "reason": "盖尔曼-尼曼八重道与夸克模型用杨表分解SU(3)张量积（3⊗3⊗3=1⊕8⊕8⊕10）以给出重子与介子多重态"
+ },
+ {
+  "id": "principal_component_analysis",
+  "add_prereqs": [],
+  "add_related": ["human_genome_project", "fmri"],
+  "reason": "全基因组关联分析用PCA主成分校正人群分层后再做检验；fMRI时间序列也用PCA分离生理噪声与任务成分"
+ },
+ {
+  "id": "runge_kutta_methods",
+  "add_prereqs": [],
+  "add_related": ["poincare_three_body_problem", "newmark_beta_method"],
+  "reason": "龙格1895年是为三体问题轨道数值积分而提出单步多级法；纽马克1959年结构动力学时间积分与之同属常微分方程单步推进家族"
+ },
+ {
+  "id": "lebesgue_integration",
+  "add_prereqs": [],
+  "add_related": ["von_neumann_quantum_foundations", "gibbs_statistical_ensembles"],
+  "reason": "冯·诺依曼把量子态取为L²(勒贝格平方可积)空间射线，积分必须取勒贝格式才有完备空间与黎斯表示；系综平均同样是对相空间上的勒贝格测度求积分"
+ },
+ {
+  "id": "factor_analysis_spearman",
+  "add_prereqs": [],
+  "add_related": ["wundt_experimental_psychology", "eeg"],
+  "reason": "斯皮尔曼的一般因子来自伍登学派以来的心理测验反应时与相关数据；多导联EEG同样以因子分析/主成分分解出节律与诱发电位成分"
+ },
+ {
+  "id": "broadcasting",
+  "add_prereqs": ["hertz_electromagnetic_waves", "vacuum_diode"],
+  "add_related": [],
+  "reason": "调制无线电广播以赫兹1887年实验证明可辐射的电磁波为载波，接收端依赖弗莱明真空二极管检波与随后的放大，故二者是技术上直接前置"
+ },
+ {
+  "id": "hilbert_space",
+  "add_prereqs": [],
+  "add_related": ["matrix_mechanics", "born_probability_interpretation"],
+  "reason": "矩阵力学的本征值问题被抽象为完备内积空间上自伴算符的谱问题；玻恩概率诠释要求波函数平方可积，其空间正是L²希尔伯特空间"
+ },
+ {
+  "id": "markov_chains",
+  "add_prereqs": [],
+  "add_related": ["kimura_neutral_theory", "molecular_clock"],
+  "reason": "分子进化替代模型（Jukes-Cantor、金村1980双参数）是有限状态马尔可夫链，用序列差异推分化时间即分子钟的数学实现"
+ },
+ {
+  "id": "uniformization_theorem",
+  "add_prereqs": [],
+  "add_related": ["first_superstring_revolution"],
+  "reason": "弦的微扰按世界面亏格展开，单值化定理保证每个黎曼面共形等价于球面、平面或环面商，故路径积分可化为模空间上的有限维积分"
+ },
+ {
+  "id": "student_t_distribution",
+  "add_prereqs": [],
+  "add_related": ["plant_breeding", "randomized_controlled_trial"],
+  "reason": "戈塞特在健力士酒厂处理大麦批次与麦芽质量的小样本数据时导出t分布；t检验随后成为育种小区试验与临床对照试验小样本均值比较的标准工具"
+ },
+ {
+  "id": "borel_strong_law_large_numbers",
+  "add_prereqs": [],
+  "add_related": ["insurance"],
+  "reason": "强大数定律说明独立保单足够多时损失频率几乎必然收敛于期望损失，这是保险池化风险可定价的数学根据"
+ },
+ {
+  "id": "erlang_poisson_process",
+  "add_prereqs": [],
+  "add_related": ["geiger_counter", "traffic_light"],
+  "reason": "厄尔朗为电话呼叫到达建立的泊松过程模型，成为盖革计数器独立衰变计数的统计模型，也是车流到达率与信号灯配时计算的通用假设"
+ },
+ {
+  "id": "riesz_representation_theorem",
+  "add_prereqs": [],
+  "add_related": ["finite_element_method", "eeg"],
+  "reason": "有限元弱形式中荷载泛函表示为内积（Riesz表示元）是解存在唯一的基础；EEG源定位反问题也用黎斯表示定理在Sobolev空间中求等效电流偶极子（de Munck法）"
+ },
+ {
+  "id": "lp_spaces",
+  "add_prereqs": [],
+  "add_related": ["navier_stokes_equations"],
+  "reason": "纳维-斯托克斯方程的弱解、先验估计与正则性准则都在L^p（及Sobolev）空间中陈述，勒贝格可积性代替逐点收敛才使整体解存在性可证"
+ },
+ {
+  "id": "brouwer_degree",
+  "add_prereqs": [],
+  "add_related": ["navier_stokes_equations"],
+  "reason": "勒雷1934年证明纳维-斯托克斯方程整体弱解存在性，靠的是布劳威尔度推广成的勒雷-绍德尔度对方程逼近解做拓扑计数"
+ },
+ {
+  "id": "brouwer_fixed_point",
+  "add_prereqs": [],
+  "add_related": ["arrow_debreu_model"],
+  "reason": "阿罗-德布鲁一般均衡存在性证明把均衡写成价格单纯形上的自映射不动点，其有限维版本即布劳威尔不动点定理（角谷推广处理对应映射）"
+ },
+ {
+  "id": "fisher_maximum_likelihood",
+  "add_prereqs": [],
+  "add_related": ["pet_scanner", "radiometric_dating"],
+  "reason": "PET图像重建的标准算法MLEM直接最大化符合计数的似然函数；同位素定年中把年龄与锆石年龄合并估计也用最大似然拟合（Ludwig Isoplot）"
+ },
+ {
+  "id": "hausdorff_space",
+  "add_prereqs": [],
+  "add_related": ["general_relativity"],
+  "reason": "时空流形的公理中显式要求豪斯多夫分离性，保证极限唯一；奇点问题中又用非豪斯多夫延拓（Geroch-Horowitz）来界定裸奇点"
+ },
+ {
+  "id": "radon_transform",
+  "add_prereqs": [],
+  "add_related": ["ct_scanner", "positron_imaging"],
+  "reason": "CT的图像重建就是拉东逆变换的数值实现（豪恩斯菲尔德、科马克据此获得1979年诺贝尔奖）；PET同理把符合线投影视为拉东变换后反演"
+ },
+ {
+  "id": "fisher_anova",
+  "add_prereqs": [],
+  "add_related": ["plant_breeding", "modern_evolutionary_synthesis"],
+  "reason": "方差分析源自卢瑟姆斯特德作物小区试验的变异分解；费希尔1918年用同一方差分解处理亲属相关，成为数量遗传学并入现代综合的理论接口"
+ },
+ {
+  "id": "flip_flop",
+  "add_prereqs": ["audion_triode"],
+  "add_related": ["airborne_radar"],
+  "reason": "埃克尔斯-乔丹1918年的双稳态电路由两只真空三极管交叉耦合构成，无三极管放大就无从谈起；这类多谐振荡器后来用作机载雷达的脉冲分频与计时单元"
+ },
+ {
+  "id": "hausdorff_dimension",
+  "add_prereqs": [],
+  "add_related": ["hydraulic_fracturing"],
+  "reason": "压裂裂缝表面的粗糙度以分形维数（豪斯多夫维数的盒计数近似）表征，用于建立裂缝导流能力与滤失量的经验-半经验模型"
+ },
+ {
+  "id": "one_time_pad",
+  "add_prereqs": [],
+  "add_related": ["bell_inequality"],
+  "reason": "一次一密的唯一瓶颈是密钥分发；以贝尔不等式违背为凭据的量子密钥分发（Ekert 1991）正是为安全协商一次性密钥而设计"
+ },
+ {
+  "id": "banach_fixed_point",
+  "add_prereqs": [],
+  "add_related": ["general_relativity", "density_functional_theory"],
+  "reason": "爱因斯坦方程柯西问题的局部适定性（Choquet-Bruhat 1952）用压缩映射迭代求解；密度泛函理论的Kohn-Sham自洽场迭代也是同一类不动点求解，只是压缩性不总成立"
+ },
+ {
+  "id": "banach_space",
+  "add_prereqs": [],
+  "add_related": ["numerical_weather_prediction"],
+  "reason": "差分格式的相容-稳定-收敛（拉克斯等价定理）在完备赋范空间中以范数不等式表述，数值天气预报的多层时间格式稳定性判据即由此得出"
+ },
+ {
+  "id": "enigma_machine",
+  "add_prereqs": [],
+  "add_related": ["submarine", "cyberwarfare"],
+  "reason": "德国海军尤其大西洋U艇部队把恩尼格玛作为标准密码机，对其破译直接决定护航航线；机器密码与自动化破译也奠定了后世网络战攻防的基本格局"
+ },
+ {
+  "id": "cholesky_decomposition",
+  "add_prereqs": [],
+  "add_related": ["triangulation_survey", "numerical_weather_prediction"],
+  "reason": "楚列斯基在瑞典大地测量三角网最小二乘平差中提出该三角分解；现代数值天气预报四维变分同化仍用楚列斯基因子分解背景误差协方差并从中抽样"
+ },
+ {
+  "id": "hahn_banach_theorem",
+  "add_prereqs": [],
+  "add_related": ["arrow_debreu_model", "von_neumann_quantum_foundations"],
+  "reason": "一般均衡的存在性证明要在无限维商品空间用哈恩-巴拿赫分离超平面得到连续价格泛函；量子理论的「态=正归一线性泛函」公理化也依赖该定理保证泛函可延拓"
+ },
+ {
+  "id": "von_neumann_minimax_theorem",
+  "add_prereqs": [],
+  "add_related": ["nuclear_weapon", "strategic_bombing"],
+  "reason": "两人零和博弈的最大最小定理成为攻防资源分配的计算基础，冯·诺依曼本人把这套博弈模型用于战略轰炸目标选择与核武器投送/拦截分析"
+ },
+ {
+  "id": "optical_character_recognition",
+  "add_prereqs": ["einstein_photoelectric"],
+  "add_related": [],
+  "reason": "OCR的输入环节是光电扫描：把字符像元转换为电流量依赖光电效应（爱因斯坦1905年解释、随后光电管实用化），无此器件即无法机器读取印刷文本"
+ },
+ {
+  "id": "abstract_algebra",
+  "add_prereqs": [],
+  "add_related": ["standard_model_particle_physics", "x_ray_crystallography"],
+  "reason": "基本粒子按规范群SU(3)×SU(2)×U(1)的不可约表示分类，群与表示语言直接来自抽象代数；晶体的230个空间群则是点群与平移群扩张的分类结果"
+ },
+ {
+  "id": "de_rham_theorem",
+  "add_prereqs": [],
+  "add_related": ["yang_mills_gauge_theory"],
+  "reason": "杨-米尔斯场的拓扑荷（瞬子数、陈类）是闭形式模恰当形式给出的德拉姆上同调类，规范不变量因此由流形上同调决定"
+ },
+ {
+  "id": "hopf_fibration",
+  "add_prereqs": [],
+  "add_related": ["epr_paradox", "liquid_crystal_material"],
+  "reason": "两量子比特纯态在局域幺正等价下按纠缠度分层，其几何正是S³→S²的霍普夫纤维化，EPR最大纠缠态落在同一条纤维上；液晶中也已实验制备出以霍普夫不变量标记的扭结场构型"
+ },
+ {
+  "id": "kolmogorov_diffusion_equations",
+  "add_prereqs": [],
+  "add_related": ["einstein_brownian_motion"],
+  "reason": "柯尔莫戈洛夫向前方程就是福克-普朗克方程，把爱因斯坦1905年布朗运动的位移分布变成概率密度随时间演化的偏微分方程"
+ },
+ {
+  "id": "kolmogorov_markov_process",
+  "add_prereqs": [],
+  "add_related": ["nuclear_reactor", "radiometric_dating"],
+  "reason": "反应堆中子代与缓发中子先驱核的演化是连续时间马尔可夫链，其主方程即柯尔莫戈洛夫方程；衰变链的母子体数目随时间变化同样按此链式过程求解，是放射性定年的方程基础"
+ },
+ {
+  "id": "krylov_subspace",
+  "add_prereqs": [],
+  "add_related": ["density_functional_theory", "finite_element_method"],
+  "reason": "密度泛函理论的Kohn-Sham大稀疏本征值问题用Lanczos/Davidson等克雷洛夫子空间法求解；有限元组装出的大型刚度矩阵同样靠共轭梯度、GMRES等克雷洛夫迭代求解"
+ },
+ {
+  "id": "bounded_operator",
+  "add_prereqs": [],
+  "add_related": ["matched_filter"],
+  "reason": "雷达匹配滤波器被建模为希尔伯特空间上的有界线性算子，其算子范数给出可达到的最大信噪比，这正是有界算子理论的直接用法"
+ },
+ {
+  "id": "conditional_expectation",
+  "add_prereqs": [],
+  "add_related": ["tversky_kahneman_heuristics", "insurance"],
+  "reason": "柯尔莫戈洛夫用拉东-尼科迪姆导数定义的条件期望是贝叶斯更新的严格语言，卡尼曼-特沃斯基的基率忽略实验正是检验人是否按它推理；精算的Bühlmann信度理论与准备金估计也以条件期望定义"
+ },
+ {
+  "id": "convergence_random_variables",
+  "add_prereqs": [],
+  "add_related": ["weibull_distribution"],
+  "reason": "极值定理说的是归一化后样本最大值的依分布极限只能取三类之一，西魏布据此起草材料断裂强度的威布尔分布，故收敛模式分类是其理论前提"
+ },
+ {
+  "id": "kahler_manifold",
+  "add_prereqs": [],
+  "add_related": ["first_superstring_revolution"],
+  "reason": "1984年第一次超弦革命中紧致化六维要求内部空间为凯勒且里奇平坦的卡拉比-丘流形，才能保留四维N=1超对称，凯勒结构因此成为弦论紧化的标准条件"
+ },
+ {
+  "id": "kolmogorov_probability_axioms",
+  "add_prereqs": [],
+  "add_related": ["born_probability_interpretation"],
+  "reason": "玻恩把波函数模方解释为概率，须有可数可加测度才谈得上分布与期望，柯尔莫戈洛夫以σ代数给出的公理化正是这一诠释得以严格表述的框架"
+ },
+ {
+  "id": "neyman_pearson_theory",
+  "add_prereqs": [],
+  "add_related": ["radar", "fmri"],
+  "reason": "奈曼-皮尔逊引理给出给定虚警概率下最优势检验，雷达检测的门限与检测概率曲线(USNR)据此制定；fMRI的SPM分析同样以该框架控制第一类错误率"
+ },
+ {
+  "id": "cohomology_theory",
+  "add_prereqs": [],
+  "add_related": ["topological_insulator_prediction"],
+  "reason": "TKNN不变量把量子霍尔/拓扑绝缘体的霍尔电导写成布洛赫纤维束上首陈类（上同调类）的积分，上同调环结构因此成为拓扑物态分类的语言"
+ },
+ {
+  "id": "fiber_bundle",
+  "add_prereqs": [],
+  "add_related": ["yang_mills_gauge_theory", "general_relativity"],
+  "reason": "杨-米尔斯规范势就是主丛上的联络、场强是其曲率，规范变换对应局部标架改变；广义相对论的自旋联络同样是标架丛上的联络，二者都用纤维丛语言表述"
+ },
+ {
+  "id": "fisher_design_of_experiments",
+  "add_prereqs": [],
+  "add_related": ["randomized_controlled_trial", "taylor_scientific_management"],
+  "reason": "费希尔的随机化、区组与重复三原则经科克伦等人进入临床对照试验设计；戴明把同一套试验设计用于工业过程改进，取代泰勒式凭经验调参的管理方法"
+ },
+ {
+  "id": "analog_computer",
+  "add_prereqs": ["gear"],
+  "add_related": ["ballistics"],
+  "reason": "布什微分分析机的积分器、函数发生器与求和单元全靠齿轮传动与机械积分轮实现；该机器在摩尔学院的主要用途之一就是解弹道运动方程生成射表"
+ }
+]

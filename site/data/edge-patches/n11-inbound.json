@@ -1,0 +1,23 @@
+[
+  {
+    "id": "papermaking",
+    "add_prereqs": [
+      "bamboo_slips"
+    ],
+    "reason": "造纸术在简牍与缣帛的成本与便携压力下成型，简牍是其直接前序载体"
+  },
+  {
+    "id": "codex",
+    "add_related": [
+      "bamboo_slips"
+    ],
+    "reason": "册页与简册同属把若干页/片串联成可翻阅载体的方案，形态可比"
+  },
+  {
+    "id": "bookbinding",
+    "add_related": [
+      "bamboo_slips"
+    ],
+    "reason": "编联简册的绳线（韦编）是书籍装帧的最早形态之一"
+  }
+]

@@ -1,0 +1,2180 @@
+[
+  {
+    "id": "telephone",
+    "name": "电话",
+    "nameEn": "Telephone",
+    "wikiEn": "Telephone",
+    "aliases": [
+      "贝尔电话",
+      "Alexander Graham Bell telephone"
+    ],
+    "year": 1876,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "telephone_exchange",
+      "automatic_telephone_switch",
+      "radio",
+      "phonograph"
+    ],
+    "desc": "贝尔发明实用电话，开启实时语音远程通信。"
+  },
+  {
+    "id": "telephone_exchange",
+    "name": "电话交换机",
+    "nameEn": "Telephone exchange",
+    "wikiEn": "Telephone exchange",
+    "aliases": [
+      "人工交换台",
+      "switchboard",
+      "电话总机"
+    ],
+    "year": 1878,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "telephone"
+    ],
+    "related": [
+      "automatic_telephone_switch",
+      "teleprinter",
+      "telex"
+    ],
+    "desc": "话务员接续线路，使多用户电话组网运行。"
+  },
+  {
+    "id": "automatic_telephone_switch",
+    "name": "步进制自动电话交换机",
+    "nameEn": "Strowger switch",
+    "wikiEn": "Strowger switch",
+    "aliases": [
+      "斯特罗格交换机",
+      "自动电话交换",
+      "dial telephone exchange"
+    ],
+    "year": 1891,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "telephone",
+      "telephone_exchange"
+    ],
+    "related": [
+      "telex",
+      "teleprinter"
+    ],
+    "desc": "斯特罗格步进制交换机，拨号自动取代话务员。"
+  },
+  {
+    "id": "typewriter",
+    "name": "打字机",
+    "nameEn": "Typewriter",
+    "wikiEn": "Typewriter",
+    "aliases": [
+      "肖尔斯打字机",
+      "Remington typewriter",
+      "Sholes typewriter"
+    ],
+    "year": 1873,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "teleprinter",
+      "linotype"
+    ],
+    "desc": "肖尔斯打字机由雷明顿量产，文书进入机械时代。"
+  },
+  {
+    "id": "teleprinter",
+    "name": "电传打字机",
+    "nameEn": "Teleprinter",
+    "wikiEn": "Teleprinter",
+    "aliases": [
+      "电传机",
+      "teletypewriter",
+      "Morkrum teleprinter"
+    ],
+    "year": 1908,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "typewriter"
+    ],
+    "related": [
+      "telex",
+      "automatic_telephone_switch"
+    ],
+    "desc": "电报信号自动打印成字符，实现报文直收直发。"
+  },
+  {
+    "id": "telex",
+    "name": "电传",
+    "nameEn": "Telex",
+    "wikiEn": "Telex",
+    "aliases": [
+      "用户电报",
+      "电传交换网",
+      "teleprinter exchange"
+    ],
+    "year": 1933,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "teleprinter"
+    ],
+    "related": [
+      "transoceanic_radio",
+      "automatic_telephone_switch"
+    ],
+    "desc": "德国开通公众电传网，用户可直连交换文本电报。"
+  },
+  {
+    "id": "wirephoto",
+    "name": "传真电报",
+    "nameEn": "Wirephoto",
+    "wikiEn": "Wirephoto",
+    "aliases": [
+      "有线传真",
+      "telephotography",
+      "Belinographe"
+    ],
+    "year": 1924,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "telephone"
+    ],
+    "related": [
+      "telex",
+      "mechanical_television"
+    ],
+    "desc": "电话线扫描传送新闻照片，属早期传真业务。"
+  },
+  {
+    "id": "phonograph",
+    "name": "留声机",
+    "nameEn": "Phonograph",
+    "wikiEn": "Phonograph",
+    "aliases": [
+      "爱迪生留声机",
+      "锡箔留声机",
+      "talking machine"
+    ],
+    "year": 1877,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "telephone"
+    ],
+    "related": [
+      "gramophone",
+      "wire_recorder",
+      "cinematograph",
+      "sound_film"
+    ],
+    "desc": "爱迪生锡箔留声机，首次录制并重放声音。"
+  },
+  {
+    "id": "gramophone",
+    "name": "圆盘留声机",
+    "nameEn": "Gramophone",
+    "wikiEn": "Gramophone record",
+    "aliases": [
+      "唱机",
+      "贝利纳唱机",
+      "gramophone record"
+    ],
+    "year": 1887,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "phonograph"
+    ],
+    "related": [
+      "sound_film"
+    ],
+    "desc": "贝利纳圆盘唱片唱机，奠定唱片工业。"
+  },
+  {
+    "id": "wire_recorder",
+    "name": "钢丝录音机",
+    "nameEn": "Magnetic wire recorder",
+    "wikiEn": "Magnetic wire recorder",
+    "aliases": [
+      "磁钢录音机",
+      "telegraphone",
+      "Poulsen telegraphone"
+    ],
+    "year": 1898,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "phonograph"
+    ],
+    "related": [
+      "magnetic_tape_recorder",
+      "radio"
+    ],
+    "desc": "波尔森录音电话机，为磁性录音先驱。"
+  },
+  {
+    "id": "magnetic_tape_recorder",
+    "name": "磁带录音机",
+    "nameEn": "Tape recorder",
+    "wikiEn": "Tape recorder",
+    "aliases": [
+      "Magnetophon",
+      "AEG磁带机",
+      "磁录音机"
+    ],
+    "year": 1935,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "wire_recorder"
+    ],
+    "related": [
+      "sound_film",
+      "radio"
+    ],
+    "desc": "AEG的Magnetophon首台实用磁带录音机。"
+  },
+  {
+    "id": "radio",
+    "name": "无线电",
+    "nameEn": "Radio",
+    "wikiEn": "Invention of radio",
+    "aliases": [
+      "无线电报",
+      "wireless telegraphy",
+      "马可尼无线电"
+    ],
+    "year": 1895,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "transoceanic_radio",
+      "audion_triode",
+      "broadcasting",
+      "radar"
+    ],
+    "desc": "马可尼实现无线电报，无线通信由此诞生。"
+  },
+  {
+    "id": "transoceanic_radio",
+    "name": "跨洋无线电",
+    "nameEn": "Transatlantic wireless transmission",
+    "wikiEn": "Wireless telegraphy",
+    "aliases": [
+      "跨大西洋无线电",
+      "Marconi transatlantic signal",
+      "越洋无线电报"
+    ],
+    "year": 1901,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "radio"
+    ],
+    "related": [
+      "broadcasting",
+      "telex",
+      "radar"
+    ],
+    "desc": "1901年无线电信号跨越大西洋，越洋通信无线化。"
+  },
+  {
+    "id": "audion_triode",
+    "name": "真空三极管",
+    "nameEn": "Audion (triode)",
+    "wikiEn": "Triode",
+    "aliases": [
+      "奥迪恩管",
+      "弗莱明管",
+      "de Forest Audion"
+    ],
+    "year": 1906,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "radio"
+    ],
+    "related": [
+      "superheterodyne_receiver",
+      "fm_radio",
+      "television",
+      "radar"
+    ],
+    "desc": "德福雷斯三极管实现电信号放大，为广播基石。"
+  },
+  {
+    "id": "superheterodyne_receiver",
+    "name": "超外差接收机",
+    "nameEn": "Superheterodyne receiver",
+    "wikiEn": "Superheterodyne receiver",
+    "aliases": [
+      "超外差电路",
+      "Armstrong superheterodyne"
+    ],
+    "year": 1918,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "audion_triode"
+    ],
+    "related": [
+      "fm_radio",
+      "radar",
+      "radio_station"
+    ],
+    "desc": "阿姆斯特朗超外差电路，成为现代接收机基础。"
+  },
+  {
+    "id": "broadcasting",
+    "name": "无线电广播",
+    "nameEn": "Radio broadcasting",
+    "wikiEn": "Radio broadcasting",
+    "aliases": [
+      "广播",
+      "声音广播",
+      "Fessenden broadcast"
+    ],
+    "year": 1906,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "radio",
+      "audion_triode"
+    ],
+    "related": [
+      "radio_station",
+      "transoceanic_radio",
+      "fm_radio"
+    ],
+    "desc": "费森登1906年首次语音与音乐广播。"
+  },
+  {
+    "id": "radio_station",
+    "name": "广播电台",
+    "nameEn": "Commercial radio station",
+    "wikiEn": "AM broadcasting",
+    "aliases": [
+      "KDKA",
+      "WWJ",
+      "商业电台"
+    ],
+    "year": 1920,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "broadcasting"
+    ],
+    "related": [
+      "fm_radio",
+      "transoceanic_radio"
+    ],
+    "desc": "1920年KDKA等首批商业电台定期播出。"
+  },
+  {
+    "id": "fm_radio",
+    "name": "调频广播",
+    "nameEn": "FM broadcasting",
+    "wikiEn": "FM broadcasting",
+    "aliases": [
+      "FM",
+      "Armstrong FM",
+      "调频制"
+    ],
+    "year": 1933,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "audion_triode",
+      "superheterodyne_receiver"
+    ],
+    "related": [
+      "broadcasting",
+      "radio_station"
+    ],
+    "desc": "阿姆斯特朗调频制，抗干扰强、音质更佳。"
+  },
+  {
+    "id": "mechanical_television",
+    "name": "机械电视",
+    "nameEn": "Mechanical television",
+    "wikiEn": "Mechanical television",
+    "aliases": [
+      "贝尔德电视",
+      "Baird television",
+      "机械扫描电视"
+    ],
+    "year": 1925,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "wirephoto",
+      "audion_triode"
+    ],
+    "related": [
+      "television",
+      "broadcasting"
+    ],
+    "desc": "贝尔德以机械扫描盘公开传送活动人脸影像。"
+  },
+  {
+    "id": "television",
+    "name": "电视",
+    "nameEn": "All-electronic television",
+    "wikiEn": "Television",
+    "aliases": [
+      "电子电视",
+      "Farnsworth television",
+      "电视广播"
+    ],
+    "year": 1927,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "mechanical_television",
+      "audion_triode"
+    ],
+    "related": [
+      "broadcasting",
+      "superheterodyne_receiver",
+      "cinematograph"
+    ],
+    "desc": "法恩斯沃斯全电子电视，1936年BBC正式开播。"
+  },
+  {
+    "id": "kinetoscope",
+    "name": "活动电影放映机",
+    "nameEn": "Kinetoscope",
+    "wikiEn": "Kinetoscope",
+    "aliases": [
+      "电影视镜",
+      "爱迪生窥视镜",
+      "西洋镜"
+    ],
+    "year": 1891,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "phonograph"
+    ],
+    "related": [
+      "cinematograph",
+      "kodak_camera"
+    ],
+    "desc": "爱迪生单人窥视式活动影像装置，电影放映前身。"
+  },
+  {
+    "id": "cinematograph",
+    "name": "电影机",
+    "nameEn": "Cinématographe",
+    "wikiEn": "Cinematograph",
+    "aliases": [
+      "电影放映机",
+      "卢米埃尔电影机",
+      "Lumière cinematograph"
+    ],
+    "year": 1895,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "kinetoscope"
+    ],
+    "related": [
+      "sound_film",
+      "technicolor",
+      "phonograph"
+    ],
+    "desc": "卢米埃尔兄弟电影机首次公开售票放映电影。"
+  },
+  {
+    "id": "sound_film",
+    "name": "有声电影",
+    "nameEn": "Sound film",
+    "wikiEn": "Sound film",
+    "aliases": [
+      "有声片",
+      "talkie",
+      "爵士歌手"
+    ],
+    "year": 1927,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "cinematograph",
+      "audion_triode"
+    ],
+    "related": [
+      "technicolor",
+      "gramophone",
+      "magnetic_tape_recorder"
+    ],
+    "desc": "《爵士歌手》上映，电影进入有声时代。"
+  },
+  {
+    "id": "technicolor",
+    "name": "特艺色彩色电影",
+    "nameEn": "Three-strip Technicolor",
+    "wikiEn": "Technicolor",
+    "aliases": [
+      "三染印特艺色",
+      "Technicolor three-strip",
+      "彩色电影"
+    ],
+    "year": 1932,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "cinematograph",
+      "autochrome"
+    ],
+    "related": [
+      "sound_film",
+      "kodak_camera"
+    ],
+    "desc": "特艺色三染印工艺使彩色电影走向成熟。"
+  },
+  {
+    "id": "kodak_camera",
+    "name": "柯达手持相机",
+    "nameEn": "Kodak roll-film camera",
+    "wikiEn": "Kodak",
+    "aliases": [
+      "柯达相机",
+      "卷片相机",
+      "roll film camera"
+    ],
+    "year": 1888,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "autochrome",
+      "halftone",
+      "cinematograph"
+    ],
+    "desc": "伊斯曼柯达卷片手持相机，摄影走向大众。"
+  },
+  {
+    "id": "autochrome",
+    "name": "奥托克罗姆彩屏干版",
+    "nameEn": "Autochrome Lumière",
+    "wikiEn": "Autochrome Lumière",
+    "aliases": [
+      "天然彩屏干版",
+      "Autochrome",
+      "卢米埃尔彩色版"
+    ],
+    "year": 1907,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "kodak_camera"
+    ],
+    "related": [
+      "technicolor",
+      "halftone"
+    ],
+    "desc": "卢米埃尔兄弟彩屏干版，早期实用彩色摄影。"
+  },
+  {
+    "id": "halftone",
+    "name": "照相网目制版",
+    "nameEn": "Halftone",
+    "wikiEn": "Halftone",
+    "aliases": [
+      "网点印刷",
+      "网目铜版",
+      "halftone engraving"
+    ],
+    "year": 1881,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [
+      "kodak_camera"
+    ],
+    "related": [
+      "linotype",
+      "offset_printing",
+      "autochrome"
+    ],
+    "desc": "照相加网制版使照片可大量印上报刊。"
+  },
+  {
+    "id": "linotype",
+    "name": "莱诺铸排机",
+    "nameEn": "Linotype machine",
+    "wikiEn": "Linotype machine",
+    "aliases": [
+      "整行铸排机",
+      "Mergenthaler Linotype",
+      "热排机"
+    ],
+    "year": 1884,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "typewriter"
+    ],
+    "related": [
+      "offset_printing",
+      "halftone"
+    ],
+    "desc": "默根特勒整行铸排机，大幅革新报纸排字。"
+  },
+  {
+    "id": "offset_printing",
+    "name": "胶印",
+    "nameEn": "Offset printing",
+    "wikiEn": "Offset printing",
+    "aliases": [
+      "平版胶印",
+      "Rubel offset",
+      "橡皮布转印"
+    ],
+    "year": 1904,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "linotype",
+      "halftone"
+    ],
+    "related": [
+      "halftone"
+    ],
+    "desc": "鲁贝尔胶版转印，配合照相制版大批量印刷。"
+  },
+  {
+    "id": "oscilloscope",
+    "name": "阴极射线示波器",
+    "nameEn": "Cathode-ray oscilloscope",
+    "wikiEn": "Oscilloscope",
+    "aliases": [
+      "示波器",
+      "布劳恩管",
+      "Braun tube"
+    ],
+    "year": 1897,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "audion_triode",
+      "television",
+      "radar"
+    ],
+    "desc": "布劳恩阴极射线管，奠定电子波形显示仪器。"
+  },
+  {
+    "id": "mass_spectrometry",
+    "name": "质谱法",
+    "nameEn": "Mass spectrometry",
+    "wikiEn": "Mass spectrometry",
+    "aliases": [
+      "质谱仪",
+      "Thomson parabola spectrograph",
+      "质谱分析"
+    ],
+    "year": 1912,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "oscilloscope"
+    ],
+    "related": [
+      "cyclotron",
+      "x_ray_crystallography",
+      "electron_microscope"
+    ],
+    "desc": "汤姆孙按质荷比分离粒子，鉴别原子与同位素。"
+  },
+  {
+    "id": "x_ray_crystallography",
+    "name": "X射线晶体学",
+    "nameEn": "X-ray crystallography",
+    "wikiEn": "X-ray crystallography",
+    "aliases": [
+      "X射线衍射",
+      "布拉格定律",
+      "Laue diffraction"
+    ],
+    "year": 1912,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "x_ray"
+    ],
+    "related": [
+      "electron_microscope",
+      "mass_spectrometry"
+    ],
+    "desc": "冯·劳厄衍射与布拉格定律，用于解析分子结构。"
+  },
+  {
+    "id": "ultracentrifuge",
+    "name": "超速离心机",
+    "nameEn": "Ultracentrifuge",
+    "wikiEn": "Ultracentrifuge",
+    "aliases": [
+      "斯维德贝里离心机",
+      "Svedberg ultracentrifuge"
+    ],
+    "year": 1925,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 5,
+    "prereqs": [],
+    "related": [
+      "ph_meter",
+      "mass_spectrometry"
+    ],
+    "desc": "斯维德贝里超速离心测定蛋白质分子量。"
+  },
+  {
+    "id": "electron_microscope",
+    "name": "电子显微镜",
+    "nameEn": "Electron microscope",
+    "wikiEn": "Electron microscope",
+    "aliases": [
+      "电镜",
+      "Knoll-Ruska microscope",
+      "鲁斯卡电镜"
+    ],
+    "year": 1931,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "oscilloscope"
+    ],
+    "related": [
+      "x_ray_crystallography",
+      "mass_spectrometry"
+    ],
+    "desc": "诺尔与鲁斯卡以电子束成像，分辨率超越光学镜。"
+  },
+  {
+    "id": "geiger_counter",
+    "name": "盖革计数器",
+    "nameEn": "Geiger counter",
+    "wikiEn": "Geiger counter",
+    "aliases": [
+      "盖革-米勒计数器",
+      "Geiger-Muller counter"
+    ],
+    "year": 1928,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "cyclotron",
+      "x_ray_crystallography"
+    ],
+    "desc": "盖革与米勒制成便携辐射计数探测器。"
+  },
+  {
+    "id": "cyclotron",
+    "name": "回旋加速器",
+    "nameEn": "Cyclotron",
+    "wikiEn": "Cyclotron",
+    "aliases": [
+      "劳伦斯回旋加速器",
+      "Lawrence cyclotron"
+    ],
+    "year": 1931,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 3,
+    "prereqs": [
+      "mass_spectrometry"
+    ],
+    "related": [
+      "geiger_counter",
+      "radar"
+    ],
+    "desc": "劳伦斯回旋加速器，可加速粒子做核物理实验。"
+  },
+  {
+    "id": "ph_meter",
+    "name": "pH计",
+    "nameEn": "pH meter",
+    "wikiEn": "PH meter",
+    "aliases": [
+      "酸度计",
+      "Beckman pH meter",
+      "贝克曼酸度计"
+    ],
+    "year": 1934,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "ultracentrifuge"
+    ],
+    "desc": "贝克曼电子酸度计，开启实验室电子测量。"
+  },
+  {
+    "id": "radar",
+    "name": "雷达",
+    "nameEn": "Radar",
+    "wikiEn": "Radar",
+    "aliases": [
+      "无线电探测定位",
+      "Watson-Watt radar",
+      "Chain Home"
+    ],
+    "year": 1935,
+    "era": "second_industrial",
+    "category": "information",
+    "importance": 2,
+    "prereqs": [
+      "radio",
+      "superheterodyne_receiver"
+    ],
+    "related": [
+      "transoceanic_radio",
+      "oscilloscope"
+    ],
+    "desc": "沃森-瓦特无线电探测试验成功，雷达诞生。"
+  },
+  {
+    "id": "rabies_vaccine",
+    "name": "狂犬病疫苗",
+    "nameEn": "Rabies vaccine",
+    "wikiEn": "Rabies vaccine",
+    "aliases": [
+      "巴斯德狂犬疫苗",
+      "Pasteur rabies vaccine"
+    ],
+    "year": 1885,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "anthrax_vaccine",
+      "pasteurization",
+      "serum_therapy"
+    ],
+    "desc": "巴斯德减毒疫苗首次救治被狂犬咬伤男孩。"
+  },
+  {
+    "id": "anthrax_vaccine",
+    "name": "炭疽疫苗",
+    "nameEn": "Anthrax vaccine",
+    "wikiEn": "Anthrax vaccines",
+    "aliases": [
+      "巴斯德炭疽疫苗",
+      "Pasteur anthrax vaccine"
+    ],
+    "year": 1881,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "rabies_vaccine",
+      "cholera_vaccine",
+      "serum_therapy"
+    ],
+    "desc": "巴斯德炭疽减毒疫苗田间试验成功。"
+  },
+  {
+    "id": "cholera_vaccine",
+    "name": "霍乱疫苗",
+    "nameEn": "Cholera vaccine",
+    "wikiEn": "Cholera vaccine",
+    "aliases": [
+      "费兰霍乱疫苗",
+      "Ferran cholera vaccine",
+      "Haffkine vaccine"
+    ],
+    "year": 1885,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "anthrax_vaccine"
+    ],
+    "related": [
+      "typhoid_vaccine",
+      "water_chlorination",
+      "pasteurization"
+    ],
+    "desc": "费兰等人首次接种人用霍乱疫苗。"
+  },
+  {
+    "id": "typhoid_vaccine",
+    "name": "伤寒疫苗",
+    "nameEn": "Typhoid vaccine",
+    "wikiEn": "Typhoid vaccine",
+    "aliases": [
+      "赖特伤寒疫苗",
+      "Wright typhoid vaccine"
+    ],
+    "year": 1896,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "cholera_vaccine"
+    ],
+    "related": [
+      "slow_sand_filter",
+      "tetanus_toxoid"
+    ],
+    "desc": "赖特伤寒灭活疫苗率先在军队接种。"
+  },
+  {
+    "id": "plague_vaccine",
+    "name": "鼠疫疫苗",
+    "nameEn": "Plague vaccine",
+    "wikiEn": "Plague vaccine",
+    "aliases": [
+      "哈夫金鼠疫疫苗",
+      "Haffkine plague vaccine"
+    ],
+    "year": 1897,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "cholera_vaccine"
+    ],
+    "related": [
+      "serum_therapy",
+      "ddt"
+    ],
+    "desc": "哈夫金在印度大规模接种鼠疫疫苗。"
+  },
+  {
+    "id": "serum_therapy",
+    "name": "血清疗法",
+    "nameEn": "Serum therapy (antitoxin)",
+    "wikiEn": "Antiserum",
+    "aliases": [
+      "抗毒素疗法",
+      "抗血清",
+      "antitoxin therapy"
+    ],
+    "year": 1890,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "anthrax_vaccine"
+    ],
+    "related": [
+      "diphtheria_antitoxin",
+      "tetanus_toxoid",
+      "tuberculin"
+    ],
+    "desc": "冯·贝林与北里发现抗毒素，开创血清疗法。"
+  },
+  {
+    "id": "diphtheria_antitoxin",
+    "name": "白喉抗毒素",
+    "nameEn": "Diphtheria antitoxin",
+    "wikiEn": "Diphtheria antitoxin",
+    "aliases": [
+      "白喉血清",
+      "Roux diphtheria antitoxin"
+    ],
+    "year": 1894,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "serum_therapy"
+    ],
+    "related": [
+      "tetanus_toxoid",
+      "rabies_vaccine"
+    ],
+    "desc": "鲁制备白喉抗毒素，血清疗法大规模应用。"
+  },
+  {
+    "id": "tetanus_toxoid",
+    "name": "破伤风类毒素",
+    "nameEn": "Tetanus toxoid",
+    "wikiEn": "Tetanus vaccine",
+    "aliases": [
+      "破伤风疫苗",
+      "Ramon toxoid",
+      "拉蒙类毒素"
+    ],
+    "year": 1924,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "diphtheria_antitoxin"
+    ],
+    "related": [
+      "serum_therapy",
+      "blood_bank"
+    ],
+    "desc": "拉蒙制成破伤风类毒素，用于主动预防。"
+  },
+  {
+    "id": "tuberculin",
+    "name": "结核菌素",
+    "nameEn": "Tuberculin",
+    "wikiEn": "Tuberculin",
+    "aliases": [
+      "科赫结核菌素",
+      "Koch tuberculin",
+      "旧结核菌素"
+    ],
+    "year": 1890,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "bcg_vaccine",
+      "serum_therapy"
+    ],
+    "desc": "科赫公布结核菌素，后转为结核诊断试剂。"
+  },
+  {
+    "id": "bcg_vaccine",
+    "name": "卡介苗",
+    "nameEn": "BCG vaccine",
+    "wikiEn": "BCG vaccine",
+    "aliases": [
+      "卡介菌",
+      "Bacille Calmette-Guerin"
+    ],
+    "year": 1921,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "tuberculin"
+    ],
+    "related": [
+      "pasteurization",
+      "radiation_therapy"
+    ],
+    "desc": "卡尔梅特与介兰减毒活菌苗首次用于婴儿。"
+  },
+  {
+    "id": "yellow_fever_vaccine",
+    "name": "黄热病疫苗",
+    "nameEn": "Yellow fever vaccine (17D)",
+    "wikiEn": "Yellow fever vaccine",
+    "aliases": [
+      "17D疫苗",
+      "Theiler yellow fever vaccine"
+    ],
+    "year": 1937,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "cholera_vaccine"
+    ],
+    "related": [
+      "ddt",
+      "plague_vaccine"
+    ],
+    "desc": "蒂勒研制17D株减毒黄热病疫苗。"
+  },
+  {
+    "id": "salvarsan",
+    "name": "撒尔佛散",
+    "nameEn": "Arsphenamine (Salvarsan)",
+    "wikiEn": "Arsphenamine",
+    "aliases": [
+      "胂凡纳明",
+      "606",
+      "Ehrlich magic bullet"
+    ],
+    "year": 1909,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "prontosil",
+      "sulfa_drugs",
+      "lysozyme"
+    ],
+    "desc": "埃尔希与秦佐八郎制成胂凡纳明，首个化学特效药。"
+  },
+  {
+    "id": "barbital",
+    "name": "巴比妥",
+    "nameEn": "Barbital",
+    "wikiEn": "Barbital",
+    "aliases": [
+      "佛罗拿",
+      "Veronal",
+      "巴比妥酸类"
+    ],
+    "year": 1903,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "aspirin",
+      "procaine"
+    ],
+    "desc": "费歇尔与梅林合成巴比妥，现代镇静安眠药开端。"
+  },
+  {
+    "id": "aspirin",
+    "name": "阿司匹林",
+    "nameEn": "Aspirin",
+    "wikiEn": "Aspirin",
+    "aliases": [
+      "乙酰水杨酸",
+      "acetylsalicylic acid",
+      "拜耳阿司匹林"
+    ],
+    "year": 1897,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "barbital",
+      "salvarsan"
+    ],
+    "desc": "霍夫曼合成乙酰水杨酸，拜耳1899年上市。"
+  },
+  {
+    "id": "insulin",
+    "name": "胰岛素",
+    "nameEn": "Insulin",
+    "wikiEn": "Insulin (medication)",
+    "aliases": [
+      "因苏林",
+      "Banting insulin",
+      "班廷胰岛素"
+    ],
+    "year": 1921,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "vitamins",
+      "adrenaline",
+      "thyroxine"
+    ],
+    "desc": "班廷与贝斯特提取胰岛素，糖尿病转为可控。"
+  },
+  {
+    "id": "vitamins",
+    "name": "维生素",
+    "nameEn": "Vitamins",
+    "wikiEn": "Vitamin",
+    "aliases": [
+      "维他命",
+      "vitamine",
+      "Funk vitamine"
+    ],
+    "year": 1912,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "vitamin_d",
+      "iodized_salt",
+      "breakfast_cereal"
+    ],
+    "desc": "芬克提出维生素假说，开启现代营养学。"
+  },
+  {
+    "id": "vitamin_d",
+    "name": "维生素D佝偻病疗法",
+    "nameEn": "Vitamin D and rickets therapy",
+    "wikiEn": "Vitamin D",
+    "aliases": [
+      "抗佝偻病维生素",
+      "鱼肝油疗法",
+      "Steenbock irradiation"
+    ],
+    "year": 1922,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "vitamins"
+    ],
+    "related": [
+      "iodized_salt",
+      "pasteurized_milk"
+    ],
+    "desc": "确认维生素D抗佝偻病，紫外线照射疗法推广。"
+  },
+  {
+    "id": "prontosil",
+    "name": "百浪多息",
+    "nameEn": "Prontosil",
+    "wikiEn": "Prontosil",
+    "aliases": [
+      "磺胺百浪多息",
+      "Domagk Prontosil",
+      "红色磺胺"
+    ],
+    "year": 1932,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "salvarsan"
+    ],
+    "related": [
+      "sulfa_drugs",
+      "lysozyme"
+    ],
+    "desc": "多马克发现百浪多息，首个磺胺类抗菌药。"
+  },
+  {
+    "id": "sulfa_drugs",
+    "name": "磺胺类药物",
+    "nameEn": "Sulfonamide antibiotics",
+    "wikiEn": "Sulfonamide (medicine)",
+    "aliases": [
+      "磺胺",
+      "sulfanilamide",
+      "磺胺抗菌剂"
+    ],
+    "year": 1936,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [
+      "prontosil"
+    ],
+    "related": [
+      "salvarsan",
+      "streptomycin",
+      "lysozyme"
+    ],
+    "desc": "确认有效基团为磺胺，掀起合成抗菌药热潮。"
+  },
+  {
+    "id": "lysozyme",
+    "name": "溶菌酶",
+    "nameEn": "Lysozyme",
+    "wikiEn": "Lysozyme",
+    "aliases": [
+      "弗莱明溶菌酶",
+      "Fleming lysozyme",
+      "胞壁质酶"
+    ],
+    "year": 1921,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "sulfa_drugs",
+      "streptomycin",
+      "prontosil"
+    ],
+    "desc": "弗莱明发现溶菌酶，为青霉素前的抗菌探索。"
+  },
+  {
+    "id": "streptomycin",
+    "name": "链霉素",
+    "nameEn": "Streptomycin (early research)",
+    "wikiEn": "Streptomycin",
+    "aliases": [
+      "瓦克斯曼土壤筛选",
+      "Waksman antibiotic program",
+      "放线菌抗生素"
+    ],
+    "year": 1943,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "sulfa_drugs"
+    ],
+    "related": [
+      "lysozyme",
+      "sulfa_drugs"
+    ],
+    "desc": "瓦克斯曼团队土壤筛选，1943年得到链霉素。"
+  },
+  {
+    "id": "heparin",
+    "name": "肝素",
+    "nameEn": "Heparin",
+    "wikiEn": "Heparin",
+    "aliases": [
+      "抗凝血素",
+      "Howell heparin"
+    ],
+    "year": 1916,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "blood_transfusion",
+      "blood_bank",
+      "adrenaline"
+    ],
+    "desc": "麦克莱恩在豪厄尔实验室发现肝素抗凝作用。"
+  },
+  {
+    "id": "adrenaline",
+    "name": "肾上腺素",
+    "nameEn": "Adrenaline",
+    "wikiEn": "Epinephrine (medication)",
+    "aliases": [
+      "副肾素",
+      "Takamine adrenaline",
+      "高峰让吉肾上腺素"
+    ],
+    "year": 1901,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "insulin",
+      "thyroxine",
+      "heparin"
+    ],
+    "desc": "高峰让吉分离肾上腺素，为首个纯激素药物。"
+  },
+  {
+    "id": "thyroxine",
+    "name": "甲状腺素",
+    "nameEn": "Thyroxine",
+    "wikiEn": "Thyroxine",
+    "aliases": [
+      "T4",
+      "Kendall thyroxine",
+      "肯德尔甲状腺素"
+    ],
+    "year": 1914,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 5,
+    "prereqs": [
+      "adrenaline"
+    ],
+    "related": [
+      "insulin",
+      "vitamins"
+    ],
+    "desc": "肯德尔分离甲状腺素，用于治疗甲状腺功能低下。"
+  },
+  {
+    "id": "x_ray",
+    "name": "X射线",
+    "nameEn": "X-ray",
+    "wikiEn": "X-ray",
+    "aliases": [
+      "伦琴射线",
+      "Rontgen ray",
+      "X光"
+    ],
+    "year": 1895,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "radiation_therapy",
+      "x_ray_crystallography",
+      "ecg"
+    ],
+    "desc": "伦琴发现X射线，迅速用于医学影像诊断。"
+  },
+  {
+    "id": "radiation_therapy",
+    "name": "放射治疗",
+    "nameEn": "Radiation therapy",
+    "wikiEn": "Radiation therapy",
+    "aliases": [
+      "放疗",
+      "镭疗",
+      "radium therapy"
+    ],
+    "year": 1896,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "x_ray"
+    ],
+    "related": [
+      "pap_smear",
+      "bcg_vaccine"
+    ],
+    "desc": "X线与居里夫妇发现的镭相继用于肿瘤治疗。"
+  },
+  {
+    "id": "local_anesthesia",
+    "name": "局部麻醉",
+    "nameEn": "Local anesthesia with cocaine",
+    "wikiEn": "Local anesthesia",
+    "aliases": [
+      "可卡因局麻",
+      "Koller cocaine anesthesia",
+      "科勒局麻"
+    ],
+    "year": 1884,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "procaine",
+      "spinal_anesthesia",
+      "aspirin"
+    ],
+    "desc": "科勒将可卡因用于眼科手术，局部麻醉开端。"
+  },
+  {
+    "id": "procaine",
+    "name": "普鲁卡因",
+    "nameEn": "Procaine (Novocaine)",
+    "wikiEn": "Procaine",
+    "aliases": [
+      "奴佛卡因",
+      "Novocaine",
+      "Einhorn procaine"
+    ],
+    "year": 1905,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "local_anesthesia"
+    ],
+    "related": [
+      "spinal_anesthesia",
+      "barbital"
+    ],
+    "desc": "爱因霍恩合成低毒普鲁卡因，取代可卡因子。"
+  },
+  {
+    "id": "spinal_anesthesia",
+    "name": "腰麻",
+    "nameEn": "Spinal anesthesia",
+    "wikiEn": "Spinal anaesthesia",
+    "aliases": [
+      "蛛网膜下腔麻醉",
+      "Bier spinal block",
+      "比尔腰麻"
+    ],
+    "year": 1898,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "local_anesthesia"
+    ],
+    "related": [
+      "procaine",
+      "aseptic_surgery"
+    ],
+    "desc": "比尔首创蛛网膜下腔阻滞麻醉。"
+  },
+  {
+    "id": "aseptic_surgery",
+    "name": "无菌外科",
+    "nameEn": "Aseptic surgery",
+    "wikiEn": "Asepsis",
+    "aliases": [
+      "李斯特消毒术",
+      "外科无菌术",
+      "Bergmann asepsis"
+    ],
+    "year": 1886,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "surgical_gloves",
+      "cesarean_section",
+      "pasteurization",
+      "local_anesthesia"
+    ],
+    "desc": "贝格曼蒸汽灭菌，李斯特消毒术发展为无菌外科。"
+  },
+  {
+    "id": "surgical_gloves",
+    "name": "医用橡胶手套",
+    "nameEn": "Sterile surgical gloves",
+    "wikiEn": "Medical glove",
+    "aliases": [
+      "手术手套",
+      "Halsted gloves",
+      "消毒手套"
+    ],
+    "year": 1889,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "aseptic_surgery"
+    ],
+    "related": [
+      "cesarean_section",
+      "appendectomy"
+    ],
+    "desc": "霍尔斯特德推行橡胶手套，减少术中感染。"
+  },
+  {
+    "id": "cesarean_section",
+    "name": "消毒剖腹产术",
+    "nameEn": "Aseptic Caesarean section",
+    "wikiEn": "Caesarean section",
+    "aliases": [
+      "剖宫产术",
+      "Sanger suture",
+      "桑格剖腹产"
+    ],
+    "year": 1882,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "aseptic_surgery"
+    ],
+    "related": [
+      "surgical_gloves",
+      "appendectomy"
+    ],
+    "desc": "桑格子宫缝合与无菌操作使剖腹产成为常规术式。"
+  },
+  {
+    "id": "appendectomy",
+    "name": "阑尾切除术",
+    "nameEn": "Appendectomy",
+    "wikiEn": "Appendectomy",
+    "aliases": [
+      "麦克伯尼手术",
+      "McBurney appendectomy"
+    ],
+    "year": 1889,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "aseptic_surgery",
+      "surgical_gloves"
+    ],
+    "related": [
+      "cesarean_section"
+    ],
+    "desc": "麦克伯尼确立阑尾切除术，奠定急腹症外科。"
+  },
+  {
+    "id": "blood_transfusion",
+    "name": "ABO血型与输血",
+    "nameEn": "Blood transfusion and ABO groups",
+    "wikiEn": "Blood transfusion",
+    "aliases": [
+      "输血",
+      "ABO血型",
+      "Landsteiner blood groups"
+    ],
+    "year": 1901,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [
+      "aseptic_surgery"
+    ],
+    "related": [
+      "blood_bank",
+      "heparin"
+    ],
+    "desc": "兰德施泰纳发现ABO血型，安全输血成为可能。"
+  },
+  {
+    "id": "blood_bank",
+    "name": "血库",
+    "nameEn": "Blood bank",
+    "wikiEn": "Blood bank",
+    "aliases": [
+      "储血库",
+      "Fantus blood bank",
+      "范塔斯血库"
+    ],
+    "year": 1937,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "blood_transfusion"
+    ],
+    "related": [
+      "heparin",
+      "tetanus_toxoid"
+    ],
+    "desc": "范塔斯在库克县医院建立首家血库。"
+  },
+  {
+    "id": "ecg",
+    "name": "心电图",
+    "nameEn": "Electrocardiography (ECG)",
+    "wikiEn": "Electrocardiography",
+    "aliases": [
+      "心电描记",
+      "Einthoven ECG",
+      "爱因托芬心电图"
+    ],
+    "year": 1903,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "sphygmomanometer",
+      "clinical_thermometer",
+      "eeg",
+      "x_ray"
+    ],
+    "desc": "爱因托芬弦线电流计精确记录心电图。"
+  },
+  {
+    "id": "sphygmomanometer",
+    "name": "血压计",
+    "nameEn": "Sphygmomanometer",
+    "wikiEn": "Sphygmomanometer",
+    "aliases": [
+      "里瓦-罗奇血压计",
+      "Riva-Rocci cuff",
+      "袖带血压计"
+    ],
+    "year": 1896,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "ecg",
+      "clinical_thermometer"
+    ],
+    "desc": "里瓦-罗奇发明袖带式血压计。"
+  },
+  {
+    "id": "clinical_thermometer",
+    "name": "临床体温计",
+    "nameEn": "Clinical thermometer",
+    "wikiEn": "Medical thermometer",
+    "aliases": [
+      "奥尔巴特体温计",
+      "Allbutt thermometer",
+      "医用温度计"
+    ],
+    "year": 1867,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "sphygmomanometer",
+      "ecg"
+    ],
+    "desc": "奥尔巴特制成短小便携体温计，1870年代临床普及。"
+  },
+  {
+    "id": "eeg",
+    "name": "脑电图",
+    "nameEn": "Electroencephalography (EEG)",
+    "wikiEn": "Electroencephalography",
+    "aliases": [
+      "脑电描记",
+      "Berger EEG",
+      "贝格尔脑电图"
+    ],
+    "year": 1924,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "ecg"
+    ],
+    "related": [
+      "iron_lung",
+      "oscilloscope"
+    ],
+    "desc": "贝格尔首次记录人脑电活动并发表脑电图。"
+  },
+  {
+    "id": "iron_lung",
+    "name": "铁肺",
+    "nameEn": "Iron lung",
+    "wikiEn": "Iron lung",
+    "aliases": [
+      "负压呼吸机",
+      "Drinker respirator",
+      "德林克呼吸器"
+    ],
+    "year": 1928,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "hemodialysis",
+      "eeg"
+    ],
+    "desc": "德林克铁肺救治脊髓灰质炎所致呼吸麻痹。"
+  },
+  {
+    "id": "infant_incubator",
+    "name": "婴儿保温箱",
+    "nameEn": "Infant incubator",
+    "wikiEn": "Infant incubator",
+    "aliases": [
+      "新生儿暖箱",
+      "Tarnier incubator",
+      "塔尼耶保温箱"
+    ],
+    "year": 1880,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "pasteurized_milk",
+      "iron_lung"
+    ],
+    "desc": "塔尼耶在产科推行动物箱式早产儿保温箱。"
+  },
+  {
+    "id": "modern_sewer",
+    "name": "现代下水道",
+    "nameEn": "Modern sewerage system",
+    "wikiEn": "Sanitary sewer",
+    "aliases": [
+      "伦敦下水道",
+      "Bazalgette sewers",
+      "巴泽尔盖特下水道"
+    ],
+    "year": 1870,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "water_chlorination",
+      "slow_sand_filter",
+      "activated_sludge"
+    ],
+    "desc": "巴泽尔盖特伦敦现代下水道系统主体建成。"
+  },
+  {
+    "id": "water_chlorination",
+    "name": "自来水氯化消毒",
+    "nameEn": "Water chlorination",
+    "wikiEn": "Water chlorination",
+    "aliases": [
+      "饮水加氯",
+      "chlorine disinfection",
+      "自来水消毒"
+    ],
+    "year": 1908,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "modern_sewer"
+    ],
+    "related": [
+      "slow_sand_filter",
+      "cholera_vaccine",
+      "activated_sludge"
+    ],
+    "desc": "自来水厂持续加氯消毒，介水传染病大幅下降。"
+  },
+  {
+    "id": "slow_sand_filter",
+    "name": "慢砂滤水",
+    "nameEn": "Slow sand filtration",
+    "wikiEn": "Slow sand filter",
+    "aliases": [
+      "慢砂滤池",
+      "bacterial water filtration",
+      "细菌学滤水"
+    ],
+    "year": 1893,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "modern_sewer"
+    ],
+    "related": [
+      "water_chlorination",
+      "typhoid_vaccine",
+      "activated_sludge"
+    ],
+    "desc": "基于细菌学的慢砂滤池净化城市饮用水。"
+  },
+  {
+    "id": "activated_sludge",
+    "name": "活性污泥法",
+    "nameEn": "Activated sludge process",
+    "wikiEn": "Activated sludge",
+    "aliases": [
+      "活性污泥污水处理",
+      "Ardern-Lockett process"
+    ],
+    "year": 1914,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "modern_sewer",
+      "slow_sand_filter"
+    ],
+    "related": [
+      "water_chlorination"
+    ],
+    "desc": "阿登与洛克特以活性污泥曝气处理城市污水。"
+  },
+  {
+    "id": "pasteurization",
+    "name": "巴氏消毒法",
+    "nameEn": "Pasteurization",
+    "wikiEn": "Pasteurization",
+    "aliases": [
+      "巴氏杀菌",
+      "低温灭菌法",
+      "Pasteur sterilization"
+    ],
+    "year": 1864,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "pasteurized_milk",
+      "rabies_vaccine",
+      "refrigeration"
+    ],
+    "desc": "巴斯德低温杀菌法，先用于酒类后推广至奶品。"
+  },
+  {
+    "id": "pasteurized_milk",
+    "name": "巴氏消毒奶",
+    "nameEn": "Pasteurized milk",
+    "wikiEn": "Pasteurized milk",
+    "aliases": [
+      "消毒牛奶",
+      "Soxhlet milk pasteurization",
+      "巴氏奶"
+    ],
+    "year": 1886,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "pasteurization"
+    ],
+    "related": [
+      "refrigeration",
+      "infant_incubator",
+      "breakfast_cereal"
+    ],
+    "desc": "索克斯莱特提出牛奶巴氏消毒并走向商业化。"
+  },
+  {
+    "id": "refrigeration",
+    "name": "制冷技术",
+    "nameEn": "Refrigeration",
+    "wikiEn": "Refrigeration",
+    "aliases": [
+      "人工制冷",
+      "Linde ammonia refrigerator",
+      "林德制冷机"
+    ],
+    "year": 1876,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 1,
+    "prereqs": [],
+    "related": [
+      "frozen_food",
+      "pasteurized_milk",
+      "canning_industrialization",
+      "margarine"
+    ],
+    "desc": "林德氨压缩制冷机实用化，人工冷藏普及。"
+  },
+  {
+    "id": "frozen_food",
+    "name": "冷冻食品",
+    "nameEn": "Frozen food",
+    "wikiEn": "Frozen food",
+    "aliases": [
+      "速冻食品",
+      "Birds Eye",
+      "Birdseye quick-freezing"
+    ],
+    "year": 1924,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "refrigeration"
+    ],
+    "related": [
+      "canning_industrialization",
+      "breakfast_cereal"
+    ],
+    "desc": "伯宰发明速冻工艺，冷冻食品进入工业化生产。"
+  },
+  {
+    "id": "canning_industrialization",
+    "name": "罐头工业化",
+    "nameEn": "Industrial canning",
+    "wikiEn": "Canning",
+    "aliases": [
+      "卫生罐",
+      "双重卷封罐",
+      "sanitary can"
+    ],
+    "year": 1903,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "frozen_food",
+      "pasteurization",
+      "refrigeration"
+    ],
+    "desc": "双重卷封卫生罐与高速制罐线推动罐头量产。"
+  },
+  {
+    "id": "margarine",
+    "name": "人造黄油",
+    "nameEn": "Margarine",
+    "wikiEn": "Margarine",
+    "aliases": [
+      "麦淇淋",
+      "人造奶油",
+      "Mege-Mouries margarine"
+    ],
+    "year": 1871,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "breakfast_cereal",
+      "pasteurized_milk",
+      "refrigeration"
+    ],
+    "desc": "麦热-穆里埃专利后，1871年起在荷兰工业化生产。"
+  },
+  {
+    "id": "breakfast_cereal",
+    "name": "早餐谷物",
+    "nameEn": "Breakfast cereal",
+    "wikiEn": "Breakfast cereal",
+    "aliases": [
+      "玉米片",
+      "corn flakes",
+      "Kellogg cereal"
+    ],
+    "year": 1898,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "pasteurized_milk",
+      "margarine",
+      "vitamins"
+    ],
+    "desc": "凯洛格玉米片开创工业化早餐谷物食品。"
+  },
+  {
+    "id": "ddt",
+    "name": "滴滴涕",
+    "nameEn": "DDT",
+    "wikiEn": "DDT",
+    "aliases": [
+      "二氯二苯三氯乙烷",
+      "Muller DDT",
+      "灭蚊杀虫剂"
+    ],
+    "year": 1939,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "yellow_fever_vaccine",
+      "plague_vaccine"
+    ],
+    "desc": "穆勒发现DDT杀虫效力，用于防疫灭蚊。"
+  },
+  {
+    "id": "hemodialysis",
+    "name": "血液透析",
+    "nameEn": "Hemodialysis",
+    "wikiEn": "Hemodialysis",
+    "aliases": [
+      "人工肾",
+      "Kolff dialyzer",
+      "科尔夫透析机"
+    ],
+    "year": 1943,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 3,
+    "prereqs": [
+      "aseptic_surgery"
+    ],
+    "related": [
+      "iron_lung",
+      "cardiac_catheterization"
+    ],
+    "desc": "科尔夫转鼓透析机首个人工肾用于救治肾衰。"
+  },
+  {
+    "id": "cardiac_catheterization",
+    "name": "心脏导管术",
+    "nameEn": "Cardiac catheterization",
+    "wikiEn": "Cardiac catheterization",
+    "aliases": [
+      "心导管",
+      "Forssmann catheterization",
+      "福斯曼导管"
+    ],
+    "year": 1929,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "x_ray",
+      "ecg"
+    ],
+    "related": [
+      "hemodialysis",
+      "heparin"
+    ],
+    "desc": "福斯曼在自身插管，开启心脏导管检查。"
+  },
+  {
+    "id": "pap_smear",
+    "name": "巴氏涂片",
+    "nameEn": "Pap test",
+    "wikiEn": "Pap test",
+    "aliases": [
+      "宫颈脱落细胞检查",
+      "Papanicolaou smear",
+      "帕氏涂片"
+    ],
+    "year": 1928,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "aseptic_surgery"
+    ],
+    "related": [
+      "radiation_therapy",
+      "x_ray"
+    ],
+    "desc": "帕帕尼古拉乌开创宫颈细胞学防癌筛查。"
+  },
+  {
+    "id": "iodized_salt",
+    "name": "加碘盐",
+    "nameEn": "Iodised salt",
+    "wikiEn": "Iodised salt",
+    "aliases": [
+      "碘盐",
+      "食盐加碘",
+      "iodine fortification"
+    ],
+    "year": 1924,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 4,
+    "prereqs": [
+      "vitamins"
+    ],
+    "related": [
+      "vitamin_d",
+      "breakfast_cereal"
+    ],
+    "desc": "食盐加碘推行，预防地方性甲状腺肿与克汀病。"
+  },
+  {
+    "id": "hearing_aid",
+    "name": "电助听器",
+    "nameEn": "Electric hearing aid",
+    "wikiEn": "Hearing aid",
+    "aliases": [
+      "助听器",
+      "Akouphone",
+      "carbon hearing aid"
+    ],
+    "year": 1898,
+    "era": "second_industrial",
+    "category": "life_medicine",
+    "importance": 5,
+    "prereqs": [
+      "telephone"
+    ],
+    "related": [
+      "radio",
+      "local_anesthesia"
+    ],
+    "desc": "碳粒话筒与电话技术衍生出最早电助听器。"
+  }
+]

@@ -1,0 +1,1991 @@
+[
+  {
+    "id": "palace_economy",
+    "name": "宫殿再分配经济",
+    "nameEn": "Palace economy",
+    "wikiEn": "Palace economy",
+    "aliases": [
+      "宫殿经济",
+      "再分配经济",
+      "palatial economy"
+    ],
+    "year": -1900,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "以克里特与安纳托利亚宫殿档案为据，年代取中青铜时代",
+    "era": "bronze_age",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "grain_storage",
+      "cuneiform_writing"
+    ],
+    "related": [
+      "taxation_system",
+      "commodity_money"
+    ],
+    "desc": "宫殿统一收纳粮食牲畜与手工产品再行配给，靠泥板账目运转。"
+  },
+  {
+    "id": "usury_regulation",
+    "name": "利息与债务限令",
+    "nameEn": "Usury regulation",
+    "wikiEn": "Usury",
+    "aliases": [
+      "高利贷限制",
+      "利率上限",
+      "债役豁免"
+    ],
+    "year": -1754,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "取汉谟拉比在位年表通行值，法典条文本属古巴比伦长期惯例",
+    "era": "bronze_age",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "code_of_hammurabi",
+      "commodity_money"
+    ],
+    "related": [
+      "pawnbroker",
+      "state_monopoly"
+    ],
+    "desc": "法典规定谷物与银钱借贷利率上限并定期豁免欠债。"
+  },
+  {
+    "id": "cadastre_survey",
+    "name": "地籍田亩登记",
+    "nameEn": "Cadastre",
+    "wikiEn": "Cadastre",
+    "aliases": [
+      "地籍",
+      "鱼鳞图册",
+      "土地登记"
+    ],
+    "year": -594,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "以鲁国初税亩为最早的确切按亩丈录取税记录，埃及与罗马亦有地籍",
+    "era": "antiquity",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "surveying",
+      "taxation_system"
+    ],
+    "related": [
+      "domesday_book",
+      "census_system",
+      "single_whip_law"
+    ],
+    "desc": "逐块丈量登记田亩等级与业主，把疆土换算成可核查的税基。"
+  },
+  {
+    "id": "tax_farming",
+    "name": "包税制",
+    "nameEn": "Tax farming",
+    "wikiEn": "Tax farming",
+    "aliases": [
+      "包税",
+      "承包征税",
+      "publicani"
+    ],
+    "year": -215,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "罗马于第二次布匿战争期间正式授权私人集团承包税收，托勒密埃及更早",
+    "era": "antiquity",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "census_system",
+      "coinage"
+    ],
+    "related": [
+      "state_monopoly",
+      "roman_citizenship"
+    ],
+    "desc": "政府把征税权定期拍卖给承包团体，用私人资本垫付行政开支。"
+  },
+  {
+    "id": "ever_normal_granary",
+    "name": "常平仓储备调节",
+    "nameEn": "Ever-normal granary",
+    "wikiEn": "Buffer stock scheme",
+    "aliases": [
+      "常平仓",
+      "平准",
+      "缓冲储备"
+    ],
+    "year": -54,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "前54年耿寿昌奏设常平仓；英文无独立条目，挂于缓冲储备制度词条",
+    "era": "antiquity",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "grain_storage",
+      "unit_of_measurement"
+    ],
+    "related": [
+      "assize_of_bread",
+      "state_monopoly",
+      "taxation_system"
+    ],
+    "desc": "丰年收储荒年平粜，用官方库存把粮价波动压在窄幅内。"
+  },
+  {
+    "id": "hawala_remit",
+    "name": "哈瓦拉信任汇兑",
+    "nameEn": "Hawala",
+    "wikiEn": "Hawala",
+    "aliases": [
+      "哈瓦拉",
+      "非正式汇款"
+    ],
+    "year": 850,
+    "year_basis": "century",
+    "year_span": null,
+    "year_note": "取九世纪中叶：阿拔斯时代商路文献已见类似清算做法",
+    "era": "middle_ages",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "coinage",
+      "silk_road"
+    ],
+    "related": [
+      "negotiable_instrument",
+      "swift_network",
+      "mobile_payment"
+    ],
+    "desc": "凭信任网络与对冲账目异地兑付，资金无须跨境即可结清。"
+  },
+  {
+    "id": "waqf_endowment",
+    "name": "瓦克夫永业基金",
+    "nameEn": "Waqf endowment",
+    "wikiEn": "Waqf",
+    "aliases": [
+      "瓦克夫",
+      "宗教捐产基金"
+    ],
+    "year": 888,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "现存最早的可考捐产文书约888年，制度渊源更早",
+    "era": "middle_ages",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "justinian_digest"
+    ],
+    "related": [
+      "cooperative",
+      "social_insurance",
+      "mount_of_piety"
+    ],
+    "desc": "把不动产收益不可撤销地永久指定给公益，成最早的信托基金。"
+  },
+  {
+    "id": "exchequer_accounting",
+    "name": "国库对账制度",
+    "nameEn": "Exchequer accounting",
+    "wikiEn": "Exchequer",
+    "aliases": [
+      "财政署",
+      "棋盘结算",
+      "符券记账"
+    ],
+    "year": 1100,
+    "year_basis": "circa",
+    "year_span": [
+      1070,
+      1130
+    ],
+    "year_note": "亨利一世时期定型，年代只能大致推定",
+    "era": "middle_ages",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "domesday_book",
+      "cadastre_survey"
+    ],
+    "related": [
+      "audit_profession",
+      "double_entry_bookkeeping",
+      "taxation_system"
+    ],
+    "desc": "以方格桌面对账、刻木符券为收据，王室岁入首次被系统稽核。"
+  },
+  {
+    "id": "champagne_fairs",
+    "name": "香槟定期集市",
+    "nameEn": "Champagne fairs",
+    "wikiEn": "Champagne fairs",
+    "aliases": [
+      "香槟集市",
+      "交易会"
+    ],
+    "year": 1150,
+    "year_basis": "circa",
+    "year_span": [
+      1114,
+      1266
+    ],
+    "year_note": "十二世纪中叶成型，1266年后衰落",
+    "era": "middle_ages",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "coinage",
+      "guild"
+    ],
+    "related": [
+      "negotiable_instrument",
+      "government_debt_market",
+      "hawala_remit"
+    ],
+    "desc": "一年数次的例会集市让南北欧商人在此交货、换币并清算欠款。"
+  },
+  {
+    "id": "government_debt_market",
+    "name": "城邦公债年金",
+    "nameEn": "Funded public debt",
+    "wikiEn": "Government debt",
+    "aliases": [
+      "公债",
+      "国债",
+      "蒙特年金"
+    ],
+    "year": 1262,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "威尼斯1262年前后把强制借款转为可流通的永久年金",
+    "era": "middle_ages",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "champagne_fairs",
+      "coinage"
+    ],
+    "related": [
+      "bank_of_england",
+      "credit_rating_agency",
+      "mutual_fund"
+    ],
+    "desc": "城邦把战争借款换成可转让的永久年金，造就最早证券市场。"
+  },
+  {
+    "id": "assize_of_bread",
+    "name": "面包与啤酒标准",
+    "nameEn": "Assize of Bread and Ale",
+    "wikiEn": "Assize of Bread and Ale",
+    "aliases": [
+      "面包烘焙假",
+      "食品限价令"
+    ],
+    "year": 1266,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "英格兰成文标准，实际按麦价分等定重量的做法更早",
+    "era": "middle_ages",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "unit_of_measurement",
+      "grain_storage"
+    ],
+    "related": [
+      "ever_normal_granary",
+      "guild",
+      "trial_of_pyx"
+    ],
+    "desc": "按小麦等级与市价规定面包重量与售价，是最早的食品价格法。"
+  },
+  {
+    "id": "trial_of_pyx",
+    "name": "铸币成色校验",
+    "nameEn": "Trial of the Pyx",
+    "wikiEn": "Trial of the Pyx",
+    "aliases": [
+      "pix 检验",
+      "钱币陪审校验",
+      "铸币监督"
+    ],
+    "year": 1282,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "英格兰铸币抽检程序通称始于爱德华一世时期",
+    "era": "middle_ages",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "coinage",
+      "unit_of_measurement"
+    ],
+    "related": [
+      "gold_standard",
+      "denarius",
+      "kaiyuan_tongbao"
+    ],
+    "desc": "新铸币封匣交由外行陪审称量化验，以程序约束君主滥铸。"
+  },
+  {
+    "id": "reinsurance",
+    "name": "再保险分保",
+    "nameEn": "Reinsurance",
+    "wikiEn": "Reinsurance",
+    "aliases": [
+      "分保",
+      "再承保"
+    ],
+    "year": 1370,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "热那亚契约中现存最早的再保险安排见于十四世纪后期",
+    "era": "middle_ages",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "insurance",
+      "negotiable_instrument"
+    ],
+    "related": [
+      "lloyds_marine_market",
+      "actuarial_science",
+      "value_at_risk"
+    ],
+    "desc": "承保人把已接风险转售同行，巨灾损失被摊到更广的资本上。"
+  },
+  {
+    "id": "mount_of_piety",
+    "name": "慈善质押金库",
+    "nameEn": "Mount of piety",
+    "wikiEn": "Mount of piety",
+    "aliases": [
+      "虔诚山",
+      "公益当铺"
+    ],
+    "year": 1462,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1462年奥尔维乔设首个慈善金库",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "pawnbroker",
+      "usury_regulation"
+    ],
+    "related": [
+      "bank",
+      "microfinance",
+      "savings_bank"
+    ],
+    "desc": "市政以低费抵押贷款替代高利贷，穷人以实物换取周转资金。"
+  },
+  {
+    "id": "bankruptcy_discharge",
+    "name": "破产清算与免责",
+    "nameEn": "Bankruptcy discharge",
+    "wikiEn": "Bankruptcy",
+    "aliases": [
+      "破产法",
+      "倒产制度"
+    ],
+    "year": 1542,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "英格兰1542年首部破产成文法；免责原则为后世逐步加入",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "common_law",
+      "negotiable_instrument"
+    ],
+    "related": [
+      "corporate_law",
+      "double_entry_bookkeeping",
+      "credit_rating_agency"
+    ],
+    "desc": "清点分配无力偿债者的财产并依法免除余债，给信用装退出阀。"
+  },
+  {
+    "id": "east_india_charter",
+    "name": "特许贸易公司",
+    "nameEn": "Chartered trading company",
+    "wikiEn": "East India Company",
+    "aliases": [
+      "皇家特许公司",
+      "东印度公司"
+    ],
+    "year": 1600,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "英文无独立的 chartered company 条目，以1600年英国东印度公司特许状为例",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "bank",
+      "mercantilism"
+    ],
+    "related": [
+      "joint_stock_company",
+      "navigation_acts",
+      "stock_exchange"
+    ],
+    "desc": "王室特许状把远洋垄断贸易与武装治理一并交给持股公司。"
+  },
+  {
+    "id": "bank_of_amsterdam",
+    "name": "阿姆斯特丹兑换银行",
+    "nameEn": "Bank of Amsterdam",
+    "wikiEn": "Bank of Amsterdam",
+    "aliases": [
+      "wisselbank",
+      "币兑银行"
+    ],
+    "year": 1611,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1611年开张",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "bank",
+      "coinage"
+    ],
+    "related": [
+      "joint_stock_company",
+      "clearing_house",
+      "paper_money"
+    ],
+    "desc": "市营银行按统一银行银记账承兑，为北欧贸易提供可信计算通货。"
+  },
+  {
+    "id": "navigation_acts",
+    "name": "航海条例",
+    "nameEn": "Navigation Acts",
+    "wikiEn": "Navigation Acts",
+    "aliases": [
+      "航海法",
+      "海运管制法"
+    ],
+    "year": 1651,
+    "year_basis": "exact",
+    "year_span": [
+      1651,
+      1696
+    ],
+    "year_note": "1651年首部，其后数度延展",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "east_india_charter",
+      "mercantilism"
+    ],
+    "related": [
+      "free_trade_regime",
+      "joint_stock_company",
+      "container_shipping"
+    ],
+    "desc": "殖民地货物须由本国船只运销，把海运吨位当作国家账本。"
+  },
+  {
+    "id": "fractional_reserve_banking",
+    "name": "部分准备金银行",
+    "nameEn": "Fractional-reserve banking",
+    "wikiEn": "Fractional-reserve banking",
+    "aliases": [
+      "部分准备制度",
+      "信用创造"
+    ],
+    "year": 1660,
+    "year_basis": "decade",
+    "year_span": null,
+    "year_note": "伦敦金匠银行家1660年代普遍超发票据，无确切起始年",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "bank",
+      "paper_money"
+    ],
+    "related": [
+      "bank_of_england",
+      "deposit_insurance",
+      "federal_reserve_system"
+    ],
+    "desc": "金匠只留几成铸币备付而把余下贷出，票据流通量超出金属本身。"
+  },
+  {
+    "id": "lloyds_marine_market",
+    "name": "劳合社承保市场",
+    "nameEn": "Lloyd's of London",
+    "wikiEn": "Lloyd's of London",
+    "aliases": [
+      "劳合社",
+      "承保人社群"
+    ],
+    "year": 1688,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "爱德华·劳埃德咖啡馆约1688年成为承保人聚集地，1760年代成正式社团",
+    "era": "renaissance",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "insurance",
+      "reinsurance"
+    ],
+    "related": [
+      "stock_exchange",
+      "container_shipping",
+      "actuarial_science"
+    ],
+    "desc": "咖啡馆里多名承保人各签份额，海上保险按风险细分定价。"
+  },
+  {
+    "id": "physiocratic_tableau",
+    "name": "经济循环图表",
+    "nameEn": "Tableau économique",
+    "wikiEn": "Tableau économique",
+    "aliases": [
+      "经济表",
+      "魁奈经济表"
+    ],
+    "year": 1758,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "魁奈1758年发表于《国民年鉴》，其后数版改绘",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "double_entry_bookkeeping",
+      "enclosure"
+    ],
+    "related": [
+      "input_output_analysis",
+      "kuznets_national_income",
+      "smith_wealth_of_nations"
+    ],
+    "desc": "用一张图把年产品在地主、农夫与工匠间的循环画成流量网络。"
+  },
+  {
+    "id": "clearing_house",
+    "name": "票据交换所",
+    "nameEn": "Clearing house",
+    "wikiEn": "Clearing (finance)",
+    "aliases": [
+      "Clearing house",
+      "清算所",
+      "票据交换"
+    ],
+    "year": 1761,
+    "year_basis": "circa",
+    "year_span": [
+      1761,
+      1821
+    ],
+    "year_note": "伦敦银行家日常票据对冲约1761年成形，1821年设固定清算所",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "bank_of_england",
+      "negotiable_instrument"
+    ],
+    "related": [
+      "bank_of_amsterdam",
+      "federal_reserve_system",
+      "swift_network"
+    ],
+    "desc": "各银行每日集中交换票据、只兑付差额，现金搬运被账目抵消取代。"
+  },
+  {
+    "id": "actuarial_science",
+    "name": "保险精算",
+    "nameEn": "Actuarial science",
+    "wikiEn": "Actuarial science",
+    "aliases": [
+      "精算学",
+      "生命表定价"
+    ],
+    "year": 1762,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "多克森生命表与平价寿险协会1762年成立，职业精算由此起步",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "insurance",
+      "probability_theory"
+    ],
+    "related": [
+      "social_insurance",
+      "lloyds_marine_market",
+      "value_at_risk"
+    ],
+    "desc": "用生命表度量各年龄死亡概率，为寿险与年金给出可核算价格。"
+  },
+  {
+    "id": "savings_bank",
+    "name": "储蓄银行",
+    "nameEn": "Savings bank",
+    "wikiEn": "Savings bank",
+    "aliases": [
+      "储金银行",
+      "人民银行"
+    ],
+    "year": 1778,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "汉堡1778年设公立储金银行，19世纪初英美仿行",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "mount_of_piety",
+      "bank"
+    ],
+    "related": [
+      "cooperative",
+      "deposit_insurance",
+      "credit_card_system"
+    ],
+    "desc": "以极低门槛归集平民零散储蓄再转贷，闲散现金变成可动员资本。"
+  },
+  {
+    "id": "free_trade_regime",
+    "name": "自由贸易体制",
+    "nameEn": "Free trade regime",
+    "wikiEn": "Free trade",
+    "aliases": [
+      "自由贸易",
+      "废除谷物法"
+    ],
+    "year": 1846,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1846年英国废止谷物法，被视为自由贸易体制确立的节点",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "ricardo_comparative_advantage",
+      "smith_wealth_of_nations"
+    ],
+    "related": [
+      "navigation_acts",
+      "general_agreement_tariffs",
+      "enclosure"
+    ],
+    "desc": "英国废除谷物法，把比较优势学说变成关税与贸易规则。"
+  },
+  {
+    "id": "chicago_board_futures",
+    "name": "标准化谷物期货",
+    "nameEn": "Chicago Board of Trade futures",
+    "wikiEn": "Chicago Board of Trade",
+    "aliases": [
+      "CBOT",
+      "期货交易",
+      "标准期货合约"
+    ],
+    "year": 1848,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1848年建仓，1865年推出标准化合约与保证金清算",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "stock_exchange",
+      "grain_storage"
+    ],
+    "related": [
+      "insurance",
+      "black_scholes_formula",
+      "supply_chain_management"
+    ],
+    "desc": "远期交货合同被规范为等级、数量与交割期固定的标准期货。"
+  },
+  {
+    "id": "department_store",
+    "name": "明码标价百货商场",
+    "nameEn": "Department store",
+    "wikiEn": "Department store",
+    "aliases": [
+      "百货公司",
+      "一类一柜制"
+    ],
+    "year": 1852,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1852年巴黎平价百货改为部门制与固定标价",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "railway_locomotive",
+      "double_entry_bookkeeping"
+    ],
+    "related": [
+      "supermarket",
+      "installment_credit",
+      "cooperative"
+    ],
+    "desc": "按品类分柜、明码标价、集中收银，以大批量进货支撑薄利多销。"
+  },
+  {
+    "id": "audit_profession",
+    "name": "法定查账",
+    "nameEn": "Statutory audit",
+    "wikiEn": "Audit",
+    "aliases": [
+      "审计",
+      "独立查账",
+      "会计师审核"
+    ],
+    "year": 1856,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1856年英国合股公司法首次要求定期审核账目",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "double_entry_bookkeeping",
+      "corporate_law"
+    ],
+    "related": [
+      "exchequer_accounting",
+      "accounting_standards",
+      "securitization"
+    ],
+    "desc": "独立查账人受股东委托核验账目，两权分离由此可以被约束。"
+  },
+  {
+    "id": "stock_ticker",
+    "name": "行情自动收录器",
+    "nameEn": "Stock ticker",
+    "wikiEn": "Ticker tape",
+    "aliases": [
+      "行情纸带",
+      "股市报价机"
+    ],
+    "year": 1867,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1867年卡洛塔的电报报价机投入使用",
+    "era": "industrial",
+    "category": "economy",
+    "kind": "器物",
+    "importance": 2,
+    "prereqs": [
+      "telegraph",
+      "stock_exchange"
+    ],
+    "related": [
+      "efficient_market_hypothesis",
+      "bretton_woods_system",
+      "swift_network"
+    ],
+    "desc": "电报驱动的打印机把远方交易所报价实时送进写字楼与经纪所。"
+  },
+  {
+    "id": "bimetallism_standard",
+    "name": "金银复本位制",
+    "nameEn": "Bimetallism",
+    "wikiEn": "Bimetallism",
+    "aliases": [
+      "复本位",
+      "双金属本位"
+    ],
+    "year": 1873,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1873年多国停铸银币，复本位向金本位塌缩的分界年",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "gold_standard",
+      "coinage"
+    ],
+    "related": [
+      "fiat_money",
+      "quantity_theory_of_money",
+      "trial_of_pyx"
+    ],
+    "desc": "金银同作法定本位并按官价互兑，比价失控时各国相继倒向金本位。"
+  },
+  {
+    "id": "antitrust_law",
+    "name": "反托拉斯法",
+    "nameEn": "Antitrust law",
+    "wikiEn": "Competition law",
+    "aliases": [
+      "竞争法",
+      "反垄断法"
+    ],
+    "year": 1890,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1890年谢尔曼法",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "corporate_law",
+      "smith_wealth_of_nations"
+    ],
+    "related": [
+      "coase_theorem",
+      "information_asymmetry",
+      "marshall_neoclassical_economics"
+    ],
+    "desc": "宣布垄断协议与串通定价违法，市场结构本身成为规制对象。"
+  },
+  {
+    "id": "installment_credit",
+    "name": "分期付款销售",
+    "nameEn": "Installment credit",
+    "wikiEn": "Installment loan",
+    "aliases": [
+      "分期付款",
+      "分期信贷"
+    ],
+    "year": 1890,
+    "year_basis": "circa",
+    "year_span": null,
+    "year_note": "缝纫机等耐用品的月付制度在十九世纪最后二十年普及",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "department_store",
+      "savings_bank"
+    ],
+    "related": [
+      "credit_card_system",
+      "supermarket",
+      "pawnbroker"
+    ],
+    "desc": "按月收款出售耐用机器，把未来工资折进当期消费。"
+  },
+  {
+    "id": "minimum_wage_law",
+    "name": "最低工资法",
+    "nameEn": "Minimum wage law",
+    "wikiEn": "Minimum wage",
+    "aliases": [
+      "最低工资",
+      "工资下限法"
+    ],
+    "year": 1894,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "新西兰1894年《劳资调解与仲裁法》首创强制工资下限",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "trade_union",
+      "social_insurance"
+    ],
+    "related": [
+      "collective_bargaining",
+      "welfare_state",
+      "trade_union"
+    ],
+    "desc": "立法设定劳动报酬下限，并设仲裁法庭强制雇主执行。"
+  },
+  {
+    "id": "collective_bargaining",
+    "name": "集体谈判",
+    "nameEn": "Collective bargaining",
+    "wikiEn": "Collective bargaining",
+    "aliases": [
+      "团体协约",
+      "劳资谈判"
+    ],
+    "year": 1897,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "韦伯夫妇1897年系统论述并定名，制度化立法在此后数十年",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "trade_union",
+      "antitrust_law"
+    ],
+    "related": [
+      "minimum_wage_law",
+      "taylor_scientific_management",
+      "welfare_state"
+    ],
+    "desc": "工会以整体身份与雇主议定工资工时，个体议价转为集体议价。"
+  },
+  {
+    "id": "credit_rating_agency",
+    "name": "债券信用评级",
+    "nameEn": "Credit rating agency",
+    "wikiEn": "Credit rating agency",
+    "aliases": [
+      "信用评级",
+      "债券分级"
+    ],
+    "year": 1909,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "穆迪1909年开始发布铁路债券评级",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "government_debt_market",
+      "corporate_law"
+    ],
+    "related": [
+      "mutual_fund",
+      "securitization",
+      "basel_capital_accord"
+    ],
+    "desc": "专门机构按违约概率给债券分等级，信用成为可交易的信息。"
+  },
+  {
+    "id": "quantity_theory_of_money",
+    "name": "货币数量论",
+    "nameEn": "Quantity theory of money",
+    "wikiEn": "Quantity theory of money",
+    "aliases": [
+      "交易方程",
+      "费雪方程"
+    ],
+    "year": 1911,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "取费雪《货币的购买力》1911年；早期表述可追至十六世纪萨拉曼卡",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "gold_standard",
+      "bimetallism_standard"
+    ],
+    "related": [
+      "monetarism",
+      "consumer_price_index",
+      "keynes_general_theory"
+    ],
+    "desc": "把物价水平写成货币量与流通速度的函数，通胀有了可核算式。"
+  },
+  {
+    "id": "gini_coefficient",
+    "name": "基尼系数",
+    "nameEn": "Gini coefficient",
+    "wikiEn": "Gini coefficient",
+    "aliases": [
+      "劳伦茨曲线",
+      "不平等指数"
+    ],
+    "year": 1912,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "吉尼1912年提出，曲线本身早两年",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "pearson_correlation_coefficient",
+      "census_system"
+    ],
+    "related": [
+      "poverty_threshold",
+      "human_development_index",
+      "kuznets_national_income"
+    ],
+    "desc": "用洛伦茨曲线与对角线间面积度量收入分配的不平等程度。"
+  },
+  {
+    "id": "consumer_price_index",
+    "name": "消费价格指数",
+    "nameEn": "Consumer price index",
+    "wikiEn": "Consumer price index",
+    "aliases": [
+      "CPI",
+      "零售物价指数",
+      "生活费用指数"
+    ],
+    "year": 1913,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "美国劳工统计局1913年开始编制零售物价指数",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "census_system",
+      "unit_of_measurement"
+    ],
+    "related": [
+      "quantity_theory_of_money",
+      "inflation_targeting"
+    ],
+    "desc": "跟踪固定商品篮子的零售价格，通胀成了每月可比数字。"
+  },
+  {
+    "id": "economic_order_quantity",
+    "name": "经济订货批量",
+    "nameEn": "Economic order quantity",
+    "wikiEn": "Economic order quantity",
+    "aliases": [
+      "EOQ",
+      "最优批量",
+      "库存批量公式"
+    ],
+    "year": 1913,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "哈里斯1913年论文给出公式，1920年代被生产统计采纳",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "taylor_scientific_management",
+      "double_entry_bookkeeping"
+    ],
+    "related": [
+      "toyota_production_system",
+      "supply_chain_management",
+      "operations_research"
+    ],
+    "desc": "在订货费用与持有成本间求导取极值，库存批量首次公式化。"
+  },
+  {
+    "id": "federal_reserve_system",
+    "name": "联邦储备体系",
+    "nameEn": "Federal Reserve System",
+    "wikiEn": "Federal Reserve",
+    "aliases": [
+      "美联储",
+      "中央银行体系"
+    ],
+    "year": 1913,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1913年《联邦储备法》通过，1914年开业",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 1,
+    "prereqs": [
+      "fractional_reserve_banking",
+      "bank_of_england"
+    ],
+    "related": [
+      "deposit_insurance",
+      "quantitative_easing",
+      "fiat_money"
+    ],
+    "desc": "区域储备银行网充当最后贷款人，通货弹性与货币政策被集中。"
+  },
+  {
+    "id": "economic_planning_board",
+    "name": "国家计划机关",
+    "nameEn": "Economic planning",
+    "wikiEn": "Economic planning",
+    "aliases": [
+      "国民经济计划",
+      "计划委员会"
+    ],
+    "year": 1921,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1921年国家计划委员会成立，把电气化计划的平衡法制度化",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "marx_das_kapital",
+      "census_system"
+    ],
+    "related": [
+      "input_output_analysis",
+      "arrow_debreu_model",
+      "operations_research"
+    ],
+    "desc": "以国家计划机关统一编制物资平衡表配置投资与生产。"
+  },
+  {
+    "id": "mutual_fund",
+    "name": "共同基金",
+    "nameEn": "Mutual fund",
+    "wikiEn": "Mutual fund",
+    "aliases": [
+      "互惠基金",
+      "开放式基金份额"
+    ],
+    "year": 1924,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1924年波士顿投资者信托首创可按净值赎回的开放式基金",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "joint_stock_company",
+      "government_debt_market"
+    ],
+    "related": [
+      "credit_rating_agency",
+      "cooperative",
+      "securitization"
+    ],
+    "desc": "集合小额资金分散持股并按净值申赎，家庭也能进入证券市场。"
+  },
+  {
+    "id": "econometrics",
+    "name": "计量经济学方法",
+    "nameEn": "Econometrics",
+    "wikiEn": "Econometrics",
+    "aliases": [
+      "经济计量",
+      "回归估计经济方程"
+    ],
+    "year": 1930,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "术语1926年由弗里希提出，1930年计量经济学会成立使其成学科",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 1,
+    "prereqs": [
+      "gauss_least_squares",
+      "probability_theory",
+      "marshall_neoclassical_economics"
+    ],
+    "related": [
+      "keynes_general_theory",
+      "kuznets_national_income",
+      "student_t_distribution"
+    ],
+    "desc": "用统计手段估计经济方程并检验理论，经济研究有了实验之外的证据。"
+  },
+  {
+    "id": "supermarket",
+    "name": "自助式超级市场",
+    "nameEn": "Supermarket",
+    "wikiEn": "Supermarket",
+    "aliases": [
+      "超市",
+      "自选卖场"
+    ],
+    "year": 1930,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1930年代美国出现汽车导向的自选大卖场",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "refrigeration",
+      "assembly_line"
+    ],
+    "related": [
+      "department_store",
+      "toyota_production_system",
+      "barcode",
+      "installment_credit"
+    ],
+    "desc": "顾客自取自货、出口集中结账，仓储与陈列合并压低售价。"
+  },
+  {
+    "id": "deposit_insurance",
+    "name": "存款保险制度",
+    "nameEn": "Deposit insurance",
+    "wikiEn": "Deposit insurance",
+    "aliases": [
+      "存款担保",
+      "联邦存款保险"
+    ],
+    "year": 1933,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1933年美国《银行法》设立联邦存款保险公司",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "fractional_reserve_banking",
+      "federal_reserve_system"
+    ],
+    "related": [
+      "savings_bank",
+      "bank_of_england",
+      "basel_capital_accord"
+    ],
+    "desc": "公共基金为小额存款兜底，挤兑的连锁恐慌被强行截断。"
+  },
+  {
+    "id": "input_output_analysis",
+    "name": "投入产出分析",
+    "nameEn": "Input-output analysis",
+    "wikiEn": "Input–output model",
+    "aliases": [
+      "部门关联矩阵",
+      "里昂惕夫矩阵"
+    ],
+    "year": 1936,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1936年论文提出，1947年成书",
+    "era": "second_industrial",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "physiocratic_tableau",
+      "econometrics"
+    ],
+    "related": [
+      "kuznets_national_income",
+      "economic_planning_board",
+      "lp_duality_theory",
+      "sna_framework"
+    ],
+    "desc": "以部门间流量矩阵刻画产业互供关系，冲击可沿矩阵逐层推算。"
+  },
+  {
+    "id": "venture_capital",
+    "name": "创业投资",
+    "nameEn": "Venture capital",
+    "wikiEn": "Venture capital",
+    "aliases": [
+      "风险投资",
+      "创投资本"
+    ],
+    "year": 1946,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1946年美国研究与发展公司成立，是现代机构化创投的起点",
+    "era": "atomic_electronic",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "joint_stock_company",
+      "corporate_law"
+    ],
+    "related": [
+      "mutual_fund",
+      "personal_computer",
+      "microfinance"
+    ],
+    "desc": "以有限合资金换取初创企业股权，靠上市或并购退出获利。"
+  },
+  {
+    "id": "general_agreement_tariffs",
+    "name": "多边关税减让协定",
+    "nameEn": "General Agreement on Tariffs and Trade",
+    "wikiEn": "General Agreement on Tariffs and Trade",
+    "aliases": [
+      "关贸总协定",
+      "GATT"
+    ],
+    "year": 1947,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1947年签署、1948年生效，1995年为世贸组织取代",
+    "era": "atomic_electronic",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "free_trade_regime",
+      "navigation_acts"
+    ],
+    "related": [
+      "bretton_woods_system",
+      "container_shipping",
+      "enclosure"
+    ],
+    "desc": "以最惠国条款与逐项减让表分轮削减关税，贸易争端交由仲裁。"
+  },
+  {
+    "id": "credit_card_system",
+    "name": "循环信用卡",
+    "nameEn": "General-purpose credit card",
+    "wikiEn": "Credit card",
+    "aliases": [
+      "信用卡",
+      "通用卡受理网"
+    ],
+    "year": 1950,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1950年大来卡首张通用卡发行，循环信用账户于1959年出现",
+    "era": "atomic_electronic",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "installment_credit",
+      "savings_bank"
+    ],
+    "related": [
+      "atm",
+      "open_banking",
+      "mobile_payment"
+    ],
+    "desc": "一卡通用多家商户、余额可循环计息，消费信贷被标准化。"
+  },
+  {
+    "id": "modern_portfolio_theory",
+    "name": "投资组合理论",
+    "nameEn": "Modern portfolio theory",
+    "wikiEn": "Modern portfolio theory",
+    "aliases": [
+      "均值方差模型",
+      "有效前沿"
+    ],
+    "year": 1952,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "马科维茨1952年论文",
+    "era": "atomic_electronic",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "probability_theory",
+      "econometrics"
+    ],
+    "related": [
+      "black_scholes_formula",
+      "value_at_risk",
+      "efficient_market_hypothesis"
+    ],
+    "desc": "以协方差矩阵度量组合风险，给出同等收益下最小说散化解。"
+  },
+  {
+    "id": "toyota_production_system",
+    "name": "丰田生产方式",
+    "nameEn": "Toyota Production System",
+    "wikiEn": "Toyota Production System",
+    "aliases": [
+      "丰田生产方式",
+      "精益生产",
+      "看板拉动"
+    ],
+    "year": 1953,
+    "year_basis": "circa",
+    "year_span": [
+      1948,
+      1975
+    ],
+    "year_note": "1950年代丰田确立准时化与自働化，1970年代对外定名丰田生产方式",
+    "era": "atomic_electronic",
+    "category": "economy",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "assembly_line",
+      "taylor_scientific_management"
+    ],
+    "related": [
+      "economic_order_quantity",
+      "supply_chain_management",
+      "container_shipping"
+    ],
+    "desc": "以后工序拉动取代计划推式送料，在制品与仓库被压到最低。"
+  },
+  {
+    "id": "poverty_threshold",
+    "name": "贫困线测算",
+    "nameEn": "Poverty threshold",
+    "wikiEn": "Poverty threshold",
+    "aliases": [
+      "贫困标准",
+      "贫困门槛"
+    ],
+    "year": 1963,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1963年以家庭食品预算推算贫困收入标准，1965年采纳为官方线",
+    "era": "atomic_electronic",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "consumer_price_index",
+      "kuznets_national_income"
+    ],
+    "related": [
+      "gini_coefficient",
+      "human_development_index",
+      "sna_framework"
+    ],
+    "desc": "以家庭食品开支推算最低收入标准，贫困被量化成统计口径。"
+  },
+  {
+    "id": "monetarism",
+    "name": "货币主义规则",
+    "nameEn": "Monetarism",
+    "wikiEn": "Monetarism",
+    "aliases": [
+      "货币规则",
+      "弗里德曼货币主义"
+    ],
+    "year": 1968,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "弗里德曼1968年总统演说确立政策纲领",
+    "era": "atomic_electronic",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "quantity_theory_of_money",
+      "fractional_reserve_banking"
+    ],
+    "related": [
+      "keynes_general_theory",
+      "inflation_targeting",
+      "federal_reserve_system"
+    ],
+    "desc": "主张按固定规则增长货币供给，反对相机抉择的需求管理。"
+  },
+  {
+    "id": "sna_framework",
+    "name": "国民账户体系",
+    "nameEn": "System of National Accounts",
+    "wikiEn": "System of National Accounts",
+    "aliases": [
+      "SNA",
+      "国民经济核算体系"
+    ],
+    "year": 1968,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1968年联合国统计委员会通过修订版，通行至今",
+    "era": "atomic_electronic",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "kuznets_national_income",
+      "input_output_analysis"
+    ],
+    "related": [
+      "physiocratic_tableau",
+      "solow_growth_model",
+      "human_development_index"
+    ],
+    "desc": "统一账户与口径使各国总产出可互比，宏观政策有了共同底账。"
+  },
+  {
+    "id": "efficient_market_hypothesis",
+    "name": "市场有效性假说",
+    "nameEn": "Efficient-market hypothesis",
+    "wikiEn": "Efficient-market hypothesis",
+    "aliases": [
+      "有效市场假说",
+      "EMH"
+    ],
+    "year": 1970,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "法玛1970年综述确立三种信息集形式",
+    "era": "information",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "modern_portfolio_theory",
+      "stock_ticker"
+    ],
+    "related": [
+      "stock_exchange",
+      "black_scholes_formula",
+      "prospect_theory"
+    ],
+    "desc": "价格已吸收可得信息，靠公开资料持续跑赢市场不成立。"
+  },
+  {
+    "id": "information_asymmetry",
+    "name": "信息不对称理论",
+    "nameEn": "Information asymmetry",
+    "wikiEn": "Information asymmetry",
+    "aliases": [
+      "柠檬市场",
+      "逆向选择"
+    ],
+    "year": 1970,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "阿克洛夫1970年论文开创，信号与screening 模型随后展开",
+    "era": "information",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "game_theory",
+      "probability_theory"
+    ],
+    "related": [
+      "microfinance",
+      "credit_rating_agency",
+      "coase_theorem"
+    ],
+    "desc": "一方更懂品质会驱逐良品，市场因此需要信号、担保与筛查。"
+  },
+  {
+    "id": "securitization",
+    "name": "资产证券化",
+    "nameEn": "Securitization",
+    "wikiEn": "Securitization",
+    "aliases": [
+      "资产支持证券",
+      "信贷资产打包"
+    ],
+    "year": 1970,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1970年美国吉利美发行首只住房贷款过手证券",
+    "era": "information",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "credit_rating_agency",
+      "government_debt_market"
+    ],
+    "related": [
+      "value_at_risk",
+      "basel_capital_accord",
+      "mutual_fund"
+    ],
+    "desc": "把住房贷款等应收现金流分层打包发售，银行将资产移出表外。"
+  },
+  {
+    "id": "accounting_standards",
+    "name": "国际会计准则",
+    "nameEn": "International accounting standards",
+    "wikiEn": "International Financial Reporting Standards",
+    "aliases": [
+      "IFRS",
+      "国际财务报告准则"
+    ],
+    "year": 1973,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1973年国际会计准则委员会成立，2001年改组后发布现行准则",
+    "era": "information",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "audit_profession",
+      "double_entry_bookkeeping"
+    ],
+    "related": [
+      "sna_framework",
+      "credit_rating_agency",
+      "basel_capital_accord"
+    ],
+    "desc": "跨国统一的确认与披露规则，让不同国家的报表可并列比较。"
+  },
+  {
+    "id": "floating_exchange_rate",
+    "name": "浮动汇率制",
+    "nameEn": "Floating exchange rate",
+    "wikiEn": "Floating exchange rate",
+    "aliases": [
+      "自由浮动",
+      "汇率浮动"
+    ],
+    "year": 1973,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1973年主要货币放弃固定平价",
+    "era": "information",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "bretton_woods_system",
+      "gold_standard"
+    ],
+    "related": [
+      "fiat_money",
+      "quantity_theory_of_money",
+      "swift_network"
+    ],
+    "desc": "货币比价由外汇市场定出，汇率风险成了日常经营变量。"
+  },
+  {
+    "id": "swift_network",
+    "name": "银行间电文网络",
+    "nameEn": "SWIFT messaging network",
+    "wikiEn": "SWIFT",
+    "aliases": [
+      "环球同业银行金融电讯协会",
+      "SWIFT报文"
+    ],
+    "year": 1973,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1973年成立，1977年投产报文网络",
+    "era": "information",
+    "category": "economy",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "telegraph",
+      "submarine_telegraph_cable"
+    ],
+    "related": [
+      "clearing_house",
+      "hawala_remit",
+      "relational_database"
+    ],
+    "desc": "以统一报文格式与专用网络清算跨境收付，各行说同一种语言。"
+  },
+  {
+    "id": "microfinance",
+    "name": "小额信贷",
+    "nameEn": "Microfinance",
+    "wikiEn": "Microfinance",
+    "aliases": [
+      "微型金融",
+      "联保小组贷款"
+    ],
+    "year": 1976,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1976年格莱珉项目起步，1983年成为银行",
+    "era": "information",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "mount_of_piety",
+      "cooperative"
+    ],
+    "related": [
+      "usury_regulation",
+      "mobile_payment",
+      "information_asymmetry"
+    ],
+    "desc": "以小组联保与周供还款向无抵押贫困家庭放贷。"
+  },
+  {
+    "id": "supply_chain_management",
+    "name": "供应链管理",
+    "nameEn": "Supply chain management",
+    "wikiEn": "Supply chain management",
+    "aliases": [
+      "SCM",
+      "产销一体化物流"
+    ],
+    "year": 1982,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "术语1982年提出，1990年代随企业资源规划普及",
+    "era": "information",
+    "category": "economy",
+    "kind": "工艺",
+    "importance": 2,
+    "prereqs": [
+      "toyota_production_system",
+      "economic_order_quantity",
+      "container_shipping"
+    ],
+    "related": [
+      "operations_research",
+      "supermarket",
+      "relational_database"
+    ],
+    "desc": "把采购、生产、仓储与分销当作一条流，以总成本替代局部最优。"
+  },
+  {
+    "id": "basel_capital_accord",
+    "name": "巴塞尔资本协议",
+    "nameEn": "Basel capital accord",
+    "wikiEn": "Basel I",
+    "aliases": [
+      "巴塞尔协议",
+      "资本充足率"
+    ],
+    "year": 1988,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1988年十国集团达成，2004年巴塞尔II修订",
+    "era": "information",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "federal_reserve_system",
+      "deposit_insurance"
+    ],
+    "related": [
+      "value_at_risk",
+      "securitization",
+      "accounting_standards"
+    ],
+    "desc": "规定银行资本不得低于风险加权资产的8%，把风控写进国际规则。"
+  },
+  {
+    "id": "human_development_index",
+    "name": "人类发展指数",
+    "nameEn": "Human Development Index",
+    "wikiEn": "Human Development Index",
+    "aliases": [
+      "HDI",
+      "人文发展指数"
+    ],
+    "year": 1990,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1990年首份人类发展报告采用",
+    "era": "information",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "solow_growth_model",
+      "kuznets_national_income",
+      "census_system"
+    ],
+    "related": [
+      "gini_coefficient",
+      "sna_framework",
+      "poverty_threshold"
+    ],
+    "desc": "把健康、教育与收入三项指标合成为单一国家比较评分。"
+  },
+  {
+    "id": "inflation_targeting",
+    "name": "通胀目标制",
+    "nameEn": "Inflation targeting",
+    "wikiEn": "Inflation targeting",
+    "aliases": [
+      "物价稳定目标",
+      "弹性通胀目标"
+    ],
+    "year": 1990,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "新西兰储备银行1990年立法首创",
+    "era": "information",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "monetarism",
+      "consumer_price_index"
+    ],
+    "related": [
+      "federal_reserve_system",
+      "quantitative_easing",
+      "fiat_money"
+    ],
+    "desc": "央行公开承诺物价涨幅区间，利率成为唯一的方向盘。"
+  },
+  {
+    "id": "value_at_risk",
+    "name": "在险价值度量",
+    "nameEn": "Value at risk",
+    "wikiEn": "Value at risk",
+    "aliases": [
+      "VaR",
+      "风险价值"
+    ],
+    "year": 1994,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "1994年某投行公开其风险度量体系后被银行业普遍采用",
+    "era": "information",
+    "category": "economy",
+    "kind": "原理",
+    "importance": 2,
+    "prereqs": [
+      "modern_portfolio_theory",
+      "monte_carlo_method"
+    ],
+    "related": [
+      "basel_capital_accord",
+      "securitization",
+      "actuarial_science"
+    ],
+    "desc": "报出给定置信度下一日的最大可能损失，风险折成一个数字。"
+  },
+  {
+    "id": "quantitative_easing",
+    "name": "量化宽松操作",
+    "nameEn": "Quantitative easing",
+    "wikiEn": "Quantitative easing",
+    "aliases": [
+      "QE",
+      "非常规货币政策"
+    ],
+    "year": 2001,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "日本银行2001年首创，2008年后主要央行跟进",
+    "era": "intelligent",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "federal_reserve_system",
+      "keynes_general_theory"
+    ],
+    "related": [
+      "inflation_targeting",
+      "fiat_money",
+      "central_bank_digital_currency"
+    ],
+    "desc": "利率触零后央行大规模购入国债，直接扩张银行体系准备金。"
+  },
+  {
+    "id": "mobile_payment",
+    "name": "移动货币账户",
+    "nameEn": "Mobile money",
+    "wikiEn": "Mobile payment",
+    "aliases": [
+      "移动支付",
+      "手机钱包"
+    ],
+    "year": 2007,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "九十年代已有试验，2007年M-Pesa 使其在无账户地区普及",
+    "era": "intelligent",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "mobile_phone",
+      "credit_card_system"
+    ],
+    "related": [
+      "alipay",
+      "swift_network",
+      "hawala_remit"
+    ],
+    "desc": "以手机余额收付转账，从未开过户的人口接入支付体系。"
+  },
+  {
+    "id": "central_bank_digital_currency",
+    "name": "央行数字货币",
+    "nameEn": "Central bank digital currency",
+    "wikiEn": "Central bank digital currency",
+    "aliases": [
+      "CBDC",
+      "数字法币"
+    ],
+    "year": 2014,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2014年多国央行启动法定数字货币专项研究，其后陆续试点",
+    "era": "intelligent",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "fiat_money",
+      "digital_signature"
+    ],
+    "related": [
+      "stablecoin",
+      "mobile_payment",
+      "quantitative_easing"
+    ],
+    "desc": "央行直接对居民发行可编程的数字负债，现金与账户合为一体。"
+  },
+  {
+    "id": "open_banking",
+    "name": "开放银行接口",
+    "nameEn": "Open banking",
+    "wikiEn": "Open banking",
+    "aliases": [
+      "开放金融",
+      "账户数据可携带"
+    ],
+    "year": 2015,
+    "year_basis": "exact",
+    "year_span": null,
+    "year_note": "2015年欧盟支付服务指令修订案与英国开放银行决定同年出台",
+    "era": "intelligent",
+    "category": "economy",
+    "kind": "制度",
+    "importance": 2,
+    "prereqs": [
+      "internet",
+      "swift_network"
+    ],
+    "related": [
+      "mobile_payment",
+      "credit_card_system",
+      "central_bank_digital_currency"
+    ],
+    "desc": "法规强制银行向持牌第三方开放接口，账户数据支配权归客户。"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"id": "covalent_organic_framework", "add_prereqs": ["click_chemistry"], "reason": "COF 的后合成修饰主要靠叠氮-炔环加成等点击反应完成"},
+  {"id": "metal_organic_framework", "add_related": ["click_chemistry"], "reason": "MOF 的孔道后功能化沿用点击化学的模块化拼接策略（MOF 1995 早于点击化学 2001，故只作 related）"},
+  {"id": "dna_encoded_library", "add_related": ["click_chemistry"], "reason": "DEL 建库时把化合物与 DNA 条码偶联，常用三唑连接即点击反应产物"},
+  {"id": "consumer_drone", "add_prereqs": ["air_traffic_control"], "reason": "低空无人机运行依托空域管制的分区、识别与通信规则"},
+  {"id": "delivery_drone", "add_prereqs": ["air_traffic_control"], "reason": "城市无人机配送航路的审批与冲突消解来自空中交通管理体系"}
+]

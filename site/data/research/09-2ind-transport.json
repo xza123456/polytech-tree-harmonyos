@@ -1,0 +1,1358 @@
+[
+  {
+    "id": "otis_elevator",
+    "name": "安全电梯",
+    "nameEn": "Safety elevator",
+    "wikiEn": "Elevator",
+    "aliases": [
+      "Otis elevator",
+      "奥的斯电梯",
+      "Elisha Otis",
+      "乘客电梯"
+    ],
+    "year": 1852,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "escalator"
+    ],
+    "desc": "奥的斯发明防坠安全钳电梯，开启高楼垂直交通。"
+  },
+  {
+    "id": "subway",
+    "name": "地铁",
+    "nameEn": "Rapid transit",
+    "wikiEn": "Rapid transit",
+    "aliases": [
+      "Underground",
+      "Metropolitan Railway",
+      "London Underground",
+      "地下铁路",
+      "Tube"
+    ],
+    "year": 1863,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "steam_engine"
+    ],
+    "related": [
+      "streetcar",
+      "electric_locomotive"
+    ],
+    "desc": "伦敦大都会铁路通车，世界首条城市地下铁路。"
+  },
+  {
+    "id": "cable_railway",
+    "name": "缆索铁路",
+    "nameEn": "Cable car (railway)",
+    "wikiEn": "Cable car (railway)",
+    "aliases": [
+      "Hallidie cable car",
+      "旧金山缆车",
+      "缆车",
+      "Cable tram"
+    ],
+    "year": 1873,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "steam_engine"
+    ],
+    "related": [
+      "streetcar",
+      "aerial_lift"
+    ],
+    "desc": "哈利迪缆索铁路在旧金山运营，地面缆绳牵引爬坡。"
+  },
+  {
+    "id": "electric_locomotive",
+    "name": "电力机车",
+    "nameEn": "Electric locomotive",
+    "wikiEn": "Electric locomotive",
+    "aliases": [
+      "Siemens electric locomotive",
+      "电力火车头",
+      "Railway electrification"
+    ],
+    "year": 1879,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "electricity_generation"
+    ],
+    "related": [
+      "streetcar",
+      "diesel_locomotive",
+      "subway"
+    ],
+    "desc": "西门子电力机车在柏林载客演示，开启铁路电气化。"
+  },
+  {
+    "id": "streetcar",
+    "name": "有轨电车",
+    "nameEn": "Tram",
+    "wikiEn": "Tram",
+    "aliases": [
+      "Streetcar",
+      "Trolley",
+      "Electric tram",
+      "电车"
+    ],
+    "year": 1881,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "electricity_generation"
+    ],
+    "related": [
+      "subway",
+      "electric_locomotive",
+      "trolleybus",
+      "cable_railway"
+    ],
+    "desc": "西门子有轨电车在柏林近郊商业运营，城市电车兴起。"
+  },
+  {
+    "id": "trolleybus",
+    "name": "无轨电车",
+    "nameEn": "Trolleybus",
+    "wikiEn": "Trolleybus",
+    "aliases": [
+      "Elektromote",
+      "Siemens Elektromote",
+      "无轨电车",
+      "Trolley coach"
+    ],
+    "year": 1882,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "electricity_generation"
+    ],
+    "related": [
+      "streetcar",
+      "motor_bus"
+    ],
+    "desc": "西门子Elektromote在柏林示范无轨电车，架空线供电。"
+  },
+  {
+    "id": "safety_bicycle",
+    "name": "安全自行车",
+    "nameEn": "Safety bicycle",
+    "wikiEn": "Safety bicycle",
+    "aliases": [
+      "Rover safety bicycle",
+      "现代自行车",
+      "Starley Rover"
+    ],
+    "year": 1885,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "pneumatic_tire",
+      "motorcycle"
+    ],
+    "desc": "斯塔利Rover两轮等大链传动自行车，引爆骑行热潮。"
+  },
+  {
+    "id": "motorcycle",
+    "name": "摩托车",
+    "nameEn": "Motorcycle",
+    "wikiEn": "Motorcycle",
+    "aliases": [
+      "Daimler Reitwagen",
+      "戴姆勒骑乘车",
+      "Hildebrand & Wolfmüller",
+      "机车"
+    ],
+    "year": 1885,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "internal_combustion_engine"
+    ],
+    "related": [
+      "automobile",
+      "safety_bicycle"
+    ],
+    "desc": "戴姆勒与迈巴赫制成首辆内燃机两轮摩托车。"
+  },
+  {
+    "id": "automobile",
+    "name": "汽车",
+    "nameEn": "Automobile",
+    "wikiEn": "Car",
+    "aliases": [
+      "Motor car",
+      "Benz Patent-Motorwagen",
+      "本茨专利机动车",
+      "Auto"
+    ],
+    "year": 1885,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 1,
+    "prereqs": [
+      "internal_combustion_engine"
+    ],
+    "related": [
+      "safety_bicycle",
+      "motorcycle",
+      "model_t",
+      "pneumatic_tire"
+    ],
+    "desc": "本茨三轮机动车专利获批，现代汽车的开端。"
+  },
+  {
+    "id": "oil_tanker",
+    "name": "油轮",
+    "nameEn": "Oil tanker",
+    "wikiEn": "Oil tanker",
+    "aliases": [
+      "Glückauf",
+      "油船",
+      "Tank ship",
+      "格吕考夫号"
+    ],
+    "year": 1886,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "steam_engine"
+    ],
+    "related": [
+      "diesel_motorship"
+    ],
+    "desc": "格鲁克奥夫号首艘船体一体油舱的现代油轮。"
+  },
+  {
+    "id": "pneumatic_tire",
+    "name": "充气轮胎",
+    "nameEn": "Pneumatic tire",
+    "wikiEn": "Pneumatic tire",
+    "aliases": [
+      "Dunlop tire",
+      "邓禄普轮胎",
+      "充气车胎",
+      "Pneumatic tyre"
+    ],
+    "year": 1888,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [],
+    "related": [
+      "safety_bicycle",
+      "automobile"
+    ],
+    "desc": "邓禄普实用化充气轮胎，先用于自行车后及汽车。"
+  },
+  {
+    "id": "tractor",
+    "name": "拖拉机",
+    "nameEn": "Tractor",
+    "wikiEn": "Tractor",
+    "aliases": [
+      "Froelich tractor",
+      "汽油拖拉机",
+      "Hart-Parr"
+    ],
+    "year": 1892,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "internal_combustion_engine"
+    ],
+    "related": [
+      "tank",
+      "automobile"
+    ],
+    "desc": "弗勒利希制成首台实用汽油机拖拉机，农机动力革命。"
+  },
+  {
+    "id": "automobile_transmission",
+    "name": "手动变速器",
+    "nameEn": "Sliding-gear manual transmission",
+    "wikiEn": "Manual transmission",
+    "aliases": [
+      "Panhard system",
+      "滑动齿轮变速器",
+      "汽车变速箱",
+      "Systeme Panhard"
+    ],
+    "year": 1894,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "automobile"
+    ],
+    "related": [
+      "automatic_transmission"
+    ],
+    "desc": "庞阿尔滑动齿轮变速器奠定前置后驱传动布局。"
+  },
+  {
+    "id": "motor_bus",
+    "name": "公共汽车",
+    "nameEn": "Motor bus",
+    "wikiEn": "Bus",
+    "aliases": [
+      "Omnibus",
+      "Benz omnibus",
+      "巴士",
+      "公交车"
+    ],
+    "year": 1895,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "internal_combustion_engine"
+    ],
+    "related": [
+      "motor_truck",
+      "streetcar"
+    ],
+    "desc": "本茨动力客车在德国首开内燃机公交班线。"
+  },
+  {
+    "id": "motor_truck",
+    "name": "卡车",
+    "nameEn": "Truck",
+    "wikiEn": "Truck",
+    "aliases": [
+      "Lorry",
+      "Daimler truck",
+      "载货汽车",
+      "货车"
+    ],
+    "year": 1896,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "internal_combustion_engine"
+    ],
+    "related": [
+      "semi_trailer",
+      "motor_bus",
+      "forklift"
+    ],
+    "desc": "戴姆勒造出首辆内燃机载货卡车，革新公路货运。"
+  },
+  {
+    "id": "escalator",
+    "name": "自动扶梯",
+    "nameEn": "Escalator",
+    "wikiEn": "Escalator",
+    "aliases": [
+      "Reno inclined elevator",
+      "自动楼梯",
+      "扶梯",
+      "Moving staircase"
+    ],
+    "year": 1896,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "otis_elevator"
+    ],
+    "desc": "里诺倾斜自动扶梯在康尼岛投入游乐运营。"
+  },
+  {
+    "id": "turbinia",
+    "name": "",
+    "nameEn": "Turbinia",
+    "wikiEn": "Turbinia",
+    "aliases": [
+      "Steam turbine ship",
+      "蒸汽轮机船",
+      "帕森斯涡轮船",
+      "蒸汽涡轮动力船"
+    ],
+    "year": 1897,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "steam_turbine"
+    ],
+    "related": [
+      "diesel_motorship",
+      "dreadnought"
+    ],
+    "desc": "帕森斯特宾尼亚号展示蒸汽轮机动力，航速震惊海军。"
+  },
+  {
+    "id": "icebreaker",
+    "name": "破冰船",
+    "nameEn": "Icebreaker",
+    "wikiEn": "Icebreaker",
+    "aliases": [
+      "Yermak",
+      "叶尔马克号",
+      "极地破冰船",
+      "Makarov icebreaker"
+    ],
+    "year": 1898,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "steam_engine",
+      "bessemer_steel"
+    ],
+    "related": [
+      "diesel_motorship"
+    ],
+    "desc": "马卡洛夫设计叶尔马克号，首艘远洋极地破冰船。"
+  },
+  {
+    "id": "semi_trailer",
+    "name": "半挂车",
+    "nameEn": "Semi-trailer",
+    "wikiEn": "Semi-trailer",
+    "aliases": [
+      "Semi-trailer truck",
+      "Winton semi-trailer",
+      "牵引挂车",
+      "货柜拖车"
+    ],
+    "year": 1898,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "motor_truck"
+    ],
+    "related": [
+      "intermodal_container"
+    ],
+    "desc": "温顿发明可分离半挂车，奠定公路甩挂运输形态。"
+  },
+  {
+    "id": "submarine",
+    "name": "潜艇",
+    "nameEn": "Submarine",
+    "wikiEn": "Submarine",
+    "aliases": [
+      "USS Holland",
+      "Holland VI",
+      "潜水艇",
+      "U-boat"
+    ],
+    "year": 1900,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "internal_combustion_engine",
+      "electricity_generation"
+    ],
+    "related": [
+      "sonar",
+      "dreadnought"
+    ],
+    "desc": "荷兰号服役，汽油机水面航行加电池潜航的现代潜艇。"
+  },
+  {
+    "id": "zeppelin",
+    "name": "齐柏林飞艇",
+    "nameEn": "Zeppelin",
+    "wikiEn": "Zeppelin",
+    "aliases": [
+      "Airship",
+      "Rigid airship",
+      "飞艇",
+      "LZ 1"
+    ],
+    "year": 1900,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "internal_combustion_engine"
+    ],
+    "related": [
+      "airplane"
+    ],
+    "desc": "齐柏林LZ 1首飞硬式飞艇，开辟大型航空器时代。"
+  },
+  {
+    "id": "tarmacadam",
+    "name": "柏油碎石路面",
+    "nameEn": "Tarmacadam",
+    "wikiEn": "Tarmacadam",
+    "aliases": [
+      "Tarmac",
+      "沥青碎石路面",
+      "Hooley tarmac",
+      "柏油路面"
+    ],
+    "year": 1902,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "autobahn",
+      "traffic_light"
+    ],
+    "desc": "胡利获柏油碎石路面专利，无尘耐用车行道普及。"
+  },
+  {
+    "id": "airplane",
+    "name": "飞机",
+    "nameEn": "Airplane",
+    "wikiEn": "Airplane",
+    "aliases": [
+      "Aeroplane",
+      "Wright Flyer",
+      "莱特飞行器",
+      "Wright brothers"
+    ],
+    "year": 1903,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 1,
+    "prereqs": [
+      "internal_combustion_engine"
+    ],
+    "related": [
+      "zeppelin",
+      "seaplane",
+      "first_jet_aircraft"
+    ],
+    "desc": "莱特兄弟动力重于空气飞机首次可控持续飞行。"
+  },
+  {
+    "id": "dreadnought",
+    "name": "无畏舰",
+    "nameEn": "Dreadnought",
+    "wikiEn": "Dreadnought",
+    "aliases": [
+      "HMS Dreadnought",
+      "无畏号战列舰",
+      "全重炮战列舰",
+      "Dreadnought battleship"
+    ],
+    "year": 1906,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "steam_turbine",
+      "bessemer_steel"
+    ],
+    "related": [
+      "submarine",
+      "aircraft_carrier"
+    ],
+    "desc": "无畏号下水，全重炮加蒸汽轮机引发战列舰革命。"
+  },
+  {
+    "id": "hydrofoil",
+    "name": "水翼船",
+    "nameEn": "Hydrofoil",
+    "wikiEn": "Hydrofoil",
+    "aliases": [
+      "Forlanini hydrofoil",
+      "水翼艇",
+      "飞翼船",
+      "HD-4"
+    ],
+    "year": 1906,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "internal_combustion_engine"
+    ],
+    "related": [
+      "early_hovercraft"
+    ],
+    "desc": "佛拉尼尼水翼船在马焦雷湖高速载客试航。"
+  },
+  {
+    "id": "gyrocompass",
+    "name": "陀螺罗经",
+    "nameEn": "Gyrocompass",
+    "wikiEn": "Gyrocompass",
+    "aliases": [
+      "电罗经",
+      "Anschütz gyrocompass",
+      "陀螺仪罗盘",
+      "Gyroscopic compass"
+    ],
+    "year": 1908,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "electricity_generation"
+    ],
+    "related": [
+      "autopilot"
+    ],
+    "desc": "安许茨陀螺罗经海试成功，高速舰船上指北不依赖磁。"
+  },
+  {
+    "id": "model_t",
+    "name": "福特T型车",
+    "nameEn": "Ford Model T",
+    "wikiEn": "Ford Model T",
+    "aliases": [
+      "Model T",
+      "Tin Lizzie",
+      "T型车",
+      "福特汽车"
+    ],
+    "year": 1908,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "automobile"
+    ],
+    "related": [
+      "assembly_line",
+      "electric_starter",
+      "automatic_transmission"
+    ],
+    "desc": "T型车以流水线量产走入家庭，美国进入汽车时代。"
+  },
+  {
+    "id": "aerial_lift",
+    "name": "架空索道",
+    "nameEn": "Aerial lift",
+    "wikiEn": "Aerial lift",
+    "aliases": [
+      "Aerial cable car",
+      "索道",
+      "Kohlerer cable car",
+      "空中缆车"
+    ],
+    "year": 1908,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "bessemer_steel"
+    ],
+    "related": [
+      "cable_railway"
+    ],
+    "desc": "博尔扎诺科勒尔索道开通，首条现代封闭吊厢客运索道。"
+  },
+  {
+    "id": "seaplane",
+    "name": "水上飞机",
+    "nameEn": "Seaplane",
+    "wikiEn": "Seaplane",
+    "aliases": [
+      "Fabre Hydravion",
+      "浮筒式水上飞机",
+      "Floatplane",
+      "水上机"
+    ],
+    "year": 1910,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "airplane"
+    ],
+    "related": [
+      "aircraft_carrier"
+    ],
+    "desc": "法布尔水上飞机首飞，可在开阔水面起降。"
+  },
+  {
+    "id": "diesel_motorship",
+    "name": "柴油机船",
+    "nameEn": "Motor ship",
+    "wikiEn": "Motor ship",
+    "aliases": [
+      "Motorship",
+      "Selandia",
+      "塞兰迪亚号",
+      "Vandal"
+    ],
+    "year": 1911,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "diesel_engine"
+    ],
+    "related": [
+      "turbinia",
+      "oil_tanker",
+      "submarine"
+    ],
+    "desc": "塞兰迪亚号首航，第一艘远洋柴油机动力商船。"
+  },
+  {
+    "id": "parachute",
+    "name": "降落伞",
+    "nameEn": "Parachute",
+    "wikiEn": "Parachute",
+    "aliases": [
+      "Kotelnikov parachute",
+      "背包式降落伞",
+      "RK-1 parachute",
+      "救生伞"
+    ],
+    "year": 1911,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "airplane"
+    ],
+    "desc": "科捷利尼科夫制成背包式软包降落伞，用于空勤救生。"
+  },
+  {
+    "id": "autopilot",
+    "name": "自动驾驶仪",
+    "nameEn": "Autopilot",
+    "wikiEn": "Autopilot",
+    "aliases": [
+      "Sperry autopilot",
+      "陀螺驾驶仪",
+      "Gyroscopic autopilot",
+      "自动飞行仪"
+    ],
+    "year": 1912,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "airplane",
+      "radio_navigation",
+      "gyrocompass"
+    ],
+    "desc": "斯佩里陀螺稳定驾驶仪试飞，可自动保持平飞姿态。"
+  },
+  {
+    "id": "electric_starter",
+    "name": "电动起动机",
+    "nameEn": "Starter motor",
+    "wikiEn": "Starter (engine)",
+    "aliases": [
+      "Self-starter",
+      "Kettering starter",
+      "电启动器",
+      "启动马达"
+    ],
+    "year": 1912,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "automobile",
+      "electricity_generation"
+    ],
+    "related": [
+      "model_t"
+    ],
+    "desc": "凯特林电启动器首装凯迪拉克，手摇曲柄启动终结。"
+  },
+  {
+    "id": "echo_sounding",
+    "name": "回声测深仪",
+    "nameEn": "Echo sounding",
+    "wikiEn": "Echo sounding",
+    "aliases": [
+      "Echolot",
+      "Behm echo sounder",
+      "回声测深",
+      "声学测深"
+    ],
+    "year": 1913,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "sonar",
+      "bathysphere"
+    ],
+    "desc": "贝姆取得回声测深专利，用声波反射快速测量水深。"
+  },
+  {
+    "id": "traffic_light",
+    "name": "交通信号灯",
+    "nameEn": "Traffic light",
+    "wikiEn": "Traffic light",
+    "aliases": [
+      "Traffic signal",
+      "红绿灯",
+      "Electric traffic light",
+      "信号灯"
+    ],
+    "year": 1914,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "electricity_generation"
+    ],
+    "related": [
+      "stop_sign",
+      "tarmacadam"
+    ],
+    "desc": "克利夫兰首装电动红绿灯，自动管控路口通行权。"
+  },
+  {
+    "id": "stop_sign",
+    "name": "停车标志",
+    "nameEn": "Stop sign",
+    "wikiEn": "Stop sign",
+    "aliases": [
+      "八角停车标志",
+      "停车让行标志",
+      "Stop signal"
+    ],
+    "year": 1915,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "traffic_light"
+    ],
+    "desc": "底特律首批停车标志设置，规范无信号路口优先权。"
+  },
+  {
+    "id": "early_hovercraft",
+    "name": "早期气垫船",
+    "nameEn": "Early hovercraft",
+    "wikiEn": "Hovercraft",
+    "aliases": [
+      "Luftkissengleitboot",
+      "Dagobert Müller hovercraft",
+      "气垫艇",
+      "腾空艇"
+    ],
+    "year": 1915,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "internal_combustion_engine"
+    ],
+    "related": [
+      "hydrofoil"
+    ],
+    "desc": "奥地利米勒鱼雷形气垫艇试航，气垫船最早雏形。"
+  },
+  {
+    "id": "all_metal_aircraft",
+    "name": "容克斯J 1",
+    "nameEn": "Junkers J 1",
+    "wikiEn": "Junkers J 1",
+    "aliases": [
+      "Blechesel",
+      "全金属单翼机",
+      "Junkers all-metal aircraft",
+      "锡驴"
+    ],
+    "year": 1916,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "airplane"
+    ],
+    "related": [
+      "junkers_ju52",
+      "dc_3"
+    ],
+    "desc": "容克斯J 1首飞，第一架全金属悬臂结构单翼机。"
+  },
+  {
+    "id": "tank",
+    "name": "坦克",
+    "nameEn": "Tank",
+    "wikiEn": "Tank",
+    "aliases": [
+      "Mark I tank",
+      "陆地战舰",
+      "战车",
+      "British Mark I"
+    ],
+    "year": 1916,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "internal_combustion_engine",
+      "bessemer_steel"
+    ],
+    "related": [
+      "tractor",
+      "automobile"
+    ],
+    "desc": "英国马克I型坦克在索姆河首战，开启陆战机械化。"
+  },
+  {
+    "id": "forklift",
+    "name": "叉车",
+    "nameEn": "Forklift",
+    "wikiEn": "Forklift",
+    "aliases": [
+      "Clark Tructractor",
+      "铲车",
+      "叉式装卸车",
+      "Fork truck"
+    ],
+    "year": 1917,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "internal_combustion_engine"
+    ],
+    "related": [
+      "motor_truck",
+      "intermodal_container"
+    ],
+    "desc": "克拉克Tructractor内燃搬运车问世，现代叉车雏形。"
+  },
+  {
+    "id": "sonar",
+    "name": "声呐",
+    "nameEn": "Sonar",
+    "wikiEn": "Sonar",
+    "aliases": [
+      "ASDIC",
+      "声纳",
+      "主动声呐",
+      "Underwater sound detection"
+    ],
+    "year": 1918,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [],
+    "related": [
+      "echo_sounding",
+      "submarine"
+    ],
+    "desc": "英国ASDIC主动声呐原型装船，一战后用于反潜探测。"
+  },
+  {
+    "id": "aircraft_carrier",
+    "name": "航空母舰",
+    "nameEn": "Aircraft carrier",
+    "wikiEn": "Aircraft carrier",
+    "aliases": [
+      "HMS Argus",
+      "百眼巨人号",
+      "航母",
+      "Flat-top carrier"
+    ],
+    "year": 1918,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "airplane"
+    ],
+    "related": [
+      "seaplane",
+      "dreadnought"
+    ],
+    "desc": "百眼巨人号服役，首艘全通飞行甲板航空母舰。"
+  },
+  {
+    "id": "autogyro",
+    "name": "自转旋翼机",
+    "nameEn": "Autogyro",
+    "wikiEn": "Autogyro",
+    "aliases": [
+      "Cierva C.4",
+      "旋翼机",
+      "谢尔瓦旋翼机",
+      "Gyroplane"
+    ],
+    "year": 1923,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "airplane"
+    ],
+    "related": [
+      "vs300_helicopter"
+    ],
+    "desc": "谢尔瓦C.4完成稳定可控旋翼飞行，直升机的先声。"
+  },
+  {
+    "id": "diesel_locomotive",
+    "name": "柴油机车",
+    "nameEn": "Diesel locomotive",
+    "wikiEn": "Diesel locomotive",
+    "aliases": [
+      "内燃机车",
+      "Diesel-electric locomotive",
+      "E el-2",
+      "柴油电力机车"
+    ],
+    "year": 1924,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "diesel_engine"
+    ],
+    "related": [
+      "electric_locomotive"
+    ],
+    "desc": "洛莫诺索夫柴油电力调车机车投入运营，铁路换代先声。"
+  },
+  {
+    "id": "radio_navigation",
+    "name": "无线电导航",
+    "nameEn": "Radio navigation",
+    "wikiEn": "Radio navigation",
+    "aliases": [
+      "Low-frequency radio range",
+      "无线电四航道信标",
+      "Aviation radio beacon",
+      "航路信标"
+    ],
+    "year": 1927,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "radio"
+    ],
+    "related": [
+      "airborne_radar",
+      "dc_3",
+      "autopilot"
+    ],
+    "desc": "低频四航道无线电信标网建成，飞机沿航路仪表导航。"
+  },
+  {
+    "id": "bathysphere",
+    "name": "深海潜水球",
+    "nameEn": "Bathysphere",
+    "wikiEn": "Bathysphere",
+    "aliases": [
+      "Beebe bathysphere",
+      "潜水球",
+      "巴顿深海球",
+      "探海球"
+    ],
+    "year": 1930,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "bessemer_steel"
+    ],
+    "related": [
+      "echo_sounding"
+    ],
+    "desc": "毕比与巴顿乘钢球百慕大外海深潜，创载人深潜纪录。"
+  },
+  {
+    "id": "junkers_ju52",
+    "name": "容克斯Ju 52",
+    "nameEn": "Junkers Ju 52",
+    "wikiEn": "Junkers Ju 52",
+    "aliases": [
+      "Tante Ju",
+      "Iron Annie",
+      "容克斯大婶",
+      "Ju 52运输机"
+    ],
+    "year": 1932,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "all_metal_aircraft"
+    ],
+    "related": [
+      "dc_3"
+    ],
+    "desc": "三发全金属波纹壳运输机，战间期欧洲民航主力。"
+  },
+  {
+    "id": "autobahn",
+    "name": "高速公路",
+    "nameEn": "Controlled-access highway",
+    "wikiEn": "Controlled-access highway",
+    "aliases": [
+      "Autobahn",
+      "Autostrada",
+      "波恩科隆高速公路",
+      "汽车专用公路"
+    ],
+    "year": 1932,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "automobile",
+      "tarmacadam"
+    ],
+    "related": [
+      "model_t"
+    ],
+    "desc": "波恩至科隆全立交汽车专用公路通车，高速公路兴起。"
+  },
+  {
+    "id": "intermodal_container",
+    "name": "联运集装箱",
+    "nameEn": "Intermodal container",
+    "wikiEn": "Intermodal container",
+    "aliases": [
+      "Shipping container",
+      "集装箱",
+      "BIC container",
+      "标准货柜"
+    ],
+    "year": 1933,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "motor_truck"
+    ],
+    "related": [
+      "semi_trailer",
+      "forklift"
+    ],
+    "desc": "国际集装箱局统一联运箱规格，战后集装箱化雏形。"
+  },
+  {
+    "id": "cats_eye",
+    "name": "猫眼反光道钉",
+    "nameEn": "Cat's eye (road)",
+    "wikiEn": "Cat's eye (road)",
+    "aliases": [
+      "Percy Shaw cat's eye",
+      "猫眼路标",
+      "反光道钉",
+      "Road stud"
+    ],
+    "year": 1934,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 4,
+    "prereqs": [],
+    "related": [
+      "traffic_light",
+      "tarmacadam"
+    ],
+    "desc": "肖发明猫眼式反光道钉，雨夜自动标示车道边界。"
+  },
+  {
+    "id": "dc_3",
+    "name": "道格拉斯DC-3",
+    "nameEn": "Douglas DC-3",
+    "wikiEn": "Douglas DC-3",
+    "aliases": [
+      "DC-3",
+      "Dakota",
+      "C-47",
+      "空中列车"
+    ],
+    "year": 1935,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "all_metal_aircraft"
+    ],
+    "related": [
+      "junkers_ju52",
+      "cabin_pressurization",
+      "radio_navigation"
+    ],
+    "desc": "全金属下单翼客机，首款无需补贴即盈利的民航机。"
+  },
+  {
+    "id": "parking_meter",
+    "name": "停车计时器",
+    "nameEn": "Parking meter",
+    "wikiEn": "Parking meter",
+    "aliases": [
+      "Magee parking meter",
+      "停车咪表",
+      "停车收费表",
+      "Park-O-Meter"
+    ],
+    "year": 1935,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 5,
+    "prereqs": [],
+    "related": [
+      "traffic_light"
+    ],
+    "desc": "马吉设计的停车计时器在俄克拉荷马城街头启用。"
+  },
+  {
+    "id": "cabin_pressurization",
+    "name": "增压座舱",
+    "nameEn": "Cabin pressurization",
+    "wikiEn": "Cabin pressurization",
+    "aliases": [
+      "Boeing 307 Stratoliner",
+      "座舱增压",
+      "同温层客机",
+      "Pressurized cabin"
+    ],
+    "year": 1938,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "all_metal_aircraft"
+    ],
+    "related": [
+      "dc_3"
+    ],
+    "desc": "波音307首飞，首架增压客舱民航机可高飞越恶劣天气。"
+  },
+  {
+    "id": "first_jet_aircraft",
+    "name": "首架喷气式飞机",
+    "nameEn": "Heinkel He 178",
+    "wikiEn": "Heinkel He 178",
+    "aliases": [
+      "He 178",
+      "亨克尔He 178",
+      "喷气试验机",
+      "First jet aircraft"
+    ],
+    "year": 1939,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 2,
+    "prereqs": [
+      "all_metal_aircraft"
+    ],
+    "related": [
+      "airplane"
+    ],
+    "desc": "亨克尔He 178首飞成功，喷气航空代际的开端。"
+  },
+  {
+    "id": "vs300_helicopter",
+    "name": "VS-300直升机",
+    "nameEn": "Vought-Sikorsky VS-300",
+    "wikiEn": "Vought-Sikorsky VS-300",
+    "aliases": [
+      "VS-300",
+      "西科斯基VS-300",
+      "单旋翼直升机",
+      "Sikorsky helicopter"
+    ],
+    "year": 1939,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "autogyro",
+      "internal_combustion_engine"
+    ],
+    "related": [
+      "airplane"
+    ],
+    "desc": "西科斯基VS-300首飞，奠定单主旋翼加尾桨布局。"
+  },
+  {
+    "id": "automatic_transmission",
+    "name": "自动变速器",
+    "nameEn": "Automatic transmission",
+    "wikiEn": "Automatic transmission",
+    "aliases": [
+      "Hydra-Matic",
+      "自动变速箱",
+      "Oldsmobile Hydra-Matic",
+      "液力自动变速器"
+    ],
+    "year": 1939,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "automobile",
+      "automobile_transmission"
+    ],
+    "related": [
+      "model_t"
+    ],
+    "desc": "通用Hydra-Matic液力自动变速器量产装车，免手动换挡。"
+  },
+  {
+    "id": "airborne_radar",
+    "name": "机载雷达",
+    "nameEn": "Aircraft interception radar",
+    "wikiEn": "Aircraft interception radar",
+    "aliases": [
+      "AI radar",
+      "AI Mk. IV",
+      "机载截击雷达",
+      "夜间战斗机雷达"
+    ],
+    "year": 1940,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 3,
+    "prereqs": [
+      "radio"
+    ],
+    "related": [
+      "radio_navigation"
+    ],
+    "desc": "英国机载截击雷达入役夜战战斗机，暗夜探测敌机。"
+  },
+  {
+    "id": "traffic_cone",
+    "name": "交通锥",
+    "nameEn": "Traffic cone",
+    "wikiEn": "Traffic cone",
+    "aliases": [
+      "道路锥",
+      "雪糕筒",
+      "Road cone",
+      "施工锥"
+    ],
+    "year": 1943,
+    "era": "second_industrial",
+    "category": "transport_exploration",
+    "importance": 5,
+    "prereqs": [],
+    "related": [
+      "traffic_light"
+    ],
+    "desc": "洛杉矶发明橡胶交通锥，用于临时分隔与施工导流。"
+  }
+]
